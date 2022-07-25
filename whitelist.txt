@@ -339,267 +339,104 @@ adservice.google.vn
 adservice.google.voto
 
 
-########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
+########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt ##########
 
-# Ignored duplicates: 725
+# Ignored duplicates: 6
 
-youtu.be
-1hosts.cf
-abuse.ch
-angel.co
-g.co
-www.publishers.medium.co
-s.w-x.co
-static.127777.com
-9to5google.com
-abebooks.com
-accuweather.com
-akamaitechnologies.com
-algolia.com
-alluremedia.com
-ocsp.sca1b.amazontrust.com
-aolcdn.com
-apple.com
-cdn.apple-mapkit.com
-appsumo.com
-api.apptentive.com
-askvg.com
-bbc.com
-betanews.com
-bgr.com
-bing.com
-bitly.com
-bleepingcomputer.com
-bt.com
-www.cbs.com
-ccleaner.com
-chromestatus.com
-cloudflare.com
-cnn.com
-convertkit.com
-crunchbase.com
-dbs.com
-digg.com
-digitaltrends.com
-images.dmca.com
-elephantjournal.com
-nexus.ensighten.com
-everydayhealth.com
-example.com
-www.expressvpn.com
-feedly.com
-financialexpress.com
-cdn.firebase.com
-detectportal.firefox.com
-flipboard.com
-flipkart.com
-fossbytes.com
-cdn.gadgets360.com
-assets.gadgets360cdn.com
-getpocket.com
-giphy.com
-github.com
-gitlab.com
-gizbot.com
-gizmodo.com
-godaddy.com
-goodreads.com
-google.com
-googleapis.com
-connect.googleforwork.com
-gravatar.com
-gstatic.com
-hackaday.com
-hotmail.com
-hotstar.com
-img1.hotstarext.com
-secure-media1.hotstarext.com
-howtogeek.com
-hubspot.com
-icloud.com
-icq.com
-inc.com
-js.indexww.com
-indianexpress.com
-assets.jassets.com
-malwareurls.joxeankoret.com
-jquery.com
-kinja.com
-lifehacker.com
-linkedin.com
-linode.com
-live.com
-www.malekal.com
-mirror1.malwaredomains.com
-mediafire.com
-medium.com
-meetup.com
-mi.com
-microsoft.com
-microsoftonline.com
-secure.aadcdn.microsoftonline-p.com
-channel9.msdn.com
-msftncsi.com
-msn.com
-www.mystart.com
-namecheap.com
-nationalgeographic.com
-ndtv.com
-netflix.com
-netpnb.com
-npmjs.com
-api-godaddy.nd.nudatasecurity.com
-office.com
-office365.com
-ola.com
-onesignal.com
-outlook.com
-www.paperoak.com
-pastebin.com
-paypal.com
-paytm.com
-api.peer5.com
-cdn.perfdrive.com
-pluralsight.com
-net.pnb.com
-content-icc.pulselive.com
-cricketapi-icc.pulselive.com
-purch.com
-quora.com
-rawgit.com
-client.reactrjs.com
-rt.com
-c.s-microsoft.com
-i.s-microsoft.com
-store-images.s-microsoft.com
-s-msft.com
-www.safaribooksonline.com
-samsung.com
-sbi.com
-i1.sdlcdn.com
-serverfault.com
-blog.sessionstack.com
-sharepoint.com
-cdn.shopifycloud.com
-sitepoint.com
-skype.com
-slack.com
-smashingmagazine.com
-snapdeal.com
-cdnssl.softpedia.com
-space.com
-spaceflightnow.com
-spotify.com
-stackexchange.com
-stackoverflow.com
-statebankrewardz.com
-tatacliq.com
-techradar.com
-techrepublic.com
-techtarget.com
-api.termius.com
-theandroidsoul.com
-theguardian.com
-theverge.com
-thewindowsclub.com
-time.com
-mail01.tinyletterapp.com
-toptenreviews.com
-api.trello.com
-c.trello.com
-a.trellocdn.com
-triplebyte.com
-truste.com
-cdn.ttgtmedia.com
-assets.ubuntu.com
-unsplash.com
-viber.com
-vimeo.com
-cdn.voscast.com
-www.w3school.com
-w3schools.com
-washingtonpost.com
-wccftech.com
-weather.com
-webhostingtalk.com
-faq.whatsapp.com
+hotdoc.com.au
+gov.au
+dec.fazenda.df.gov.br
+receita.economia.gov.br
+cnisnet.inss.gov.br
+meu.inss.gov.br
+passport.yandex.by
+1password.ca
+canadapost.ca
+cra-arc.gc.ca
+1password.com
+checkout.bambora.com
+id.biltema.com
+binance.com
+bitwarden.com
+cmbchina.com
+completeid.com
+dashlane.com
+equifax.com
+experian.com
+f-secure.com
+freshbooks.com
+hrblock.com
+idnotify.com
+idwatchdog.com
+kashflow.com
+lastpass.com
+lifelock.com
+mexc.com
+mydocomo.com
+myob.com
+nordpass.com
+onpointcu.com
+papara.com
+protonmail.com
+protonvpn.com
+receiptbank.com
+roboform.com
+securesafe.com
+sophos.com
+app.traderepublic.com
+transunion.com
+trbinance.com
+trueidentity.com
+trustedid.com
+identity.virginmedia.com
 web.whatsapp.com
-wired.com
-static.wixstatic.com
-wordpress.com
-wp.com
-wsj.com
-yahoo.com
-news.ycombinator.com
-youtube.com
-youtube-nocookie.com
-zapier.com
-zdnet.com
-b2bapi.zee5.com
-zomato.com
-mirror.cedia.org.ec
-goo.gl
-time.nist.gov
-onlinecourses.nptel.ac.in
-airtel.in
-setup.airtelbroadband.in
-tms.airtelbroadband.in
-amazon.in
-olx.in
-trak.in
-phishing.mailscanner.info
-codepen.io
-github.io
-ipinfo.io
-adblock.mahakala.is
-the.earth.li
-bit.ly
-about.me
-ssl.bblck.me
-aka.ms
-oneclient.sfx.ms
-a-msedge.net
-akamaihd.net
-akamaized.net
-cdn.arstechnica.net
-media.arstechnica.net
-location-inference-westus.cloudapp.net
-v.firebog.net
-vanilla.futurecdn.net
-ghacks.net
-adblock.gjtech.net
-hosts-file.net
-ipleak.net
-jsdelivr.net
-msedge.net
-office.net
-cdn.onenote.net
-files.overclock.net
-clientconfig.passport.net
-cs22.wpc.v0cdn.net
-asset.wsj.net
-actionnetwork.org
-adaway.org
-easylist-downloads.adblockplus.org
-bitbucket.org
-chocolatey.org
-eff.org
-medium.freecodecamp.org
-hosts.herndl.org
-hostsfile.org
-khanacademy.org
-lifehack.org
-someonewhocares.org
-sysctl.org
-www.threatcrowd.org
-wikipedia.org
-youtube-dl.org
-meetu.ps
-vidible.tv
-amazon.co.uk
-bbci.co.uk
-fte.web.future.net.uk
-zoom.us
+xero.com
+passport.yandex.com
+signal-iduna.de
+tikker.emta.ee
+paypal-topup.ee
+id.pilet.ee
+agenciatributaria.gob.es
+1password.eu
+mvd.dor.ga.gov
+intelink.gov
+gov.in
+enpass.io
+gate.io
+connect.auone.jp
+bbss.softbankbb.co.jp
+cfg.smt.docomo.ne.jp
+id.smt.docomo.ne.jp
+my.softbank.jp
+passport.yandex.kz
+home.mijngezondheid.net
+ok.webhop.net
+mijnpazio.nl
+uwzorgonline.nl
+besoklegen.no
+navyfederal.org
+prestigecu.org
+gov.pl
+lk.billing74.ru
+ekb.esplus.ru
+lkk-ekb.esplus.ru
+gosuslugi.ru
+zakupki.gov.ru
+kontur-ca.ru
+lk.megafon.ru
+nwdealer.megafon.ru
+lisa.motivtelecom.ru
+rzd.ru
+lk.sesb.ru
+1177.se
+bolagsverket.se
+kronofogden.se
+skatteverket.se
+passport.yandex.com.tr
+turkiye.gov.tr
+gov.tw
+passport.yandex.ua
+apps.cybonline.co.uk
 
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/referral-sites.txt ##########
@@ -618,7 +455,7 @@ tradetracker.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 55
+# Ignored duplicates: 52
 
 adc.api.nine.com.au
 grabo.bg
@@ -747,6 +584,7 @@ nimiq.com
 octafx.com
 olymptrade.com
 onelink-translations.com
+onesignal.com
 optimizely.com
 pega.com
 piguiqproxy.com
@@ -787,6 +625,7 @@ statuscake.com
 sumologic.com
 supplyframe.com
 tanx.com
+techtarget.com
 thecounter.com
 thisisacoolthing.com
 tmearn.com
@@ -820,6 +659,7 @@ customer.io
 ethn.io
 instana.io
 ipgeolocation.io
+ipinfo.io
 litix.io
 geo.ngtv.io
 ntv.io
@@ -927,7 +767,7 @@ aus.waterfox.net
 
 ########## Whitelist from https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt ##########
 
-# Ignored duplicates: 6
+# Ignored duplicates: 3
 
 4i.ae
 ou.af
@@ -944,6 +784,7 @@ dft.ba
 jieb.be
 l-k.be
 oua.be
+youtu.be
 ad7.biz
 bee4.biz
 zzb.bz
@@ -1082,6 +923,7 @@ ta.gd
 v.gd
 v5.gd
 gg.gg
+goo.gl
 2.gp
 aka.gr
 nig.gr
@@ -1167,6 +1009,7 @@ mut.lu
 cur.lv
 7.ly
 adf.ly
+bit.ly
 buff.ly
 cf.ly
 dai.ly
@@ -1344,7 +1187,7 @@ trkr.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt ##########
 
-# Ignored duplicates: 7
+# Ignored duplicates: 6
 
 8pecxstudios.com
 cdn.agilebits.com
@@ -1355,11 +1198,12 @@ stickypassword.com
 agrd.io
 mozilla.net
 adtidy.org
+eff.org
 
 
 ########## Whitelist from https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt ##########
 
-# Ignored duplicates: 723
+# Ignored duplicates: 658
 
 ckk.ai
 coronavirus.app
@@ -1419,6 +1263,7 @@ dl.360safe.com
 7zap.com
 www.888poker.com
 about.com
+accuweather.com
 acquirethisname.com
 www.actuabd.com
 adaware.com
@@ -1447,6 +1292,7 @@ angelfire.com
 aol.com
 apartments.com
 cdn.appdynamics.com
+apple.com
 www.appleiphonecell.com
 arkoselabs.com
 arstechnica.com
@@ -1464,13 +1310,15 @@ bandcamp.com
 bankofamerica.com
 barnesandnoble.com
 bazoom.com
+bbc.com
 beenverified.com
 bestbuy.com
 bestfwdservice.com
 bestvpnrating.com
 bet365.com
 bigcartel.com
-binance.com
+bing.com
+bitly.com
 bizjournals.com
 bjbgc.com
 blizzard.com
@@ -1514,8 +1362,10 @@ chron.com
 cisco.com
 clickfunnels.com
 clickhouse.com
+cloudflare.com
 cnbc.com
 cnet.com
+cnn.com
 codeproject.com
 coinbase.com
 com.com
@@ -1533,6 +1383,7 @@ crabdance.com
 cryptonator.com
 custhelp.com
 dailymotion.com
+dbs.com
 delicious.com
 dell.com
 delta.com
@@ -1541,6 +1392,7 @@ detik.com
 deviantart.com
 dhgate.com
 dictionary.com
+digg.com
 directdomains.com
 disqus.com
 dodgersdigest.com
@@ -1581,6 +1433,7 @@ evowise.com
 ewebdevelopment.com
 m.exactag.com
 examiner.com
+example.com
 expedia.com
 experts-exchange.com
 facebook.com
@@ -1592,6 +1445,7 @@ fb.com
 fc2.com
 fedex.com
 feedburner.com
+feedly.com
 feedspot.com
 fhm.com
 fide.com
@@ -1599,6 +1453,7 @@ filehorse.com
 filesusr.com
 fiverr.com
 flickr.com
+flipboard.com
 foodnetwork.com
 forbes.com
 force.com
@@ -1623,16 +1478,23 @@ getnada.com
 getresponse.com
 gigatribe.com
 gigya.com
+github.com
+gizmodo.com
 glassdoor.com
 globo.com
 glomex.com
 go.com
+godaddy.com
 godlikeproductions.com
 gofundme.com
 gog.com
+goodreads.com
+google.com
 googleadservices.com
 googleusercontent.com
+gravatar.com
 greenmangaming.com
+gstatic.com
 guerrillamail.com
 guidetopetersburg.com
 guiltfreefoodguide.com
@@ -1670,6 +1532,7 @@ ign.com
 ignorelist.com
 imdb.com
 imgur.com
+inc.com
 incredimail.com
 optmzly.fe.indazn.com
 indeed.com
@@ -1707,10 +1570,13 @@ cname.landingi.com
 landsend.com
 latimes.com
 lfjack.com
+lifehacker.com
 lightinthebox.com
+linkedin.com
 list-manage1.com
 list-manage2.com
 lithium.com
+live.com
 livejasmin.com
 livejournal.com
 livestream.com
@@ -1733,8 +1599,11 @@ mashable.com
 mayitek.com
 media-imdb.com
 medicalnewstoday.com
+medium.com
 bi.medscape.com
+meetup.com
 merriam-webster.com
+microsoft.com
 midasplayer.com
 mlb.com
 mmstat.com
@@ -1743,7 +1612,9 @@ mooo.com
 motherless.com
 cdn.mplxtms.com
 msftconnecttest.com
+msftncsi.com
 minecraftprod.rtep.msgamestudios.com
+msn.com
 mtv.com
 keystone.mwbsys.com
 myfreecams.com
@@ -1754,12 +1625,14 @@ myway.com
 mywot.com
 namebright.com
 namejet.com
+nationalgeographic.com
 nature.com
 naver.com
 nbcnews.com
 geo.nbcsports.com
 s.ndemiccreations.com
 netdna-ssl.com
+netflix.com
 netlify.com
 networksolutions.com
 newsweek.com
@@ -1774,6 +1647,7 @@ nypost.com
 nytimes.com
 consent.cmp.oath.com
 obviousidea.com
+office.com
 olark.com
 one.com
 onedrive.com
@@ -1788,6 +1662,8 @@ oup.com
 overstock.com
 paperlesspost.com
 parallels.com
+pastebin.com
+paypal.com
 hawk.pcgamer.com
 performgroup.com
 phncdn.com
@@ -1813,9 +1689,11 @@ prestashop.com
 cdn.privacy-mgmt.com
 prnewswire.com
 psychologytoday.com
+purch.com
 puzz.com
 qq.com
 quizlet.com
+quora.com
 rackcdn.com
 raidforums.com
 www.rcollard.com
@@ -1836,6 +1714,7 @@ rottentomatoes.com
 rpxnow.com
 sagepub.com
 salesforce.com
+samsung.com
 samsungcloudsolution.com
 samsungqbe.com
 scene7.com
@@ -1852,10 +1731,12 @@ semawur.com
 sevenforums.com
 sfgate.com
 sg-host.com
+sharepoint.com
 shein.com
 shopify.com
 site5.com
 skidrow-games.com
+skype.com
 slate.com
 smugmug.com
 snssdk.com
@@ -1864,9 +1745,11 @@ sohu.com
 solvemedia.com
 someonewhocares.com
 soundcloud.com
+spotify.com
 shop.spreadshirt.com
 springer.com
 squarespace.com
+stackoverflow.com
 stat24.com
 staticflickr.com
 steamcommunity.com
@@ -1891,8 +1774,11 @@ teslathemes.com
 theatlantic.com
 thedailybeast.com
 theglobeandmail.com
+theguardian.com
 themegrill.com
 theporndude.com
+theverge.com
+time.com
 .tindersparks.com
 etl.tindersparks.com
 tinypass.com
@@ -1931,13 +1817,16 @@ videoproc.com
 viewlift.com
 viewpoint.com
 public.vilynx.com
+vimeo.com
 visma.com
 vk.com
 voxmedia.com
 ewr1.vultrobjects.com
 vwdservices.com
 walmart.com
+washingtonpost.com
 washingtontimes.com
+weather.com
 webair.com
 weblockapp.com
 webmd.com
@@ -1950,12 +1839,16 @@ wiley.com
 windowsphone.com
 download.winzip.com
 wire.com
+wired.com
 wistia.com
 wix.com
 wixsite.com
+wordpress.com
 workona.com
 wowhead.com
+wp.com
 wsimg.com
+wsj.com
 wufoo.com
 wunderground.com
 xkms.xbolive.com
@@ -1964,6 +1857,7 @@ xiaomi.com
 api.ximalaya.com
 xing.com
 xinhuanet.com
+yahoo.com
 yellowpages.com
 yelp.com
 yhd.com
@@ -1971,9 +1865,12 @@ yimg.com
 yospace.com
 youku.com
 youronlinechoices.com
+youtube.com
+youtube-nocookie.com
 ytmnd.com
 yusercontent.com
 zaloapp.com
+zdnet.com
 zendesk.com
 zillow.com
 zmags.com
@@ -2113,6 +2010,7 @@ accounts.pkr.com.invalid
 burnermail.io
 domraider.io
 formspree.io
+github.io
 guard.io
 itch.io
 nextdns.io
@@ -2152,6 +2050,7 @@ shop-pro.jp
 ai.yimg.jp
 embed.ly
 rebrand.ly
+about.me
 fb.me
 line.me
 netguard.me
@@ -2161,6 +2060,7 @@ army.mil
 my.mixtape.moe
 cs.money
 1drv.ms
+aka.ms
 yts.mx
 akadns.net
 akadns6.net
@@ -2189,6 +2089,7 @@ footprint.net
 go-mpulse.net
 gotraffic.net
 hockeyapp.net
+hosts-file.net
 dns.hostux.net
 uqsxy.x.incapdns.net
 vofcw7x.x.incapdns.net
@@ -2199,6 +2100,7 @@ kisshentai.net
 live.net
 hbbtv.mediaset.net
 microsoftwindowsupdate.net
+msedge.net
 nflxvideo.net
 nfscars.net
 noscript.net
@@ -2254,6 +2156,7 @@ alphadomus.co.nz
 fanboy.co.nz
 natcom.co.nz
 aboutcookies.org
+easylist-downloads.adblockplus.org
 afraid.org
 allaboutcookies.org
 altervista.org
@@ -2262,6 +2165,7 @@ apa.org
 apache.org
 archive.org
 bbb.org
+bitbucket.org
 change.org
 cheatengine.org
 consensu.org
@@ -2284,6 +2188,7 @@ icann.org
 ieee.org
 jdownloader.org
 joomla.org
+khanacademy.org
 letsencrypt.org
 lilo.org
 mayoclinic.org
@@ -2305,12 +2210,14 @@ zoo.sandiegozoo.org
 sciencemag.org
 app.skiff.org
 sutterhealth.org
+sysctl.org
 test-iq.org
 thepiratebay.org
 un.org
 unesco.org
 w3.org
 wikimedia.org
+wikipedia.org
 wordpress.org
 worldbank.org
 yerl.org
@@ -2362,6 +2269,7 @@ hbbtvapp.sonnenklar.tv
 biv.sony.tv
 twitch.tv
 ustream.tv
+vidible.tv
 news.ebc.net.tw
 kredytbank.com.ua
 kharkov.ua
@@ -2369,6 +2277,7 @@ kiev.ua
 cam.ac.uk
 ox.ac.uk
 123-reg.co.uk
+amazon.co.uk
 ascii.co.uk
 bbc.co.uk
 blogspot.co.uk
@@ -2394,7 +2303,7 @@ gumtree.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt ##########
 
-# Ignored duplicates: 2173
+# Ignored duplicates: 2119
 
 js.media-lab.ai
 click.trafficguard.ai
@@ -2440,6 +2349,7 @@ coinpot.co
 do.co
 screendoor.dobt.co
 fyre.co
+g.co
 cindyholbrook.lpages.co
 classliving.lpages.co
 nanorep.co
@@ -2480,6 +2390,7 @@ vip5.afdorigin-prod-ch02.afdogw.com
 afi-b.com
 aftership.com
 akismet.com
+algolia.com
 us-aebridge.aliexpress.com.gds.alibabadns.com
 sh.wagbridge.taobao.com.gds.alibabadns.com
 gz-lb1.internet.spanner.alipaydns.com
@@ -2488,6 +2399,7 @@ ally.com
 api.amazonalexa.com
 coin.amazonpay.com
 coin-eu.amazonpay.com
+ocsp.sca1b.amazontrust.com
 americanexpress.com
 amuniversal.com
 ancestry.com
@@ -2520,9 +2432,11 @@ bankrate.com
 bazaarvoice.com
 bedbathandbeyond.com
 berush.com
+betanews.com
 betfair.com
 l.betrad.com
 beyondmenu.com
+bgr.com
 bigcommerce.com
 binarydefense.com
 bitcoin.com
@@ -2544,6 +2458,7 @@ buzzfed.com
 calendly.com
 cardinalcommerce.com
 vidtech.cbsinteractive.com
+ccleaner.com
 cdnpk.com
 ceros.com
 cesanta.com
@@ -2576,6 +2491,7 @@ static.cloud.coveo.com
 cloudplatform.coveo.com
 cracked.com
 crateandbarrel.com
+crunchbase.com
 crunchyroll.com
 cstv.com
 cst.cstwpush.com
@@ -2594,6 +2510,7 @@ github.developerdan.com
 digicert.com
 digitaloceanspaces.com
 digitalriver.com
+digitaltrends.com
 directvnow.com
 discord.com
 discovermagazine.com
@@ -2615,6 +2532,7 @@ elasticbeanstalk.com
 elfsight.com
 email.elitedangerous.com
 eltrafiko.com
+nexus.ensighten.com
 entireweb.com
 playerstatic.entropymedia.com
 envato.com
@@ -2630,6 +2548,7 @@ filefactory.com
 filesmonster.com
 filterlists.com
 financialcontent.com
+detectportal.firefox.com
 screenshots.firefox.com
 flattr.com
 fling.com
@@ -2643,6 +2562,7 @@ footlocker.com
 footlocker-inc.com
 formstack.com
 survey.forseeresults.com
+fossbytes.com
 fox13now.com
 fox17online.com
 fox2now.com
@@ -2672,12 +2592,15 @@ gawker.com
 geetest.com
 forums.geforce.com
 links.getblueshift.com
+getpocket.com
 gfycat.com
 gigaom.com
+giphy.com
 gitbook.com
 gitee.com
 raw.githack.com
 rawcdn.githack.com
+gitlab.com
 ocsp.globalsign.com
 gmail.com
 gmodules.com
@@ -2685,6 +2608,7 @@ gmx.com
 goatcounter.com
 godatafeed.com
 gogousenet.com
+googleapis.com
 googlecode.com
 googlecommerce.com
 pagead2.googlesyndication.com
@@ -2719,13 +2643,16 @@ hollywoodlife.com
 hoopshype.com
 hootsuite.com
 horseanswerstoday.com
+hotmail.com
 howtoforge.com
-hrblock.com
+howtogeek.com
 hubpages.com
+hubspot.com
 hulkshare.com
 internetofthings.ibmcloud.com
 ibsys.com
 icbdr.com
+icloud.com
 ikea.com
 forums.ilounge.com
 imagebam.com
@@ -2763,7 +2690,9 @@ jcpenney.com
 demo-staging.jifflenow.com
 online.jimmyjohns.com
 joblo.com
+malwareurls.joxeankoret.com
 jpost.com
+jquery.com
 jsonip.com
 jwpsrv.com
 dapi.kakao.com
@@ -2781,6 +2710,7 @@ kickstatic.com
 kidsfootlocker.com
 candycrushsoda.king.com
 kingfeatures.com
+kinja.com
 kinja-static.com
 klarna.com
 klm.com
@@ -2819,6 +2749,7 @@ forums.macrumors.com
 mail.com
 majorgeeks.com
 malwaredomainlist.com
+mirror1.malwaredomains.com
 mandrillapp.com
 mapbox.com
 mapquestapi.com
@@ -2829,10 +2760,12 @@ matterport.com
 maxmind.com
 maxthon.com
 mcclatchyinteractive.com
+mediafire.com
 menshealth.com
 mesh.com
 messenger.com
 miaminewtimes.com
+secure.aadcdn.microsoftonline-p.com
 microsofttranslator.com
 log-upload-os.mihoyo.com
 help.mint.com
@@ -2853,6 +2786,7 @@ mymonero.com
 myportfolio.com
 lads.myspacecdn.com
 mzstatic.com
+namecheap.com
 narkive.com
 nationbuilder.com
 nba.com
@@ -2896,6 +2830,7 @@ oboom.com
 observer.com
 ocsn.com
 yandex.ocsp-responder.com
+office365.com
 officedepot.com
 okta.com
 onetrust.com
@@ -2909,6 +2844,7 @@ s7.orientaltrading.com
 cmp.osano.com
 osnews.com
 ad.ourgame.com
+outlook.com
 config.outturner.com
 paddle.com
 pando.com
@@ -2950,7 +2886,6 @@ printfriendly.com
 privateinternetaccess.com
 image.prntscr.com
 promodj.com
-protonmail.com
 providesupport.com
 psswrdbx.com
 publix.com
@@ -2965,6 +2900,7 @@ rakuten.com
 ranker.com
 images.rapgenius.com
 rapidvideo.com
+rawgit.com
 razorpay.com
 readability.com
 real-debrid.com
@@ -2984,6 +2920,9 @@ roadandtrack.com
 roku.com
 rssinclude.com
 rumble.com
+c.s-microsoft.com
+i.s-microsoft.com
+store-images.s-microsoft.com
 1.www.s81c.com
 sagepay.com
 salsalabs.com
@@ -3050,6 +2989,7 @@ cdnp0.stackassets.com
 cdnp1.stackassets.com
 cdnp2.stackassets.com
 cdnp3.stackassets.com
+stackexchange.com
 stacksocial.com
 starbucks.com
 startpage.com
@@ -3079,6 +3019,8 @@ targetimg2.com
 radiofrance.targetspot.com
 my.tealiumiq.com
 technorati.com
+techradar.com
+techrepublic.com
 tecmint.com
 teespring.com
 texashomebase.com
@@ -3105,6 +3047,7 @@ tlc.com
 tld-list.com
 tmz.com
 it.toolbox.com
+toptenreviews.com
 torbit.com
 torrentfreak.com
 townnews.com
@@ -3114,6 +3057,7 @@ tradingview.com
 travelocity.com
 trb.com
 trbimg.com
+c.trello.com
 osce11-0-en.url.trendmicro.com
 web.tresorit.com
 trumba.com
@@ -3131,6 +3075,7 @@ typeform.com
 typekit.com
 typography.com
 cn-geo1.uber.com
+assets.ubuntu.com
 uk.com
 ultimedia.com
 ultraimg.com
@@ -3140,6 +3085,7 @@ unibytes.com
 unicornmedia.com
 unix.com
 unmineable.com
+unsplash.com
 uplynk.com
 uptobox.com
 api.usebutton.com
@@ -3177,6 +3123,7 @@ wikidot.com
 windows.com
 windy.com
 wishabi.com
+static.wixstatic.com
 gatherer.wizards.com
 wnba.com
 woosmap.com
@@ -3195,6 +3142,7 @@ xnxx.com
 yahooapis.com
 redirect.appmetrica.yandex.com
 yardbarker.com
+news.ycombinator.com
 yoast.com
 yotpo.com
 youporn.com
@@ -3280,8 +3228,10 @@ dege.freeweb.hu
 bing.ie
 ftp.heanet.ie
 taimeod.co.il
+amazon.in
 breeze.aimon.applicationinsights.io
 assets.bwbx.io
+codepen.io
 codesandbox.io
 cointraffic.io
 countryflags.io
@@ -3306,6 +3256,7 @@ tarteaucitron.io
 go.trouter.io
 hypothes.is
 jarv.is
+adblock.mahakala.is
 mbl.is
 who.is
 amazon.it
@@ -3334,6 +3285,7 @@ mixnews.lv
 plot.ly
 t.ly
 1.envato.market
+ssl.bblck.me
 m.me
 st.mycdn.me
 mqtt.pushy.me
@@ -3343,6 +3295,7 @@ cdn.stream.schibsted.media
 files.catbox.moe
 mailchi.mp
 in.appcenter.ms
+oneclient.sfx.ms
 wbd.ms
 whiteboard.ms
 static.ws.126.net
@@ -3357,6 +3310,7 @@ alternativeto.net
 3p.ampproject.net
 anti-ad.net
 anvato.net
+cdn.arstechnica.net
 authorize.net
 azorult-tracker.net
 crunchyroll.bannertrack.net
@@ -3367,6 +3321,7 @@ bowercdn.net
 bungie.net
 mvaali1.ws.byteoversea.net
 cleanprint.net
+location-inference-westus.cloudapp.net
 skypeecs-prod-usw-0-b.cloudapp.net
 codecanyon.net
 tags.crwdcntrl.net
@@ -3379,7 +3334,9 @@ pp.ephapay.net
 fastly.net
 prod.disqus.map.fastlylb.net
 filmyhd.net
+v.firebog.net
 fonts.net
+vanilla.futurecdn.net
 geoplugin.net
 gmx.net
 he.net
@@ -3405,11 +3362,13 @@ neowin.net
 static.wikia.nocookie.net
 vignette.wikia.nocookie.net
 nsatc.net
+cdn.onenote.net
 op-cdn.net
 nineto5mac-d.openx.net
 opera-mini.net
 fr.osdn.net
 pandacommerce.net
+clientconfig.passport.net
 pi-hole.net
 rapidgator.net
 recaptcha.net
@@ -3472,7 +3431,9 @@ stats.govt.nz
 mega.nz
 4chan.org
 delivery.acm.org
+actionnetwork.org
 adapools.org
+adaway.org
 ynuf.aliapp.org
 cdn.ampproject.org
 cdn-content.ampproject.org
@@ -3532,6 +3493,7 @@ salsalabs.org
 sched.org
 siatka.org
 slashdot.org
+someonewhocares.org
 squidblacklist.org
 stanev.org
 techguy.org
@@ -3630,6 +3592,7 @@ forums.sonarr.tv
 services.sonarr.tv
 skyhook.sonarr.tv
 cdn.rozetka.com.ua
+bbci.co.uk
 bing.co.uk
 express.co.uk
 overclockers.co.uk
@@ -4290,7 +4253,7 @@ gjshort.xyz
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 122
+# Ignored duplicates: 121
 
 sbs.com.au
 acdn.adnxs.com
@@ -4307,6 +4270,7 @@ track.ucas.com
 dpm.demdex.net
 cwtv-prod-elb.digitalsmiths.net
 facebook.net
+hostsfile.org
 api.pluto.tv
 images.pluto.tv
 players.pluto.tv
@@ -4317,7 +4281,7 @@ stitcher.pluto.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt ##########
 
-# Ignored duplicates: 8013
+# Ignored duplicates: 7946
 
 amazon.ac
 google.ac
@@ -4510,9 +4474,11 @@ wallhaven.cc
 amazon.cd
 google.cd
 amazon.center
+1hosts.cf
 google.cf
 amazon.cg
 google.cg
+abuse.ch
 adfinis-sygroup.ch
 amazon.ch
 eztv.ch
@@ -4585,6 +4551,7 @@ spapps.co
 undraw.co
 vine.co
 static.vrv.co
+s.w-x.co
 zeit.co
 amazon.coach
 amazon.codes
@@ -4593,6 +4560,7 @@ amazon.college
 amazon.cologne
 0daydown.com
 100percentfedup.com
+static.127777.com
 1xbet.com
 2-spyware.com
 21stcenturywire.com
@@ -4606,9 +4574,11 @@ static.360buyimg.com
 6pm.com
 www.9apps.com
 9gag.com
+9to5google.com
 a2zapk.com
 aatkit.com
 abbreviations.com
+abebooks.com
 accountkit.com
 accounts-youtube.com
 sonyericsson2.accu-weather.com
@@ -4635,6 +4605,7 @@ www.aiosearch.com
 jacepayment.airasia.com
 airfind.com
 airtable.com
+akamaitechnologies.com
 aldwx.com
 algolianet.com
 alimama.com
@@ -4642,6 +4613,7 @@ alipay.com
 alipayobjects.com
 alldebrid.com
 allkpop.com
+alluremedia.com
 amap.com
 amd.com
 invest.ameritrade.com
@@ -4658,6 +4630,7 @@ antfin.com
 v3.antpool.com
 www.antpool.com
 anurl.com
+aolcdn.com
 apexstats.com
 apkmb.com
 apkmirror.com
@@ -4669,6 +4642,7 @@ bbs2.appmifile.com
 appnee.com
 oct.assets.appreciatehub.com
 vision.appreciatehub.com
+appsumo.com
 www.aras.com
 arcticapi.com
 argumentiru.com
@@ -4676,6 +4650,7 @@ as.com
 asahi.com
 ashampoo.com
 askmen.com
+askvg.com
 asmhentai.com
 aspnetcdn.com
 www.assoc-amazon.com
@@ -4733,6 +4708,7 @@ blackberry.com
 www.blackboxrepack.com
 blacklistednews.com
 get.blazetv.com
+bleepingcomputer.com
 blockadblock.com
 blogsmithmedia.com
 stags.bluekai.com
@@ -4751,6 +4727,7 @@ bridgetrack.com
 brooksbrothers.com
 brothersoft.com
 bstatic.com
+bt.com
 btc.com
 btcc.com
 btstatic.com
@@ -4868,6 +4845,7 @@ disquscdn.com
 static.djangoproject.com
 dji.com
 djix.com
+images.dmca.com
 dmm.com
 dnaindia.com
 dolcegabbana.com
@@ -4894,6 +4872,7 @@ m.economictimes.com
 eeurl.com
 elaach.com
 eladkarako.com
+elephantjournal.com
 elivr.com
 elsevier.com
 elurl.com
@@ -4908,6 +4887,7 @@ etoro.com
 etorostatic.com
 media.eventhubs.com
 evergage.com
+everydayhealth.com
 evite.com
 ewei.com
 exacttarget.com
@@ -4930,6 +4910,7 @@ firebaseio.com
 firstpost.com
 firstspot.com
 flaticon.com
+flipkart.com
 flixcart.com
 flowplayer.com
 data.flurry.com
@@ -4979,6 +4960,7 @@ ginjfo.com
 githubapp.com
 www.githubstatus.com
 githubusercontent.com
+gizbot.com
 www.gizchina.com
 api.glympse.com
 gog-statics.com
@@ -4986,6 +4968,7 @@ gokano.com
 goldmoney.com
 golfgalaxy.com
 goodolddownloads.com
+connect.googleforwork.com
 ghs.googlehosted.com
 aspmx2.googlemail.com
 aspmx3.googlemail.com
@@ -5012,6 +4995,7 @@ gumtree.com
 guokr.com
 gyazo.com
 otag.h2os.com
+hackaday.com
 hackernoon.com
 hackerone.com
 hao123.com
@@ -5042,6 +5026,8 @@ horturl.com
 hotjar.com
 www.hotsceipts.com
 hotscripts.com
+img1.hotstarext.com
+secure-media1.hotstarext.com
 hover.com
 computer.howstuffworks.com
 science.howstuffworks.com
@@ -5143,6 +5129,7 @@ i2.com
 ibtimes.com
 icloud-content.com
 icptrack.com
+icq.com
 icute.com
 idealista.com
 ideone.com
@@ -5155,6 +5142,7 @@ igg-games.com
 ijr.com
 images-amazon.com
 imurl.com
+js.indexww.com
 js-sec.indexww.com
 infoblox.com
 infoq.com
@@ -5253,6 +5241,7 @@ lineageoslog.com
 linkbucks.com
 linkedinmobileapp.com
 linkis.com
+linode.com
 liveaquaria.com
 livefilestore.com
 www.liveleak.com
@@ -5276,6 +5265,7 @@ macrr.com
 conduit.mailchimpapp.com
 tag.partner.mairdumont.com
 malc0de.com
+www.malekal.com
 www.malwaredomains.com
 mangaupdates.com
 marfeelcache.com
@@ -5296,8 +5286,10 @@ mene.com
 mensfitness.com
 metacdn.com
 metactrl.com
+mi.com
 resolver.gslb.mi-idc.com
 t2.market.mi-img.com
+microsoftonline.com
 mihanblog.com
 forum.mikrotik.com
 mimecast.com
@@ -5336,6 +5328,7 @@ mp3.com
 mp3clan.com
 mparticle.com
 secure-cdn.mplxtms.com
+channel9.msdn.com
 msnbc.com
 multcloud.com
 multiupload.com
@@ -5358,6 +5351,7 @@ vgfiles.nabstudio.com
 nanorep.com
 navismithapis-cdn.com
 nayemador.com
+ndtv.com
 geoip.nekudo.com
 neoseeker.com
 netcoresmartech.com
@@ -5377,6 +5371,7 @@ www.noip.com
 websecurity.norton.com
 notion-static.com
 nowtheendbegins.com
+npmjs.com
 nseindia.com
 nturl.com
 shop.nuance.com
@@ -5433,6 +5428,7 @@ pcgames-download.com
 pdf-archive.com
 pedr.com
 api.perfalytics.com
+cdn.perfdrive.com
 performfeeds.com
 perksatwork.com
 petapixel.com
@@ -5447,6 +5443,7 @@ pitchfork.com
 pix11.com
 play-asia.com
 node.plexapp.com
+pluralsight.com
 pluwen.com
 sync.pocketcasts.com
 pocketmath-cdn.com
@@ -5489,6 +5486,7 @@ seal.ranking.com
 rapidshare.com
 ravenjs.com
 rdtcdn.com
+client.reactrjs.com
 real.com
 realfarmacy.com
 reason.com
@@ -5517,6 +5515,7 @@ api.rokutime.com
 roosterteeth.com
 cloud.rovio.com
 rv2.com
+s-msft.com
 safelinkconverter.com
 salemove.com
 salesforceliveagent.com
@@ -5549,6 +5548,7 @@ securelist.com
 securemecca.com
 servebeer.com
 servepics.com
+serverfault.com
 sessioncam.com
 shacknews.com
 sheldonbrown.com
@@ -5560,17 +5560,21 @@ api.simplisafe.com
 sina.com
 sinatw.com
 sitcomsonline.com
+sitepoint.com
 skypeassets.com
 skyrock.com
+slack.com
 slaesforce.com
 slushpool.com
 smartlook.com
 smartsheet.com
 smartsuppchat.com
+smashingmagazine.com
 smiledirectclub.com
 smonkey.com
 smzdm.com
 use.adserver.snapads.com
+snapdeal.com
 sofascore.com
 softonic.com
 soku.com
@@ -5634,11 +5638,13 @@ thebrick.com
 thedailysheeple.com
 www.thefreesite.com
 themoviedb.com
+thewindowsclub.com
 thewrap.com
 save.thoaimedia.com
 thumbzilla.com
 education.ti.com
 tianyancha.com
+mail01.tinyletterapp.com
 tiqcdn.com
 tirebuyer.com
 titurl.com
@@ -5662,6 +5668,8 @@ tribdss.com
 tribpub.com
 trickbd.com
 truecaller.com
+truste.com
+cdn.ttgtmedia.com
 tuasaude.com
 tuchong.com
 tudou.com
@@ -5710,12 +5718,15 @@ vitacost.com
 www.vocabulary.com
 vogue.com
 voot.com
+cdn.voscast.com
 vox-cdn.com
 vudu.com
 vultr.com
 vulture.com
 vuukle.com
 vzaar.com
+www.w3school.com
+w3schools.com
 walkme.com
 wandoujia.com
 waptrick.com
@@ -5724,6 +5735,7 @@ t.wayfair.com
 advil.waze.com
 web.com
 web-development-blog.com
+webhostingtalk.com
 webopedia.com
 whois.webrankstats.com
 wechat.com
@@ -5921,6 +5933,7 @@ amazon.earth
 amazon.ec
 google.com.ec
 edir.ec
+mirror.cedia.org.ec
 iutoic-dhaka.edu
 rochester.edu
 amazon.education
@@ -6109,6 +6122,7 @@ bagas31.info
 guardianproject.info
 hostip.info
 api.luftdaten.info
+phishing.mailscanner.info
 namecoin.info
 sfn.info
 api.xposed.info
@@ -6251,6 +6265,7 @@ amazon.lease
 amazon.legal
 amazon.lgbt
 amazon.li
+the.earth.li
 google.li
 amazon.life
 amazon.lighting
@@ -6407,11 +6422,14 @@ pimg1.126.net
 1e100.net
 2ch.net
 39.net
+a-msedge.net
 irc.abjects.net
 acompli.net
 dmp.adform.net
 akamai.net
 akamaiedge.net
+akamaihd.net
+akamaized.net
 eip-ntt.pinimg.com.akapinimg.net
 algolia.net
 iclientgw.stable.alipay.net
@@ -6420,6 +6438,7 @@ amazon.net
 america.net
 anime-pictures.net
 apple-dns.net
+media.arstechnica.net
 ns-530.awsdns-02.net
 azureedge.net
 vscode-update.azurewebsites.net
@@ -6479,6 +6498,7 @@ funnymp4.net
 fzmovies.net
 g3.net
 boston-services.gabriels.net
+ghacks.net
 gigapurbalingga.net
 gloyah.net
 gu-web.net
@@ -6493,8 +6513,10 @@ imgix.net
 cdn.imgwzzmb.net
 www.interserver.net
 ipip.net
+ipleak.net
 islamweb.net
 iy.net
+jsdelivr.net
 kiwifarms.net
 konachan.net
 launchpad.net
@@ -6518,12 +6540,14 @@ nhentai.net
 nirsoft.net
 bam.nr-data.net
 nurl.net
+office.net
 oloadcdn.net
 olp.net
 open.oneplus.net
 onhax.net
 secure.omo.akamai.opta.net
 ourle.net
+files.overclock.net
 ovh.net
 panduoduo.net
 phicdn.net
@@ -6642,6 +6666,7 @@ browser-update.org
 cambridge.org
 cdn77.org
 mirror.centos.org
+chocolatey.org
 clicknupload.org
 commonsensemedia.org
 donorschoose.org
@@ -6653,9 +6678,11 @@ www.file-up.org
 financial.org
 iplists.firehol.org
 blockads.fivefilters.org
+medium.freecodecamp.org
 geoserver.org
 hackthissite.org
 hentaihaven.org
+hosts.herndl.org
 hola.org
 hopto.org
 info.internet.org
@@ -6663,6 +6690,7 @@ iopscience.iop.org
 lds.org
 ap.orgdict.leo.org
 libcom.org
+lifehack.org
 stats.lineageos.org
 linuxtracker.org
 microbit.org
@@ -6686,6 +6714,7 @@ cdn.staticfile.org
 streamer.tawenda-tech.org
 teaparty.org
 telegram.org
+www.threatcrowd.org
 image.tmdb.org
 torproject.org
 ublock.org
@@ -6700,6 +6729,7 @@ en.m.wiktionary.org
 windowupdate.org
 wrd.org
 xfce.org
+youtube-dl.org
 amazon.osaka
 amazon.ovh
 google.com.pa
@@ -6755,6 +6785,7 @@ amazon.properties
 amazon.protection
 amazon.ps
 google.ps
+meetu.ps
 amazon.pt
 google.pt
 amazon.pub
@@ -7144,7 +7175,6 @@ item.kakao.com
 katalk.kakao.com
 pf-api.kakao.com
 talk.kakao.com
-lastpass.com
 mob2api.mdc53.com
 api.meetme.com
 quizup.com
@@ -7181,6 +7211,7 @@ newstube.ru
 api-kino.vl.ru
 whisper.sh
 webdav.yandex.com.ua
+zoom.us
 
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
@@ -7381,7 +7412,7 @@ sa-blacklist.stearns.org
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 154
+# Ignored duplicates: 155
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -7747,7 +7778,6 @@ citidirectbeportalemea.citidirect.com
 portal.citidirect.com
 citizensbank.com
 citizensbankonline.com
-cmbchina.com
 cnb.com
 coastal24.com
 cobinhood.com
@@ -7915,6 +7945,7 @@ mybank.nationstrust.com
 www.neosonline.ndbbank.com
 www.ndbbankonline.com
 portal.nefteprom.com
+netpnb.com
 netteller.com
 digital.noorbank.com
 nordea.com
@@ -7939,7 +7970,6 @@ oschad24.com
 3ds.oschadnybank.com
 online.pabcbank.com
 pagbrasil.com
-papara.com
 trade.paritem.com
 payeer.com
 paykun.com
@@ -7948,6 +7978,7 @@ myaccount.payoneer.com
 payonlinesystem.com
 paypal-nakit.com
 payproglobal.com
+paytm.com
 paytr.com
 payture.com
 secure.payu.com
@@ -9904,7 +9935,6 @@ master-capital.org
 mctcu.org
 mitfcu.org
 myfedloan.org
-navyfederal.org
 palmettohealthcu.org
 penfed.org
 redwoodcu.org
@@ -10851,96 +10881,66 @@ nedbank.co.za
 standardbank.co.za
 
 
-########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt ##########
+########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 14
+# Ignored duplicates: 926
 
-hotdoc.com.au
-gov.au
-dec.fazenda.df.gov.br
-receita.economia.gov.br
-cnisnet.inss.gov.br
-meu.inss.gov.br
-passport.yandex.by
-1password.ca
-canadapost.ca
-cra-arc.gc.ca
-1password.com
-checkout.bambora.com
-id.biltema.com
-bitwarden.com
-completeid.com
-dashlane.com
-equifax.com
-experian.com
-f-secure.com
-freshbooks.com
-idnotify.com
-idwatchdog.com
-kashflow.com
-lifelock.com
-mexc.com
-mydocomo.com
-myob.com
-nordpass.com
-onpointcu.com
-protonvpn.com
-receiptbank.com
-roboform.com
-securesafe.com
-sophos.com
-app.traderepublic.com
-transunion.com
-trbinance.com
-trueidentity.com
-trustedid.com
-identity.virginmedia.com
-xero.com
-passport.yandex.com
-signal-iduna.de
-tikker.emta.ee
-paypal-topup.ee
-id.pilet.ee
-agenciatributaria.gob.es
-1password.eu
-mvd.dor.ga.gov
-intelink.gov
-gov.in
-enpass.io
-gate.io
-connect.auone.jp
-bbss.softbankbb.co.jp
-cfg.smt.docomo.ne.jp
-id.smt.docomo.ne.jp
-my.softbank.jp
-passport.yandex.kz
-home.mijngezondheid.net
-ok.webhop.net
-mijnpazio.nl
-uwzorgonline.nl
-besoklegen.no
-prestigecu.org
-gov.pl
-lk.billing74.ru
-ekb.esplus.ru
-lkk-ekb.esplus.ru
-gosuslugi.ru
-zakupki.gov.ru
-kontur-ca.ru
-lk.megafon.ru
-nwdealer.megafon.ru
-lisa.motivtelecom.ru
-rzd.ru
-lk.sesb.ru
-1177.se
-bolagsverket.se
-kronofogden.se
-skatteverket.se
-passport.yandex.com.tr
-turkiye.gov.tr
-gov.tw
-passport.yandex.ua
-apps.cybonline.co.uk
+angel.co
+www.publishers.medium.co
+cdn.apple-mapkit.com
+api.apptentive.com
+www.cbs.com
+chromestatus.com
+convertkit.com
+www.expressvpn.com
+financialexpress.com
+cdn.firebase.com
+cdn.gadgets360.com
+assets.gadgets360cdn.com
+hotstar.com
+indianexpress.com
+assets.jassets.com
+www.mystart.com
+api-godaddy.nd.nudatasecurity.com
+ola.com
+www.paperoak.com
+api.peer5.com
+net.pnb.com
+content-icc.pulselive.com
+cricketapi-icc.pulselive.com
+rt.com
+www.safaribooksonline.com
+sbi.com
+i1.sdlcdn.com
+blog.sessionstack.com
+cdn.shopifycloud.com
+cdnssl.softpedia.com
+space.com
+spaceflightnow.com
+statebankrewardz.com
+tatacliq.com
+api.termius.com
+theandroidsoul.com
+api.trello.com
+a.trellocdn.com
+triplebyte.com
+viber.com
+wccftech.com
+faq.whatsapp.com
+zapier.com
+b2bapi.zee5.com
+zomato.com
+time.nist.gov
+onlinecourses.nptel.ac.in
+airtel.in
+setup.airtelbroadband.in
+tms.airtelbroadband.in
+olx.in
+trak.in
+adblock.gjtech.net
+cs22.wpc.v0cdn.net
+asset.wsj.net
+fte.web.future.net.uk
 
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt ##########
@@ -10981,6 +10981,227 @@ charts.profinance.ru
 formy.upriver.ru
 vseinstrumenti.ru
 vnn-res.vgcloud.vn
+
+
+########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
+
+# Ignored duplicates: 149
+
+twit.ac
+abre.ai
+jall.al
+pd.am
+hotm.art
+just.as
+2big.at
+posted.at
+shorturl.at
+s.ggwp.be
+kissa.be
+incu.ca
+tinyuri.ca
+twurl.cc
+xzb.cc
+adcrun.ch
+gowat.ch
+n9.cl
+biolinky.co
+linkshort.co
+parg.co
+rplg.co
+2ya.com
+6url.com
+abbrr.com
+bkite.com
+burnurl.com
+cakeurl.com
+chogoon.com
+clickmeter.com
+clockurl.com
+codimenu.com
+cuturl.com
+dwarfurl.com
+easyuri.com
+esyurl.com
+ewerl.com
+fhurl.com
+getsmallurl.com
+go2cut.com
+hellotxt.com
+hugeurl.com
+icanhaz.com
+itp24.com
+itsssl.com
+travslyf.katatillo.com
+krunchd.com
+liltext.com
+linkbee.com
+marketclan.com
+minilien.com
+nullrefer.com
+piurl.com
+poprl.com
+qicute.com
+quip-art.com
+reducelnk.com
+rsmonkey.com
+rubyurl.com
+sharein.com
+sharetabs.com
+shrinkify.com
+shrinkster.com
+shrunkin.com
+starturl.com
+sturly.com
+tiny123.com
+traceurl.com
+tweetburner.com
+twitterpan.com
+twitthis.com
+urlao.com
+urlbrief.com
+urlhawk.com
+urlkiss.com
+urlot.com
+urlpire.com
+urlq.com
+urlzen.com
+urlzs.com
+virl.com
+wowurl.com
+xaddr.com
+xeeurl.com
+yfrog.com
+yweb.com
+lin.cr
+ift.cx
+0bs.de
+22h.de
+u6e.de
+ykm.de
+url.sae.digital
+me2.do
+stor.ee
+gurl.es
+thrdl.es
+wipi.es
+url4.eu
+lyli.fi
+nity.fr
+urlgo.fr
+lnk.gd
+pic.gd
+riz.gd
+zz.gd
+url.gratis
+rb.gy
+short.gy
+raic.hu
+urlx.ie
+1link.in
+c-o.in
+href.in
+itiny.in
+itiy.in
+lnk.in
+migly.in
+dl-protect.info
+bl.ink
+rcl.ink
+shre.ink
+appurl.io
+dsn.io
+replug.io
+s3r.io
+yourls.sci.io
+short.io
+shrinkme.io
+zpr.io
+yun.ir
+0i.is
+htxt.it
+hurl.it
+rickroll.it
+sqrl.it
+tinytw.it
+lru.jp
+xurl.jp
+ume.la
+vo.la
+tik.lat
+xip.li
+b.link
+grabify.link
+kisa.link
+tawk.link
+inx.lv
+hubs.ly
+ru.ly
+urlf.ly
+a2a.me
+bloat.me
+buk.me
+burl.me
+go2.me
+heylink.me
+hurl.me
+mub.me
+njx.me
+rb6.me
+shortna.me
+untiny.me
+updating.me
+urlth.me
+gri.ms
+tr.my
+iscool.net
+iterasi.net
+jmp2.net
+metamark.net
+ne1.net
+tnurl.net
+webcut.net
+lnk.news
+a.nf
+9m.no
+url.xcode.no
+1wrd.org
+urlx.org
+w3t.org
+short.pe
+zi.pe
+idz-do.pl
+hm.ru
+y6p.ru
+x.se
+tny.sh
+gmy.su
+ohw.tf
+beam.to
+bom.to
+ffm.to
+fire.to
+gooo.to
+inreply.to
+lnk.to
+profile.to
+short.to
+tiny.tw
+p-it.co.uk
+shortlinks.co.uk
+url.co.uk
+wapurl.co.uk
+linkr.uk
+2pl.us
+loopt.us
+s7y.us
+shoturl.us
+shrinkurl.us
+turo.us
+by.com.vn
+fly2.ws
+hurl.ws
+tinyarro.ws
 
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
