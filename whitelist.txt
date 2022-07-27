@@ -492,6 +492,7 @@ agilecrm.com
 albacross.com
 alipromo.com
 alitems.com
+amplitude.com
 anexia-it.com
 stats.appsflyer.com
 t.appsflyer.com
@@ -4281,7 +4282,7 @@ stitcher.pluto.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt ##########
 
-# Ignored duplicates: 7946
+# Ignored duplicates: 7947
 
 amazon.ac
 google.ac
@@ -4617,7 +4618,6 @@ alluremedia.com
 amap.com
 amd.com
 invest.ameritrade.com
-amplitude.com
 analyticsindiamag.com
 anandtech.com
 ancda.com
@@ -7291,6 +7291,7 @@ mini.eastday.com
 push2.eastmoney.com
 upd.faronicslabs.com
 gameone.com
+govdelivery.com
 hosting24.com
 hsforms.com
 hubpd.com
