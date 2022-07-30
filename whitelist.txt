@@ -7401,7 +7401,7 @@ www.svyaznoy.ru
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 921
+# Ignored duplicates: 923
 
 dp.msnmessenger.akadns.com
 cdn.jscloudflare.com
@@ -10946,7 +10946,7 @@ fte.web.future.net.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/anT0ny54/whitelist/main/whitelist.txt ##########
 
-# Ignored duplicates: 19537
+# Ignored duplicates: 19539
 
 twit.ac
 abre.ai
@@ -11151,6 +11151,7 @@ a.nf
 9m.no
 url.xcode.no
 1wrd.org
+api.adguard.org
 urlx.org
 w3t.org
 short.pe
@@ -11201,7 +11202,7 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt ##########
 
-# Ignored duplicates: 60
+# Ignored duplicates: 63
 
 
 
