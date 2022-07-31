@@ -7216,7 +7216,7 @@ zoom.us
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 241
+# Ignored duplicates: 242
 
 api.cortana.ai
 upload.cc
