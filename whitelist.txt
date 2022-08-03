@@ -7404,6 +7404,7 @@ www.svyaznoy.ru
 # Ignored duplicates: 923
 
 dp.msnmessenger.akadns.com
+inquisitr.com
 cdn.jscloudflare.com
 vr-ov-crl.thawte.com
 mediamarkt.ie
@@ -10946,7 +10947,7 @@ fte.web.future.net.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/anT0ny54/whitelist/main/whitelist.txt ##########
 
-# Ignored duplicates: 19539
+# Ignored duplicates: 15516
 
 twit.ac
 abre.ai
@@ -10959,16 +10960,12 @@ posted.at
 shorturl.at
 s.ggwp.be
 kissa.be
-easy.box
-fritz.box
-ihelper.mts.by
 incu.ca
 tinyuri.ca
 twurl.cc
 xzb.cc
 adcrun.ch
 gowat.ch
-swisslife.ch
 n9.cl
 biolinky.co
 linkshort.co
@@ -10977,7 +10974,6 @@ rplg.co
 2ya.com
 6url.com
 abbrr.com
-api.apple-cloudkit.com
 bkite.com
 burnurl.com
 cakeurl.com
@@ -10987,16 +10983,13 @@ clockurl.com
 codimenu.com
 cuturl.com
 dwarfurl.com
-e-xacbank.com
 easyuri.com
 esyurl.com
 ewerl.com
 fhurl.com
-profile.franklintempleton.com
 getsmallurl.com
 go2cut.com
 hellotxt.com
-mail.hostmonster.com
 hugeurl.com
 icanhaz.com
 itp24.com
@@ -11007,9 +11000,7 @@ liltext.com
 linkbee.com
 marketclan.com
 minilien.com
-nest.com
 nullrefer.com
-control.phone.com
 piurl.com
 poprl.com
 qicute.com
@@ -11017,17 +11008,13 @@ quip-art.com
 reducelnk.com
 rsmonkey.com
 rubyurl.com
-sec-tunnel.com
 sharein.com
 sharetabs.com
 shrinkify.com
 shrinkster.com
 shrunkin.com
-startmail.com
 starturl.com
 sturly.com
-api.surfeasy.com
-theluckygene.com
 tiny123.com
 traceurl.com
 tweetburner.com
@@ -11052,7 +11039,6 @@ lin.cr
 ift.cx
 0bs.de
 22h.de
-nuernberg.de
 u6e.de
 ykm.de
 url.sae.digital
@@ -11082,7 +11068,6 @@ itiy.in
 lnk.in
 migly.in
 dl-protect.info
-mapcam.info
 bl.ink
 rcl.ink
 shre.ink
@@ -11094,18 +11079,14 @@ yourls.sci.io
 short.io
 shrinkme.io
 zpr.io
-speedport.ip
 yun.ir
 0i.is
 htxt.it
 hurl.it
-postacertificata.lextel.it
 rickroll.it
 sqrl.it
 tinytw.it
 lru.jp
-line.naver.jp
-tknauth.spmode.ne.jp
 xurl.jp
 ume.la
 vo.la
@@ -11113,7 +11094,6 @@ tik.lat
 xip.li
 b.link
 grabify.link
-keenetic.link
 kisa.link
 tawk.link
 inx.lv
@@ -11136,14 +11116,11 @@ updating.me
 urlth.me
 gri.ms
 tr.my
-triolan.name
-hpcloud.hp.net
 iscool.net
 iterasi.net
 jmp2.net
 metamark.net
 ne1.net
-opera-proxy.net
 tnurl.net
 webcut.net
 lnk.news
@@ -11151,22 +11128,12 @@ a.nf
 9m.no
 url.xcode.no
 1wrd.org
-api.adguard.org
 urlx.org
 w3t.org
 short.pe
 zi.pe
 idz-do.pl
-keenetic.pro
-ufa.wifi.domru.ru
 hm.ru
-dms.metlife.ru
-mid.ru
-files.msal.ru
-playfamily.ru
-charts.profinance.ru
-formy.upriver.ru
-vseinstrumenti.ru
 y6p.ru
 x.se
 tny.sh
@@ -11194,7 +11161,6 @@ shoturl.us
 shrinkurl.us
 turo.us
 by.com.vn
-vnn-res.vgcloud.vn
 fly2.ws
 hurl.ws
 tinyarro.ws
@@ -11202,14 +11168,50 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt ##########
 
-# Ignored duplicates: 63
+# Ignored duplicates: 28
 
+easy.box
+fritz.box
+ihelper.mts.by
+swisslife.ch
+api.apple-cloudkit.com
+e-xacbank.com
+profile.franklintempleton.com
+mail.hostmonster.com
+nest.com
+control.phone.com
+sec-tunnel.com
+startmail.com
+api.surfeasy.com
+theluckygene.com
+nuernberg.de
+mapcam.info
+speedport.ip
+postacertificata.lextel.it
+line.naver.jp
+tknauth.spmode.ne.jp
+keenetic.link
+triolan.name
+hpcloud.hp.net
+opera-proxy.net
+api.adguard.org
+keenetic.pro
+ufa.wifi.domru.ru
+dms.metlife.ru
+mid.ru
+files.msal.ru
+playfamily.ru
+charts.profinance.ru
+formy.upriver.ru
+vseinstrumenti.ru
+vnn-res.vgcloud.vn
 
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
 
 # Ignored duplicates: 364
 
+s.yam.com
 
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
