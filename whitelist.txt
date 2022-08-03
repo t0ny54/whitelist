@@ -10947,7 +10947,7 @@ fte.web.future.net.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/anT0ny54/whitelist/main/whitelist.txt ##########
 
-# Ignored duplicates: 15516
+# Ignored duplicates: 15517
 
 twit.ac
 abre.ai
@@ -11033,6 +11033,7 @@ virl.com
 wowurl.com
 xaddr.com
 xeeurl.com
+s.yam.com
 yfrog.com
 yweb.com
 lin.cr
@@ -11209,9 +11210,8 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
 
-# Ignored duplicates: 364
+# Ignored duplicates: 365
 
-s.yam.com
 
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
