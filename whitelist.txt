@@ -170,6 +170,19 @@ updateexte.services.openoffice.org
 update.tutnedorogo.ru
 
 
+########## Whitelist from https://raw.githubusercontent.com/stevoh6/Pihole---Allow-and-Block-lists/master/exact-allowlist ##########
+
+# Ignored duplicates: 60
+
+youtu.be
+ottmediator.o2tv.cz
+portal-ng.o2tv.cz
+sar.o2tv.cz
+cdn.ampproject.org
+kataster.skgeodesy.sk
+zbgis.skgeodesy.sk
+
+
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
 # Ignored duplicates: 259
@@ -810,7 +823,7 @@ spotifycdn.net
 
 ########## Whitelist from https://raw.githubusercontent.com/boutetnico/url-shorteners/master/list.txt ##########
 
-# Ignored duplicates: 3
+# Ignored duplicates: 4
 
 4i.ae
 ou.af
@@ -827,7 +840,6 @@ dft.ba
 jieb.be
 l-k.be
 oua.be
-youtu.be
 ad7.biz
 bee4.biz
 zzb.bz
@@ -5222,7 +5234,7 @@ habbo.com.ve
 
 ########## Whitelist from https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/whitelist_domains.txt ##########
 
-# Ignored duplicates: 2143
+# Ignored duplicates: 2144
 
 js.media-lab.ai
 click.trafficguard.ai
@@ -6333,7 +6345,6 @@ delivery.acm.org
 actionnetwork.org
 adapools.org
 ynuf.aliapp.org
-cdn.ampproject.org
 cdn-content.ampproject.org
 angularjs.org
 bbs.archlinux.org
@@ -7182,6 +7193,29 @@ siloh.pluto.tv
 stitcher.pluto.tv
 
 
+########## Whitelist from https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Whitelists/Primary%20Whitelist.txt ##########
+
+# Ignored duplicates: 74
+
+sensors.binance.cloud
+biosagentplus.com
+bitminter.com
+ex.bnbstatic.com
+emptyclosets.com
+api.ledgerwallet.com
+www.multiminerapp.com
+slushpool.com
+whattomine.com
+pool.gold
+bitminer.io
+us1.ethpool.org
+api-zcash.flypool.org
+us1-zcash.flypool.org
+zcash.flypool.org
+medium.freecodecamp.org
+btgpool.pro
+
+
 ########## Whitelist from https://raw.githubusercontent.com/SystemJargon/allowlists/main/lists/streaming/youtube.txt ##########
 
 # Ignored duplicates: 13
@@ -7192,7 +7226,7 @@ youtube-dl.org
 
 ########## Whitelist from https://raw.githubusercontent.com/EnergizedProtection/unblock/master/basic/formats/domains.txt ##########
 
-# Ignored duplicates: 7969
+# Ignored duplicates: 7972
 
 amazon.ac
 google.ac
@@ -7618,7 +7652,6 @@ blockadblock.com
 blogsmithmedia.com
 stags.bluekai.com
 in.bmscdn.com
-ex.bnbstatic.com
 boardgamegeek.com
 bol.com
 burner.bonanza.com
@@ -8460,7 +8493,6 @@ sitepoint.com
 skypeassets.com
 slack.com
 slaesforce.com
-slushpool.com
 smartlook.com
 smartsheet.com
 smartsuppchat.com
@@ -9568,7 +9600,6 @@ www.file-up.org
 financial.org
 iplists.firehol.org
 blockads.fivefilters.org
-medium.freecodecamp.org
 geoserver.org
 hackthissite.org
 hentaihaven.org
@@ -15466,6 +15497,18 @@ capitecbank.co.za
 nedbank.co.za
 
 
+########## Whitelist from https://raw.githubusercontent.com/leroyby/PiHole_Settings/master/domains/whitelistedomains.txt ##########
+
+# Ignored duplicates: 270
+
+itunes.com
+u.jimcdn.com
+assets.jimstatic.com
+fs.microft.com
+fw.ota.homesmart.ikea.net
+4.sophosxl.net
+
+
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
 # Ignored duplicates: 927
@@ -15536,6 +15579,12 @@ signal.org
 textsecure-service-whispersystems.org
 giphy-proxy-production.whispersystems.org
 turn1.whispersystems.org
+
+
+########## Whitelist from https://raw.githubusercontent.com/nilsstreedain/pihole-whitelist/main/exact.txt ##########
+
+# Ignored duplicates: 8
+
 
 
 ########## Whitelist from https://raw.githubusercontent.com/anT0ny54/whitelist/main/whitelist.txt ##########
@@ -52227,6 +52276,19 @@ charts.profinance.ru
 formy.upriver.ru
 vseinstrumenti.ru
 vnn-res.vgcloud.vn
+
+
+########## Whitelist from https://raw.githubusercontent.com/Trigus42/PiHole-Lists/master/whitelist.txt ##########
+
+# Ignored duplicates: 38
+
+blackhat.com
+deezer.com
+pxc-coding.com
+image.ard.de
+proxy-listen.de
+t1p.de
+torrentz2.eu
 
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
