@@ -15589,7 +15589,7 @@ turn1.whispersystems.org
 
 ########## Whitelist from https://raw.githubusercontent.com/anT0ny54/whitelist/main/whitelist.txt ##########
 
-# Ignored duplicates: 20507
+# Ignored duplicates: 9382
 
 twit.ac
 amzn.ae
@@ -16794,7 +16794,6 @@ rvt.cl
 saladeventas.cl
 shopee.cl
 sistemax.cl
-www.xn--hualae-0wa.cl
 51flower.cn
 avonshop.cn
 525j.com.cn
@@ -20745,6 +20744,7 @@ blackfield.com
 blackforestdecor.com
 blackforestgifts.com
 blackforestimports.com
+blackhat.com
 blackhawkindustries.com
 blackhawkparts.com
 blackhillsglassworks.com
@@ -24564,6 +24564,7 @@ deertracktraders.com
 deerwoodflorist.com
 deesdancewear.com
 deespostaluniforms.com
+deezer.com
 defender.com
 definitivepools.com
 degagefurniture.com
@@ -37163,6 +37164,7 @@ pwccost.com
 pwgazette.com
 pwponline.com
 pwr-sports.com
+pxc-coding.com
 pygmyboats.com
 pygs.com
 pyramid-films.com
@@ -42557,12 +42559,6 @@ x8drums.com
 xaddr.com
 xeeurl.com
 xmasexpress.com
-xn--bireysel-zraat-pmb.com
-xn--methrwallt-26ar0z.com
-xn--mytherwllet-r8a0c.com
-secret.xn--oogle-3fa01c.com
-secret.xn--oogle-wmc.com
-www.xn--turkishirlines-1p8g.com
 xpress-phones.com
 xr50.com
 xtreme-images.com
@@ -42961,6 +42957,7 @@ aranet-shop.de
 aras.de
 arbeitskleidung.de
 archimede-uhren.de
+image.ard.de
 argenti.de
 armaturen-versand-shop.de
 armbandmo.de
@@ -44565,6 +44562,7 @@ proshop.de
 protapete.de
 protected.de
 proverdi.de
+proxy-listen.de
 ptfepiercing.de
 puppen-traumland.de
 pure-pashmina.de
@@ -45000,6 +44998,7 @@ swopper-shop.de
 syr-int.de
 shop.sz-ticketservice.de
 t-shirt-total.de
+t1p.de
 tabakwaren-brucker.de
 tabou.de
 tackenberg.de
@@ -45378,6 +45377,7 @@ wipi.es
 bts-sports.eu
 delfinio.eu
 disneyphotopass.eu
+torrentz2.eu
 url4.eu
 alfamer.fi
 babyidea.fi
@@ -52280,15 +52280,8 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/Trigus42/PiHole-Lists/master/whitelist.txt ##########
 
-# Ignored duplicates: 38
+# Ignored duplicates: 45
 
-blackhat.com
-deezer.com
-pxc-coding.com
-image.ard.de
-proxy-listen.de
-t1p.de
-torrentz2.eu
 
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
