@@ -1172,7 +1172,7 @@ webnode.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/bin-hostnames ##########
 
-# Ignored duplicates: 4
+# Ignored duplicates: 3
 
 s3.eu-central-003.backblazeb2.com
 s3.us-west-000.backblazeb2.com
@@ -1186,6 +1186,7 @@ nyc3.digitaloceanspaces.com
 sfo2.digitaloceanspaces.com
 sfo3.digitaloceanspaces.com
 sgp1.digitaloceanspaces.com
+dl.dropboxusercontent.com
 infura-ipfs.io
 ipfs.infura.io
 ipfs.nftstorage.link
@@ -6465,13 +6466,14 @@ gjshort.xyz
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 95
+# Ignored duplicates: 94
 
 sbs.com.au
 acdn.adnxs.com
 entitlement.auth.adobe.com
 fpdownload.adobe.com
 ocsp.rootg2.amazontrust.com
+f1.media.brightcove.com
 livepassdl.conviva.com
 cwtv-mrss-akamai.cwtv.com
 directvnow.com
@@ -6657,82 +6659,6 @@ pbskids.org
 
 blizzard.com
 battle.net
-
-
-########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/android.txt ##########
-
-# Ignored duplicates: 26
-
-tamtam.chat
-clientproxyservice.atomtickets.com
-bccard.com
-goods.bbm.blackberry.com
-profile.bbm.blackberry.com
-global.uci.blackberry.com
-api.box.com
-brightcove.com
-budgetbankers.com
-dropbox.com
-dropboxapi.com
-dropboxusercontent.com
-feoquizserver.com
-mapi.flypgs.com
-api.freeletics.com
-api.gm.com
-gmmobileservices.gm.com
-grabtaxi.com
-api.here.com
-data.here.com
-instapaper.com
-ac-talk.kakao.com
-api.kakao.com
-channel.kakao.com
-clog-aggregator.kakao.com
-gift.kakao.com
-item.kakao.com
-katalk.kakao.com
-pf-api.kakao.com
-talk.kakao.com
-mob2api.mdc53.com
-quizup.com
-isu-odc.samsungapps.com
-vas.samsungapps.com
-samsungosp.com
-api.simperium.com
-auth.simperium.com
-productserver.sygic.com
-tech1-cdn.com
-tech2-cdn.com
-thisissand.com
-navcloud.tomtom.com
-lcms.services.tomtom.com
-tutotoons.com
-wire.com
-wodtogether.com
-wunderlist.com
-zenstudios.com
-hk.enel.it
-msa.enel.it
-api-between.vcnc.co.kr
-local.gosi.go.kr
-acompli.net
-global.ssl.fastly.net
-termux.net
-disk.yandex.net
-mob.maps.yandex.net
-mobile.yandex.net
-voiseservices.yandex.net
-content.yikyakapi.net
-notify.yikyakapi.net
-us-central-api.yikyakapi.net
-review.lineageos.org
-spdy3.maps.rostaxi.org
-newstube.ru
-api-kino.vl.ru
-m.taxi.yandex.ru
-webdav.yandex.ru
-whisper.sh
-webdav.yandex.com.ua
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter ##########
@@ -8598,7 +8524,7 @@ standardbank.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
-# Ignored duplicates: 45
+# Ignored duplicates: 44
 
 google.ad
 amazon.ae
@@ -8669,6 +8595,7 @@ bestbuy.com
 booking.com
 capitalone.com
 citigroup.com
+dropbox.com
 easyjet.com
 expedia.com
 fidelity.com
@@ -10148,6 +10075,7 @@ banking-merkur-bank.de
 banking-suedwestbank.de
 banking-wuestenrotdirect.de
 bankofscotland.de
+barclays.de
 bbbank.de
 bensbergerbank.de
 berenberg.de
@@ -12729,6 +12657,7 @@ online.lloydsbank.co.uk
 secure.lloydsbank.co.uk
 metrobankonline.co.uk
 nationwide.co.uk
+paragonbank.co.uk
 retail.santander.co.uk
 my.sjpbank.co.uk
 ybs.co.uk
@@ -12767,7 +12696,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 723
+# Ignored duplicates: 718
 
 1hosts.cf
 abuse.ch
@@ -12797,6 +12726,11 @@ bleepingcomputer.com
 1.bp.blogspot.com
 4.bp.blogspot.com
 api.bountysource.com
+edge.api.brightcove.com
+files.brightcove.com
+img.brightcove.com
+players.brightcove.com
+www.brightcove.com
 bt.com
 www.cbs.com
 i.i.cbsi.com
@@ -49992,13 +49926,14 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 166
+# Ignored duplicates: 165
 
 1drv.com
 amazonaws.com
 aspnetcdn.com
 ws.audioscrobbler.com
 display.ugc.bazaarvoice.com
+secure.brightcove.com
 vidtech.cbsinteractive.com
 cws.conviva.com
 pings.conviva.com
