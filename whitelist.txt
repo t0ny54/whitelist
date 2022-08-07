@@ -3978,7 +3978,7 @@ minecraft.net
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 127
+# Ignored duplicates: 128
 
 api.cortana.ai
 uol.com.br
@@ -4013,7 +4013,7 @@ kaipuyun.cn
 knet.cn
 nmobi.kuwo.cn
 wxapp.lvyadx.cn
-www.meipian7.cn
+meipian7.cn
 nejmqianyan.cn
 cnnic.net.cn
 m.qpic.cn
