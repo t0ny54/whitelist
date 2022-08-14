@@ -8858,7 +8858,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 427
+# Ignored duplicates: 428
 
 amazon.at
 bing.at
@@ -9071,6 +9071,7 @@ nesn.com
 newegg.com
 newjobs.com
 newsday.com
+newsmax.com
 nflximg.com
 nitroflare.com
 nj.com
