@@ -738,7 +738,7 @@ adaway.org
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 41
+# Ignored duplicates: 42
 
 adc.api.nine.com.au
 grabo.bg
@@ -788,6 +788,7 @@ monitor.azure.com
 bamgrid.com
 bannerconnect.com
 bpmonline.com
+bugherd.com
 bugsnag.com
 bytedance.com
 dw.cbsi.com
@@ -954,6 +955,7 @@ litix.io
 geo.ngtv.io
 ntv.io
 onthe.io
+middleware.p7s1.io
 plausible.io
 redventures.io
 sentry.io
