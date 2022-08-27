@@ -738,7 +738,7 @@ adaway.org
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 42
+# Ignored duplicates: 43
 
 adc.api.nine.com.au
 grabo.bg
@@ -3983,7 +3983,7 @@ minecraft.net
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 129
+# Ignored duplicates: 130
 
 api.cortana.ai
 uol.com.br
@@ -4009,6 +4009,7 @@ w8.com.cn
 watchtimes.com.cn
 direct.wap.zol.com.cn
 conac.cn
+profile.csdnimg.cn
 fraudmetrix.cn
 whhd.gov.cn
 xj-n-tax.gov.cn
@@ -4132,6 +4133,8 @@ lumion3d.com
 fpdownload.macromedia.com
 manhuachi.com
 act2.mediafour.com
+meitubeauty.meitudata.com
+my-material.zone1.meitudata.com
 api-game.meizu.com
 as.mgtv.com
 cdn.cnbj1.fds.api.mi-img.com
