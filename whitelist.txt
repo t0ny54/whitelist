@@ -5808,6 +5808,7 @@ elkjop.no.edgekey.net
 ad.dep.no
 annonser.gess.no
 ad.hem.no
+sumo.cdn.tv2.no
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube ##########
