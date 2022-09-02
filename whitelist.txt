@@ -676,6 +676,7 @@ cfg.smt.docomo.ne.jp
 id.smt.docomo.ne.jp
 my.softbank.jp
 passport.yandex.kz
+proton.me
 home.mijngezondheid.net
 mijnpazio.nl
 uwzorgonline.nl
