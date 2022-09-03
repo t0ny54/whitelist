@@ -50,7 +50,7 @@ ebay.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/shallalist/master/updatesites/domains ##########
 
-# Ignored duplicates: 22
+# Ignored duplicates: 23
 
 download.2gis.com
 ardownload.adobe.com
@@ -58,7 +58,6 @@ armdl.adobe.com
 cdmdownload.adobe.com
 swupdl.adobe.com
 swupmf.adobe.com
-swupmf.wip3.adobe.com
 liveupdate01.asus.com
 download121.avast.com
 download200.avast.com
@@ -399,7 +398,7 @@ codeberg.org
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
-# Ignored duplicates: 226
+# Ignored duplicates: 227
 
 adservice.google.ac
 adservice.google.af
@@ -580,7 +579,6 @@ ojrq.net
 onenetworkdirect.net
 qksrv.net
 track.seadform.net
-ct.sendgrid.net
 trackcmp.net
 adservice.google.com.nf
 adservice.google.ng
@@ -1676,7 +1674,7 @@ tiktokv.com.edgekey.net
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/sports/domains ##########
 
-# Ignored duplicates: 7
+# Ignored duplicates: 15
 
 basketball.at
 bigair.at
@@ -1970,14 +1968,6 @@ blackbetsy.com
 blackmoor.com
 blackwatchsoccer.com
 eahlebizet.blog4ever.com
-6-4-2.blogspot.com
-baseballzeitgeist.blogspot.com
-basketballnotesbyalex.blogspot.com
-cir.blogspot.com
-federermagic.blogspot.com
-kcminorleaguebaseball.blogspot.com
-pearly-gates.blogspot.com
-womenshoops.blogspot.com
 bluerocks.com
 bluthunder.com
 bmets.com
@@ -3985,7 +3975,7 @@ minecraft.net
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 130
+# Ignored duplicates: 136
 
 api.cortana.ai
 uol.com.br
@@ -4011,7 +4001,6 @@ w8.com.cn
 watchtimes.com.cn
 direct.wap.zol.com.cn
 conac.cn
-profile.csdnimg.cn
 fraudmetrix.cn
 whhd.gov.cn
 xj-n-tax.gov.cn
@@ -4055,7 +4044,6 @@ get3.adobe.com
 licenses.adobe.com
 na1r.services.adobe.com
 hlrcv.stage.adobe.com
-ereg.wip3.adobe.com
 lmlicenses.wip4.adobe.com
 alcohol-soft.com
 zconfig.alibabausercontent.com
@@ -4183,8 +4171,6 @@ sqimg.qq.com
 stdl.qq.com
 soup.v.qq.com
 isee.weishi.qq.com
-minorshort.weixin.qq.com
-szlong.weixin.qq.com
 rarbgmirror.com
 rumble.com
 scribol.com
@@ -4212,7 +4198,6 @@ woniu.com
 x6img.com
 cdn-thumb.fds.api.xiaomi.com
 image.box.xiaomi.com
-wtradv.market.xiaomi.com
 xmpush.xiaomi.com
 xifuquan.com
 edge.yunjiasu.com
@@ -4248,7 +4233,6 @@ service.signalr.net
 v.smtcdns.net
 fp.tongdun.net
 ultraiso.net
-pdc.micloud.xiaomi.net
 resolver.msg.xiaomi.net
 sec.resource.xiaomi.net
 creativecommons.org
@@ -6479,7 +6463,7 @@ gjshort.xyz
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 94
+# Ignored duplicates: 95
 
 sbs.com.au
 acdn.adnxs.com
@@ -6495,7 +6479,6 @@ gfwsl.geforce.com
 cdns.gigya.com
 google-analytics.com
 lotustalk.com
-js.maxmind.com
 events.gfe.nvidia.com
 ota-downloads.nvidia.com
 refersion.com
@@ -8535,6 +8518,313 @@ fnb.co.za
 standardbank.co.za
 
 
+########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
+
+# Ignored duplicates: 232
+
+theship.club
+cpro.baidu.cn
+s.w-x.co
+aatkit.com
+sp.auth.adobe.com
+ipm-provider.ff.avast.com
+api.bazaarvoice.com
+network.bazaarvoice.com
+display.ugc.bazaarvoice.com
+betrad.com
+tags.bkrtx.com
+apiv2.bricknet.com
+media.complex.com
+crashlytics.com
+assets.dealabs.com
+static-pepper.dealabs.com
+espresso.economist.com
+sstats.economist.com
+extension-cdn.evidon.com
+iabmap.evidon.com
+info.evidon.com
+cdn.flurry.com
+global.fncstatic.com
+survey.foreseeresults.com
+metrics.foxnews.com
+smetrics.foxnews.com
+gameloft.com
+collector.githubapp.com
+api.glympse.com
+viewer.content.glympse.com
+pronivydigital.go2affise.com
+googlesyndication.com
+bceliveup.gshifen.com
+bcelivevip.gshifen.com
+box.gshifen.com
+dl2-bav.gshifen.com
+duapps-photos-adv.gshifen.com
+hiphotos.gshifen.com
+mbdcdn.gshifen.com
+mipcache.gshifen.com
+motu.gshifen.com
+opencdnglobal.gshifen.com
+simage.gshifen.com
+simagestatic.gshifen.com
+sslshare.gshifen.com
+guitarbelieve.com
+beacons5.gvt3.com
+acompli.helpshift.com
+logs.heroku.com
+herokuapp.com
+api.revenuecat.com.herokudns.com
+s-35.hiimps.com
+s-46.hiimps.com
+in.hotjar.com
+insights.hotjar.com
+script.hotjar.com
+sentry.hotjar.com
+static.hotjar.com
+vars.hotjar.com
+ws1.hotjar.com
+ws10.hotjar.com
+ws2.hotjar.com
+ws3.hotjar.com
+ws4.hotjar.com
+ws5.hotjar.com
+ws6.hotjar.com
+ws7.hotjar.com
+ws8.hotjar.com
+ws9.hotjar.com
+ads-e-darwin.hulustream.com
+icanhazip.com
+prd2.immedia-semi.com
+prde.immedia-semi.com
+rest-prd2.immedia-semi.com
+rest-prde.immedia-semi.com
+rest-prod.immedia-semi.com
+rest-u001.immedia-semi.com
+rest-u002.immedia-semi.com
+rest-u003.immedia-semi.com
+rest-u004.immedia-semi.com
+rest-u005.immedia-semi.com
+js-sec.indexww.com
+investingchannel.com
+code.ionicframework.com
+p0.ipstatp.com
+s0.ipstatp.com
+vv.ipstatp.com
+image.jeuxvideo.com
+jwpltx.com
+async-api.kaltura.com
+cdn.kaltura.com
+cdnapi.kaltura.com
+cdnbakmi.kaltura.com
+cdnsecakmi.kaltura.com
+kaf.kaltura.com
+klive.kaltura.com
+ny-mediaspace.kaltura.com
+pa-mediaspace.kaltura.com
+udrmv3.kaltura.com
+vod2.kaltura.com
+static.klaviyo.com
+julius.komodia.com
+optimus.komodia.com
+rodimus.komodia.com
+thor.komodia.com
+b.koodomobile.com
+identity.koodomobile.com
+mobile.launchdarkly.com
+go.leanplum.com
+geshopcss.logsss.com
+api.mapbox.com
+events.mapbox.com
+b.marfeelcache.com
+marketo.com
+my.matterport.com
+static.matterport.com
+mmfiles.amp.mcafee.com
+mup.amp.mcafee.com
+resolver.gslb.mi-idc.com
+r.browser.miui.com
+api.comm.miui.com
+connect.rom.miui.com
+adv.sec.miui.com
+auth.be.sec.miui.com
+data.sec.miui.com
+mazu.sec.miui.com
+cc.sys.miui.com
+ccc.sys.miui.com
+geofence.sys.miui.com
+metok.sys.miui.com
+update.miui.com
+api.vip.miui.com
+xp1.mobilexpense.com
+dicts.mobisystems.com
+mparticle.com
+cdn.mxpnl.com
+geoip.nekudo.com
+apt.newrelic.com
+js-agent.newrelic.com
+ongkidcasarv.com
+images.parsely.com
+hhbekxxw5d9e.pflexads.com
+hybl9bazbc35.pflexads.com
+s-41.predictvideo.com
+pushcrew.com
+ws.pusherapp.com
+pushwoosh.com
+quantcast.com
+edge.quantserve.com
+m.quantserve.com
+pixel.quantserve.com
+schibsted.com
+segment.com
+sensenetworks.com
+browser.sentry-cdn.com
+js.sentry-cdn.com
+seo4india.com
+smartlook.com
+farm4.staticflickr.com
+www.summerhamster.com
+sumo.com
+delivery.swid.switchadhub.com
+content.swrve.com
+api.t-mobile.com
+geoip.tnt-ea.com
+onceux.unicornmedia.com
+cdp.cloud.unity3d.com
+api.uca.cloud.unity3d.com
+config.uca.cloud.unity3d.com
+ecommerce.iap.unity3d.com
+events.iap.unity3d.com
+api.usebutton.com
+web.usebutton.com
+widget.uservoice.com
+mwc.velti.com
+ru.velti.com
+concertads-configs.vox-cdn.com
+advil.waze.com
+triggers.wfxtriggers.com
+hosted.where2getit.com
+srv1.xbext.com
+srv2.xbext.com
+globalapi.ad.xiaomi.com
+o2o.api.xiaomi.com
+game.xiaomi.com
+market.xiaomi.com
+app.migc.xiaomi.com
+mis.migc.xiaomi.com
+abtest.mistat.xiaomi.com
+data.mistat.xiaomi.com
+wallpaper.pandora.xiaomi.com
+r1.ykimg.com
+zzhengre.com
+config.ioam.de
+de.ioam.de
+wieistmeineip.de
+tracking.i2w.io
+liftoff.io
+api.locize.io
+cdn.polyfill.io
+ate.ads.schibsted.io
+collector.schibsted.io
+faast.schibsted.io
+knocker.schibsted.io
+messaging.schibsted.io
+knocker.mp-pro.schibsted.io
+rkt.schibsted.io
+ms-ij--app-company-logos-gw.spain.schibsted.io
+ms-mt--api-mobile.spain.schibsted.io
+ms-vibbo--api-gateway.spain.schibsted.io
+profile-api.spt-mkt-trust-pro.schibsted.io
+cdn.svp.schibsted.io
+profile-api.trust.schibsted.io
+pop-iad-2.cf.dash.row.aiv-cdn.net
+s3-iad-2.cf.dash.row.aiv-cdn.net
+s3-iad-ww.cf.videorolls.row.aiv-cdn.net
+3p.ampproject.net
+carbonads.net
+daumcdn.net
+collect12654frmsl.deltadna.net
+brightcove.map.fastly.net
+fast.fonts.net
+ssl.gpsonextra.net
+time.gpsonextra.net
+xp1.gpsonextra.net
+xp2.gpsonextra.net
+xp3.gpsonextra.net
+xtra.gpsonextra.net
+xtra1.gpsonextra.net
+xtra2.gpsonextra.net
+xtra3.gpsonextra.net
+xtra4.gpsonextra.net
+api.intsig.net
+cds.gtp.izatcloud.net
+gtp1.gtp.izatcloud.net
+gtp1.izatcloud.net
+gtp2.izatcloud.net
+gtpa1.izatcloud.net
+gtpc1.izatcloud.net
+gtpcn.izatcloud.net
+gtpcn1.izatcloud.net
+info.izatcloud.net
+s2s.izatcloud.net
+time.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath11.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
+xtrapath5.izatcloud.net
+xtrapath7.izatcloud.net
+xtrapath9.izatcloud.net
+api.krxd.net
+rbb.ic.llnwd.net
+abbott.vo.llnwd.net
+atkins.vo.llnwd.net
+behance.vo.llnwd.net
+edwlifes.vo.llnwd.net
+harvardbp.vo.llnwd.net
+kjos.vo.llnwd.net
+msbmopod.vo.llnwd.net
+synthes.vo.llnwd.net
+teachscape.vo.llnwd.net
+textron.vo.llnwd.net
+tmz.vo.llnwd.net
+toyota.vo.llnwd.net
+videoplus.vo.llnwd.net
+wbads.vo.llnwd.net
+wdig.vo.llnwd.net
+hello.myfonts.net
+api.netatmo.net
+open.oneplus.net
+p.typekit.net
+use.typekit.net
+api.chat.xiaomi.net
+app.chat.xiaomi.net
+api.device.xiaomi.net
+global.search.xiaomi.net
+vjs.zencdn.net
+captify.mgr.consensu.org
+api.conversant.mgr.consensu.org
+cdn.conversant.mgr.consensu.org
+marfeel.mgr.consensu.org
+quantcast.mgr.consensu.org
+api.sibboventures.mgr.consensu.org
+api.skimlinks.mgr.consensu.org
+log.uniconsent.mgr.consensu.org
+api.hh.ru
+cs8.pikabu.ru
+rutube.ru
+seopult.ru
+static.ada.support
+hdo.to
+fastlane.tools
+cdn.adrise.tv
+images.adrise.tv
+images02.adrise.tv
+uapi.adrise.tv
+m.104.com.tw
+ads.careerbuilder.vn
+ads1.careerbuilder.vn
+myad.vn
+
+
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
 # Ignored duplicates: 44
@@ -8869,7 +9159,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 431
 
 amazon.at
 bing.at
@@ -9016,7 +9306,6 @@ hoopshype.com
 horseanswerstoday.com
 howtoforge.com
 hulkshare.com
-icanhazip.com
 ikea.com
 forums.ilounge.com
 ecx.images-amazon.com
@@ -9267,7 +9556,6 @@ uploaded.net
 crl.verisign.net
 ocsp.verisign.net
 videocopilot.net
-vjs.zencdn.net
 mediamarkt.nl
 bing.no
 prisjakt.nu
@@ -9347,7 +9635,6 @@ bing.ru
 ifmo.ru
 denis-ovs.narod.ru
 pochta.ru
-rutube.ru
 spb.ru
 prnt.sc
 bing.se
@@ -12710,7 +12997,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 718
+# Ignored duplicates: 727
 
 1hosts.cf
 abuse.ch
@@ -12720,7 +13007,6 @@ client.relay.crisp.chat
 settings.crisp.chat
 angel.co
 www.publishers.medium.co
-s.w-x.co
 static.127777.com
 9to5google.com
 abebooks.com
@@ -12737,8 +13023,6 @@ api.apptentive.com
 askvg.com
 bitbucket-marketing-cdn.atlassian.com
 bleepingcomputer.com
-1.bp.blogspot.com
-4.bp.blogspot.com
 api.bountysource.com
 edge.api.brightcove.com
 files.brightcove.com
@@ -12804,9 +13088,7 @@ x.kinja-static.com
 linode.com
 i.lithium.com
 cdn.livechatinc.com
-cdn-images.mailchimp.com
 www.malekal.com
-b.marfeelcache.com
 bc.marfeelcache.com
 mi.com
 microsoftonline.com
@@ -12897,7 +13179,6 @@ trak.in
 phishing.mailscanner.info
 codepen.io
 boards.greenhouse.io
-s2k7tnzlhrpw.statuspage.io
 the.earth.li
 about.me
 ssl.bblck.me
@@ -12936,7 +13217,6 @@ assetsuat2.tataunistore.com.edgekey.net
 zomato.com.edgekey.net
 cdn.onenote.net.edgekey.net
 zmtcdn.edgekey.net
-fast.fonts.net
 auto.au.download.windowsupdate.com.c.footprint.net
 fg.download.windowsupdate.com.c.footprint.net
 g.download.windowsupdate.com.c.footprint.net
@@ -12949,14 +13229,12 @@ az416426.vo.msecnd.net
 az725175.vo.msecnd.net
 az764295.vo.msecnd.net
 mscomajax.vo.msecnd.net
-hello.myfonts.net
 office.net
 cdn.onenote.net
 files.overclock.net
 clientconfig.passport.net
 cs9.wac.phicdn.net
 cdn.sstatic.net
-use.typekit.net
 cs22.wpc.v0cdn.net
 asset.wsj.net
 actionnetwork.org
@@ -13015,7 +13293,7 @@ amzn.sg
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains ##########
 
-# Ignored duplicates: 91
+# Ignored duplicates: 95
 
 mangetout.ae
 boutique.aero
@@ -18217,10 +18495,6 @@ blockbusterbowling.com
 blockheadstamps.com
 blockheadwear.com
 shoppingfantasy.blogdrive.com
-digitalshoppingonline.blogspot.com
-electronics-onlineshopping.blogspot.com
-gotaobaoshopping.blogspot.com
-happyshoppingcloset.blogspot.com
 blokhut.com
 blondemonkey.com
 blondiescookies.com
@@ -49711,9 +49985,335 @@ twitchsvc.net
 ext-twitch.tv
 
 
+########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
+
+# Ignored duplicates: 559
+
+js.media-lab.ai
+a.run.app
+ipv4only.arpa
+gc.zgo.at
+foxsports.com.au
+fili.cc
+traffic.eks.megaphone.cloud
+mobilegw.alipay.cn
+www.antutu.com.bsgslb.cn
+zcmglobal.v.bsgslb.cn
+csdnimg.cn
+thirdqq.qlogo.cn
+wx.qlogo.cn
+static.tianya.cn
+woodpecker.uc.cn
+2miners.com
+swcdn.g.aaplimg.com
+world-gen.g.aaplimg.com
+valimail.actonservice.com
+ci61.actonsoftware.com
+forpci61.actonsoftware.com
+adcolo.com
+yahoo.adnetasia.com
+3dns-2.adobe.com
+3dns-3.adobe.com
+activate-sea.adobe.com
+activate-sjc0.adobe.com
+adobe-dns.adobe.com
+adobe-dns-2.adobe.com
+adobe-dns-3.adobe.com
+hl2rcv.adobe.com
+practivate.adobe.com
+na4r.services.adobe.com
+wip3.adobe.com
+wwis-dubc1-vip60.adobe.com
+ims-na1-prprod.adobelogin.com
+jacepayment.airasia.com
+us-aebridge.aliexpress.com.gds.alibabadns.com
+sh.wagbridge.taobao.com.gds.alibabadns.com
+gz-lb1.internet.spanner.alipaydns.com
+gw.alipayobjects.com
+i.alipayobjects.com
+arms-retcode.aliyuncs.com
+adash.man.aliyuncs.com
+adiu.amap.com
+abroad.apilocate.amap.com
+restapi.amap.com
+api.amazonalexa.com
+imp.appledaily.com
+cdn.auth0.com
+m.bestofmedia.com
+bitpay.com
+img1.blogblog.com
+blogspot.com
+inapcache.boston.com
+admin.brightcove.com
+buymeacoffee.com
+clickhouse.com
+api.cloudflareapps.com
+login.cloudflarewarp.com
+cloudflareworkers.com
+i.cmpnet.com
+images2015.cnblogs.com
+ocsp.comodoca.com
+ocsp.comodoca4.com
+cdn.cpnscdn.com
+cst.cstwpush.com
+curvesncombatboots.com
+e.customeriomail.com
+ocsp.digicert.com
+sh.docs.dingtalk.com
+weboffice-static.docs.dingtalk.com
+down-cdn.dingtalk.com
+file.dingtalk.com
+h5.dingtalk.com
+static.dingtalk.com
+c.disquscdn.com
+t.en25.com
+playerstatic.entropymedia.com
+api.fast.com
+fc-resources.fastcompany.com
+ct-m-fbx.fbsbx.com
+formstack.com
+survey.forseeresults.com
+fox13now.com
+fox17online.com
+fox2now.com
+fox40.com
+fox43.com
+fox4kc.com
+fox59.com
+fox5sandiego.com
+fox6now.com
+fox8.com
+a.fsdn.com
+api.geetest.com
+ocsp.globalsign.com
+goatcounter.com
+assets.gumroad.com
+cf.hamreus.com
+wownero.herominers.com
+internetofthings.ibmcloud.com
+imageshack.com
+infowars.com
+cdn.pcbeta.attachment.inimc.com
+cdn.pcbeta.css.inimc.com
+cdn.pcbeta.static.inimc.com
+inputdirector.com
+ruozuwky-android.mobile-messenger.intercom.com
+links.iterable.com
+click.justwatch.com
+img2.user.kanimg.com
+www.kcsoftwares.com
+kopimi.com
+shuc-android.ksord.com
+dw-online.ksosoft.com
+110415.libdd.com
+nelo2-col.linecorp.com
+www.luckyorange.com
+mailchimp.com
+mandrillapp.com
+mange-news.com
+tiles.mapbox.com
+maxmind.com
+c.media-amazon.com
+wwwstatic.megaupload.com
+www.miaminewtimes.com
+log-upload-os.mihoyo.com
+trial.api.huangye.miui.com
+mp.huangye.miui.com
+authbe.sec.intl.miui.com
+update.intl.miui.com
+au.ff.avast.sec.miui.com
+r.sg.sec.miui.com
+attach2.mobile01.com
+api-02.moengage.com
+myfox8.com
+lads.myspacecdn.com
+email.netlify.com
+deviceportal.nettvservices.com
+static.networkedblogs.com
+ns1.com
+yandex.ocsp-responder.com
+api.onedrive.com
+a.ooyala.com
+ak.c.ooyala.com
+sas.ooyala.com
+config.outturner.com
+pcbeta.com
+ci.phncdn.com
+cv-h.phncdn.com
+cw.phncdn.com
+ew.phncdn.com
+ss.phncdn.com
+tools.pingdom.com
+pixeldrain.com
+image.prntscr.com
+q13fox.com
+app.qq.com
+dlied6.qq.com
+guanjia.qq.com
+jq.qq.com
+3gdl.tcdn.qq.com
+weixin.qq.com
+cdn.ravenjs.com
+www.roadandtrack.com
+k8s-jena.schneevonmorgen.com
+ocsp.sectigo.com
+platform.sharethis.com
+api3.siftscience.com
+cdn.siftscience.com
+dsp.brand.sogou.com
+config.pinyin.sogou.com
+www.squaretrade.com
+email.ssdnodes.com
+ocsp.ssl.com
+statcounter.com
+ping.taplytics.com
+release.theplatform.com
+static.tianyaui.com
+pull.ticktick.com
+cname.tradepub.com
+cvp1.cdn.turner.com
+dynaimage.cdn.turner.com
+surveys.twilio.com
+safe.txmblr.com
+use.typekit.com
+builder-assets.unbounce.com
+unbouncepages.com
+unmineable.com
+updatefaker.com
+amp.usatoday.com
+usefathom.com
+ocsp.usertrust.com
+update.utorrent.com
+see.valimail.com
+weworkremotely.com
+whatismyipaddress.com
+fast.wistia.com
+tg1.premium.db4.wix.com
+tg1.premium.dc11.wix.com
+www.wshifen.com
+www.wupload.com
+account.xiaomi.com
+api.ad.xiaomi.com
+bgp.fe01.c3.xiaomi.com
+metok-ccc.intl.xiaomi.com
+data.mistat.intl.xiaomi.com
+zhuti.xiaomi.com
+adsp.xunlei.com
+msg2.client.xunlei.com
+portal.client.xunlei.com
+smallfiles.client.xunlei.com
+xl7xml.client.xunlei.com
+stat.download.xunlei.com
+pc.xunlei.com
+static-xl9-ssl.xunlei.com
+interface.xl9.xunlei.com
+upgrade.xl9.xunlei.com
+f.youku.com
+zam.zamimg.com
+zerohedge.com
+dashboard.zopim.com
+jp06.zopim.com
+winfuture.de
+xn--allestrungen-9ib.de
+traffic.megaphone.fm
+jvc.gg
+ocsp.pki.goog
+www.sdad.guru
+breeze.aimon.applicationinsights.io
+api.flexpool.io
+geojs.io
+appcloud.ironbeast.io
+api.loganalytics.io
+statuspage.io
+trafficrouter.io
+go.trouter.io
+subscriptions.pstmrk.it
+ftp.tsukuba.wide.ad.jp
+b.hatena.ne.jp
+mjt.lu
+mixnews.lv
+mqtt.pushy.me
+resolver.msg.xiaomi.ne
+pimg1.126.net
+static.ws.126.net
+viarnd.112.2o7.net
+cdn.gigya.commes.122.2o7.net
+static.3001.net
+8ch.net
+crunchyroll.adtrackers.net
+serve.adtrackers.net
+gateway.fe.apple-dns.net
+crunchyroll.bannertrack.net
+codecanyon.net
+blog.csdn.net
+wac.edgecastcdn.net
+cp76677.edgefcs.net
+amp-api-edge.apps.apple.com.edgekey.net
+help.apple.com.edgekey.net
+iadsdk.apple.com.edgekey.net
+www.paypal.com.edgekey.net
+limited-prod.giphy.map.fastly.net
+prod.disqus.map.fastlylb.net
+cdn.gotraffic.net
+he.net
+cdn2.hubspot.net
+cds.d2s7q6s2.hwcdn.net
+cds.s5x3j6q5.hwcdn.net
+a-airasia-001-gyf12.insnw.net
+download.intsig.net
+i.loli.net
+microsoftwindowsupdate.net
+op-cdn.net
+opera-mini.net
+down.sandai.net
+hub5pn.sandai.net
+hubciddata.sandai.net
+joint.reg2t.sandai.net
+tw03a159.sandai.net
+client.update.sandai.net
+api.tw06.xlmc.sandai.net
+sendgrid.net
+talkbusiness.net
+sparta.qb.mig.tencent-cloud.net
+balancer.wixdns.net
+www17.wixdns.net
+app.chat.global.xiaomi.net
+resolver.msg.global.xiaomi.net
+micloud.xiaomi.net
+blog.xuite.net
+geo-applefinance-cache.internal.query.g03.yahoodns.net
+avatars.mds.yandex.net
+storage.mds.yandex.net
+cdn-us-ec.yottaa.net
+loki.network
+4chan.org
+delivery.acm.org
+ynuf.aliapp.org
+umdc.alipay.org
+cdn-content.ampproject.org
+ap.org
+ethermine.org
+nmcheck.gnome.org
+dict.leo.org
+ap.orgdict.leo.org
+ocsp.int-x1.letsencrypt.org
+ocsp.int-x2.letsencrypt.org
+ocsp.int-x3.letsencrypt.org
+ocsp.int-x4.letsencrypt.org
+nanopool.org
+www-tc.pbs.org
+sdk.privacy-center.org
+windowupdate.org
+yerl.org
+ipredator.se
+opera.software
+mljt.tech
+login.microsoftonline.us
+
+
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
 
-# Ignored duplicates: 144
+# Ignored duplicates: 145
 
 twit.ac
 abre.ai
@@ -49757,7 +50357,6 @@ fhurl.com
 getsmallurl.com
 go2cut.com
 hellotxt.com
-shorrtener.herokuapp.com
 hover.com
 hugeurl.com
 icanhaz.com
@@ -49941,13 +50540,12 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 165
+# Ignored duplicates: 166
 
 1drv.com
 amazonaws.com
 aspnetcdn.com
 ws.audioscrobbler.com
-display.ugc.bazaarvoice.com
 secure.brightcove.com
 vidtech.cbsinteractive.com
 cws.conviva.com
