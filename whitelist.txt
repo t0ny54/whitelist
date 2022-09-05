@@ -49987,7 +49987,7 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 559
+# Ignored duplicates: 560
 
 js.media-lab.ai
 a.run.app
@@ -50191,6 +50191,7 @@ fast.wistia.com
 tg1.premium.db4.wix.com
 tg1.premium.dc11.wix.com
 www.wshifen.com
+cn.wswebcdn.com
 www.wupload.com
 account.xiaomi.com
 api.ad.xiaomi.com
