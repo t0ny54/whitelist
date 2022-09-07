@@ -50430,6 +50430,7 @@ zz.gd
 url.gratis
 short.gy
 raic.hu
+link.untirta.ac.id
 urlx.ie
 1link.in
 c-o.in
