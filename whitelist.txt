@@ -5796,24 +5796,9 @@ ad.hem.no
 sumo.cdn.tv2.no
 
 
-########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube ##########
+########## Whitelist from file:domains-whitelist-local-additions.txt ##########
 
-# Ignored duplicates: 3
-
-youtube.be
-yt3.ggpht.com
-googlevideo.com
-youtube.com
-youtube-nocookie.com
-youtubeeducation.com
-youtubegaming.com
-youtubekids.com
-ytimg.com
-youtube.de
-youtube.fr
-youtube.nl
-youtube.pl
-youtube.co.uk
+picsum.photos
 
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/shallalist/master/urlshortener/domains ##########
@@ -8827,7 +8812,7 @@ myad.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
-# Ignored duplicates: 44
+# Ignored duplicates: 43
 
 google.ad
 amazon.ae
@@ -8940,6 +8925,7 @@ xhamster.com
 xnxx.com
 xvideos.com
 yahoo.com
+youtube.com
 zillow.com
 google.co.cr
 google.com.cu
@@ -9159,7 +9145,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 431
+# Ignored duplicates: 427
 
 amazon.at
 bing.at
@@ -9284,6 +9270,7 @@ forums.geforce.com
 gfycat.com
 geo3.ggpht.com
 nt3.ggpht.com
+yt3.ggpht.com
 gigaom.com
 giphy.com
 gitee.com
@@ -9294,6 +9281,7 @@ gmx.com
 abcnews.go.com
 godaddy.com
 googleapis.com
+googlevideo.com
 gravatar.com
 groupon.com
 guru3d.com
@@ -9472,6 +9460,8 @@ xboxlive.com
 xda-developers.com
 xkcd.com
 s.yimg.com
+youtube-nocookie.com
+ytimg.com
 yunfile.com
 zajefajna.com
 ziprecruiter.com
@@ -13279,6 +13269,21 @@ rbxcdn.com
 
 # Ignored duplicates: 2
 
+
+
+########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/youtube ##########
+
+# Ignored duplicates: 8
+
+youtube.be
+youtubeeducation.com
+youtubegaming.com
+youtubekids.com
+youtube.de
+youtube.fr
+youtube.nl
+youtube.pl
+youtube.co.uk
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/amazon ##########
