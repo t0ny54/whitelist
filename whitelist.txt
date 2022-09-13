@@ -3975,7 +3975,7 @@ minecraft.net
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 136
+# Ignored duplicates: 137
 
 api.cortana.ai
 uol.com.br
@@ -50122,6 +50122,8 @@ c.media-amazon.com
 wwwstatic.megaupload.com
 www.miaminewtimes.com
 log-upload-os.mihoyo.com
+assets.minutemediacdn.com
+images2.minutemediacdn.com
 trial.api.huangye.miui.com
 mp.huangye.miui.com
 authbe.sec.intl.miui.com
