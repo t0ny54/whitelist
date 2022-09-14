@@ -847,6 +847,7 @@ justanswer.com
 kaptcha.com
 kumascans.com
 lasagneandands.com
+lfjack.com
 linkifier.com
 linksnappy.com
 loadercdn.com
