@@ -4712,6 +4712,7 @@ squirly.info
 toh.info
 webhop.info
 xxxy.info
+dedyn.io
 sly.io
 tru.io
 16-b.it
@@ -13255,7 +13256,7 @@ rbxcdn.com
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/ddns/exclusions ##########
 
-# Ignored duplicates: 22
+# Ignored duplicates: 24
 
 
 
