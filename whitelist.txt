@@ -3975,7 +3975,7 @@ minecraft.net
 
 ########## Whitelist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 137
+# Ignored duplicates: 138
 
 api.cortana.ai
 uol.com.br
@@ -9448,6 +9448,7 @@ verisign.com
 cdn.viblast.com
 vice.com
 videopress.com
+visualstudio.com
 vox.com
 walgreens.com
 washingtonpost.com
@@ -12988,7 +12989,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 727
+# Ignored duplicates: 728
 
 1hosts.cf
 abuse.ch
@@ -13144,7 +13145,6 @@ cdn.ttgtmedia.com
 assets.ubuntu.com
 unsplash.com
 viber.com
-update.code.visualstudio.com
 cdn.voscast.com
 www.w3school.com
 w3schools.com
