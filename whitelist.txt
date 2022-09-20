@@ -9314,6 +9314,7 @@ cdn.jwplayer.com
 jwpsrv.com
 kickstarter.com
 kidsfootlocker.com
+kingworldnews.com
 kmart.com
 kohls.com
 kotaku.com
@@ -9450,6 +9451,7 @@ vice.com
 videopress.com
 visualstudio.com
 vox.com
+wacom.com
 walgreens.com
 washingtonpost.com
 weather.com
