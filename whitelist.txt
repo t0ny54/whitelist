@@ -5918,6 +5918,7 @@ zurpy.com
 dol2day.de
 fruehstueckstreff.de
 habbo.de
+ieji.de
 wer-kennt-wen.de
 yigg.de
 habbo.dk
@@ -6097,8 +6098,6 @@ www.svyaznoy.ru
 
 # Ignored duplicates: 5
 
-connectivitycheck.platform.hicloud.com
-connectivitycheck.cbg-app.huawei.com
 msftconnecttest.com
 connectivity-check.ubuntu.com
 
@@ -9442,7 +9441,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 472
+# Ignored duplicates: 473
 
 amazon.at
 bing.at
@@ -9670,6 +9669,7 @@ real-debrid.com
 redfin.com
 reebok.com
 roku.com
+store-images.s-microsoft.com
 scribd.com
 slate.com
 solidfiles.com
@@ -13243,7 +13243,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 735
+# Ignored duplicates: 736
 
 1hosts.cf
 abuse.ch
@@ -13355,7 +13355,6 @@ quora.com
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 client.reactrjs.com
 rt.com
-store-images.s-microsoft.com
 s-msft.com
 www.safaribooksonline.com
 sbi.com
