@@ -9441,7 +9441,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 473
+# Ignored duplicates: 474
 
 amazon.at
 bing.at
@@ -9792,6 +9792,8 @@ edgesuite.net
 filmyhd.net
 gmx.net
 hitfile.net
+cdn1.hubspot.net
+cdn2.hubspot.net
 joewein.net
 jsfiddle.net
 fiddle.jshell.net
@@ -9799,6 +9801,7 @@ adb.juvander.net
 laposte.net
 live.net
 lwn.net
+logincdn.msauth.net
 neowin.net
 nsatc.net
 fr.osdn.net
@@ -50237,7 +50240,7 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 570
+# Ignored duplicates: 571
 
 js.media-lab.ai
 a.run.app
@@ -50499,7 +50502,6 @@ limited-prod.giphy.map.fastly.net
 prod.disqus.map.fastlylb.net
 cdn.gotraffic.net
 he.net
-cdn2.hubspot.net
 cds.d2s7q6s2.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 a-airasia-001-gyf12.insnw.net
