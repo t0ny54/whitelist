@@ -739,7 +739,7 @@ codeberg.org
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
-# Ignored duplicates: 227
+# Ignored duplicates: 228
 
 adservice.google.ac
 adservice.google.af
@@ -928,7 +928,6 @@ adservice.google.pf
 adservice.google.ph
 adservice.google.physio
 adservice.google.pk
-app2.salesmanago.pl
 adservice.google.politie
 adservice.google.qa
 adservice.google.re
@@ -1278,6 +1277,7 @@ stroeerdigitalpublishing.de
 wipe.de
 pdst.fm
 ipinfo.info
+ad-shield.io
 airbrake.io
 anura.io
 branch.io
@@ -1357,6 +1357,7 @@ ipify.org
 telemetry.mozilla.org
 p.d.rpts.org
 tracemyip.org
+salesmanago.pl
 adfox.ru
 comagic.ru
 group-ib.ru
