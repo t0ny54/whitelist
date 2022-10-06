@@ -9443,8 +9443,9 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 475
+# Ignored duplicates: 479
 
+js.media-lab.ai
 amazon.at
 bing.at
 gmx.at
@@ -50243,9 +50244,8 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 571
+# Ignored duplicates: 572
 
-js.media-lab.ai
 a.run.app
 ipv4only.arpa
 gc.zgo.at
