@@ -798,6 +798,7 @@ click.icptrack.com
 ct.impactradius.com
 customtraffic.impactradius.com
 email-tracking.infobip.com
+links.iterable.com
 jdoqocy.com
 www.kdukvh.com
 trk.klclick.com
@@ -50244,7 +50245,7 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 573
+# Ignored duplicates: 574
 
 a.run.app
 ipv4only.arpa
@@ -50353,7 +50354,6 @@ cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 inputdirector.com
 ruozuwky-android.mobile-messenger.intercom.com
-links.iterable.com
 click.justwatch.com
 img2.user.kanimg.com
 www.kcsoftwares.com
