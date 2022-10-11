@@ -4502,6 +4502,7 @@ soup.v.qq.com
 isee.weishi.qq.com
 rarbgmirror.com
 rumble.com
+salon.com
 scribol.com
 ecard.shenzhentong.com
 shifen.com
@@ -9937,7 +9938,7 @@ dssott.com.c.footprint.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 322
+# Ignored duplicates: 324
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -9963,9 +9964,11 @@ adelaidebank.com.au
 amp.com.au
 anz.com.au
 bankfirst.com.au
+bankwest.com.au
 bendigobank.com.au
 online.beyondbank.com.au
 coinspot.com.au
+commsec.com.au
 online.gemvisa.com.au
 ing.com.au
 migs.mastercard.com.au
@@ -10342,6 +10345,7 @@ mybank.fortebank.com
 online.fortebank.com
 online.forward-bank.com
 fosterswiss.com
+frostbank.com
 ftx.com
 fubon.com
 acs.fuib.com
@@ -10361,6 +10365,7 @@ gunaybank.com
 www.ibank.hbl.com
 web.hellenicbank.com
 hellenicnetbanking.com
+hellostake.com
 hitbtc.com
 hlebroking.com
 holvi.com
@@ -12252,6 +12257,7 @@ ibank.mn
 www.mcb.mu
 hsbc.com.mx
 nu.com.mx
+santander.com.mx
 allianceonline.com.my
 ambank.com.my
 ambank.amonline.com.my
