@@ -1077,7 +1077,7 @@ firebog.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 49
+# Ignored duplicates: 50
 
 adc.api.nine.com.au
 grabo.bg
@@ -9445,7 +9445,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 479
+# Ignored duplicates: 480
 
 js.media-lab.ai
 amazon.at
@@ -50515,6 +50515,8 @@ cds.d2s7q6s2.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
 a-airasia-001-gyf12.insnw.net
 download.intsig.net
+liffsdk.line-scdn.net
+obs.line-scdn.net
 i.loli.net
 microsoftwindowsupdate.net
 op-cdn.net
