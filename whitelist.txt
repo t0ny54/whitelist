@@ -9612,6 +9612,7 @@ shop.lego.com
 licdn.com
 lifehacker.com
 forums.linuxmint.com
+secure.livechatinc.com
 livefilestore.com
 livestream.com
 logmein.com
@@ -50723,6 +50724,7 @@ did.li
 xip.li
 b.link
 grabify.link
+inicio.link
 kisa.link
 tawk.link
 inx.lv
