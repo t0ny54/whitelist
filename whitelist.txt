@@ -6238,7 +6238,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 247
+# Ignored duplicates: 248
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6470,6 +6470,7 @@ answers.unity.com
 uptodatefinishconferenceroom.com
 cname.vercel-dns.com
 ads.videoadex.com
+wabetainfo.com
 s3.us-west-1.wasabisys.com
 wpbeaches.com
 video.xxxjmp.com
@@ -6584,6 +6585,7 @@ pov.spectrum.net
 te.technical-service.net
 yacy.net
 ad.nl
+disguised.nl
 netco.edu.np
 fakeshop-finder.nrw
 ccf.admeen.org
