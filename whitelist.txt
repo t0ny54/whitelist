@@ -4198,6 +4198,7 @@ hlrcv.stage.adobe.com
 lmlicenses.wip4.adobe.com
 alcohol-soft.com
 zconfig.alibabausercontent.com
+alimama.com
 promotion.aliyun.com
 licenses.ashampoo.com
 aiseet.atianqi.com
@@ -4317,6 +4318,7 @@ wup.imtt.qq.com
 l.qq.com
 iwx.mail.qq.com
 pacaio.match.qq.com
+mini2015.qq.com
 img1.sj.qq.com
 sqimg.qq.com
 stdl.qq.com
@@ -6379,6 +6381,7 @@ ipaddress.com
 media.itsfogo.com
 scmedia.itsfogo.com
 cdnapisec.kaltura.com
+a.klaviyo.com
 koisea.com
 ku6.com
 clientstream.launchdarkly.com
