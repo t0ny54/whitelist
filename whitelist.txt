@@ -394,7 +394,7 @@ ebay.co.uk
 
 ########## Whitelist from https://raw.githubusercontent.com/cbuijs/shallalist/master/updatesites/domains ##########
 
-# Ignored duplicates: 26
+# Ignored duplicates: 24
 
 download.2gis.com
 ardownload.adobe.com
@@ -674,6 +674,8 @@ liveupdate.symantec.d4p.net
 sophosupd.net
 downloads.ipfire.org
 kernel.org
+aus5.mozilla.org
+update.mozilla.org
 extensions.services.openoffice.org
 update.services.openoffice.org
 update30.services.openoffice.org
@@ -810,6 +812,7 @@ adservice.google.kyoto
 href.li
 app.link
 adservice.google.ma
+awstrack.me
 onelink.me
 adservice.google.meet
 adservice.google.museum
@@ -1255,7 +1258,6 @@ team-rec.jp
 shopping.yahooapis.jp
 bnc.lt
 stats.lt
-awstrack.me
 remind.me
 2mdn.net
 adshell.net
@@ -1304,6 +1306,7 @@ jumia.com.ng
 hsdn.org
 ip-tracker.org
 ipify.org
+telemetry.mozilla.org
 p.d.rpts.org
 tracemyip.org
 salesmanago.pl
@@ -1805,7 +1808,7 @@ agrd.io
 mozilla.net
 adtidy.org
 eff.org
-mozilla.org
+addons.mozilla.org
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/tiktok ##########
@@ -6240,7 +6243,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 248
+# Ignored duplicates: 254
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6299,6 +6302,7 @@ abuelos.com
 acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
+geo2.adobe.com
 static.adsafeprotected.com
 adultfriendfinder.com
 adultwork.com
@@ -9277,6 +9281,7 @@ ftp.heanet.ie
 mediamarkt.ie
 gitter.im
 cdn.plyr.io
+cdn.statically.io
 git.teknik.io
 adblock.mahakala.is
 who.is
