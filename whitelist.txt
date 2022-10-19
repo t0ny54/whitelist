@@ -6243,7 +6243,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 254
+# Ignored duplicates: 256
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6515,6 +6515,8 @@ shop.strato.de
 cdn.stroeerdigitalgroup.de
 cmp.tvspielfilm.de
 wfcdn.de
+zinspilot.de
+lush-clouds.zomap.de
 swankyrule.zomap.de
 consent.dk
 iutoic-dhaka.edu
@@ -9452,7 +9454,7 @@ dssott.com.c.footprint.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 324
+# Ignored duplicates: 329
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -9537,6 +9539,9 @@ kbc.be
 keytradebank.be
 wallet.best
 online.bulbank.bg
+bulbankonline.bg
+epay.bg
+login-portal.nra.bg
 sgeb.bg
 ziraatbank.bg
 ucpb.biz
@@ -9848,6 +9853,7 @@ etrade.com
 eurobank-ua.com
 evobanco.com
 nettbedriften.evry.com
+fairfx.com
 farmersebank.com
 fbtonline.com
 fbwebpos.com
@@ -9946,6 +9952,7 @@ mobikwik.com
 acs2.3ds.modirum.com
 acs2.rosbank.modirum.com
 mohela.com
+monese.com
 global.moneygram.com
 monzo.com
 my.morskoybank.com
@@ -9955,6 +9962,7 @@ myetherwallet.com
 mymerrill.com
 myvoba.com
 mybank.nationstrust.com
+natwest.com
 www.neosonline.ndbbank.com
 www.ndbbankonline.com
 portal.nefteprom.com
@@ -10100,7 +10108,7 @@ vakifbankusa.com
 vanguard.com
 vol.venezolano.com
 venmo.com
-online.virginmoney.com
+virginmoney.com
 beta.wavesplatform.com
 wayforpay.com
 wealthbar.com
@@ -11678,7 +11686,9 @@ secure.bnl.it
 deutsche-bank.it
 fineco.it
 generali.it
+poste.it
 unicredit.it
+widiba.it
 mizuhobank.co.jp
 netbk.co.jp
 nttdocomo.co.jp
@@ -12574,6 +12584,7 @@ ilbank.gov.tr
 pttbank.ptt.gov.tr
 titubb.titck.gov.tr
 app3.takasbank.web.tr
+ebank.agribank.com.tw
 bok.com.tw
 bop.com.tw
 bot.com.tw
@@ -12589,11 +12600,14 @@ eximbank.com.tw
 feib.com.tw
 firstbank.com.tw
 fundrich.com.tw
+ebank.hc3cbank.com.tw
+ebank.hcfcbank.com.tw
 hncb.com.tw
 hsbc.com.tw
 hua215.com.tw
 hwataibank.com.tw
 jihsunbank.com.tw
+ebank.kfcc.com.tw
 kh3c.com.tw
 ktb.com.tw
 landbank.com.tw
@@ -12614,12 +12628,14 @@ tbb.com.tw
 tcb-bank.com.tw
 tcbbank.com.tw
 tcfhc-sec.com.tw
+ebank.tsca.com.tw
 twfhcsec.com.tw
 twmp.com.tw
 ubot.com.tw
 yuantabank.com.tw
 hawho.tw
 ba.org.tw
+ibank.fast.org.tw
 naffic.org.tw
 scu.org.tw
 twnch.org.tw
@@ -12735,8 +12751,10 @@ nationwide.co.uk
 paragonbank.co.uk
 retail.santander.co.uk
 my.sjpbank.co.uk
+tsb.co.uk
 ybs.co.uk
 ziraatbank.co.uk
+gov.uk
 ibank.kdb.uz
 ebank.ofb.uz
 ibank.ravnaqbank.uz
