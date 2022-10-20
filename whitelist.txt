@@ -168,6 +168,7 @@ img.over-blog-kiwi.com
 paypal.com
 epl.paypal-communication.com
 paypalobjects.com
+static-ite.paytmbank.com
 phncdn.com
 pirateiro.com
 node.plexapp.com
@@ -5468,8 +5469,9 @@ telegram.me
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/signal ##########
 
+# Ignored duplicates: 1
+
 signal.org
-textsecure-service.whispersystems.org
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/spotify ##########
@@ -6243,7 +6245,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 256
+# Ignored duplicates: 264
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6255,6 +6257,7 @@ tm.jsuol.com.br
 ifbaiano.edu.br
 tracker.alpharatio.cc
 uu.cc
+whatsapp.cc
 tdn.da-services.ch
 ens.nzz.ch
 track.nzz.ch
@@ -6295,6 +6298,7 @@ zhongmin.cn
 unicauca.edu.co
 i.shoosh.co
 v.shoosh.co
+twitter.co
 fy.v.vrv.co
 doh.dns.apple.com.v.aaplimg.com
 above.com
@@ -6339,6 +6343,7 @@ api.bufferapp.com
 c-ctrip.com
 devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
+includes.ccdc02.com
 s2.static.cfgr3.com
 cliphunter.com
 static.cloudflareinsights.com
@@ -6471,7 +6476,12 @@ et.tidal.com
 tags.tiqcdn.com
 api-v4.trbo.com
 consent.trustarc.com
+tweetdeck.com
 twitchy.com
+twitpic.com
+twitterinc.com
+twitteroauth.com
+twttr.com
 fr-lb.ultimedia.com
 answers.unity.com
 uptodatefinishconferenceroom.com
@@ -6479,6 +6489,7 @@ cname.vercel-dns.com
 ads.videoadex.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
+whatsappbrand.com
 wpbeaches.com
 video.xxxjmp.com
 yagiay.com
@@ -6496,6 +6507,7 @@ co.de
 qastack.com.de
 content.cptrack.de
 datev-community.de
+tracking.dpd.de
 ecosia.de
 eterna.de
 bilder.fernsehserien.de
@@ -6518,6 +6530,7 @@ wfcdn.de
 zinspilot.de
 lush-clouds.zomap.de
 swankyrule.zomap.de
+tg.dev
 consent.dk
 iutoic-dhaka.edu
 ringling.edu
@@ -6531,6 +6544,8 @@ files.im
 iitrpr.ac.in
 vanividyalaya.edu.in
 wcc.edu.in
+whatsapp.info
+whatsapp-plus.info
 cdn.elev.io
 formspree.io
 cs.liiift.io
@@ -6551,6 +6566,8 @@ limetorrents.lol
 tracker.beyond-hd.me
 rojadirecta.me
 scnlog.me
+wa.me
+whatsapp-plus.me
 cdn.stream.schibsted.media
 codepush.appcenter.ms
 in.appcenter.ms
@@ -6592,6 +6609,7 @@ research.net
 at-config.sensic.net
 pov.spectrum.net
 te.technical-service.net
+whatsapp-plus.net
 yacy.net
 ad.nl
 disguised.nl
@@ -6609,7 +6627,10 @@ hotpornfile.org
 openjdk.org
 pastie.org
 traccar.org
+whatsapp.org
+whispersystems.org
 pamer.edu.pe
+telesco.pe
 cl-ad786718.edgecdn.ru
 sibnet.ru
 track24.ru
@@ -6626,14 +6647,18 @@ chip.com.tr
 tracker.animebytes.tv
 p.brid.tv
 services.brid.tv
+periscope.tv
+pscp.tv
 save.tv
 showup.tv
+whatsapp.tv
 ypu.edu.tw
 itad.linetv.tw
 catch.net.tw
 chnu.edu.ua
 tsatu.edu.ua
 netdirector.co.uk
+twitterstat.us
 nnmstatic.win
 myip.wtf
 rules2.clearurls.xyz
@@ -6762,10 +6787,9 @@ battle.net
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitter ##########
 
-# Ignored duplicates: 3
+# Ignored duplicates: 4
 
 ads-twitter.com
-twttr.com
 
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/leagueoflegends ##########
@@ -50281,6 +50305,7 @@ a.nf
 url.xcode.no
 u.nu
 1wrd.org
+nanourl.org
 urlx.org
 w3t.org
 short.pe
