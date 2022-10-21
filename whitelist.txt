@@ -6245,7 +6245,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 264
+# Ignored duplicates: 316
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6295,6 +6295,7 @@ xyaz.cn
 yhjxcj.cn
 z.cn
 zhongmin.cn
+cdnjs.cloudflare.co
 unicauca.edu.co
 i.shoosh.co
 v.shoosh.co
@@ -6313,6 +6314,7 @@ adultwork.com
 aeotec.com
 afternic.com
 content.aimatch.com
+akamaitechnologies.com
 component-ota-in.allawnos.com
 alvarotrigo.com
 info.ammex.com
@@ -6367,9 +6369,12 @@ wum97myjdw.ent-cdn.com
 thumbs-015.externulls.com
 faronics.com
 flirt4free.com
+formula1.com
 freeadultcomix.com
 fssquad.com
 funtrivia.com
+geo3.ggpht.com
+yt3.ggpht.com
 socialize.eu1.gigya.com
 gizmodern.com
 config-vvs.glomex.com
@@ -6377,6 +6382,7 @@ player.glomex.com
 player-feedback-v1.glomex.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
+gstatic.com
 i.hbrcdn.com
 s.hbrcdn.com
 hentaiheroes.com
@@ -6435,6 +6441,7 @@ static.parastorage.com
 pcapredict.com
 picclick.com
 plarium.com
+my.plexapp.com
 porn300.com
 videos.porndig.com
 cdn.privacy-mgmt.com
@@ -6494,6 +6501,7 @@ wpbeaches.com
 video.xxxjmp.com
 yagiay.com
 yep.com
+youtube-nocookie.com
 zeelool.com
 servix.idnes.cz
 ad-magazin.de
@@ -6548,6 +6556,7 @@ whatsapp.info
 whatsapp-plus.info
 cdn.elev.io
 formspree.io
+info.hyperproof.io
 cs.liiift.io
 mobile-data.onetrust.io
 polyfill.io
@@ -6574,6 +6583,10 @@ in.appcenter.ms
 apu.edu.my
 17track.net
 s3.ll.videorolls.row.aiv-cdn.net
+akamaihd.net
+akamaized.net
+f1-prod-production.dn.apigee.net
+f1-prod-production.apigee.net
 mask.apple-dns.net
 books-analytics-events.news.apple-dns.net
 notes-analytics-events.news.apple-dns.net
@@ -6581,6 +6594,7 @@ stocks-analytics-events.news.apple-dns.net
 weather-analytics-events.news.apple-dns.net
 image-ard-de-cddc.at-o.net
 cs636.wac.chicdn.net
+cdn.cloudflare.net
 lbnew.consentmanager.net
 get.contentpass.net
 searchg2.crownpeak.net
@@ -6592,6 +6606,9 @@ consentcdn.cookiebot.com-v1.edgekey.net
 consent.cookiebot.com-v2.edgekey.net
 mparticle.map.fastly.net
 consent.faz.net
+f1tv-cdn-cent-east.formula1.com.c.footprint.net
+f1tv-cdn-cent-live.formula1.com.c.footprint.net
+f1tv-cdn-cent-west.formula1.com.c.footprint.net
 330046g46.secure0032.hubspot.net
 330046.group46.sites.hubspot.net
 cds.b5g9b8e4.hwcdn.net
@@ -6609,6 +6626,7 @@ research.net
 at-config.sensic.net
 pov.spectrum.net
 te.technical-service.net
+uceprotect.net
 whatsapp-plus.net
 yacy.net
 ad.nl
@@ -8971,7 +8989,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 471
+# Ignored duplicates: 474
 
 js.media-lab.ai
 amazon.at
@@ -9085,9 +9103,7 @@ gap.com
 gawker.com
 forums.geforce.com
 gfycat.com
-geo3.ggpht.com
 nt3.ggpht.com
-yt3.ggpht.com
 gigaom.com
 giphy.com
 gitee.com
@@ -9270,7 +9286,6 @@ xboxlive.com
 xda-developers.com
 xkcd.com
 s.yimg.com
-youtube-nocookie.com
 yunfile.com
 zajefajna.com
 zippyshare.com
@@ -12813,7 +12828,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 737
+# Ignored duplicates: 741
 
 1hosts.cf
 abuse.ch
@@ -12827,7 +12842,6 @@ static.127777.com
 9to5google.com
 abebooks.com
 kb.adguard.com
-akamaitechnologies.com
 algolia.com
 alluremedia.com
 ocsp.sca1b.amazontrust.com
@@ -12878,7 +12892,6 @@ getpocket.com
 gizbot.com
 connect.googleforwork.com
 hotstar-sin.gravityrd-services.com
-gstatic.com
 hackaday.com
 hotstar.com
 secure-media1.hotstarext.com
@@ -12996,8 +13009,6 @@ mem.gfx.ms
 oneclient.sfx.ms
 a-msedge.net
 login.msa.akadns6.net
-akamaihd.net
-akamaized.net
 cdn.arstechnica.net
 media.arstechnica.net
 location-inference-westus.cloudapp.net
@@ -50347,7 +50358,7 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 172
+# Ignored duplicates: 174
 
 1drv.com
 amazonaws.com
@@ -50360,11 +50371,9 @@ dataplicity.com
 drift.com
 driftt.com
 traffic.libsyn.com
-my.plexapp.com
 tedcdn.com
 intercom.io
 brightcove.net
-cdn.cloudflare.net
 imgix.net
 api.rlje.net
 tawk.to
