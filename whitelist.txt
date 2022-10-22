@@ -6245,7 +6245,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 316
+# Ignored duplicates: 313
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6351,7 +6351,6 @@ cliphunter.com
 static.cloudflareinsights.com
 player.cnevids.com
 coininsider.com
-cws.conviva.com
 consent.cookiebot.com
 consentcdn.cookiebot.com
 static.cloud.coveo.com
@@ -6542,7 +6541,6 @@ tg.dev
 consent.dk
 iutoic-dhaka.edu
 ringling.edu
-cdn.braze.eu
 searchlab.eu
 cam4.fr
 bestgore.fun
@@ -6556,7 +6554,6 @@ whatsapp.info
 whatsapp-plus.info
 cdn.elev.io
 formspree.io
-info.hyperproof.io
 cs.liiift.io
 mobile-data.onetrust.io
 polyfill.io
@@ -6588,10 +6585,6 @@ akamaized.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 mask.apple-dns.net
-books-analytics-events.news.apple-dns.net
-notes-analytics-events.news.apple-dns.net
-stocks-analytics-events.news.apple-dns.net
-weather-analytics-events.news.apple-dns.net
 image-ard-de-cddc.at-o.net
 cs636.wac.chicdn.net
 cdn.cloudflare.net
@@ -50358,7 +50351,7 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 174
+# Ignored duplicates: 173
 
 1drv.com
 amazonaws.com
@@ -50366,6 +50359,7 @@ aspnetcdn.com
 ws.audioscrobbler.com
 secure.brightcove.com
 vidtech.cbsinteractive.com
+cws.conviva.com
 pings.conviva.com
 dataplicity.com
 drift.com
