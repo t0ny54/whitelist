@@ -6347,6 +6347,7 @@ devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
 includes.ccdc02.com
 s2.static.cfgr3.com
+target.clickfunnels.com
 cliphunter.com
 static.cloudflareinsights.com
 player.cnevids.com
