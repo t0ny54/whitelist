@@ -2,7 +2,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3744
+# Ignored duplicates: 3745
 
 bittorrent.am
 www.google.it.ao
@@ -1029,7 +1029,7 @@ firebog.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 51
+# Ignored duplicates: 52
 
 adc.api.nine.com.au
 grabo.bg
@@ -1230,6 +1230,7 @@ smartredirect.de
 stroeerdigitalpublishing.de
 wipe.de
 pdst.fm
+rb.gy
 ipinfo.info
 ad-shield.io
 airbrake.io
@@ -6245,7 +6246,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 313
+# Ignored duplicates: 311
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6308,7 +6309,6 @@ acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
 geo2.adobe.com
-static.adsafeprotected.com
 adultfriendfinder.com
 adultwork.com
 aeotec.com
@@ -6322,7 +6322,6 @@ play.aniview.com
 anon-v.com
 ansible.com
 unityprod.answerhub.com
-cdn-settings.appsflyersdk.com
 video-api.bostonglobe.arcpublishing.com
 video-api-cdn.bostonglobe.arcpublishing.com
 bostonglobe-prod.cdn.arcpublishing.com
@@ -6349,7 +6348,6 @@ includes.ccdc02.com
 s2.static.cfgr3.com
 target.clickfunnels.com
 cliphunter.com
-static.cloudflareinsights.com
 player.cnevids.com
 coininsider.com
 consent.cookiebot.com
@@ -6455,9 +6453,6 @@ api.revenuecat.com
 networkbest.ru.com
 images.salsify.com
 acr0.samsungcloudsolution.com
-1.chipde.damoh.schneevonmorgen.com
-2.chipde.damoh.schneevonmorgen.com
-1.gmxnet.damoh.schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
 i.sdacdn.com
@@ -6466,7 +6461,6 @@ faz.sevenval-fit.com
 ws.sharethis.com
 p.shure.com
 shutterstock.com
-similarweb.com
 sinastorage.com
 socpublic.com
 soso.com
@@ -6475,7 +6469,6 @@ shop.spreadshirt.com
 stripchat.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
-cdn.tagcommander.com
 talentwunder.com
 tarafdari.com
 dd.tidal.com
@@ -6532,7 +6525,6 @@ car.saturn.de
 pvn.saturn.de
 shopvote.de
 shop.strato.de
-cdn.stroeerdigitalgroup.de
 cmp.tvspielfilm.de
 wfcdn.de
 zinspilot.de
@@ -49693,7 +49685,7 @@ take2.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/url-shorteners ##########
 
-# Ignored duplicates: 332
+# Ignored duplicates: 333
 
 oyn.at
 lihi.biz
@@ -49716,7 +49708,6 @@ short.mypaste.fun
 han.gl
 ko.gl
 forms.gle
-rb.gy
 s.id
 bre.is
 rebrand.ly
