@@ -1029,7 +1029,7 @@ firebog.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 52
+# Ignored duplicates: 53
 
 adc.api.nine.com.au
 grabo.bg
@@ -4419,7 +4419,7 @@ pp.ua
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 470
+# Ignored duplicates: 472
 
 t.email1.samsung.ca
 view.email.nzz.ch
@@ -4464,10 +4464,11 @@ redirects.tradedoubler.com
 tracking.truthfinder.com
 link.wizzair.com
 promo.mobile.de
-lidl.media01.eu
+media01.eu
 t.emailing.monoprix.fr
 link.swa.info
 click.appcast.io
+glnk.io
 email.namebase.io
 c2.piano.io
 track.productsup.io
@@ -6246,7 +6247,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 311
+# Ignored duplicates: 312
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6499,7 +6500,6 @@ zeelool.com
 servix.idnes.cz
 ad-magazin.de
 prospekt.aldi-sued.de
-image.ard.de
 img.yana.asideas.de
 bloggerei.de
 china-gadgets.de
@@ -6578,7 +6578,6 @@ akamaized.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 mask.apple-dns.net
-image-ard-de-cddc.at-o.net
 cs636.wac.chicdn.net
 cdn.cloudflare.net
 lbnew.consentmanager.net
@@ -6619,6 +6618,7 @@ ad.nl
 disguised.nl
 netco.edu.np
 fakeshop-finder.nrw
+ero-labs.online
 ccf.admeen.org
 tcf.admeen.org
 anime-loads.org
@@ -12588,6 +12588,7 @@ pashaonline.pashabank.com.tr
 passolig.com.tr
 yenibayi.passotaksit.com.tr
 secure.payu.com.tr
+online.peple.com.tr
 sube.sekerbank.com.tr
 seninbankan.com.tr
 isube.tbank.com.tr
