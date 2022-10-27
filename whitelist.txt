@@ -6247,7 +6247,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 312
+# Ignored duplicates: 313
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6399,6 +6399,8 @@ a.klaviyo.com
 koisea.com
 ku6.com
 clientstream.launchdarkly.com
+collector.lightstep.com
+ingest.lightstep.com
 loveme.com
 mackeeper.com
 mailerlite.com
@@ -6426,6 +6428,7 @@ mypoints.com
 nairaland.com
 cdn-customers.nanorep.com
 newbedev.com
+p.nfltags.com
 nudevista.com
 nutaku.com
 activation.gfe.nvidia.com
@@ -6525,6 +6528,7 @@ car.saturn.de
 pvn.saturn.de
 shopvote.de
 shop.strato.de
+pix.sueddeutsche.de
 cmp.tvspielfilm.de
 wfcdn.de
 zinspilot.de
@@ -9479,7 +9483,7 @@ dssott.com.c.footprint.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 329
+# Ignored duplicates: 331
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -12582,11 +12586,11 @@ isube.kuveytturk.com.tr
 online.odeabank.com.tr
 online.osmanlimenkul.com.tr
 sube.oyakyatirim.com.tr
-isube.param.com.tr
-kurumsal.param.com.tr
+param.com.tr
 pashaonline.pashabank.com.tr
 passolig.com.tr
 yenibayi.passotaksit.com.tr
+bireysel.payfix.com.tr
 secure.payu.com.tr
 online.peple.com.tr
 sube.sekerbank.com.tr
@@ -12597,6 +12601,7 @@ esube.turkiyehayatemeklilik.com.tr
 dto.vakifbank.com.tr
 ekspertiz.vakifbank.com.tr
 kariyer.vakifbank.com.tr
+subesiz.vakifbank.com.tr
 subesizbankacilik.vakifbank.com.tr
 isube.vakifkatilim.com.tr
 yapikredi.com.tr
