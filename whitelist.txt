@@ -2,7 +2,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3745
+# Ignored duplicates: 3730
 
 bittorrent.am
 www.google.it.ao
@@ -218,6 +218,21 @@ webmd.com
 willyoupressthebutton.com
 wjunction.com
 xkms.xbolive.com
+attestation.xboxlive.com
+device.auth.xboxlive.com
+title.auth.xboxlive.com
+xsts.auth.xboxlive.com
+def-vef.xboxlive.com
+eds.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+licensing.xboxlive.com
+cert.mgt.xboxlive.com
+title.mgt.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+www.xboxlive.com
+xflight.xboxlive.com
+xkms.xboxlive.com
 xhamster.com
 3.xhcdn.com
 static-cl.xhcdn.com
@@ -689,7 +704,7 @@ update.drp.su
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
-# Ignored duplicates: 229
+# Ignored duplicates: 230
 
 adservice.google.ac
 adservice.google.af
@@ -747,7 +762,6 @@ click.icptrack.com
 ct.impactradius.com
 customtraffic.impactradius.com
 email-tracking.infobip.com
-links.iterable.com
 jdoqocy.com
 www.kdukvh.com
 trk.klclick.com
@@ -1131,6 +1145,7 @@ ip-adress.com
 ip-api.com
 ip2location.com
 ipstack.com
+iterable.com
 jango.com
 justanswer.com
 kaptcha.com
@@ -8979,7 +8994,7 @@ steamgames.net
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 475
+# Ignored duplicates: 461
 
 js.media-lab.ai
 amazon.at
@@ -9272,7 +9287,6 @@ wired.com
 static.wixstatic.com
 wordpress.com
 wtkr.com
-xboxlive.com
 xda-developers.com
 xkcd.com
 s.yimg.com
