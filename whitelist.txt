@@ -6324,6 +6324,7 @@ abuelos.com
 acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
+addthisevent.com
 geo2.adobe.com
 adultfriendfinder.com
 adultwork.com
@@ -6481,6 +6482,7 @@ ws.sharethis.com
 p.shure.com
 shutterstock.com
 sinastorage.com
+pixel.disco.skyshowtime.com
 socpublic.com
 soso.com
 i01.sozcucdn.com
