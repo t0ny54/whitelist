@@ -6651,6 +6651,7 @@ static.fastpic.org
 hotpornfile.org
 openjdk.org
 pastie.org
+sdk.privacy-center.org
 traccar.org
 whatsapp.org
 whispersystems.org
@@ -49820,7 +49821,7 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 579
+# Ignored duplicates: 580
 
 a.run.app
 ipv4only.arpa
@@ -50122,7 +50123,6 @@ ocsp.int-x3.letsencrypt.org
 ocsp.int-x4.letsencrypt.org
 nanopool.org
 www-tc.pbs.org
-sdk.privacy-center.org
 windowupdate.org
 yerl.org
 ipredator.se
