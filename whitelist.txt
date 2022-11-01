@@ -1043,7 +1043,7 @@ firebog.net
 
 ########## Whitelist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 53
+# Ignored duplicates: 54
 
 adc.api.nine.com.au
 grabo.bg
@@ -6407,6 +6407,7 @@ ads-fa-darwin.hulustream.com
 d.ifengimg.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
+cloud-news.ionos.com
 ipaddress.com
 media.itsfogo.com
 scmedia.itsfogo.com
@@ -6418,6 +6419,7 @@ clientstream.launchdarkly.com
 collector.lightstep.com
 ingest.lightstep.com
 loveme.com
+lowendbox.com
 mackeeper.com
 mailerlite.com
 majesticseo.com
@@ -6478,6 +6480,7 @@ embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
 faz.sevenval-fit.com
+shalltry.com
 ws.sharethis.com
 p.shure.com
 shutterstock.com
@@ -6559,6 +6562,7 @@ ringling.edu
 searchlab.eu
 cam4.fr
 bestgore.fun
+lnks.gd
 tracker.gg
 hecom.com.hk
 files.im
@@ -6632,6 +6636,7 @@ compass.pressekompass.net
 research.net
 at-config.sensic.net
 pov.spectrum.net
+streamsb.net
 te.technical-service.net
 uceprotect.net
 whatsapp-plus.net
@@ -50149,6 +50154,7 @@ s.ggwp.be
 kissa.be
 incu.ca
 tinyuri.ca
+link.cc
 twurl.cc
 xzb.cc
 adcrun.ch
