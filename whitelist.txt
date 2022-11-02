@@ -6262,7 +6262,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 313
+# Ignored duplicates: 314
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6524,7 +6524,6 @@ servix.idnes.cz
 ad-magazin.de
 prospekt.aldi-sued.de
 img.yana.asideas.de
-bloggerei.de
 china-gadgets.de
 api.chip-secured-download.de
 co.de
@@ -6588,6 +6587,7 @@ yu.ac.kr
 smart.link
 overseas.edu.lk
 limetorrents.lol
+view.genial.ly
 tracker.beyond-hd.me
 rojadirecta.me
 scnlog.me
