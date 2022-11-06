@@ -808,6 +808,7 @@ link.digitaladvisor.dk
 adservice.google.ec
 adservice.google.eu
 adservice.google.film
+solution.weborama.fr
 adservice.google.gd
 adservice.google.gf
 adservice.google.gp
@@ -4434,7 +4435,7 @@ pp.ua
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 472
+# Ignored duplicates: 473
 
 t.email1.samsung.ca
 view.email.nzz.ch
