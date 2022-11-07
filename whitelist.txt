@@ -4430,6 +4430,7 @@ now.sh
 surge.sh
 naifei.shop
 rarbg.to
+hqq.tv
 pp.ua
 
 
@@ -6263,7 +6264,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 314
+# Ignored duplicates: 315
 
 sp-ao.shortpixel.ai
 domaintechnik.at
