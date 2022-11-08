@@ -6264,7 +6264,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 315
+# Ignored duplicates: 303
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6347,6 +6347,7 @@ bostonglobe-prod.cdn.arcpublishing.com
 madsack-prod-cdn.video-api.arcpublishing.com
 www.asadcdn.com
 de.aukey.com
+avis-verifies.com
 player.avplayer.com
 awxcdn.com
 staticweb.ecglb.bac.com
@@ -6625,6 +6626,7 @@ f1tv-cdn-cent-west.formula1.com.c.footprint.net
 330046g46.secure0032.hubspot.net
 330046.group46.sites.hubspot.net
 cds.b5g9b8e4.hwcdn.net
+iframely.net
 relay-client-c03.iocnt.net
 rtl-relay.iocnt.net
 blogroll.livedoor.net
@@ -6652,6 +6654,7 @@ ccf.admeen.org
 tcf.admeen.org
 anime-loads.org
 cdnbunny.org
+click.e.change.org
 chinatruck.org
 learn.cisecurity.org
 consentmanager.mgr.consensu.org
