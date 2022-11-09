@@ -1069,6 +1069,7 @@ p.d.1enm.com
 91mobiles.com
 a2z.com
 try.abtasty.com
+static.addtoany.com
 admitad.com
 adobedtm.com
 loader.adrelayer.com
@@ -4505,7 +4506,7 @@ analytics.barnebys.sh
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 230
+# Ignored duplicates: 231
 
 theship.club
 cpro.baidu.cn
@@ -4534,7 +4535,6 @@ survey.foreseeresults.com
 metrics.foxnews.com
 smetrics.foxnews.com
 gameloft.com
-collector.githubapp.com
 api.glympse.com
 viewer.content.glympse.com
 pronivydigital.go2affise.com
@@ -6264,11 +6264,10 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 303
+# Ignored duplicates: 229
 
 sp-ao.shortpixel.ai
 domaintechnik.at
-nudevista.at
 sportsbet.com.au
 content-media.bonial.biz
 flvto.biz
@@ -6288,7 +6287,6 @@ cggc.cn
 chrunlee.cn
 ccgslb.com.cn
 htpm.com.cn
-feedbackws.icloud.com.cn
 rayli.com.cn
 gxuwz.edu.cn
 sea.net.edu.cn
@@ -6327,9 +6325,6 @@ acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
 addthisevent.com
-geo2.adobe.com
-adultfriendfinder.com
-adultwork.com
 aeotec.com
 afternic.com
 content.aimatch.com
@@ -6338,7 +6333,6 @@ component-ota-in.allawnos.com
 alvarotrigo.com
 info.ammex.com
 play.aniview.com
-anon-v.com
 ansible.com
 unityprod.answerhub.com
 video-api.bostonglobe.arcpublishing.com
@@ -6357,7 +6351,6 @@ marvel-b1-cdn.bc0a.com
 cdn.bitmovin.com
 geoim.bloomberght.com
 vms.bluebillywig.com
-bongacams.com
 amp-api-prd.bostonglobe.com
 browserhow.com
 api.bufferapp.com
@@ -6367,15 +6360,11 @@ production-cmp.isgprivacy.cbsi.com
 includes.ccdc02.com
 s2.static.cfgr3.com
 target.clickfunnels.com
-cliphunter.com
 player.cnevids.com
 coininsider.com
-consent.cookiebot.com
-consentcdn.cookiebot.com
 static.cloud.coveo.com
 deskpi.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
-c.disquscdn.com
 images.dmca.com
 cdn.dnsv1.com
 engine.phn.doublepimp.com
@@ -6386,14 +6375,14 @@ ekomi.com
 wum97myjdw.ent-cdn.com
 thumbs-015.externulls.com
 faronics.com
-flirt4free.com
 formula1.com
-freeadultcomix.com
 fssquad.com
 funtrivia.com
 geo3.ggpht.com
 yt3.ggpht.com
 socialize.eu1.gigya.com
+githubapp.com
+githubassets.com
 gizmodern.com
 config-vvs.glomex.com
 player.glomex.com
@@ -6403,7 +6392,6 @@ static.gmlinteractive.com
 gstatic.com
 i.hbrcdn.com
 s.hbrcdn.com
-hentaiheroes.com
 hexun.com
 hugedomains.com
 ads-fa-darwin.hulustream.com
@@ -6421,7 +6409,6 @@ ku6.com
 clientstream.launchdarkly.com
 collector.lightstep.com
 ingest.lightstep.com
-loveme.com
 lowendbox.com
 mackeeper.com
 mailerlite.com
@@ -6450,10 +6437,7 @@ nairaland.com
 cdn-customers.nanorep.com
 newbedev.com
 p.nfltags.com
-nudevista.com
 nutaku.com
-activation.gfe.nvidia.com
-services.gfe.nvidia.com
 bdc2020.o0bc.com
 cdn.opecloud.com
 tagger.opecloud.com
@@ -6464,15 +6448,11 @@ static.parastorage.com
 pcapredict.com
 picclick.com
 plarium.com
-my.plexapp.com
-porn300.com
 videos.porndig.com
 cdn.privacy-mgmt.com
 publitas.com
-pumaslove.com
 ablink.account.quizlet.com
 assets.realclear.com
-reallifecam.com
 cdn.rebuyengine.com
 api.revenuecat.com
 networkbest.ru.com
@@ -6493,7 +6473,6 @@ socpublic.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
-stripchat.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
 talentwunder.com
@@ -6562,7 +6541,6 @@ consent.dk
 iutoic-dhaka.edu
 ringling.edu
 searchlab.eu
-cam4.fr
 bestgore.fun
 lnks.gd
 tracker.gg
@@ -6575,8 +6553,8 @@ whatsapp.info
 whatsapp-plus.info
 cdn.elev.io
 formspree.io
+ghcr.io
 cs.liiift.io
-mobile-data.onetrust.io
 polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
@@ -6616,8 +6594,7 @@ edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
 cdn-kaltura-dscd.edgekey.net
-consentcdn.cookiebot.com-v1.edgekey.net
-consent.cookiebot.com-v2.edgekey.net
+github.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
@@ -6633,12 +6610,9 @@ blogroll.livedoor.net
 windowsupdate.s.llnwi.net
 image.ccg.nintendo.net
 nutaku.net
-images.nvidiagrid.net
-perfectgirls.net
 tra.scds.pmdstatic.net
 compass.pressekompass.net
 research.net
-at-config.sensic.net
 pov.spectrum.net
 streamsb.net
 te.technical-service.net
@@ -6659,7 +6633,6 @@ chinatruck.org
 learn.cisecurity.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
-hotpornfile.org
 openjdk.org
 pastie.org
 sdk.privacy-center.org
@@ -6687,7 +6660,6 @@ services.brid.tv
 periscope.tv
 pscp.tv
 save.tv
-showup.tv
 whatsapp.tv
 ypu.edu.tw
 itad.linetv.tw
@@ -6695,6 +6667,8 @@ catch.net.tw
 chnu.edu.ua
 tsatu.edu.ua
 netdirector.co.uk
+o.ss2.us
+s.ss2.us
 twitterstat.us
 nnmstatic.win
 myip.wtf
@@ -49832,7 +49806,7 @@ ext-twitch.tv
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 580
+# Ignored duplicates: 579
 
 a.run.app
 ipv4only.arpa
@@ -49908,6 +49882,7 @@ down-cdn.dingtalk.com
 file.dingtalk.com
 h5.dingtalk.com
 static.dingtalk.com
+c.disquscdn.com
 t.en25.com
 playerstatic.entropymedia.com
 api.fast.com
@@ -50377,7 +50352,7 @@ tinyarro.ws
 
 ########## Whitelist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 173
+# Ignored duplicates: 172
 
 1drv.com
 amazonaws.com
@@ -50391,6 +50366,7 @@ dataplicity.com
 drift.com
 driftt.com
 traffic.libsyn.com
+my.plexapp.com
 tedcdn.com
 intercom.io
 brightcove.net
