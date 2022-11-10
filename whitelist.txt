@@ -178,6 +178,7 @@ cdp.rapidssl.com
 status.rapidssl.com
 cdn.ravenjs.com
 reddit.com
+click.redditmail.com
 redditmedia.com
 redditstatic.com
 imworld.rediff.com
@@ -704,7 +705,7 @@ update.drp.su
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
-# Ignored duplicates: 230
+# Ignored duplicates: 231
 
 adservice.google.ac
 adservice.google.af
@@ -786,7 +787,6 @@ pntrack.com
 tracking.publicidees.com
 syndication.realsrv.com
 rebrandlydomain.com
-click.redditmail.com
 sailthru.com
 bs.serving-sys.com
 shareasale.com
@@ -6264,7 +6264,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 229
+# Ignored duplicates: 272
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6455,7 +6455,6 @@ ablink.account.quizlet.com
 assets.realclear.com
 cdn.rebuyengine.com
 api.revenuecat.com
-networkbest.ru.com
 images.salsify.com
 acr0.samsungcloudsolution.com
 tracker.scoober.com
@@ -50272,6 +50271,7 @@ ume.la
 vo.la
 tik.lat
 did.li
+m-i.li
 xip.li
 b.link
 grabify.link
