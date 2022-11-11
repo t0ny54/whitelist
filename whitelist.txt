@@ -2,7 +2,7 @@
 
 ########## Whitelist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3730
+# Ignored duplicates: 3745
 
 bittorrent.am
 www.google.it.ao
@@ -219,21 +219,6 @@ webmd.com
 willyoupressthebutton.com
 wjunction.com
 xkms.xbolive.com
-attestation.xboxlive.com
-device.auth.xboxlive.com
-title.auth.xboxlive.com
-xsts.auth.xboxlive.com
-def-vef.xboxlive.com
-eds.xboxlive.com
-xboxexperiencesprod.experimentation.xboxlive.com
-licensing.xboxlive.com
-cert.mgt.xboxlive.com
-title.mgt.xboxlive.com
-notify.xboxlive.com
-help.ui.xboxlive.com
-www.xboxlive.com
-xflight.xboxlive.com
-xkms.xboxlive.com
 xhamster.com
 3.xhcdn.com
 static-cl.xhcdn.com
@@ -1077,6 +1062,7 @@ adswizz.com
 adtechus.com
 advcash.com
 adverigo.com
+affiliatly.com
 affirm.com
 agilecrm.com
 albacross.com
@@ -4470,6 +4456,7 @@ go.nextiva.com
 click.mail.onedrive.com
 image.mail.onedrive.com
 postaffiliatepro.com
+newslink.reuters.com
 app.e.sigsauer.com
 a.slashdotmedia.com
 click.snapshat.com
@@ -4506,7 +4493,7 @@ analytics.barnebys.sh
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 231
+# Ignored duplicates: 234
 
 theship.club
 cpro.baidu.cn
@@ -4721,9 +4708,6 @@ ms-vibbo--api-gateway.spain.schibsted.io
 profile-api.spt-mkt-trust-pro.schibsted.io
 cdn.svp.schibsted.io
 profile-api.trust.schibsted.io
-pop-iad-2.cf.dash.row.aiv-cdn.net
-s3-iad-2.cf.dash.row.aiv-cdn.net
-s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 3p.ampproject.net
 carbonads.net
 daumcdn.net
@@ -6264,7 +6248,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 272
+# Ignored duplicates: 309
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6273,6 +6257,7 @@ content-media.bonial.biz
 flvto.biz
 tm.jsuol.com.br
 ifbaiano.edu.br
+paypal.ca
 tracker.alpharatio.cc
 uu.cc
 whatsapp.cc
@@ -6318,7 +6303,8 @@ i.shoosh.co
 v.shoosh.co
 twitter.co
 fy.v.vrv.co
-doh.dns.apple.com.v.aaplimg.com
+steampowered.com.8686c.com
+steamstatic.com.8686c.com
 above.com
 abuelos.com
 acsechocaptiveportal.com
@@ -6363,11 +6349,16 @@ target.clickfunnels.com
 player.cnevids.com
 coininsider.com
 static.cloud.coveo.com
+dailycaller.com
 deskpi.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
+discordstatus.com
+disneyplus.com
+c.disquscdn.com
 images.dmca.com
 cdn.dnsv1.com
 engine.phn.doublepimp.com
+dssott.com
 embed.dugout.com
 assets.dwell.com
 images.dwell.com
@@ -6404,6 +6395,7 @@ media.itsfogo.com
 scmedia.itsfogo.com
 cdnapisec.kaltura.com
 a.klaviyo.com
+js.klevu.com
 koisea.com
 ku6.com
 clientstream.launchdarkly.com
@@ -6437,8 +6429,12 @@ nairaland.com
 cdn-customers.nanorep.com
 newbedev.com
 p.nfltags.com
+nintendo.com
 nutaku.com
+activation.gfe.nvidia.com
+services.gfe.nvidia.com
 bdc2020.o0bc.com
+twitch.okta.com
 cdn.opecloud.com
 tagger.opecloud.com
 api.opinary.com
@@ -6448,6 +6444,7 @@ static.parastorage.com
 pcapredict.com
 picclick.com
 plarium.com
+playstation.com
 videos.porndig.com
 cdn.privacy-mgmt.com
 publitas.com
@@ -6469,9 +6466,19 @@ shutterstock.com
 sinastorage.com
 pixel.disco.skyshowtime.com
 socpublic.com
+sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
+steam-chat.com
+steamchina.com
+steamcommunity.com
+steamcontent.com
+steamgames.com
+steampowered.com
+steamstatic.com
+steamusercontent.com
+stylitics.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
 talentwunder.com
@@ -6490,12 +6497,17 @@ twttr.com
 fr-lb.ultimedia.com
 answers.unity.com
 uptodatefinishconferenceroom.com
+valvesoftware.com
 cname.vercel-dns.com
 ads.videoadex.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 whatsappbrand.com
 wpbeaches.com
+xbox.com
+xboxab.com
+xboxlive.com
+xboxservices.com
 video.xxxjmp.com
 yagiay.com
 yep.com
@@ -6540,6 +6552,7 @@ consent.dk
 iutoic-dhaka.edu
 ringling.edu
 searchlab.eu
+ioc.exchange
 bestgore.fun
 lnks.gd
 tracker.gg
@@ -6550,6 +6563,7 @@ vanividyalaya.edu.in
 wcc.edu.in
 whatsapp.info
 whatsapp-plus.info
+applicationinsights.io
 cdn.elev.io
 formspree.io
 ghcr.io
@@ -6578,12 +6592,12 @@ codepush.appcenter.ms
 in.appcenter.ms
 apu.edu.my
 17track.net
-s3.ll.videorolls.row.aiv-cdn.net
+aiv-cdn.net
+aiv-delivery.net
 akamaihd.net
 akamaized.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
-mask.apple-dns.net
 cs636.wac.chicdn.net
 cdn.cloudflare.net
 lbnew.consentmanager.net
@@ -6591,32 +6605,52 @@ get.contentpass.net
 searchg2.crownpeak.net
 edge-irl1.demdex.net
 gslb-2.demdex.net
+disney-plus.net
 dynu.net
 cdn-kaltura-dscd.edgekey.net
+playstation.com.edgekey.net
+xboxlive.com.edgekey.net
+dss.map.fastly.net
 github.map.fastly.net
 mparticle.map.fastly.net
+paypal.map.fastly.net
+twitch.map.fastly.net
+paypal-dynamic-map.fastly.net
 consent.faz.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
+xboxlive.com.c.footprint.net
+aiv-cdn.net.c.footprint.net
 330046g46.secure0032.hubspot.net
 330046.group46.sites.hubspot.net
 cds.b5g9b8e4.hwcdn.net
 iframely.net
 relay-client-c03.iocnt.net
 rtl-relay.iocnt.net
+jtvnw.net
+live-video.net
 blogroll.livedoor.net
+sonyjpnpsg-1.hs.llnwd.net
+sonycoment.loris-e.llnwd.net
 windowsupdate.s.llnwi.net
-image.ccg.nintendo.net
+nintendo.net
+nintendowifi.net
 nutaku.net
+images.nvidiagrid.net
 tra.scds.pmdstatic.net
 compass.pressekompass.net
+pv-cdn.net
 research.net
 pov.spectrum.net
 streamsb.net
 te.technical-service.net
+ttvnw.net
+twitchcdn.net
+twitchsvc.net
 uceprotect.net
 whatsapp-plus.net
+xboxab.net
 yacy.net
 ad.nl
 disguised.nl
@@ -6648,6 +6682,7 @@ static.share-videos.se
 qoo10.sg
 gateway.scarf.sh
 voe.sx
+s.team
 atsn.ac.th
 kanlayanee.ac.th
 tracker.avistaz.to
@@ -6656,9 +6691,11 @@ chip.com.tr
 tracker.animebytes.tv
 p.brid.tv
 services.brid.tv
+ext-twitch.tv
 periscope.tv
 pscp.tv
 save.tv
+twitch.tv
 whatsapp.tv
 ypu.edu.tw
 itad.linetv.tw
@@ -6666,6 +6703,7 @@ catch.net.tw
 chnu.edu.ua
 tsatu.edu.ua
 netdirector.co.uk
+paypal.co.uk
 o.ss2.us
 s.ss2.us
 twitterstat.us
@@ -6810,7 +6848,8 @@ lol.riotgames.com
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/xboxlive ##########
 
-xbox.com
+# Ignored duplicates: 1
+
 xboxlive.xom
 
 
@@ -8653,7 +8692,7 @@ standardbank.co.za
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
-# Ignored duplicates: 48
+# Ignored duplicates: 50
 
 google.ad
 amazon.ae
@@ -8742,7 +8781,6 @@ nextdns.com
 nike.com
 outlook.com
 pizzahut.com
-playstation.com
 pornhub.com
 roblox.com
 ryanair.com
@@ -8752,7 +8790,6 @@ santanderbank.com
 sears.com
 sephora.com
 spankbang.com
-steamcommunity.com
 taobao.com
 target.com
 tmall.com
@@ -8969,19 +9006,15 @@ google.co.zw
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/steam ##########
 
-# Ignored duplicates: 6
+# Ignored duplicates: 10
 
-steam-chat.com
-steamgames.com
-steampowered.com
-steamstatic.com
 poweredbysteam.net
 steamgames.net
 
 
 ########## Whitelist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 459
+# Ignored duplicates: 461
 
 js.media-lab.ai
 amazon.at
@@ -9220,7 +9253,6 @@ scribd.com
 sendspace.com
 slate.com
 solidfiles.com
-id.sonyentertainmentnetwork.com
 spiceworks.com
 ssl-images-amazon.com
 stackexchange.com
@@ -9457,7 +9489,6 @@ tofukko.r.ribbon.to
 uploaded.to
 disclose.tv
 ipla.tv
-twitch.tv
 news.ebc.net.tw
 bing.co.uk
 express.co.uk
@@ -9467,12 +9498,9 @@ gitcdn.xyz
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/disneyplus ##########
 
-# Ignored duplicates: 1
+# Ignored duplicates: 4
 
-disneyplus.com
-dssott.com
 disneyplus.disney.co.jp
-disney-plus.net
 dssott.com.c.footprint.net
 
 
@@ -9890,6 +9918,7 @@ fbwebpos.com
 fednetbank.com
 feniciabank.com
 finansonline.com
+finecobank.com
 firstbankcard.com
 fnbba.com
 mybank.fortebank.com
@@ -49793,19 +49822,13 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch ##########
 
-# Ignored duplicates: 1
+# Ignored duplicates: 7
 
-twitch.map.fastly.net
-jtvnw.net
-ttvnw.net
-twitchcdn.net
-twitchsvc.net
-ext-twitch.tv
 
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 579
+# Ignored duplicates: 581
 
 a.run.app
 ipv4only.arpa
@@ -49881,7 +49904,6 @@ down-cdn.dingtalk.com
 file.dingtalk.com
 h5.dingtalk.com
 static.dingtalk.com
-c.disquscdn.com
 t.en25.com
 playerstatic.entropymedia.com
 api.fast.com
@@ -50025,7 +50047,6 @@ traffic.megaphone.fm
 jvc.gg
 ocsp.pki.goog
 www.sdad.guru
-breeze.aimon.applicationinsights.io
 api.flexpool.io
 geojs.io
 appcloud.ironbeast.io
