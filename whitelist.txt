@@ -1161,6 +1161,7 @@ adcr.naver.com
 neobux.com
 nicequest.com
 nimiq.com
+www.npttech.com
 octafx.com
 olymptrade.com
 onelink-translations.com
@@ -6345,6 +6346,7 @@ devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
 includes.ccdc02.com
 s2.static.cfgr3.com
+services.chipotle.com
 target.clickfunnels.com
 player.cnevids.com
 coininsider.com
@@ -6449,6 +6451,7 @@ videos.porndig.com
 cdn.privacy-mgmt.com
 publitas.com
 ablink.account.quizlet.com
+d3tracking.rbc.com
 assets.realclear.com
 cdn.rebuyengine.com
 api.revenuecat.com
