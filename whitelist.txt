@@ -1022,6 +1022,7 @@ whatsapp.net
 # Ignored duplicates: 5
 
 gitlab.com
+github.dev
 hostfiles.frogeye.fr
 github.io
 firebog.net
@@ -6249,7 +6250,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 309
+# Ignored duplicates: 315
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6306,6 +6307,7 @@ twitter.co
 fy.v.vrv.co
 steampowered.com.8686c.com
 steamstatic.com.8686c.com
+doh.dns.apple.com.v.aaplimg.com
 above.com
 abuelos.com
 acsechocaptiveportal.com
@@ -6322,6 +6324,7 @@ info.ammex.com
 play.aniview.com
 ansible.com
 unityprod.answerhub.com
+appsumo.com
 video-api.bostonglobe.arcpublishing.com
 video-api-cdn.bostonglobe.arcpublishing.com
 bostonglobe-prod.cdn.arcpublishing.com
@@ -6575,6 +6578,7 @@ polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
 qt.io
+sdk.split.io
 tyk.io
 scenarieconomici.it
 ftp.iij.ad.jp
@@ -6601,6 +6605,7 @@ akamaihd.net
 akamaized.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
+apple-dns.net
 cs636.wac.chicdn.net
 cdn.cloudflare.net
 lbnew.consentmanager.net
@@ -12853,7 +12858,7 @@ pin.it
 
 ########## Whitelist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 741
+# Ignored duplicates: 742
 
 1hosts.cf
 abuse.ch
@@ -12873,7 +12878,6 @@ ocsp.sca1b.amazontrust.com
 developer.android.com
 aolcdn.com
 cdn.apple-mapkit.com
-appsumo.com
 api.apptentive.com
 askvg.com
 bitbucket-marketing-cdn.atlassian.com
@@ -49831,7 +49835,7 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 581
+# Ignored duplicates: 582
 
 a.run.app
 ipv4only.arpa
@@ -50072,7 +50076,6 @@ static.3001.net
 8ch.net
 crunchyroll.adtrackers.net
 serve.adtrackers.net
-gateway.fe.apple-dns.net
 crunchyroll.bannertrack.net
 codecanyon.net
 blog.csdn.net
