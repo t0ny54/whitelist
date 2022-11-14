@@ -201,6 +201,7 @@ tdw.telkomsel.com
 themoviedb.com
 thetvdb.com
 imgk.timesnownews.com
+m.recipes.timesofindia.com
 tinyurl.com
 tomshardware.com
 cdn.transifex.com
@@ -6250,7 +6251,7 @@ primevideo.com
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 315
+# Ignored duplicates: 329
 
 sp-ao.shortpixel.ai
 domaintechnik.at
@@ -6353,8 +6354,10 @@ services.chipotle.com
 target.clickfunnels.com
 player.cnevids.com
 coininsider.com
+epg.corio.com
 static.cloud.coveo.com
 dailycaller.com
+tv.deezer.com
 deskpi.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
 discordstatus.com
@@ -6388,6 +6391,8 @@ static.gmlinteractive.com
 gstatic.com
 i.hbrcdn.com
 s.hbrcdn.com
+location-api.hdhomerun.com
+tuner-api.hdhomerun.com
 hexun.com
 hugedomains.com
 ads-fa-darwin.hulustream.com
@@ -6404,6 +6409,7 @@ js.klevu.com
 koisea.com
 ku6.com
 clientstream.launchdarkly.com
+us.lgtvsdp.com
 collector.lightstep.com
 ingest.lightstep.com
 lowendbox.com
@@ -6432,6 +6438,7 @@ mycliplister.com
 mypoints.com
 nairaland.com
 cdn-customers.nanorep.com
+deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
 nintendo.com
@@ -6442,11 +6449,13 @@ bdc2020.o0bc.com
 twitch.okta.com
 cdn.opecloud.com
 tagger.opecloud.com
+geo.opera.com
 api.opinary.com
 widgets.opinary.com
 cdn.otstatic.com
 static.parastorage.com
 pcapredict.com
+www.ecdinterface.philips.com
 picclick.com
 plarium.com
 playstation.com
@@ -6459,7 +6468,11 @@ assets.realclear.com
 cdn.rebuyengine.com
 api.revenuecat.com
 images.salsify.com
+otn.samsungcloudcdn.com
 acr0.samsungcloudsolution.com
+samsungosp.com
+gpm.samsungqbe.com
+osb-ussvc.samsungqbe.com
 tracker.scoober.com
 embed.scribblelive.com
 i.sdacdn.com
@@ -6504,8 +6517,13 @@ fr-lb.ultimedia.com
 answers.unity.com
 uptodatefinishconferenceroom.com
 valvesoftware.com
+vcs.vdspf.com
 cname.vercel-dns.com
 ads.videoadex.com
+announcements.vizio.com
+api.vizio.com
+images.vizio.com
+apicache.vudu.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 whatsappbrand.com
@@ -6516,12 +6534,14 @@ xboxlive.com
 xboxservices.com
 video.xxxjmp.com
 yagiay.com
+avpro.global.yamaha.com
 yep.com
 youtube-nocookie.com
 zeelool.com
 servix.idnes.cz
 ad-magazin.de
 prospekt.aldi-sued.de
+itv.ard.de
 img.yana.asideas.de
 china-gadgets.de
 api.chip-secured-download.de
@@ -6542,6 +6562,8 @@ videos.kino.de
 store.minisforum.de
 nickles.de
 pcwelt.de
+hbbtv.prosieben.de
+hbbtv.redbutton.de
 data-191b2429e8.rtl.de
 car.saturn.de
 pvn.saturn.de
@@ -6550,6 +6572,7 @@ shop.strato.de
 pix.sueddeutsche.de
 cmp.tvspielfilm.de
 wfcdn.de
+hbbtv.zdf.de
 zinspilot.de
 lush-clouds.zomap.de
 swankyrule.zomap.de
@@ -6562,6 +6585,7 @@ ioc.exchange
 bestgore.fun
 lnks.gd
 tracker.gg
+time-a.timefreq.bldrdoc.gov
 hecom.com.hk
 files.im
 iitrpr.ac.in
@@ -6570,6 +6594,7 @@ wcc.edu.in
 whatsapp.info
 whatsapp-plus.info
 applicationinsights.io
+canarymail.io
 cdn.elev.io
 formspree.io
 ghcr.io
@@ -6578,6 +6603,9 @@ polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
 qt.io
+auth.split.io
+cdn.split.io
+events.split.io
 sdk.split.io
 tyk.io
 scenarieconomici.it
@@ -6585,6 +6613,8 @@ ftp.iij.ad.jp
 stat100.ameba.jp
 mut.ac.ke
 yu.ac.kr
+infolink.pavv.co.kr
+ns11.whois.co.kr
 smart.link
 overseas.edu.lk
 limetorrents.lol
@@ -6606,6 +6636,7 @@ akamaized.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 apple-dns.net
+axiadids.net
 cs636.wac.chicdn.net
 cdn.cloudflare.net
 lbnew.consentmanager.net
@@ -6615,6 +6646,7 @@ edge-irl1.demdex.net
 gslb-2.demdex.net
 disney-plus.net
 dynu.net
+cdns-content.dzcdn.net
 cdn-kaltura-dscd.edgekey.net
 playstation.com.edgekey.net
 xboxlive.com.edgekey.net
@@ -6650,6 +6682,15 @@ tra.scds.pmdstatic.net
 compass.pressekompass.net
 pv-cdn.net
 research.net
+configprd.samsungcloudsolution.net
+lcprd1.samsungcloudsolution.net
+otnprd10.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+samsungotn.net
+samsungrm.net
+applicast.ga.sony.net
 pov.spectrum.net
 streamsb.net
 te.technical-service.net
@@ -6665,6 +6706,7 @@ disguised.nl
 netco.edu.np
 fakeshop-finder.nrw
 ero-labs.online
+drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
 anime-loads.org
@@ -6700,9 +6742,24 @@ tracker.animebytes.tv
 p.brid.tv
 services.brid.tv
 ext-twitch.tv
+mhc-ajax-eu.myhomescreen.tv
+mhc-ajax-eu-s2.myhomescreen.tv
+mhc-ajax-us.myhomescreen.tv
+mhc-eu.myhomescreen.tv
+mhc-us.myhomescreen.tv
+mhc-xpana-eu.myhomescreen.tv
+mhc-xpana-eu-s2.myhomescreen.tv
+mhc-xpana-us.myhomescreen.tv
 periscope.tv
 pscp.tv
+platform.cid.samba.tv
 save.tv
+reg.biv.sony.tv
+service.biv.sony.tv
+update.biv.sony.tv
+ssm1.internet.sony.tv
+ssm2.internet.sony.tv
+ssm3.internet.sony.tv
 twitch.tv
 whatsapp.tv
 ypu.edu.tw
@@ -49835,7 +49892,7 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 582
+# Ignored duplicates: 583
 
 a.run.app
 ipv4only.arpa
@@ -49970,7 +50027,6 @@ api-02.moengage.com
 myfox8.com
 lads.myspacecdn.com
 email.netlify.com
-deviceportal.nettvservices.com
 static.networkedblogs.com
 yandex.ocsp-responder.com
 api.onedrive.com
