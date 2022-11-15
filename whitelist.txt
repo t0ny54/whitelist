@@ -1344,6 +1344,7 @@ ahd.ruten.com.tw
 2ip.ua
 sa.bbc.co.uk
 geni.us
+za.zdn.vn
 trust.zone
 
 
@@ -6731,6 +6732,7 @@ doh.dns.sb
 static.share-videos.se
 qoo10.sg
 gateway.scarf.sh
+norden.social
 voe.sx
 s.team
 atsn.ac.th
