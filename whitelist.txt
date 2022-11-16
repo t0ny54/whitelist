@@ -4427,7 +4427,7 @@ pp.ua
 
 ########## Whitelist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 473
+# Ignored duplicates: 474
 
 t.email1.samsung.ca
 view.email.nzz.ch
@@ -6439,6 +6439,7 @@ mycliplister.com
 mypoints.com
 nairaland.com
 cdn-customers.nanorep.com
+tivan.naver.com
 deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
@@ -6447,7 +6448,6 @@ nutaku.com
 activation.gfe.nvidia.com
 services.gfe.nvidia.com
 bdc2020.o0bc.com
-twitch.okta.com
 cdn.opecloud.com
 tagger.opecloud.com
 geo.opera.com
@@ -6483,6 +6483,7 @@ shalltry.com
 ws.sharethis.com
 p.shure.com
 shutterstock.com
+oup.silverchair-cdn.com
 sinastorage.com
 pixel.disco.skyshowtime.com
 socpublic.com
@@ -6655,7 +6656,6 @@ dss.map.fastly.net
 github.map.fastly.net
 mparticle.map.fastly.net
 paypal.map.fastly.net
-twitch.map.fastly.net
 paypal-dynamic-map.fastly.net
 consent.faz.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
@@ -6669,8 +6669,6 @@ cds.b5g9b8e4.hwcdn.net
 iframely.net
 relay-client-c03.iocnt.net
 rtl-relay.iocnt.net
-jtvnw.net
-live-video.net
 blogroll.livedoor.net
 sonyjpnpsg-1.hs.llnwd.net
 sonycoment.loris-e.llnwd.net
@@ -6695,9 +6693,6 @@ applicast.ga.sony.net
 pov.spectrum.net
 streamsb.net
 te.technical-service.net
-ttvnw.net
-twitchcdn.net
-twitchsvc.net
 uceprotect.net
 whatsapp-plus.net
 xboxab.net
@@ -6743,7 +6738,6 @@ chip.com.tr
 tracker.animebytes.tv
 p.brid.tv
 services.brid.tv
-ext-twitch.tv
 mhc-ajax-eu.myhomescreen.tv
 mhc-ajax-eu-s2.myhomescreen.tv
 mhc-ajax-us.myhomescreen.tv
@@ -6762,7 +6756,6 @@ update.biv.sony.tv
 ssm1.internet.sony.tv
 ssm2.internet.sony.tv
 ssm3.internet.sony.tv
-twitch.tv
 whatsapp.tv
 ypu.edu.tw
 itad.linetv.tw
@@ -9556,6 +9549,7 @@ tofukko.r.ribbon.to
 uploaded.to
 disclose.tv
 ipla.tv
+twitch.tv
 news.ebc.net.tw
 bing.co.uk
 express.co.uk
@@ -49888,8 +49882,14 @@ vnn-res.vgcloud.vn
 
 ########## Whitelist from https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/services/twitch ##########
 
-# Ignored duplicates: 7
+# Ignored duplicates: 1
 
+twitch.map.fastly.net
+jtvnw.net
+ttvnw.net
+twitchcdn.net
+twitchsvc.net
+ext-twitch.tv
 
 
 ########## Whitelist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
@@ -50302,6 +50302,7 @@ ift.cx
 22h.de
 u6e.de
 ykm.de
+twirl.otee.dev
 url.sae.digital
 me2.do
 linktr.ee
