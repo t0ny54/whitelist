@@ -65,6 +65,7 @@ bpmonline.com
 bugherd.com
 bugsnag.com
 bytedance.com
+captcha-display.com
 dw.cbsi.com
 chtbl.com
 cint.com
@@ -48247,7 +48248,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 324
+# Ignored duplicates: 326
 
 sp-ao.shortpixel.ai
 safebrowsing.apple
@@ -48353,7 +48354,6 @@ api.brightcove.com
 browserhow.com
 api.bufferapp.com
 c-ctrip.com
-js.captcha-display.com
 devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
 includes.ccdc02.com
@@ -48361,6 +48361,7 @@ cdn-apple.com
 ceros.com
 s2.static.cfgr3.com
 services.chipotle.com
+seu.cleverreach.com
 target.clickfunnels.com
 player.cnevids.com
 coininsider.com
@@ -48393,6 +48394,7 @@ formula1.com
 fssquad.com
 funtrivia.com
 gigya.com
+app.gitbook.com
 githubapp.com
 githubassets.com
 githubusercontent.com
@@ -48444,7 +48446,7 @@ mdhcdn.com
 mediatek.com
 cdn.mediavoice.com
 plugin.mediavoice.com
-api-unionid.meituan.com
+meituan.com
 messengerpeople.com
 metal-tracker.com
 mintos.com
@@ -48704,6 +48706,7 @@ blogroll.livedoor.net
 sonyjpnpsg-1.hs.llnwd.net
 sonycoment.loris-e.llnwd.net
 windowsupdate.s.llnwi.net
+meituan.net
 msedge.net
 nintendo.net
 nintendowifi.net
