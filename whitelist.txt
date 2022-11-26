@@ -48248,9 +48248,10 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 326
+# Ignored duplicates: 327
 
 sp-ao.shortpixel.ai
+ip.istatmenus.app
 safebrowsing.apple
 domaintechnik.at
 sportsbet.com.au
@@ -48361,7 +48362,6 @@ cdn-apple.com
 ceros.com
 s2.static.cfgr3.com
 services.chipotle.com
-seu.cleverreach.com
 target.clickfunnels.com
 player.cnevids.com
 coininsider.com
@@ -48427,6 +48427,7 @@ scmedia.itsfogo.com
 cdnapisec.kaltura.com
 kiwibrowser.com
 a.klaviyo.com
+static.klaviyo.com
 js.klevu.com
 koisea.com
 ku6.com
@@ -48439,6 +48440,7 @@ lowendbox.com
 mackeeper.com
 mailerlite.com
 majesticseo.com
+manli.com
 maxmind.com
 maxpark.com
 webadvisorc.rest.gti.mcafee.com
@@ -48488,6 +48490,7 @@ publitas.com
 ablink.account.quizlet.com
 d3tracking.rbc.com
 assets.realclear.com
+cdn.reamaze.com
 cdn.rebuyengine.com
 api.revenuecat.com
 images.salsify.com
@@ -48668,6 +48671,7 @@ f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 apple-dns.net
 axiadids.net
+b-cdn.net
 cdn-noc.net
 cs636.wac.chicdn.net
 cnnic.net
@@ -48679,6 +48683,7 @@ edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
 cdns-content.dzcdn.net
+79423.analytics.edgekey.net
 cdn-kaltura-dscd.edgekey.net
 playstation.com.edgekey.net
 xboxlive.com.edgekey.net
@@ -50000,7 +50005,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 282
+# Ignored duplicates: 283
 
 theship.club
 cpro.baidu.cn
@@ -50092,7 +50097,6 @@ ny-mediaspace.kaltura.com
 pa-mediaspace.kaltura.com
 udrmv3.kaltura.com
 vod2.kaltura.com
-static.klaviyo.com
 julius.komodia.com
 optimus.komodia.com
 rodimus.komodia.com
