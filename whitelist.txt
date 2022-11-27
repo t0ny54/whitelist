@@ -48248,7 +48248,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 327
+# Ignored duplicates: 331
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -48424,6 +48424,7 @@ cloud-news.ionos.com
 ipaddress.com
 media.itsfogo.com
 scmedia.itsfogo.com
+kajabi-cdn.com
 cdnapisec.kaltura.com
 kiwibrowser.com
 a.klaviyo.com
@@ -48504,7 +48505,9 @@ tracker.scoober.com
 embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
+cdn.segmentify.com
 faz.sevenval-fit.com
+cdn.sgmntfy.com
 shalltry.com
 ws.sharethis.com
 sheerid.com
@@ -48639,7 +48642,6 @@ qt.io
 searchnode.io
 auth.split.io
 cdn.split.io
-events.split.io
 sdk.split.io
 tyk.io
 scenarieconomici.it
@@ -48687,6 +48689,7 @@ cdns-content.dzcdn.net
 cdn-kaltura-dscd.edgekey.net
 playstation.com.edgekey.net
 xboxlive.com.edgekey.net
+playstation.net.edgekey88.net
 entrust.net
 msg.ettoday.net
 dss.map.fastly.net
