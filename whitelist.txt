@@ -47457,6 +47457,8 @@ content.aimatch.com
 akamai-images-content.com
 ilog-sea-aliyun.alipayplus.com
 component-ota-in.allawnos.com
+component-ota-sg.allawnos.com
+ota-recruit-sg.allawnos.com
 alvarotrigo.com
 play.aniview.com
 ansible.com
@@ -47540,6 +47542,7 @@ player-feedback-v1.glomex.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
 registerdisney.go.com
+google.com
 googlemail.com
 gvt3.com
 i.hbrcdn.com
@@ -47642,6 +47645,7 @@ cdn.rebuyengine.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
 api.revenuecat.com
+ipe-pmt.prod.sabre.com
 images.salsify.com
 otn.samsungcloudcdn.com
 acr0.samsungcloudsolution.com
@@ -47649,7 +47653,6 @@ samsungosp.com
 gpm.samsungqbe.com
 osb-ussvc.samsungqbe.com
 images.cdn.scarabresearch.com
-recommender.scarabresearch.com
 schneevonmorgen.com
 tracker.scoober.com
 embed.scribblelive.com
@@ -47934,6 +47937,7 @@ qoo10.sg
 scarf.sh
 heureka.sk
 norden.social
+uber.space
 voe.sx
 s.team
 tracker.avistaz.to
@@ -48003,6 +48007,7 @@ pdt.tradedoubler.com
 redirects.tradedoubler.com
 tracking.truthfinder.com
 link.wizzair.com
+redirect.appmetrica.yandex.com
 ad.dyntracker.de
 promo.mobile.de
 media01.eu
@@ -48020,15 +48025,17 @@ de-go.kelkoogroup.net
 t.lt02.net
 a.nonstoppartner.net
 geo1.presslabs.net
+cdn-magiclinks.trackonomics.net
 lddy.no
 go.blokada.org
 auto-swiat.pl
+redirect.appmetrica.yandex.ru
 analytics.barnebys.sh
 
 
 ########## Blocklist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
-# Ignored duplicates: 140
+# Ignored duplicates: 141
 
 google.ad
 google.ae
@@ -48077,7 +48084,6 @@ baidu.com
 citigroup.com
 easyjet.com
 expedia.com
-google.com
 healthline.com
 hoteles.com
 hotels.com
