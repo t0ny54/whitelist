@@ -290,6 +290,7 @@ informz.net
 ups.ksmobile.net
 tracking.magnetmail.net
 magnetmail1.net
+mradx.net
 mybluemix.net
 ngenix.net
 ojrq.net
@@ -47404,7 +47405,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 345
+# Ignored duplicates: 349
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47430,7 +47431,6 @@ mail.tsinghua.edu.cn
 i.guancha.cn
 happyelements.cn
 knet.cn
-ks.cn
 nvgs.nvidia.cn
 online.sh.cn
 cdnjs.cloudflare.co
@@ -47456,6 +47456,7 @@ afternic.com
 content.aimatch.com
 akamai-images-content.com
 ilog-sea-aliyun.alipayplus.com
+mirrors.aliyun.com
 component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
@@ -47613,6 +47614,7 @@ mypoints.com
 nairaland.com
 cdn-customers.nanorep.com
 tivan.naver.com
+netcoresmartech.com
 deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
@@ -47916,6 +47918,7 @@ learn.cisecurity.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
 lencr.org
+matomo.org
 openjdk.org
 pastie.org
 sdk.privacy-center.org
