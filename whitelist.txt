@@ -4059,7 +4059,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 324
+# Ignored duplicates: 325
 
 js.media-lab.ai
 amazon.at
@@ -4090,6 +4090,8 @@ image.ibb.co
 spapps.co
 t.co
 tmblr.co
+www12.0zz0.com
+www8.0zz0.com
 1fichier.com
 2shared.com
 4shared.com
@@ -47412,6 +47414,7 @@ ip.istatmenus.app
 safebrowsing.apple
 domaintechnik.at
 sportsbet.com.au
+unagi.amazon.com.be
 content-media.bonial.biz
 flvto.biz
 tm.jsuol.com.br
@@ -47744,6 +47747,7 @@ lforr.elaine-asp.de
 arc.epoq.de
 eterna.de
 bilder.fernsehserien.de
+hockerty.de
 homepage-baukasten.de
 ihreapotheken.de
 ix.de
@@ -49423,7 +49427,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3860
+# Ignored duplicates: 3861
 
 bittorrent.am
 www.google.it.ao
