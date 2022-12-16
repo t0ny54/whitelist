@@ -86,6 +86,7 @@ eboundservices.com
 edigitalsurvey.com
 eksiup.com
 emjcd.com
+enhance.com
 enter-system.com
 etracker.com
 exchange4media.com
@@ -1006,6 +1007,7 @@ saferpay.com
 samba.com
 santanderbank.com
 gws.sauberbank.com
+sberbank.com
 sbicard.com
 sbiepay.com
 sc.com
@@ -47407,7 +47409,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 349
+# Ignored duplicates: 422
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47747,6 +47749,7 @@ lforr.elaine-asp.de
 arc.epoq.de
 eterna.de
 bilder.fernsehserien.de
+google.de
 hockerty.de
 homepage-baukasten.de
 ihreapotheken.de
@@ -47840,8 +47843,6 @@ code-examples.net
 lbnew.consentmanager.net
 get.contentpass.net
 searchg2.crownpeak.net
-edge-irl1.demdex.net
-gslb-2.demdex.net
 dynu.net
 cdns-content.dzcdn.net
 79423.analytics.edgekey.net
@@ -48042,7 +48043,7 @@ analytics.barnebys.sh
 
 ########## Blocklist from https://raw.githubusercontent.com/nextdns/metadata/master/security/typosquatting/protected-domains ##########
 
-# Ignored duplicates: 141
+# Ignored duplicates: 142
 
 google.ad
 google.ae
@@ -48115,7 +48116,6 @@ google.com.cu
 google.cv
 google.com.cy
 google.cz
-google.de
 google.dj
 google.dk
 google.dm
@@ -49427,7 +49427,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3861
+# Ignored duplicates: 3862
 
 bittorrent.am
 www.google.it.ao
@@ -49454,7 +49454,6 @@ commentsengine.com
 cryptonator.com
 dnswarden.com
 emercoin.com
-enhance.com
 epl-paypal-communication.com
 a.espncdn.com
 secure.espncdn.com
