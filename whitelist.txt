@@ -47409,7 +47409,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 422
+# Ignored duplicates: 425
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47489,6 +47489,7 @@ cdn.bitmovin.com
 geoim.bloomberght.com
 vms.bluebillywig.com
 bnamic.com
+bonialconnect.com
 amp-api-prd.bostonglobe.com
 browserhow.com
 api.bufferapp.com
@@ -47624,6 +47625,7 @@ deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
 nintendo.com
+nolo.com
 nutaku.com
 activation.gfe.nvidia.com
 services.gfe.nvidia.com
@@ -47641,6 +47643,7 @@ ecdinterface.philips.com
 picclick.com
 plarium.com
 videos.porndig.com
+ppcprotect.com
 cdn.privacy-mgmt.com
 publitas.com
 sdk.qikify.com
@@ -47649,6 +47652,8 @@ d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
 cdn.rebuyengine.com
+internal.cloud.remarkable.com
+ping.remarkable.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
 api.revenuecat.com
@@ -47781,6 +47786,9 @@ web.diagnostic.networking.aws.dev
 tg.dev
 consent.dk
 iutoic-dhaka.edu
+notifications-prod.cloud.remarkable.engineering
+updates.cloud.remarkable.engineering
+webapp-prod.cloud.remarkable.engineering
 searchlab.eu
 ioc.exchange
 bestgore.fun
@@ -47800,6 +47808,7 @@ ghcr.io
 cs.liiift.io
 nextdns.io
 mobile-data.onetrust.io
+passion.io
 polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
