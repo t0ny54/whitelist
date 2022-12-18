@@ -49436,7 +49436,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3862
+# Ignored duplicates: 3864
 
 bittorrent.am
 www.google.it.ao
@@ -49636,6 +49636,7 @@ wellho.net
 yastatic.net
 www.google.com.nf
 www.google.com.nr
+codeberg.org
 file-extensions.org
 find-ip-address.org
 info.internet.org
