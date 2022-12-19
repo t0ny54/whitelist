@@ -3943,6 +3943,7 @@ dec.fazenda.df.gov.br
 receita.economia.gov.br
 cnisnet.inss.gov.br
 meu.inss.gov.br
+id.yandex.by
 passport.yandex.by
 1password.ca
 canadapost.ca
@@ -3982,6 +3983,7 @@ trueidentity.com
 trustedid.com
 identity.virginmedia.com
 xero.com
+id.yandex.com
 passport.yandex.com
 signal-iduna.de
 tikker.emta.ee
@@ -3999,6 +4001,7 @@ bbss.softbankbb.co.jp
 cfg.smt.docomo.ne.jp
 id.smt.docomo.ne.jp
 my.softbank.jp
+id.yandex.kz
 passport.yandex.kz
 proton.me
 home.mijngezondheid.net
@@ -4019,14 +4022,17 @@ nwdealer.megafon.ru
 lisa.motivtelecom.ru
 rzd.ru
 lk.sesb.ru
+id.yandex.ru
 passport.yandex.ru
 1177.se
 bolagsverket.se
 kronofogden.se
 skatteverket.se
+id.yandex.com.tr
 passport.yandex.com.tr
 turkiye.gov.tr
 gov.tw
+id.yandex.ua
 passport.yandex.ua
 apps.cybonline.co.uk
 
@@ -47409,12 +47415,13 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 425
+# Ignored duplicates: 426
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
 safebrowsing.apple
 domaintechnik.at
+noip.at
 sportsbet.com.au
 unagi.amazon.com.be
 content-media.bonial.biz
@@ -47549,6 +47556,7 @@ player-feedback-v1.glomex.com
 cov.gmlinteractive.com
 static.gmlinteractive.com
 registerdisney.go.com
+goatcounter.com
 google.com
 googlemail.com
 gvt3.com
@@ -47643,7 +47651,7 @@ ecdinterface.philips.com
 picclick.com
 plarium.com
 videos.porndig.com
-ppcprotect.com
+monitor.ppcprotect.com
 cdn.privacy-mgmt.com
 publitas.com
 sdk.qikify.com
@@ -47912,6 +47920,7 @@ applicast.ga.sony.net
 pov.spectrum.net
 streamsb.net
 te.technical-service.net
+cdn.trustcommander.net
 uceprotect.net
 verisign.net
 whatsapp-plus.net
@@ -47954,6 +47963,7 @@ qoo10.sg
 scarf.sh
 heureka.sk
 norden.social
+api-mainnet.pool.space
 uber.space
 voe.sx
 s.team
@@ -48839,7 +48849,7 @@ fte.web.future.net.uk
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 551
+# Ignored duplicates: 552
 
 a.run.app
 ipv4only.arpa
@@ -48937,7 +48947,6 @@ fox8.com
 a.fsdn.com
 api.geetest.com
 ocsp.globalsign.com
-goatcounter.com
 simage.gshifen.com
 sslshare.gshifen.com
 assets.gumroad.com
