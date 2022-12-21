@@ -4504,6 +4504,7 @@ ftp.heanet.ie
 mediamarkt.ie
 gitter.im
 amazon.in
+imeipro.info
 git.io
 ouo.io
 cdn.plyr.io
@@ -47415,7 +47416,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 427
+# Ignored duplicates: 428
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47759,6 +47760,7 @@ tracking.dpd.de
 ecosia.de
 imgs.elaine-asp.de
 lforr.elaine-asp.de
+imgs.elainemedia.de
 arc.epoq.de
 eterna.de
 bilder.fernsehserien.de
