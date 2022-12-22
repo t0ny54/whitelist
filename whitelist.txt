@@ -378,6 +378,7 @@ ebanking.easybank.at
 banking.ing-diba.at
 llb.at
 banking.raiffeisen.at
+renault-bank-direkt.at
 service.santanderconsumer.at
 sparkasse.at
 vakifbank.at
@@ -385,6 +386,7 @@ adelaidebank.com.au
 amp.com.au
 anz.com.au
 bankfirst.com.au
+ibanking.bankofmelbourne.com.au
 banksa.com.au
 bankwest.com.au
 bendigobank.com.au
@@ -697,6 +699,7 @@ bil.com
 billdesk.com
 wallet.bitcoin.com
 bitfinex.com
+bitget.com
 bitpanda.com
 bitso.com
 bittrex.com
@@ -719,6 +722,7 @@ btc-e.com
 wallet.btc.com
 btgpactual.com
 btpn.com
+bybit.com
 caixa-enginyers.com
 campuscu.com
 capitalone.com
@@ -4067,7 +4071,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 325
+# Ignored duplicates: 326
 
 js.media-lab.ai
 amazon.at
@@ -4570,7 +4574,6 @@ tampermonkey.net
 tusfiles.net
 uploaded.net
 videocopilot.net
-vjs.zencdn.net
 mediamarkt.nl
 bing.no
 hostsfile.mine.nu
@@ -47416,7 +47419,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 428
+# Ignored duplicates: 429
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47744,6 +47747,7 @@ yagiay.com
 avpro.global.yamaha.com
 yep.com
 zeelool.com
+zephr.com
 zopim.com
 servix.idnes.cz
 ad-magazin.de
@@ -47928,6 +47932,7 @@ verisign.net
 whatsapp-plus.net
 xboxab.net
 yacy.net
+zencdn.net
 ad.nl
 api.c99.nl
 disguised.nl
@@ -47940,6 +47945,7 @@ anime-loads.org
 cdnbunny.org
 click.e.change.org
 learn.cisecurity.org
+codeberg.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
 lencr.org
@@ -49447,7 +49453,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3864
+# Ignored duplicates: 3865
 
 bittorrent.am
 www.google.it.ao
@@ -49647,7 +49653,6 @@ wellho.net
 yastatic.net
 www.google.com.nf
 www.google.com.nr
-codeberg.org
 file-extensions.org
 find-ip-address.org
 info.internet.org
