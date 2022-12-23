@@ -4571,6 +4571,8 @@ rapidgator.net
 recaptcha.net
 slickdeals.net
 tampermonkey.net
+a.top4top.net
+up.top4top.net
 tusfiles.net
 uploaded.net
 videocopilot.net
@@ -47625,6 +47627,7 @@ update.intl.miui.com
 ab13.mktossl.com
 assets.mmsrg.com
 sdk-02.moengage.com
+msdp1.com
 msftconnecttest.com
 myabandonware.com
 mycliplister.com
