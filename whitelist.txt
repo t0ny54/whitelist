@@ -4071,7 +4071,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 326
+# Ignored duplicates: 331
 
 js.media-lab.ai
 amazon.at
@@ -47480,6 +47480,7 @@ component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
 alvarotrigo.com
 play.aniview.com
+cdn-116.anonfiles.com
 ansible.com
 unityprod.answerhub.com
 appsumo.com
@@ -48006,7 +48007,7 @@ myip.wtf
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 498
+# Ignored duplicates: 499
 
 t.email1.samsung.ca
 view.email.nzz.ch
