@@ -47573,6 +47573,7 @@ location-api.hdhomerun.com
 tuner-api.hdhomerun.com
 glimmer.hearstapps.com
 hexun.com
+client-uc.heytapmobi.com
 hsforms.com
 hugedomains.com
 ads-e-darwin.hulustream.com
@@ -47655,6 +47656,7 @@ api.opinary.com
 widgets.opinary.com
 cdn.otstatic.com
 pcapredict.com
+performfeeds.com
 ecdinterface.philips.com
 picclick.com
 plarium.com
@@ -47920,12 +47922,14 @@ compass.pressekompass.net
 pv-cdn.net
 px-cloud.net
 research.net
+static.cdn.responsys.net
 configprd.samsungcloudsolution.net
 lcprd1.samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
 searchnode.net
 at-config.sensic.net
+assets.sitescdn.net
 applicast.ga.sony.net
 pov.spectrum.net
 streamsb.net
