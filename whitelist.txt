@@ -3855,11 +3855,10 @@ standardbank.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt ##########
 
-# Ignored duplicates: 5
+# Ignored duplicates: 6
 
 8pecxstudios.com
 cdn.agilebits.com
-dl.dropboxusercontent.com
 accounts.firefox.com
 fpn.firefox.com
 mozilla.com
@@ -4071,7 +4070,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 331
+# Ignored duplicates: 333
 
 js.media-lab.ai
 amazon.at
@@ -4139,8 +4138,6 @@ netdna.bootstrapcdn.com
 stackpath.bootstrapcdn.com
 boxrec.com
 breitbart.com
-edge.api.brightcove.com
-edge-weighted.api.brightcove.com
 businessinsider.com
 buzzfeed.com
 baltimore.cbslocal.com
@@ -47421,7 +47418,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 429
+# Ignored duplicates: 434
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47505,6 +47502,7 @@ vms.bluebillywig.com
 bnamic.com
 bonialconnect.com
 amp-api-prd.bostonglobe.com
+api.brightcove.com
 browserhow.com
 api.bufferapp.com
 c-ctrip.com
@@ -47533,6 +47531,19 @@ c.disquscdn.com
 images.dmca.com
 cdn.dnsv1.com
 engine.phn.doublepimp.com
+dropbox-dns.com
+dropboxapi.com
+dropboxbusiness.com
+dropboxcaptcha.com
+dropboxforum.com
+dropboxforums.com
+dropboxinsiders.com
+dropboxmail.com
+dropboxpartners.com
+dropboxpayments.com
+dropboxstatic.com
+dropboxteam.com
+dropboxusercontent.com
 embed.dugout.com
 assets.dwell.com
 images.dwell.com
@@ -47551,6 +47562,7 @@ formula1.com
 fssquad.com
 funtrivia.com
 maps.geoapify.com
+getdropbox.com
 gigya.com
 app.gitbook.com
 githubapp.com
@@ -47842,6 +47854,7 @@ scenarieconomici.it
 spartoo.it
 ftp.iij.ad.jp
 stat100.ameba.jp
+tracking.post.japanpost.jp
 yu.ac.kr
 infolink.pavv.co.kr
 ns11.whois.co.kr
@@ -47915,6 +47928,7 @@ nutaku.net
 images.nvidiagrid.net
 h-charter.online-metrix.net
 h-fidelity.online-metrix.net
+h-tsb.online-metrix.net
 perimeterx.net
 playstation.net
 tra.scds.pmdstatic.net
@@ -47983,9 +47997,11 @@ api-mainnet.pool.space
 uber.space
 voe.sx
 s.team
+dropbox.tech
 tracker.avistaz.to
 myflixer.to
 chip.com.tr
+db.tt
 tracker.animebytes.tv
 p.brid.tv
 services.brid.tv
