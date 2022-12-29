@@ -4070,7 +4070,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 333
+# Ignored duplicates: 331
 
 js.media-lab.ai
 amazon.at
@@ -4252,6 +4252,8 @@ icanhazip.com
 ikea.com
 forums.ilounge.com
 imagebam.com
+ecx.images-amazon.com
+z-ecx.images-amazon.com
 imgbox.com
 imgur.com
 indeed.com
@@ -47244,7 +47246,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains ##########
 
-# Ignored duplicates: 283
+# Ignored duplicates: 284
 
 adservice.google.ac
 adservice.google.af
@@ -47340,7 +47342,6 @@ adservice.google.co.im
 adservice.google.in
 adservice.google.info
 adservice.google.io
-the-home-depot-ca.pxf.io
 click.pstmrk.it
 adservice.google.jp
 adservice.google.kr
@@ -47418,7 +47419,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 421
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47426,7 +47427,6 @@ safebrowsing.apple
 domaintechnik.at
 noip.at
 sportsbet.com.au
-unagi.amazon.com.be
 content-media.bonial.biz
 flvto.biz
 tm.jsuol.com.br
@@ -47591,8 +47591,8 @@ hugedomains.com
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 d.ifengimg.com
-images-amazon.com
 api.immomo.com
+imore.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
 ink1001.com
@@ -47890,7 +47890,7 @@ cdns-content.dzcdn.net
 79423.analytics.edgekey.net
 cdn-kaltura-dscd.edgekey.net
 exacttarget.com.edgekey.net
-playstation.com.edgekey.net
+api.playstation.com.edgekey.net
 xboxlive.com.edgekey.net
 playstation.net.edgekey88.net
 lforr.elainelfo.net
@@ -47980,6 +47980,7 @@ traccar.org
 whatsapp.org
 whispersystems.org
 telesco.pe
+telegra.ph
 dbankcloud.ru
 cl-ad786718.edgecdn.ru
 sibnet.ru
@@ -48027,7 +48028,7 @@ myip.wtf
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 499
+# Ignored duplicates: 511
 
 t.email1.samsung.ca
 view.email.nzz.ch
@@ -48078,6 +48079,7 @@ glnk.io
 email.namebase.io
 c2.piano.io
 track.productsup.io
+pxf.io
 px.a8.net
 a1.adform.net
 de-go.kelkoogroup.net
