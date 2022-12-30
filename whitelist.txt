@@ -47419,7 +47419,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 421
+# Ignored duplicates: 439
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47476,6 +47476,7 @@ component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
 alvarotrigo.com
+prod.amazoncrl.com
 play.aniview.com
 cdn-116.anonfiles.com
 ansible.com
@@ -47655,6 +47656,7 @@ newbedev.com
 p.nfltags.com
 nintendo.com
 nolo.com
+ntp-fireos.com
 nutaku.com
 activation.gfe.nvidia.com
 services.gfe.nvidia.com
@@ -47716,6 +47718,7 @@ sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
+stacksocial.com
 steamchina.com
 steamcontent.com
 steamusercontent.com
@@ -48028,7 +48031,7 @@ myip.wtf
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 511
+# Ignored duplicates: 513
 
 t.email1.samsung.ca
 view.email.nzz.ch
