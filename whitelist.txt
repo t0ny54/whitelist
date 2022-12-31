@@ -47419,7 +47419,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 439
+# Ignored duplicates: 449
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47477,6 +47477,7 @@ component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
 alvarotrigo.com
 prod.amazoncrl.com
+amazonforum.com
 play.aniview.com
 cdn-116.anonfiles.com
 ansible.com
@@ -47579,6 +47580,7 @@ registerdisney.go.com
 goatcounter.com
 google.com
 googlemail.com
+track.goshippo.com
 gvt3.com
 i.hbrcdn.com
 s.hbrcdn.com
@@ -47619,6 +47621,7 @@ lowendbox.com
 mackeeper.com
 mailerlite.com
 majesticseo.com
+mandrillapp.com
 manli.com
 maxmind.com
 maxpark.com
@@ -47872,6 +47875,7 @@ wa.me
 whatsapp-plus.me
 cdn.stream.schibsted.media
 codepush.appcenter.ms
+in.appcenter.ms
 17track.net
 aiv-cdn.net
 aiv-delivery.net
@@ -47919,6 +47923,7 @@ relay-client-c03.iocnt.net
 rtl-relay.iocnt.net
 live-video.net
 blogroll.livedoor.net
+adminlogin.liveperson.net
 sonyjpnpsg-1.hs.llnwd.net
 sonycoment.loris-e.llnwd.net
 windowsupdate.s.llnwi.net
@@ -47962,7 +47967,6 @@ ad.nl
 api.c99.nl
 disguised.nl
 fakeshop-finder.nrw
-ero-labs.online
 drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
@@ -48018,6 +48022,7 @@ service.biv.sony.tv
 update.biv.sony.tv
 whatsapp.tv
 itad.linetv.tw
+asynchronousmessaging.dashboard.co.uk
 netdirector.co.uk
 overclockers.co.uk
 paypal.co.uk
@@ -48031,7 +48036,7 @@ myip.wtf
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 513
+# Ignored duplicates: 514
 
 t.email1.samsung.ca
 view.email.nzz.ch
@@ -48051,7 +48056,6 @@ click.instantink.hpsmart.com
 goto.jet.com
 trk.klclick2.com
 trk.klclick3.com
-mandrillapp.com
 api.narrativ.com
 events.release.narrativ.com
 go.nextiva.com
