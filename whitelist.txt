@@ -47419,7 +47419,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 449
+# Ignored duplicates: 451
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47466,9 +47466,11 @@ activehosted.com
 addthisevent.com
 adguard.com
 adguard-dns.com
+adlermode.com
 aeotec.com
 afternic.com
 content.aimatch.com
+airydress.com
 akamai-images-content.com
 ilog-sea-aliyun.alipayplus.com
 mirrors.aliyun.com
@@ -47517,6 +47519,7 @@ ceros.com
 s2.static.cfgr3.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
+clickerheroes.com
 player.cnevids.com
 coininsider.com
 epg.corio.com
@@ -47552,6 +47555,7 @@ images.dwell.com
 go.e2language.com
 ekomi.com
 wum97myjdw.ent-cdn.com
+stats.espncricinfo.com
 thumbs-015.externulls.com
 fapcat.com
 faronics.com
@@ -47594,6 +47598,7 @@ hugedomains.com
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 d.ifengimg.com
+i.imgci.com
 api.immomo.com
 imore.com
 optmzly.fe.indazn.com
@@ -47710,6 +47715,7 @@ faz.sevenval-fit.com
 cdn.sgmntfy.com
 shalltry.com
 ws.sharethis.com
+sharkoon.com
 sheerid.com
 p.shure.com
 shutterstock.com
@@ -47752,6 +47758,7 @@ valvesoftware.com
 vcs.vdspf.com
 vercel-dns.com
 ads.videoadex.com
+videoland.com
 vidio.com
 announcements.vizio.com
 api.vizio.com
@@ -47775,6 +47782,7 @@ zephr.com
 zopim.com
 servix.idnes.cz
 ad-magazin.de
+aikq.de
 prospekt.aldi-sued.de
 itv.ard.de
 img.yana.asideas.de
@@ -47814,6 +47822,7 @@ shop.strato.de
 pix.sueddeutsche.de
 tipico.de
 cmp.tvspielfilm.de
+viagogo.de
 wfcdn.de
 wieistmeineip.de
 hbbtv.zdf.de
@@ -47863,6 +47872,7 @@ stat100.ameba.jp
 tracking.post.japanpost.jp
 yu.ac.kr
 infolink.pavv.co.kr
+postshare.co.kr
 ns11.whois.co.kr
 smart.link
 tag.search.sensefuel.live
@@ -47921,6 +47931,7 @@ cds.b5g9b8e4.hwcdn.net
 iframely.net
 relay-client-c03.iocnt.net
 rtl-relay.iocnt.net
+leakix.net
 live-video.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
@@ -47972,6 +47983,7 @@ drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
 anime-loads.org
+camopedia.org
 cdnbunny.org
 click.e.change.org
 learn.cisecurity.org
@@ -47989,6 +48001,9 @@ whatsapp.org
 whispersystems.org
 telesco.pe
 telegra.ph
+spartoo.pl
+spartoo.pt
+1kinobig.ru
 dbankcloud.ru
 cl-ad786718.edgecdn.ru
 sibnet.ru
@@ -48032,6 +48047,7 @@ o.ss2.us
 s.ss2.us
 twitterstat.us
 nnmstatic.win
+cbox.ws
 myip.wtf
 
 
@@ -49487,7 +49503,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3865
+# Ignored duplicates: 3867
 
 bittorrent.am
 www.google.it.ao
@@ -49517,7 +49533,6 @@ emercoin.com
 epl-paypal-communication.com
 a.espncdn.com
 secure.espncdn.com
-stats.espncricinfo.com
 fiverr.com
 gadgetsnow.com
 gyazo.com
@@ -49525,7 +49540,6 @@ here.com
 exchange.xforce.ibmcloud.com
 de.ign.com
 ia.imdb.com
-i.imgci.com
 p.imgci.com
 imgdone.com
 incapsula.com
