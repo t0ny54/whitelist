@@ -297,6 +297,7 @@ ngenix.net
 ojrq.net
 omtrdc.net
 onecount.net
+online-metrix.net
 ospserver.net
 perfops.net
 pingdom.net
@@ -47419,7 +47420,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 451
+# Ignored duplicates: 454
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47484,6 +47485,7 @@ play.aniview.com
 cdn-116.anonfiles.com
 ansible.com
 unityprod.answerhub.com
+appboy-images.com
 appsumo.com
 video-api.bostonglobe.arcpublishing.com
 video-api-cdn.bostonglobe.arcpublishing.com
@@ -47498,6 +47500,7 @@ player.avplayer.com
 awxcdn.com
 staticweb.ecglb.bac.com
 baihe.com
+banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 cdn.bitmovin.com
@@ -47945,9 +47948,6 @@ nintendo.net
 nintendowifi.net
 nutaku.net
 images.nvidiagrid.net
-h-charter.online-metrix.net
-h-fidelity.online-metrix.net
-h-tsb.online-metrix.net
 perimeterx.net
 playstation.net
 tra.scds.pmdstatic.net
@@ -48907,7 +48907,7 @@ fte.web.future.net.uk
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 552
+# Ignored duplicates: 553
 
 a.run.app
 ipv4only.arpa
@@ -49192,7 +49192,6 @@ liffsdk.line-scdn.net
 obs.line-scdn.net
 i.loli.net
 microsoftwindowsupdate.net
-h-sdk.online-metrix.net
 op-cdn.net
 opera-mini.net
 down.sandai.net
