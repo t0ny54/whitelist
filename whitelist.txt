@@ -47442,6 +47442,7 @@ stat.ethz.ch
 ens.nzz.ch
 track.nzz.ch
 sodimac.cl
+te.ip-prod.aws-cbc.cloud
 dbankcloud.cn
 sea.net.edu.cn
 mail.tsinghua.edu.cn
@@ -47859,6 +47860,7 @@ ghcr.io
 cs.liiift.io
 nextdns.io
 mobile-data.onetrust.io
+opentelemetry.io
 passion.io
 polyfill.io
 cr.portainer.io
