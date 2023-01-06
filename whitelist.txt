@@ -227,9 +227,11 @@ etracker.de
 smartredirect.de
 stroeerdigitalpublishing.de
 wipe.de
+datadoghq.eu
 pdst.fm
 rb.gy
 prf.hn
+upoint.id
 ipinfo.info
 ad-shield.io
 airbrake.io
@@ -4072,7 +4074,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 331
+# Ignored duplicates: 333
 
 js.media-lab.ai
 amazon.at
@@ -4254,8 +4256,6 @@ icanhazip.com
 ikea.com
 forums.ilounge.com
 imagebam.com
-ecx.images-amazon.com
-z-ecx.images-amazon.com
 imgbox.com
 imgur.com
 indeed.com
@@ -47603,6 +47603,7 @@ hugedomains.com
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 d.ifengimg.com
+images-amazon.com
 i.imgci.com
 api.immomo.com
 imore.com
@@ -47747,6 +47748,7 @@ tarafdari.com
 dd.tidal.com
 et.tidal.com
 tags.tiqcdn.com
+cdn.tpdads.com
 api-v4.trbo.com
 tropicalspicegarden.com
 consent.trustarc.com
@@ -48031,6 +48033,7 @@ myflixer.to
 chip.com.tr
 db.tt
 tracker.animebytes.tv
+cdn.brid.tv
 p.brid.tv
 services.brid.tv
 periscope.tv
