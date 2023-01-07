@@ -47421,7 +47421,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 454
+# Ignored duplicates: 455
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47471,6 +47471,7 @@ adguard.com
 adguard-dns.com
 adlermode.com
 aeotec.com
+aerisapi.com
 afternic.com
 content.aimatch.com
 airydress.com
@@ -48392,7 +48393,7 @@ lihi.vip
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 149
+# Ignored duplicates: 153
 
 api.cortana.ai
 uol.com.br
@@ -48418,6 +48419,7 @@ w8.com.cn
 watchtimes.com.cn
 direct.wap.zol.com.cn
 conac.cn
+gift.douyucdn.cn
 fraudmetrix.cn
 whhd.gov.cn
 xj-n-tax.gov.cn
@@ -48440,6 +48442,7 @@ image.uczzd.cn
 m.uczzd.cn
 mo.res.wpscdn.cn
 y0.cn
+button.like.co
 du.163.com
 api.iplay.163.com
 apm3.music.163.com
@@ -48604,6 +48607,7 @@ techsmith.com
 tvzhe.com
 puds.ucweb.com
 umiwi.com
+urldefense.com
 sj.uukanshu.com
 wangbase.com
 wisecleaner.com
@@ -48613,6 +48617,7 @@ cdn-thumb.fds.api.xiaomi.com
 image.box.xiaomi.com
 xmpush.xiaomi.com
 xifuquan.com
+c.youdao.com
 edge.yunjiasu.com
 yximgs.com
 zaloapp.com
@@ -49088,6 +49093,7 @@ segment.com
 platform.sharethis.com
 api3.siftscience.com
 cdn.siftscience.com
+slackb.com
 dsp.brand.sogou.com
 config.pinyin.sogou.com
 www.squaretrade.com
