@@ -47749,6 +47749,7 @@ tarafdari.com
 dd.tidal.com
 et.tidal.com
 tags.tiqcdn.com
+tnt-ea.com
 cdn.tpdads.com
 api-v4.trbo.com
 tropicalspicegarden.com
@@ -47949,6 +47950,7 @@ sonyjpnpsg-1.hs.llnwd.net
 sonycoment.loris-e.llnwd.net
 windowsupdate.s.llnwi.net
 meituan.net
+mntzrlt.net
 tracking-protection.prod.mozaws.net
 msedge.net
 nintendo.net
@@ -48031,6 +48033,7 @@ s.team
 dropbox.tech
 tracker.avistaz.to
 myflixer.to
+chillx.top
 chip.com.tr
 db.tt
 tracker.animebytes.tv
@@ -49259,7 +49262,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 283
+# Ignored duplicates: 284
 
 theship.club
 cpro.baidu.cn
@@ -49401,7 +49404,6 @@ sumo.com
 delivery.swid.switchadhub.com
 content.swrve.com
 api.t-mobile.com
-geoip.tnt-ea.com
 onceux.unicornmedia.com
 cdp.cloud.unity3d.com
 api.uca.cloud.unity3d.com
