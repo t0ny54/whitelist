@@ -47421,7 +47421,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 455
+# Ignored duplicates: 460
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47617,6 +47617,7 @@ media.itsfogo.com
 scmedia.itsfogo.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
+cfvod.kaltura.com
 kiwibrowser.com
 a.klaviyo.com
 static.klaviyo.com
@@ -48679,7 +48680,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 745
+# Ignored duplicates: 746
 
 1hosts.cf
 abuse.ch
@@ -48752,7 +48753,6 @@ js.indexww.com
 indianexpress.com
 www.intel.com
 assets.jassets.com
-cfvod.kaltura.com
 corp.kaltura.com
 kinja.com
 f.kinja-static.com
