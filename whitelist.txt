@@ -186,6 +186,7 @@ scorecardresearch.com
 sematext.com
 sendpulse.com
 shareasale.com
+sift.com
 simply.com
 simplyhired.com
 skimresources.com
@@ -208,6 +209,7 @@ tmearn.com
 tollfreeforwarding.com
 trbna.com
 treasuredata.com
+trust-provider.com
 sealserver.trustwave.com
 unpkg.com
 urbanairship.com
@@ -47421,7 +47423,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 460
+# Ignored duplicates: 444
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47528,6 +47530,7 @@ services.chipotle.com
 clickerheroes.com
 player.cnevids.com
 coininsider.com
+commentsengine.com
 epg.corio.com
 static.cloud.coveo.com
 dailycaller.com
@@ -47562,6 +47565,7 @@ go.e2language.com
 ekomi.com
 wum97myjdw.ent-cdn.com
 stats.espncricinfo.com
+puc-cdn.exponea.com
 thumbs-015.externulls.com
 fapcat.com
 faronics.com
@@ -47680,7 +47684,6 @@ bdc2020.o0bc.com
 go.oaktreecapital.com
 twitch.okta.com
 mail.onedrive.com
-cdn.opecloud.com
 geo.opera.com
 api.opinary.com
 widgets.opinary.com
@@ -47871,6 +47874,7 @@ polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
 qt.io
+assets.rebelmouse.io
 searchnode.io
 auth.split.io
 cdn.split.io
@@ -47898,6 +47902,7 @@ whatsapp-plus.me
 cdn.stream.schibsted.media
 codepush.appcenter.ms
 in.appcenter.ms
+assets.rbl.ms
 17track.net
 aiv-cdn.net
 aiv-delivery.net
@@ -47958,12 +47963,10 @@ nintendo.net
 nintendowifi.net
 nutaku.net
 images.nvidiagrid.net
-perimeterx.net
 playstation.net
 tra.scds.pmdstatic.net
 compass.pressekompass.net
 pv-cdn.net
-px-cloud.net
 research.net
 static.cdn.responsys.net
 configprd.samsungcloudsolution.net
@@ -49517,7 +49520,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3867
+# Ignored duplicates: 3868
 
 bittorrent.am
 www.google.it.ao
@@ -49540,7 +49543,6 @@ bundles2.bittorrent.com
 s.blogsmithmedia.com
 link.brightcove.com
 cdn77.com
-commentsengine.com
 cryptonator.com
 dnswarden.com
 emercoin.com
