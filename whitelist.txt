@@ -47423,13 +47423,14 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 444
+# Ignored duplicates: 447
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
 safebrowsing.apple
 domaintechnik.at
 noip.at
+ssl.o.auspost.com.au
 sportsbet.com.au
 content-media.bonial.biz
 flvto.biz
@@ -47531,6 +47532,7 @@ clickerheroes.com
 player.cnevids.com
 coininsider.com
 commentsengine.com
+controld.com
 epg.corio.com
 static.cloud.coveo.com
 dailycaller.com
