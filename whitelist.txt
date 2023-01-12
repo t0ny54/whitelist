@@ -47423,7 +47423,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 447
+# Ignored duplicates: 448
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47537,6 +47537,7 @@ epg.corio.com
 static.cloud.coveo.com
 dailycaller.com
 dbankcloud.com
+s.deepl.com
 tv.deezer.com
 deskpi.com
 deviceatlas.com
@@ -47828,7 +47829,6 @@ nickles.de
 pcwelt.de
 hbbtv.prosieben.de
 hbbtv.redbutton.de
-data-191b2429e8.rtl.de
 car.saturn.de
 pvn.saturn.de
 shopvote.de
@@ -47883,6 +47883,7 @@ cdn.split.io
 sdk.split.io
 tyk.io
 scenarieconomici.it
+shalom.it
 spartoo.it
 ftp.iij.ad.jp
 stat100.ameba.jp
