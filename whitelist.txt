@@ -47441,7 +47441,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 266
+# Ignored duplicates: 267
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47559,6 +47559,7 @@ go.e2language.com
 ekomi.com
 wum97myjdw.ent-cdn.com
 stats.espncricinfo.com
+etrality.com
 puc-cdn.exponea.com
 thumbs-015.externulls.com
 fapcat.com
@@ -47638,6 +47639,7 @@ metal-tracker.com
 email.microsoftemail.com
 email.microsoftrewards.com
 microsoftstoreemail.com
+mindvalley.com
 mintos.com
 assets.minutemediacdn.com
 images1.minutemediacdn.com
@@ -47917,6 +47919,7 @@ pastie.org
 sdk.privacy-center.org
 rarbgmirrored.org
 speedcheck.org
+api.speedspot.org
 traccar.org
 telegra.ph
 spartoo.pl
