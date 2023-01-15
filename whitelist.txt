@@ -47441,7 +47441,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 267
+# Ignored duplicates: 268
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
