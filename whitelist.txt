@@ -47441,7 +47441,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 268
+# Ignored duplicates: 267
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47612,6 +47612,7 @@ cfvod.kaltura.com
 kiwibrowser.com
 a.klaviyo.com
 static.klaviyo.com
+static-tracking.klaviyo.com
 js.klevu.com
 koisea.com
 ku6.com
@@ -47801,6 +47802,7 @@ bestgore.fun
 lnks.gd
 tracker.gg
 sch.gr
+docdro.id
 files.im
 adguard-dns.io
 applicationinsights.io
