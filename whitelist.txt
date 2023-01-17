@@ -47441,7 +47441,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 267
+# Ignored duplicates: 271
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47483,6 +47483,7 @@ addthisevent.com
 adguard.com
 adguard-dns.com
 adlermode.com
+c00.adobe.com
 aeotec.com
 aerisapi.com
 afternic.com
@@ -47805,6 +47806,7 @@ sch.gr
 docdro.id
 files.im
 adguard-dns.io
+cc-api-data.adobe.io
 applicationinsights.io
 canarymail.io
 cdn.elev.io
@@ -47973,6 +47975,7 @@ view.email.nzz.ch
 t.adcell.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
+ulink.adjust.com
 clicks.aweber.com
 api.bam-x.com
 readdle.cmail20.com
