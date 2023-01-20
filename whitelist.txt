@@ -47441,7 +47441,7 @@ adservice.google.voto
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 273
+# Ignored duplicates: 274
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47487,6 +47487,7 @@ c00.adobe.com
 aeotec.com
 aerisapi.com
 afternic.com
+searchapi.agoda.com
 content.aimatch.com
 airydress.com
 akamai-images-content.com
@@ -47533,6 +47534,7 @@ c-ctrip.com
 cainiao.com
 devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
+wwwimage-tve.cbsstatic.com
 includes.ccdc02.com
 cdn-apple.com
 ceros.com
@@ -47622,6 +47624,7 @@ clientstream.launchdarkly.com
 collector.lightstep.com
 ingest.lightstep.com
 liveperson.com
+living-sun.com
 lowendbox.com
 mackeeper.com
 mailerlite.com
@@ -47694,7 +47697,6 @@ ipe-pmt.prod.sabre.com
 images.salsify.com
 images.cdn.scarabresearch.com
 schneevonmorgen.com
-tracker.scoober.com
 embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
@@ -47727,6 +47729,7 @@ dd.tidal.com
 et.tidal.com
 tags.tiqcdn.com
 tnt-ea.com
+akm-img-a-in.tosshub.com
 cdn.tpdads.com
 api-v4.trbo.com
 tropicalspicegarden.com
@@ -47834,6 +47837,7 @@ spartoo.it
 ftp.iij.ad.jp
 stat100.ameba.jp
 tracking.post.japanpost.jp
+b.hatena.ne.jp
 yu.ac.kr
 postshare.co.kr
 tenping.kr
@@ -47865,6 +47869,7 @@ searchg2.crownpeak.net
 dynu.net
 79423.analytics.edgekey.net
 cdn-kaltura-dscd.edgekey.net
+api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
 lforr.elainelfo.net
 msg.ettoday.net
@@ -48836,7 +48841,7 @@ fte.web.future.net.uk
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 549
+# Ignored duplicates: 550
 
 a.run.app
 ipv4only.arpa
@@ -49092,7 +49097,6 @@ trafficrouter.io
 go.trouter.io
 subscriptions.pstmrk.it
 ftp.tsukuba.wide.ad.jp
-b.hatena.ne.jp
 mjt.lu
 mixnews.lv
 mqtt.pushy.me
