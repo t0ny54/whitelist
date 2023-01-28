@@ -4379,6 +4379,7 @@ player.radio.com
 rapidvideo.com
 rawgit.com
 real-debrid.com
+www.narcity.com.cdn.rebelmouse.com
 reddit.com
 redfin.com
 reebok.com
@@ -46926,7 +46927,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 336
+# Ignored duplicates: 346
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -46976,6 +46977,7 @@ adguard.com
 adguard-dns.com
 adlermode.com
 c00.adobe.com
+adstream.com
 aeotec.com
 aerisapi.com
 afternic.com
@@ -47048,10 +47050,14 @@ clickerheroes.com
 player.cnevids.com
 coininsider.com
 commentsengine.com
+contabostorage.com
 controld.com
 courier.com
 static.cloud.coveo.com
 dailycaller.com
+app.datadoghq.com
+docs.datadoghq.com
+static.datadoghq.com
 s.deepl.com
 deskpi.com
 deviceatlas.com
@@ -47071,6 +47077,7 @@ stats.espncricinfo.com
 etrality.com
 puc-cdn.exponea.com
 thumbs-015.externulls.com
+extremereach.com
 famatel.com
 fapcat.com
 faronics.com
@@ -47201,6 +47208,7 @@ primevideo.com
 cdn.privacy-mgmt.com
 publitas.com
 sdk.qikify.com
+wxsnsdy.wxs.qq.com
 ablink.account.quizlet.com
 d3tracking.rbc.com
 assets.realclear.com
@@ -47254,6 +47262,7 @@ cdn.tpdads.com
 api-v4.trbo.com
 tropicalspicegarden.com
 consent.trustarc.com
+consent-pref.trustarc.com
 twibbonize.com
 twitchy.com
 ultimedia.com
@@ -47327,6 +47336,7 @@ iutoic-dhaka.edu
 fls-eu.amazon.eg
 searchlab.eu
 ioc.exchange
+asiakas.valokuitunen.fi
 bestgore.fun
 lnks.gd
 tracker.gg
@@ -47476,6 +47486,7 @@ rarbgmirrored.org
 speedcheck.org
 api.speedspot.org
 traccar.org
+instant.page
 telegra.ph
 spartoo.pl
 spartoo.pt
@@ -47946,7 +47957,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 124
+# Ignored duplicates: 125
 
 api.cortana.ai
 uol.com.br
@@ -48246,7 +48257,6 @@ rarbgprx.org
 rarbgto.org
 rarbgway.org
 wmflabs.org
-instant.page
 rambler.ru
 now.sh
 surge.sh
