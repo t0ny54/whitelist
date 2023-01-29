@@ -46927,7 +46927,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 346
+# Ignored duplicates: 359
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47127,6 +47127,7 @@ cloud-news.ionos.com
 ipaddress.com
 media.itsfogo.com
 scmedia.itsfogo.com
+click.justwatch.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
 cfvod.kaltura.com
@@ -47192,6 +47193,7 @@ activation.gfe.nvidia.com
 services.gfe.nvidia.com
 bdc2020.o0bc.com
 go.oaktreecapital.com
+guce.oath.com
 mail.onedrive.com
 1weather.onelouder.com
 api.opinary.com
@@ -47240,6 +47242,7 @@ oup.silverchair-cdn.com
 pixel.disco.skyshowtime.com
 socpublic.com
 softonic.com
+api-secure.solvemedia.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
@@ -47248,6 +47251,8 @@ stylitics.com
 engage.surface.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
+bibo.api.swiftkey.com
+jenson.api.swiftkey.com
 embed.tagboard.com
 cdn.tagcommander.com
 talentwunder.com
@@ -47363,6 +47368,7 @@ searchnode.io
 auth.split.io
 cdn.split.io
 sdk.split.io
+api.storyly.io
 trezor.io
 tyk.io
 scenarieconomici.it
@@ -47381,6 +47387,7 @@ api.noda.live
 ui.noda.live
 tag.search.sensefuel.live
 limetorrents.lol
+embed.ly
 view.genial.ly
 ahacdn.me
 tracker.beyond-hd.me
@@ -47511,6 +47518,7 @@ gogoanime.tel
 tracker.avistaz.to
 myflixer.to
 chillx.top
+pdcdn1.top
 chip.com.tr
 tracker.animebytes.tv
 cdn.brid.tv
@@ -47532,7 +47540,7 @@ myip.wtf
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 160
+# Ignored duplicates: 161
 
 adservice.google.ac
 adservice.google.ad
@@ -47653,6 +47661,7 @@ action.metaffiliation.com
 mktoweb.com
 click.mlsend.com
 mmtro.com
+cj.mplxtms.com
 api.narrativ.com
 events.release.narrativ.com
 go.nextiva.com
@@ -48621,7 +48630,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 540
+# Ignored duplicates: 541
 
 a.run.app
 ipv4only.arpa
@@ -48741,7 +48750,6 @@ cdn.pcbeta.css.inimc.com
 cdn.pcbeta.static.inimc.com
 inputdirector.com
 ruozuwky-android.mobile-messenger.intercom.com
-click.justwatch.com
 img2.user.kanimg.com
 www.kcsoftwares.com
 kopimi.com
