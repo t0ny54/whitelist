@@ -46927,7 +46927,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 359
+# Ignored duplicates: 368
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47063,6 +47063,7 @@ deskpi.com
 deviceatlas.com
 digicert.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
+discords.com
 image.mail.disneyplus.com
 images.dmca.com
 cdn.dnsv1.com
@@ -47151,6 +47152,9 @@ mandrillapp.com
 manli.com
 mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 s50.device.marketingcloudapis.com
+tms.api.mashery.com
+td-mashery-tm-use1.mashery.com
+td-tms.mashery.com
 maxmind.com
 maxpark.com
 webadvisorc.rest.gti.mcafee.com
@@ -47223,6 +47227,7 @@ api.revenuecat.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
+uimetadata.samsungiotcloud.com
 images.cdn.scarabresearch.com
 schneevonmorgen.com
 embed.scribblelive.com
@@ -47261,6 +47266,7 @@ tarafdari.com
 dd.tidal.com
 et.tidal.com
 tags.tiqcdn.com
+data.tmsapi.com
 tnt-ea.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
@@ -47459,6 +47465,7 @@ at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
 pov.spectrum.net
+api.st-av.net
 streamsb.net
 te.technical-service.net
 cdn.trustcommander.net
@@ -47536,6 +47543,7 @@ s.ss2.us
 nnmstatic.win
 cbox.ws
 myip.wtf
+apollopushserver.xyz
 
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
@@ -49370,6 +49378,7 @@ sirius.mwbsys.com
 androidapi.mxplay.com
 androidc.mxplay.com
 evt.mxplay.com
+pubstack.nw18.com
 onelogin.com
 onetrust.com
 openwall.com
