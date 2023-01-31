@@ -46927,7 +46927,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 368
+# Ignored duplicates: 369
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47023,6 +47023,7 @@ banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 binarypiano.com
+indusprodcustomer3996.pc.cdn.bitgravity.com
 cdn.bitmovin.com
 geoim.bloomberght.com
 vms.bluebillywig.com
@@ -47093,6 +47094,7 @@ fixedfloat.com
 formula1.com
 fssquad.com
 funtrivia.com
+api.pgpl.g5e.com
 maps.geoapify.com
 gigya.com
 app.gitbook.com
@@ -47139,6 +47141,7 @@ js.klevu.com
 manage.kmail-lists.com
 koisea.com
 ku6.com
+lalpathlabs.com
 clientstream.launchdarkly.com
 collector.lightstep.com
 ingest.lightstep.com
@@ -47276,6 +47279,7 @@ consent.trustarc.com
 consent-pref.trustarc.com
 twibbonize.com
 twitchy.com
+embed.typeform.com
 ultimedia.com
 answers.unity.com
 uplynk.com
@@ -47325,6 +47329,7 @@ kamibox.de
 videos.kino.de
 store.minisforum.de
 nickles.de
+o9.de
 oecherdeal.de
 pcwelt.de
 car.saturn.de
