@@ -46928,7 +46928,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 365
+# Ignored duplicates: 337
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -46937,7 +46937,6 @@ domaintechnik.at
 noip.at
 ssl.o.auspost.com.au
 sportsbet.com.au
-fls-eu.amazon.com.be
 content-media.bonial.biz
 flvto.biz
 tm.jsuol.com.br
@@ -46992,10 +46991,6 @@ component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
 alvarotrigo.com
-c.amazon-adsystem.com
-fls-eu.amazon-adsystem.com
-fls-fe.amazon-adsystem.com
-fls-na.amazon-adsystem.com
 prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
@@ -47081,7 +47076,13 @@ stats.espncricinfo.com
 etrality.com
 puc-cdn.exponea.com
 thumbs-015.externulls.com
-extremereach.com
+abc-twitter.extremereach.com
+abcnews.extremereach.com
+agents.extremereach.com
+app.extremereach.com
+download.extremereach.com
+dv.extremereach.com
+updates.extremereach.com
 famatel.com
 fapcat.com
 faronics.com
@@ -47301,6 +47302,8 @@ engage.xbox.com
 video.xxxjmp.com
 yagiay.com
 yep.com
+bln1.yospace.com
+tls1.yospace.com
 zeelool.com
 zephr.com
 zopim.com
@@ -47353,7 +47356,6 @@ swankyrule.zomap.de
 web.diagnostic.networking.aws.dev
 consent.dk
 iutoic-dhaka.edu
-fls-eu.amazon.eg
 searchlab.eu
 ioc.exchange
 asiakas.valokuitunen.fi
