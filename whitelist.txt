@@ -47110,6 +47110,7 @@ cov.gmlinteractive.com
 static.gmlinteractive.com
 registerdisney.go.com
 goatcounter.com
+email.goodrx.com
 track.goshippo.com
 i.hbrcdn.com
 s.hbrcdn.com
@@ -47118,6 +47119,7 @@ embed.tagboard.com.herokudns.com
 hexun.com
 client-uc.heytapmobi.com
 thumb.highdeliveryscdn.com
+static-assets.highwebmedia.com
 hsforms.com
 hugedomains.com
 ads-e-darwin.hulustream.com
@@ -47152,6 +47154,7 @@ ingest.lightstep.com
 liveperson.com
 living-sun.com
 lowendbox.com
+m1.com
 mackeeper.com
 mailerlite.com
 majesticseo.com
@@ -47302,8 +47305,8 @@ engage.xbox.com
 video.xxxjmp.com
 yagiay.com
 yep.com
-bln1.yospace.com
-tls1.yospace.com
+csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
+csm-e-cbch-eb.tls1.yospace.com
 zeelool.com
 zephr.com
 zopim.com
@@ -47367,6 +47370,8 @@ docdro.id
 files.im
 adguard-dns.io
 cc-api-data.adobe.io
+cdn.appconsent.io
+collector.appconsent.io
 applicationinsights.io
 canarymail.io
 cdn.elev.io
@@ -47396,7 +47401,6 @@ studenti.it
 ftp.iij.ad.jp
 stat100.ameba.jp
 tracking.post.japanpost.jp
-b.hatena.ne.jp
 yu.ac.kr
 postshare.co.kr
 tenping.kr
@@ -47512,6 +47516,7 @@ sdk.privacy-center.org
 rarbgmirrored.org
 speedcheck.org
 api.speedspot.org
+tracker.tleechreload.org
 traccar.org
 instant.page
 telegra.ph
@@ -47533,6 +47538,7 @@ heureka.sk
 norden.social
 api-mainnet.pool.space
 uber.space
+tracker.empornium.sx
 voe.sx
 gogoanime.tel
 tracker.avistaz.to
@@ -47548,6 +47554,7 @@ ravm.tv
 save.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
+interactive.guim.co.uk
 netdirector.co.uk
 overclockers.co.uk
 spartoo.co.uk
@@ -47561,7 +47568,7 @@ apollopushserver.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 161
+# Ignored duplicates: 164
 
 adservice.google.ac
 adservice.google.ad
@@ -47843,7 +47850,6 @@ adservice.google.ne
 px.a8.net
 a1.adform.net
 tags.adsafety.net
-xg4ken.com7eer.net
 suite15.emarsys.net
 pixel.everesttech.net
 cl.exct.net
@@ -48650,7 +48656,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 542
+# Ignored duplicates: 541
 
 a.run.app
 ipv4only.arpa
@@ -48913,6 +48919,7 @@ trafficrouter.io
 go.trouter.io
 subscriptions.pstmrk.it
 ftp.tsukuba.wide.ad.jp
+b.hatena.ne.jp
 mjt.lu
 mixnews.lv
 fb.me
