@@ -47093,6 +47093,7 @@ ff-04.com
 ff-05.com
 filedropper.com
 filehorse.com
+homedepot.cdn.findly.com
 detectportal.firefox.com
 fixedfloat.com
 formula1.com
@@ -47153,6 +47154,7 @@ collector.lightstep.com
 ingest.lightstep.com
 liveperson.com
 living-sun.com
+localiq.com
 lowendbox.com
 m1.com
 mackeeper.com
@@ -47223,6 +47225,7 @@ monitor.ppcprotect.com
 primevideo.com
 cdn.privacy-mgmt.com
 publitas.com
+pubnub.com
 sdk.qikify.com
 wxsnsdy.wxs.qq.com
 ablink.account.quizlet.com
@@ -47239,10 +47242,12 @@ ipe-pmt.prod.sabre.com
 images.salsify.com
 uimetadata.samsungiotcloud.com
 images.cdn.scarabresearch.com
+tracker.scenetime.com
 schneevonmorgen.com
 embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
+secondstreetapp.com
 cdn.segmentify.com
 faz.sevenval-fit.com
 privatedomain.sgizmo.com
