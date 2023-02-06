@@ -46928,7 +46928,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 337
+# Ignored duplicates: 340
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47128,6 +47128,8 @@ ads-fa-darwin.hulustream.com
 d.ifengimg.com
 images-amazon.com
 i.imgci.com
+e.imguol.com
+h.imguol.com
 api.immomo.com
 imore.com
 optmzly.fe.indazn.com
@@ -47295,6 +47297,8 @@ twitchy.com
 embed.typeform.com
 ultimedia.com
 answers.unity.com
+rtw.uol.com
+stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
 vercel-dns.com
