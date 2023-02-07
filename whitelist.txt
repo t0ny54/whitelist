@@ -71,6 +71,8 @@ dw.cbsi.com
 chtbl.com
 cint.com
 clickdimensions.com
+rabble-res.cloudinary.com
+clustrmaps.com
 confirmit.com
 connatix.com
 coralogix.com
@@ -180,6 +182,7 @@ report-uri.com
 res-x.com
 researchintel.com
 rollbar.com
+rubiconproject.com
 rusmedserv.com
 sailthru.com
 sajari.com
@@ -46928,7 +46931,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 340
+# Ignored duplicates: 341
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47018,6 +47021,7 @@ baihe.com
 banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
+benefithub.com
 binarypiano.com
 indusprodcustomer3996.pc.cdn.bitgravity.com
 cdn.bitmovin.com
@@ -47200,6 +47204,8 @@ mycliplister.com
 mypoints.com
 nairaland.com
 cdn-customers.nanorep.com
+sephora.narvar.com
+tracking.narvar.com
 tivan.naver.com
 netcoresmartech.com
 newbedev.com
@@ -47251,6 +47257,7 @@ i.sdacdn.com
 s.sdacdn.com
 secondstreetapp.com
 cdn.segmentify.com
+ship.sephora.com
 faz.sevenval-fit.com
 privatedomain.sgizmo.com
 cdn.sgmntfy.com
@@ -47297,6 +47304,7 @@ twitchy.com
 embed.typeform.com
 ultimedia.com
 answers.unity.com
+unmineable.com
 rtw.uol.com
 stc.uol.com
 uplynk.com
@@ -47309,6 +47317,7 @@ ims.vodafone.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
+phishingquiz.withgoogle.com
 wpbeaches.com
 engage.xbox.com
 video.xxxjmp.com
@@ -47487,6 +47496,7 @@ pv-cdn.net
 research.net
 static.cdn.responsys.net
 searchnode.net
+host.secureserver.net
 at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
@@ -48665,7 +48675,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 541
+# Ignored duplicates: 542
 
 a.run.app
 ipv4only.arpa
@@ -48867,7 +48877,6 @@ safe.txmblr.com
 use.typekit.com
 builder-assets.unbounce.com
 unbouncepages.com
-unmineable.com
 updatefaker.com
 amp.usatoday.com
 api.usebutton.com
