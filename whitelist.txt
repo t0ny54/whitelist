@@ -46931,7 +46931,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 341
+# Ignored duplicates: 342
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -46943,7 +46943,6 @@ sportsbet.com.au
 content-media.bonial.biz
 flvto.biz
 tm.jsuol.com.br
-tracker.alpharatio.cc
 uu.cc
 tdn.da-services.ch
 dns.digitale-gesellschaft.ch
@@ -46959,6 +46958,7 @@ happyelements.cn
 knet.cn
 online.sh.cn
 cdnjs.cloudflare.co
+i.ibb.co
 dyson.nanorep.co
 us1-1.nanorep.co
 saweria.co
@@ -47156,6 +47156,8 @@ koisea.com
 ku6.com
 lalpathlabs.com
 clientstream.launchdarkly.com
+ngfts.lge.com
+us.lgtvsdp.com
 collector.lightstep.com
 ingest.lightstep.com
 liveperson.com
@@ -47181,6 +47183,9 @@ global.cdn.survey.medallia.com
 mediatek.com
 cdn.mediavoice.com
 plugin.mediavoice.com
+diagnostics.meethue.com
+discovery.meethue.com
+ws.meethue.com
 meituan.com
 messengerpeople.com
 metal-tracker.com
@@ -47225,6 +47230,8 @@ widgets.opinary.com
 cdn.otstatic.com
 pcapredict.com
 performfeeds.com
+dp.dc1.philips.com
+www.ecdinterface.philips.com
 picclick.com
 plarium.com
 videos.porndig.com
@@ -47241,6 +47248,7 @@ d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
 cdn.rebuyengine.com
+images.redbox.com
 cf-iomeu-cdn.relaxg.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
@@ -47299,6 +47307,7 @@ rv.treehousei.com
 tropicalspicegarden.com
 consent.trustarc.com
 consent-pref.trustarc.com
+canvas.tubitv.com
 twibbonize.com
 twitchy.com
 embed.typeform.com
@@ -47309,6 +47318,7 @@ rtw.uol.com
 stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
+cdn77.utomik.com
 vercel-dns.com
 ads.videoadex.com
 videoland.com
@@ -47377,6 +47387,8 @@ swankyrule.zomap.de
 web.diagnostic.networking.aws.dev
 consent.dk
 iutoic-dhaka.edu
+consent.cookiebot.eu
+consentcdn.cookiebot.eu
 searchlab.eu
 ioc.exchange
 asiakas.valokuitunen.fi
@@ -47426,11 +47438,9 @@ smart.link
 api.noda.live
 ui.noda.live
 tag.search.sensefuel.live
-limetorrents.lol
 embed.ly
 view.genial.ly
 ahacdn.me
-tracker.beyond-hd.me
 rojadirecta.me
 scnlog.me
 cdn.stream.schibsted.media
@@ -47464,6 +47474,7 @@ mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
 entrust.net
 msg.ettoday.net
+ellation.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
@@ -47489,6 +47500,7 @@ az416426.vo.msecnd.net
 image.ccg.nintendo.net
 nutaku.net
 images.nvidiagrid.net
+img.nvidiagrid.net
 tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
@@ -47514,6 +47526,7 @@ zencdn.net
 ad.nl
 api.c99.nl
 disguised.nl
+mijn.overheid.nl
 aa.tweakers.nl
 ab.tweakers.nl
 fakeshop-finder.nrw
@@ -47535,7 +47548,6 @@ sdk.privacy-center.org
 rarbgmirrored.org
 speedcheck.org
 api.speedspot.org
-tracker.tleechreload.org
 traccar.org
 instant.page
 telegra.ph
@@ -47549,6 +47561,7 @@ export.yandex.ru
 informer.yandex.ru
 mx.yandex.ru
 share.yandex.ru
+url.rw
 static.share-videos.se
 qoo10.sg
 edgeme.sh
@@ -47557,15 +47570,12 @@ heureka.sk
 norden.social
 api-mainnet.pool.space
 uber.space
-tracker.empornium.sx
 voe.sx
 gogoanime.tel
-tracker.avistaz.to
 myflixer.to
 chillx.top
 pdcdn1.top
 chip.com.tr
-tracker.animebytes.tv
 cdn.brid.tv
 p.brid.tv
 services.brid.tv
@@ -47573,6 +47583,7 @@ ravm.tv
 save.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
+track.dhlparcel.co.uk
 interactive.guim.co.uk
 netdirector.co.uk
 overclockers.co.uk
@@ -49293,7 +49304,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3778
+# Ignored duplicates: 3779
 
 www.google.com.af
 www.google.com.ag
@@ -49378,7 +49389,6 @@ collect.media.jio.com
 prod.media.jio.com
 tv.media.jio.com
 rtss-prod.jioconnect.com
-ngfts.lge.com
 snu.lge.com
 altb.marfeelcache.com
 altbc.marfeelcache.com
