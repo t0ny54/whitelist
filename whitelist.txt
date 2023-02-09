@@ -47073,6 +47073,7 @@ engine.phn.doublepimp.com
 embed.dugout.com
 assets.dwell.com
 images.dwell.com
+mobapi-qero-ab.e-goi.com
 go.e2language.com
 ekomi.com
 wum97myjdw.ent-cdn.com
@@ -47156,6 +47157,7 @@ koisea.com
 ku6.com
 lalpathlabs.com
 clientstream.launchdarkly.com
+aic-ngfts.lge.com
 ngfts.lge.com
 us.lgtvsdp.com
 collector.lightstep.com
