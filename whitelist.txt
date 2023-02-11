@@ -70,6 +70,7 @@ captcha-display.com
 dw.cbsi.com
 chtbl.com
 cint.com
+clearbit.com
 clickdimensions.com
 rabble-res.cloudinary.com
 clustrmaps.com
@@ -46931,7 +46932,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 342
+# Ignored duplicates: 343
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47047,7 +47048,6 @@ ceros.com
 s2.static.cfgr3.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
-logo.clearbit.com
 clickerheroes.com
 player.cnevids.com
 coininsider.com
@@ -47158,6 +47158,7 @@ koisea.com
 ku6.com
 lalpathlabs.com
 clientstream.launchdarkly.com
+us.ibs.lgappstv.com
 aic-ngfts.lge.com
 ngfts.lge.com
 us.lgeapi.com
@@ -47167,6 +47168,7 @@ aic-op-lss.lgthinq.com
 common.lgthinq.com
 lss.lgthinq.com
 aic.cdpsvc.lgtvcommon.com
+aic.service.lgtvcommon.com
 us.rdx2.lgtvsdp.com
 us.lgtvsdp.com
 collector.lightstep.com
