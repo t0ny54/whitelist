@@ -46932,7 +46932,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 343
+# Ignored duplicates: 346
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47366,6 +47366,7 @@ click.cptrack.de
 content.cptrack.de
 datev-community.de
 tracking.dpd.de
+eazy.de
 ecosia.de
 imgs.elaine-asp.de
 lforr.elaine-asp.de
