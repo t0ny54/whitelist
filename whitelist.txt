@@ -46932,7 +46932,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 346
+# Ignored duplicates: 349
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47003,6 +47003,7 @@ cdn-116.anonfiles.com
 ansible.com
 unityprod.answerhub.com
 appboy-images.com
+assets-secure.applicaster.com
 appsumo.com
 video-api.bostonglobe.arcpublishing.com
 video-api-cdn.bostonglobe.arcpublishing.com
@@ -47423,6 +47424,7 @@ canarymail.io
 cdn.elev.io
 formspree.io
 cs.liiift.io
+api.loganalytics.io
 nextdns.io
 mobile-data.onetrust.io
 opentelemetry.io
@@ -47486,6 +47488,7 @@ dynu.net
 cdn-kaltura-dscd.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
+mcs-va.tiktok.com.edgekey.net
 mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
 entrust.net
@@ -48702,7 +48705,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 542
+# Ignored duplicates: 543
 
 a.run.app
 ipv4only.arpa
@@ -48958,7 +48961,6 @@ www.sdad.guru
 api.flexpool.io
 geojs.io
 appcloud.ironbeast.io
-api.loganalytics.io
 statuspage.io
 trafficrouter.io
 go.trouter.io
