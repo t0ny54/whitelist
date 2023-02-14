@@ -46932,7 +46932,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 349
+# Ignored duplicates: 350
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47033,6 +47033,7 @@ bnamic.com
 boldchat.com
 bonialconnect.com
 amp-api-prd.bostonglobe.com
+ads.brave.com
 api.brightcove.com
 browserhow.com
 api.bufferapp.com
@@ -47144,6 +47145,8 @@ vr331.infusionsoft.com
 ink1001.com
 cloud-news.ionos.com
 ipaddress.com
+carbon-v2.ipsator.com
+neon.ipsator.com
 media.itsfogo.com
 scmedia.itsfogo.com
 click.justwatch.com
@@ -47163,7 +47166,7 @@ us.ibs.lgappstv.com
 aic-ngfts.lge.com
 ngfts.lge.com
 us.lgeapi.com
-us.info.lgsmartad.com
+info.lgsmartad.com
 us.emp.lgsmartplatform.com
 aic-op-lss.lgthinq.com
 common.lgthinq.com
@@ -47257,6 +47260,8 @@ cdn.privacy-mgmt.com
 publitas.com
 pubnub.com
 sdk.qikify.com
+msf.3g.qq.com
+msfwifi.3g.qq.com
 wxsnsdy.wxs.qq.com
 ablink.account.quizlet.com
 d3tracking.rbc.com
@@ -47526,6 +47531,7 @@ compass.pressekompass.net
 pv-cdn.net
 research.net
 static.cdn.responsys.net
+sentry.sc-prod.net
 searchnode.net
 host.secureserver.net
 at-config.sensic.net
