@@ -4716,7 +4716,7 @@ gitcdn.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 98
+# Ignored duplicates: 100
 
 sbs.com.au
 acdn.adnxs.com
@@ -4736,8 +4736,6 @@ events.gfe.nvidia.com
 ota-downloads.nvidia.com
 refersion.com
 prod.telemetry.ros.rockstargames.com
-cdn.samsungcloudsolution.com
-time.samsungcloudsolution.com
 upgrade.scdn.com
 shareaholic.com
 cdn1.smartadserver.com
@@ -46932,7 +46930,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 350
+# Ignored duplicates: 372
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47056,6 +47054,7 @@ coininsider.com
 commentsengine.com
 contabostorage.com
 controld.com
+epg.corio.com
 courier.com
 static.cloud.coveo.com
 dailycaller.com
@@ -47063,6 +47062,7 @@ app.datadoghq.com
 docs.datadoghq.com
 static.datadoghq.com
 s.deepl.com
+tv.deezer.com
 deskpi.com
 deviceatlas.com
 digicert.com
@@ -47122,6 +47122,8 @@ email.goodrx.com
 track.goshippo.com
 i.hbrcdn.com
 s.hbrcdn.com
+location-api.hdhomerun.com
+tuner-api.hdhomerun.com
 glimmer.hearstapps.com
 embed.tagboard.com.herokudns.com
 hexun.com
@@ -47156,6 +47158,8 @@ cfvod.kaltura.com
 kiwibrowser.com
 a.klaviyo.com
 static.klaviyo.com
+static-app.klaviyo.com
+static-forms.klaviyo.com
 js.klevu.com
 manage.kmail-lists.com
 koisea.com
@@ -47231,6 +47235,7 @@ sephora.narvar.com
 tracking.narvar.com
 tivan.naver.com
 netcoresmartech.com
+deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
 nolo.com
@@ -47243,13 +47248,14 @@ go.oaktreecapital.com
 guce.oath.com
 mail.onedrive.com
 1weather.onelouder.com
+geo.opera.com
 api.opinary.com
 widgets.opinary.com
 cdn.otstatic.com
 pcapredict.com
 performfeeds.com
 dp.dc1.philips.com
-www.ecdinterface.philips.com
+ecdinterface.philips.com
 picclick.com
 plarium.com
 videos.porndig.com
@@ -47270,13 +47276,19 @@ cdn.reamaze.com
 cdn.rebuyengine.com
 images.redbox.com
 cf-iomeu-cdn.relaxg.com
+internal.cloud.remarkable.com
+ping.remarkable.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
 api.revenuecat.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
+otn.samsungcloudcdn.com
+samsungcloudsolution.com
 uimetadata.samsungiotcloud.com
+samsungosp.com
+samsungqbe.com
 images.cdn.scarabresearch.com
 tracker.scenetime.com
 schneevonmorgen.com
@@ -47300,6 +47312,7 @@ pixel.disco.skyshowtime.com
 socpublic.com
 softonic.com
 api-secure.solvemedia.com
+portal.store.sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
@@ -47340,11 +47353,16 @@ stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
 cdn77.utomik.com
+vcs.vdspf.com
 vercel-dns.com
 ads.videoadex.com
 videoland.com
 vidio.com
+announcements.vizio.com
+api.vizio.com
+images.vizio.com
 ims.vodafone.com
+apicache.vudu.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
@@ -47353,6 +47371,7 @@ wpbeaches.com
 engage.xbox.com
 video.xxxjmp.com
 yagiay.com
+avpro.global.yamaha.com
 yep.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
@@ -47363,6 +47382,7 @@ servix.idnes.cz
 ad-magazin.de
 aikq.de
 prospekt.aldi-sued.de
+itv.ard.de
 img.yana.asideas.de
 china-gadgets.de
 api.chip-secured-download.de
@@ -47392,6 +47412,8 @@ nickles.de
 o9.de
 oecherdeal.de
 pcwelt.de
+hbbtv.prosieben.de
+hbbtv.redbutton.de
 car.saturn.de
 pvn.saturn.de
 shopvote.de
@@ -47403,12 +47425,16 @@ cmp.tvspielfilm.de
 viagogo.de
 wfcdn.de
 wieistmeineip.de
+hbbtv.zdf.de
 zinspilot.de
 lush-clouds.zomap.de
 swankyrule.zomap.de
 web.diagnostic.networking.aws.dev
 consent.dk
 iutoic-dhaka.edu
+notifications-prod.cloud.remarkable.engineering
+updates.cloud.remarkable.engineering
+webapp-prod.cloud.remarkable.engineering
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
 searchlab.eu
@@ -47417,6 +47443,7 @@ asiakas.valokuitunen.fi
 bestgore.fun
 lnks.gd
 tracker.gg
+time-a.timefreq.bldrdoc.gov
 sch.gr
 docdro.id
 files.im
@@ -47426,6 +47453,7 @@ cdn.appconsent.io
 collector.appconsent.io
 applicationinsights.io
 canarymail.io
+chatra.io
 cdn.elev.io
 formspree.io
 cs.liiift.io
@@ -47455,7 +47483,9 @@ ftp.iij.ad.jp
 stat100.ameba.jp
 tracking.post.japanpost.jp
 yu.ac.kr
+infolink.pavv.co.kr
 postshare.co.kr
+ns11.whois.co.kr
 tenping.kr
 smart.link
 api.noda.live
@@ -47489,6 +47519,7 @@ searchg2.crownpeak.net
 edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
+cdns-content.dzcdn.net
 79423.analytics.edgekey.net
 cdn-kaltura-dscd.edgekey.net
 api.agoda.com.edgekey.net
@@ -47531,12 +47562,16 @@ compass.pressekompass.net
 pv-cdn.net
 research.net
 static.cdn.responsys.net
+samsungcloudsolution.net
+samsungotn.net
+samsungrm.net
 sentry.sc-prod.net
 searchnode.net
 host.secureserver.net
 at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
+applicast.ga.sony.net
 pov.spectrum.net
 api.st-av.net
 streamsb.net
@@ -47555,6 +47590,7 @@ mijn.overheid.nl
 aa.tweakers.nl
 ab.tweakers.nl
 fakeshop-finder.nrw
+drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
 anime-loads.org
@@ -47605,7 +47641,11 @@ cdn.brid.tv
 p.brid.tv
 services.brid.tv
 ravm.tv
+samsungcloud.tv
 save.tv
+reg.biv.sony.tv
+service.biv.sony.tv
+update.biv.sony.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
@@ -47623,7 +47663,7 @@ apollopushserver.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 165
+# Ignored duplicates: 166
 
 adservice.google.ac
 adservice.google.ad
@@ -48711,7 +48751,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 543
+# Ignored duplicates: 544
 
 a.run.app
 ipv4only.arpa
@@ -48864,7 +48904,6 @@ cdn.mxpnl.com
 myfox8.com
 lads.myspacecdn.com
 email.netlify.com
-deviceportal.nettvservices.com
 static.networkedblogs.com
 ns1.com
 yandex.ocsp-responder.com
