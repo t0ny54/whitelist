@@ -3939,6 +3939,7 @@ vnn-res.vgcloud.vn
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/mac.txt ##########
 
 emploiquebec.gouv.qc.ca
+icloud.com.cn
 apple.com
 icloud.com
 mzstatic.com
@@ -47052,6 +47053,7 @@ clickerheroes.com
 player.cnevids.com
 coininsider.com
 commentsengine.com
+vulcan.condenastdigital.com
 contabostorage.com
 controld.com
 epg.corio.com
@@ -47509,6 +47511,7 @@ f1-prod-production.apigee.net
 apple-dns.net
 axiadids.net
 b-cdn.net
+option.boldapps.net
 cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
@@ -47714,6 +47717,7 @@ adservice.google.co.ck
 adservice.google.cl
 adservice.google.cm
 adservice.google.com.co
+shop-links.co
 t.adcell.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
@@ -47991,6 +47995,7 @@ a.nonstoppartner.net
 go.nordlocker.net
 go.nordvpn.net
 geo1.presslabs.net
+adorama.rfvk.net
 track.seadform.net
 cdn-magiclinks.trackonomics.net
 adservice.google.com.nf
