@@ -46931,7 +46931,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 372
+# Ignored duplicates: 374
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -46951,6 +46951,7 @@ ens.nzz.ch
 track.nzz.ch
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
+track.yw56.com.cn
 sea.net.edu.cn
 mail.tsinghua.edu.cn
 i.guancha.cn
@@ -46988,6 +46989,7 @@ searchapi.agoda.com
 content.aimatch.com
 airydress.com
 akamai-images-content.com
+track.aliexpress.com.gds.alibabadns.com
 ilog-sea-aliyun.alipayplus.com
 mirrors.aliyun.com
 component-ota-in.allawnos.com
@@ -47386,6 +47388,7 @@ aikq.de
 prospekt.aldi-sued.de
 itv.ard.de
 img.yana.asideas.de
+prod-image-fastly-cdn.yana.asideas.de
 china-gadgets.de
 api.chip-secured-download.de
 co.de
@@ -47528,6 +47531,7 @@ cdn-kaltura-dscd.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
 mcs-va.tiktok.com.edgekey.net
+brightline.tv.edgekey.net
 mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
 entrust.net
@@ -47643,6 +47647,7 @@ chip.com.tr
 cdn.brid.tv
 p.brid.tv
 services.brid.tv
+brightline.tv
 ravm.tv
 samsungcloud.tv
 save.tv
