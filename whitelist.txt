@@ -46931,7 +46931,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 374
+# Ignored duplicates: 378
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47044,6 +47044,7 @@ c-ctrip.com
 cainiao.com
 devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
+doppler-config.cbsivideo.com
 wwwimage-tve.cbsstatic.com
 includes.ccdc02.com
 cdn-apple.com
@@ -47280,6 +47281,7 @@ cdn.reamaze.com
 cdn.rebuyengine.com
 images.redbox.com
 cf-iomeu-cdn.relaxg.com
+reliaquest.com
 internal.cloud.remarkable.com
 ping.remarkable.com
 opinions.research-interactive.com
@@ -47293,6 +47295,7 @@ samsungcloudsolution.com
 uimetadata.samsungiotcloud.com
 samsungosp.com
 samsungqbe.com
+sbchill.com
 images.cdn.scarabresearch.com
 tracker.scenetime.com
 schneevonmorgen.com
@@ -47444,6 +47447,7 @@ consent.cookiebot.eu
 consentcdn.cookiebot.eu
 searchlab.eu
 ioc.exchange
+tili.sanoma.fi
 asiakas.valokuitunen.fi
 bestgore.fun
 lnks.gd
@@ -47463,6 +47467,9 @@ cdn.elev.io
 formspree.io
 cs.liiift.io
 api.loganalytics.io
+imagesvc.meredithcorp.io
+cdn.video.meredithcorp.io
+playback.video.meredithcorp.io
 nextdns.io
 mobile-data.onetrust.io
 opentelemetry.io
@@ -47572,6 +47579,7 @@ static.cdn.responsys.net
 samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
+speedtest.sbcglobal.net
 sentry.sc-prod.net
 searchnode.net
 host.secureserver.net
@@ -47610,6 +47618,7 @@ consentmanager.mgr.consensu.org
 static.fastpic.org
 lencr.org
 matomo.org
+measurement-lab.org
 openjdk.org
 pastie.org
 sdk.privacy-center.org
