@@ -62,6 +62,7 @@ avantlink.com
 monitor.azure.com
 bamgrid.com
 bannerconnect.com
+beanstock.com
 bpmonline.com
 bugherd.com
 bugsnag.com
@@ -2877,22 +2878,74 @@ santander.nl
 snsbank.nl
 triodos.nl
 3dsecure.no
+afjord-sparebank.no
 altinn.no
+andebu-sparebank.no
+aurskog-sparebank.no
 bankid.no
 bankidapis.no
 bankidnorge.no
 id.banknorwegian.no
 identity.banknorwegian.no
+berg-sparebank.no
+bien.no
+birkenes-sparebank.no
+bjugn-sparebank.no
 nettbank2.danskebank.no
+dengulebanken.no
 difi.no
+eh-sparebank.no
+eika.no
+esbank.no
+etnedalsparebank.no
+gildeskaal-sparebank.no
+grong-sparebank.no
+gruesparebank.no
+haltdalensparebank.no
+hegrasparebank.no
+hemnesparebank.no
+hjartdalbanken.no
+hjelmeland-sparebank.no
+hsbank.no
 selfservice.ikano.no
+jaerensparebank.no
+jbf.no
+kvinesdalsparebank.no
+larvikbanken.no
+marker-sparebank.no
+melhusbanken.no
 pvu.nets.no
 nettbanken.nordea.no
+nordirekte.no
+oasparebank.no
+odal-sparebank.no
+oppdalsbanken.no
+orklasparebank.no
+orskogsparebank.no
+oslofjordsparebank.no
 pasientsky.no
 portalbank.no
+rindalsbanken.no
+romsdalsbanken.no
+rorosbanken.no
+rsbank.no
 id.santanderconsumer.no
 minnettbank.santanderconsumer.no
+skagerraksparebank.no
+skuesparebank.no
+sn.no
+sognbank.no
+soknedal-sparebank.no
 sparebank1.no
+strommensparebank.no
+sunndal-sparebank.no
+tinnbank.no
+totenbanken.no
+tsbank.no
+tysnes-sparebank.no
+valdressparebank.no
+valle-sparebank.no
+vekselbanken.no
 investor.vps.no
 secure.ya.no
 yanettbank.ya.no
@@ -46931,7 +46984,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 378
+# Ignored duplicates: 380
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47123,6 +47176,7 @@ cov.gmlinteractive.com
 static.gmlinteractive.com
 registerdisney.go.com
 goatcounter.com
+track.gojek.com
 email.goodrx.com
 track.goshippo.com
 i.hbrcdn.com
@@ -47653,6 +47707,7 @@ api-mainnet.pool.space
 uber.space
 voe.sx
 gogoanime.tel
+hopp.to
 myflixer.to
 chillx.top
 pdcdn1.top
@@ -49390,7 +49445,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3779
+# Ignored duplicates: 3781
 
 www.google.com.af
 www.google.com.ag
