@@ -242,6 +242,7 @@ pdst.fm
 rb.gy
 prf.hn
 upoint.id
+24smi.info
 ipinfo.info
 ad-shield.io
 airbrake.io
@@ -44001,6 +44002,7 @@ lt.tl
 anon.to
 beam.to
 bom.to
+fanlink.to
 ffm.to
 fire.to
 gooo.to
@@ -46984,7 +46986,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 380
+# Ignored duplicates: 382
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47016,6 +47018,7 @@ i.ibb.co
 dyson.nanorep.co
 us1-1.nanorep.co
 saweria.co
+scdn.co
 i.shoosh.co
 v.shoosh.co
 swile.co
@@ -47056,6 +47059,7 @@ play.aniview.com
 cdn-116.anonfiles.com
 ansible.com
 unityprod.answerhub.com
+k.apiairasia.com
 appboy-images.com
 assets-secure.applicaster.com
 appsumo.com
@@ -47572,6 +47576,7 @@ assets.rbl.ms
 subarumysubaruappproduction.112.2o7.net
 aiv-cdn.net
 aiv-delivery.net
+spotify.com.akahost.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 apple-dns.net
@@ -49178,14 +49183,10 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 272
+# Ignored duplicates: 276
 
 theship.club
 cpro.baidu.cn
-audio-gc.scdn.co
-heads-fa.scdn.co
-upgrade.scdn.co
-video-fa.scdn.co
 aatkit.com
 sp.auth.adobe.com
 aax-us-east.amazon-adsystem.com
