@@ -870,6 +870,7 @@ sube.iktisatbank.com
 independentreserve.com
 inetpayonline.com
 ingonline.com
+inicis.com
 instamojo.com
 interactivebrokers.com
 internetpanin.com
@@ -940,6 +941,7 @@ portal.nefteprom.com
 neteller.com
 netpnb.com
 netteller.com
+nonghyup.com
 digital.noorbank.com
 nordea.com
 nsandi.com
@@ -966,6 +968,7 @@ checkout.paddle.com
 pagbrasil.com
 papara.com
 trade.paritem.com
+payco.com
 payeer.com
 paykun.com
 secure.payler.com
@@ -1024,6 +1027,7 @@ russobank.com
 sabb.com
 saferpay.com
 samba.com
+samsungpop.com
 santanderbank.com
 gws.sauberbank.com
 sberbank.com
@@ -1072,6 +1076,7 @@ tiscoasset.com
 titanvest.com
 tmbdirect.com
 tochka.com
+tossinvest.com
 touchbank.com
 transaccionesbancolombia.com
 ibank.transcapital.com
@@ -2710,6 +2715,7 @@ fibi-online.co.il
 mizrahi-tefahot.co.il
 pay24.co.il
 hb.unionbank.co.il
+toss.im
 canarabank.in
 online.cosmosbank.in
 internet-banking.dbsbank.in
@@ -2753,6 +2759,8 @@ county2.riverbank.co.ke
 online.demirbank.kg
 optima24.kg
 gbank.rsk.kg
+cultureland.co.kr
+kftc.or.kr
 alfabank.kz
 atf24.kz
 atfbank.kz
@@ -4020,11 +4028,13 @@ passport.yandex.by
 1password.ca
 canadapost.ca
 cra-arc.gc.ca
+protonmail.ch
 1password.com
 checkout.bambora.com
 id.biltema.com
 binance.com
 bitwarden.com
+cdn-secuchart.com
 completeid.com
 dashlane.com
 equifax.com
@@ -4034,18 +4044,26 @@ freshbooks.com
 hrblock.com
 idnotify.com
 idwatchdog.com
+accounts.kakao.com
+kauth.kakao.com
 kashflow.com
+fido.kt.com
+login.kt.com
 lastpass.com
 lifelock.com
 mexc.com
 mydocomo.com
 myob.com
+nid.naver.com
+pay.naver.com
 nordpass.com
 onpointcu.com
 protonmail.com
 protonvpn.com
+raonsecure.com
 receiptbank.com
 roboform.com
+secuchart.com
 securesafe.com
 sophos.com
 app.traderepublic.com
@@ -4073,6 +4091,9 @@ bbss.softbankbb.co.jp
 cfg.smt.docomo.ne.jp
 id.smt.docomo.ne.jp
 my.softbank.jp
+raonsecure.co.kr
+go.kr
+gov.kr
 id.yandex.kz
 passport.yandex.kz
 proton.me
@@ -5329,7 +5350,7 @@ trkr.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains ##########
 
-# Ignored duplicates: 173
+# Ignored duplicates: 174
 
 nba.ai
 acba.am
@@ -6773,7 +6794,6 @@ bankofjordan.com.jo
 bk.mufg.jp
 co-opbank.co.ke
 hanvitbank.co.kr
-koreaexim.go.kr
 bok.or.kr
 cimoney.com.ky
 bml.com.lb
@@ -46986,7 +47006,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 382
+# Ignored duplicates: 383
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -49446,7 +49466,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3781
+# Ignored duplicates: 3782
 
 www.google.com.af
 www.google.com.ag
