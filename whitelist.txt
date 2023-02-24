@@ -47422,7 +47422,6 @@ akm-img-a-in.tosshub.com
 cdn.tpdads.com
 api-v4.trbo.com
 rv.treehousei.com
-tropicalspicegarden.com
 consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
