@@ -47006,7 +47006,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 383
+# Ignored duplicates: 385
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47017,6 +47017,7 @@ ssl.o.auspost.com.au
 sportsbet.com.au
 content-media.bonial.biz
 flvto.biz
+baixaki.com.br
 tm.jsuol.com.br
 uu.cc
 tdn.da-services.ch
@@ -47331,6 +47332,7 @@ go.oaktreecapital.com
 guce.oath.com
 mail.onedrive.com
 1weather.onelouder.com
+onmilwaukee.com
 geo.opera.com
 api.opinary.com
 widgets.opinary.com
@@ -47674,6 +47676,7 @@ te.technical-service.net
 cdn.trustcommander.net
 aa.tweakers.net
 ab.tweakers.net
+use.typekit.net
 uceprotect.net
 verisign.net
 yacy.net
@@ -48502,7 +48505,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 637
+# Ignored duplicates: 638
 
 1hosts.cf
 abuse.ch
@@ -48722,7 +48725,6 @@ cdn.onenote.net
 files.overclock.net
 cs9.wac.phicdn.net
 cdn.sstatic.net
-use.typekit.net
 cs22.wpc.v0cdn.net
 chat.cdn.whatsapp.net
 media-ams3-1.cdn.whatsapp.net
