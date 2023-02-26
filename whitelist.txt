@@ -47006,7 +47006,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 385
+# Ignored duplicates: 387
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47239,6 +47239,7 @@ click.justwatch.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
 cfvod.kaltura.com
+karenpryoracademy.com
 kiwibrowser.com
 a.klaviyo.com
 static.klaviyo.com
@@ -47431,6 +47432,7 @@ canvas.tubitv.com
 twibbonize.com
 twitchy.com
 embed.typeform.com
+ping.ui.com
 ultimedia.com
 answers.unity.com
 unmineable.com
@@ -47989,6 +47991,7 @@ adservice.google.in
 app.adjust.net.in
 adservice.google.info
 link.swa.info
+app.adjust.io
 click.appcast.io
 glnk.io
 adservice.google.io
