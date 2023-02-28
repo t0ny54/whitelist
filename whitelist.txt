@@ -3944,6 +3944,7 @@ mozilla.net
 adtidy.org
 eff.org
 addons.mozilla.org
+aus5.mozilla.org
 
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/issues.txt ##########
@@ -47006,7 +47007,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 389
+# Ignored duplicates: 406
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -48087,6 +48088,7 @@ uk-go.kelkoogroup.net
 us-go.kelkoogroup.net
 apiservices.krxd.net
 t.lt02.net
+lt45.net
 links.mkt41.net
 links.mkt51.net
 links.mkt61.net
@@ -48143,6 +48145,7 @@ adservice.google.rw
 adservice.google.com.sa
 adservice.google.com.sb
 adservice.google.sc
+converti.se
 adservice.google.se
 adservice.google.com.sg
 adservice.google.sg
