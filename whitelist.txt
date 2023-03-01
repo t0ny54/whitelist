@@ -47007,7 +47007,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 406
+# Ignored duplicates: 404
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47046,7 +47046,6 @@ v.shoosh.co
 swile.co
 fy.v.vrv.co
 56.com
-a2zapk.com
 above.com
 abuelos.com
 ac24horas.com
@@ -47296,7 +47295,6 @@ discovery.meethue.com
 ws.meethue.com
 meituan.com
 messengerpeople.com
-metal-tracker.com
 email.microsoftemail.com
 email.microsoftrewards.com
 microsoftstoreemail.com
@@ -47379,7 +47377,6 @@ samsungosp.com
 samsungqbe.com
 sbchill.com
 images.cdn.scarabresearch.com
-tracker.scenetime.com
 schneevonmorgen.com
 embed.scribblelive.com
 i.sdacdn.com
@@ -47535,7 +47532,6 @@ tili.sanoma.fi
 asiakas.valokuitunen.fi
 bestgore.fun
 lnks.gd
-tracker.gg
 time-a.timefreq.bldrdoc.gov
 sch.gr
 docdro.id
@@ -47590,8 +47586,6 @@ tag.search.sensefuel.live
 embed.ly
 view.genial.ly
 ahacdn.me
-rojadirecta.me
-scnlog.me
 cdn.stream.schibsted.media
 codepush.appcenter.ms
 in.appcenter.ms
@@ -47694,7 +47688,6 @@ fakeshop-finder.nrw
 drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
-anime-loads.org
 camopedia.org
 cdnbunny.org
 click.e.change.org
@@ -47708,7 +47701,6 @@ measurement-lab.org
 openjdk.org
 pastie.org
 sdk.privacy-center.org
-rarbgmirrored.org
 speedcheck.org
 api.speedspot.org
 traccar.org
@@ -47738,7 +47730,6 @@ uber.space
 voe.sx
 gogoanime.tel
 hopp.to
-myflixer.to
 chillx.top
 pdcdn1.top
 chip.com.tr
@@ -48200,7 +48191,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 125
+# Ignored duplicates: 124
 
 api.cortana.ai
 uol.com.br
@@ -48493,6 +48484,7 @@ rarbg2020.org
 rarbg2021.org
 rarbgaccess.org
 rarbgmirror.org
+rarbgmirrored.org
 rarbgp2p.org
 rarbgproxied.org
 rarbgproxy.org
@@ -49473,7 +49465,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3782
+# Ignored duplicates: 3781
 
 www.google.com.af
 www.google.com.ag
@@ -49564,6 +49556,7 @@ altbc.marfeelcache.com
 marfeelcdn.com
 marfeelrev.com
 media-imdb.com
+www.metal-tracker.com
 css.mmtcdn.com
 css-cd.mmtcdn.com
 cssak.mmtcdn.com
