@@ -44470,6 +44470,7 @@ simpy.com
 sitejot.com
 skyrock.com
 smallbusinessbrief.com
+socialblade.com
 socializr.com
 socialvibe.com
 sonico.com
@@ -44522,6 +44523,7 @@ tiktok.com
 tiktokv.com
 tipd.com
 tipstrs.com
+tokcount.com
 trailfire.com
 travbuddy.com
 travellerspoint.com
@@ -44672,6 +44674,7 @@ freelink.org
 givealink.org
 globalvoicesonline.org
 hospitalityclub.org
+livecounts.org
 meetin.org
 mychurch.org
 sitebar.org
@@ -47131,6 +47134,7 @@ s2.static.cfgr3.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
 clickerheroes.com
+cliqz.com
 player.cnevids.com
 coininsider.com
 commentsengine.com
@@ -47398,6 +47402,7 @@ pixel.disco.skyshowtime.com
 socpublic.com
 softonic.com
 api-secure.solvemedia.com
+go.sonomotors.com
 portal.store.sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
@@ -47409,6 +47414,7 @@ hgc-cf-cache-1.svonm.com
 swiftcourrier.com
 bibo.api.swiftkey.com
 jenson.api.swiftkey.com
+syn-alias.com
 embed.tagboard.com
 cdn.tagcommander.com
 talentwunder.com
@@ -47526,7 +47532,6 @@ updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
-searchlab.eu
 ioc.exchange
 tili.sanoma.fi
 asiakas.valokuitunen.fi
@@ -47676,7 +47681,6 @@ ab.tweakers.net
 use.typekit.net
 uceprotect.net
 verisign.net
-yacy.net
 zencdn.net
 ad.nl
 api.c99.nl
