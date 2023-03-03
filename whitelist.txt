@@ -47147,6 +47147,7 @@ static.cloud.coveo.com
 dailycaller.com
 app.datadoghq.com
 docs.datadoghq.com
+imgix.datadoghq.com
 static.datadoghq.com
 s.deepl.com
 tv.deezer.com
@@ -47218,6 +47219,7 @@ hexun.com
 client-uc.heytapmobi.com
 thumb.highdeliveryscdn.com
 static-assets.highwebmedia.com
+mail.office.hiworks.com
 hsforms.com
 hugedomains.com
 ads-e-darwin.hulustream.com
@@ -48048,7 +48050,6 @@ adservice.google.ne
 px.a8.net
 a1.adform.net
 tags.adsafety.net
-xg4ken.com7eer.net
 suite15.emarsys.net
 pixel.everesttech.net
 cl.exct.net
@@ -48187,6 +48188,7 @@ adservice.google.com.vn
 adservice.google.vn
 adservice.google.voto
 adservice.google.vu
+app.adjust.world
 adservice.google.ws
 adservice.google.co.za
 adservice.google.co.zm
