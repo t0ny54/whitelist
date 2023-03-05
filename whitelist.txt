@@ -47012,7 +47012,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 404
+# Ignored duplicates: 406
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47108,6 +47108,7 @@ banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 benefithub.com
+eu-swarm-newm.betcoswarm.com
 binarypiano.com
 indusprodcustomer3996.pc.cdn.bitgravity.com
 cdn.bitmovin.com
@@ -47137,8 +47138,10 @@ tmetrix.my.chick-fil-a.com
 services.chipotle.com
 clickerheroes.com
 cliqz.com
+cmsbetconstruct.com
 player.cnevids.com
 coininsider.com
+vue.comm100.com
 commentsengine.com
 vulcan.condenastdigital.com
 contabostorage.com
@@ -47344,6 +47347,7 @@ onmilwaukee.com
 geo.opera.com
 api.opinary.com
 widgets.opinary.com
+images.core.optasports.com
 cdn.otstatic.com
 pcapredict.com
 performfeeds.com
@@ -47618,6 +47622,7 @@ code-examples.net
 lbnew.consentmanager.net
 get.contentpass.net
 searchg2.crownpeak.net
+mc.cubecdn.net
 edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
@@ -47761,6 +47766,7 @@ overclockers.co.uk
 spartoo.co.uk
 o.ss2.us
 s.ss2.us
+zadn.vn
 nnmstatic.win
 cbox.ws
 myip.wtf
