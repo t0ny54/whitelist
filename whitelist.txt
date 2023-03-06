@@ -47012,7 +47012,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 406
+# Ignored duplicates: 407
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47244,6 +47244,8 @@ cloud-news.ionos.com
 ipaddress.com
 carbon-v2.ipsator.com
 neon.ipsator.com
+pubssl.itmems4.com
+spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
 click.justwatch.com
@@ -47470,6 +47472,7 @@ wdtinc.com
 phishingquiz.withgoogle.com
 wpbeaches.com
 engage.xbox.com
+xoom.com
 video.xxxjmp.com
 yagiay.com
 avpro.global.yamaha.com
@@ -47576,6 +47579,7 @@ searchnode.io
 auth.split.io
 cdn.split.io
 sdk.split.io
+streaming.split.io
 api.storyly.io
 termly.io
 trezor.io
