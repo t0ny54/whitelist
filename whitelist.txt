@@ -47460,6 +47460,7 @@ vcs.vdspf.com
 vercel-dns.com
 ads.videoadex.com
 videoland.com
+videoproc.com
 vidio.com
 announcements.vizio.com
 api.vizio.com
@@ -47661,6 +47662,8 @@ blogroll.livedoor.net
 adminlogin.liveperson.net
 windowsupdate.s.llnwi.net
 meituan.net
+dotzbr-dev.mirakl.net
+login.mirakl.net
 mntzrlt.net
 tracking-protection.prod.mozaws.net
 az416426.vo.msecnd.net
@@ -47779,7 +47782,7 @@ apollopushserver.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 166
+# Ignored duplicates: 167
 
 adservice.google.ac
 adservice.google.ad
