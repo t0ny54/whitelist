@@ -47132,6 +47132,7 @@ doppler-config.cbsivideo.com
 wwwimage-tve.cbsstatic.com
 includes.ccdc02.com
 cdn-apple.com
+cdnhwc1.com
 ceros.com
 s2.static.cfgr3.com
 tmetrix.my.chick-fil-a.com
@@ -47262,6 +47263,7 @@ js.klevu.com
 manage.kmail-lists.com
 koisea.com
 ku6.com
+kxcdn.com
 lalpathlabs.com
 clientstream.launchdarkly.com
 us.ibs.lgappstv.com
@@ -47462,6 +47464,7 @@ ads.videoadex.com
 videoland.com
 videoproc.com
 vidio.com
+vidyard.com
 announcements.vizio.com
 api.vizio.com
 images.vizio.com
@@ -47482,6 +47485,7 @@ csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
 zeelool.com
 zephr.com
+zoominfo.com
 zopim.com
 servix.idnes.cz
 ad-magazin.de
@@ -47596,6 +47600,8 @@ yu.ac.kr
 infolink.pavv.co.kr
 postshare.co.kr
 ns11.whois.co.kr
+dreamsearch.or.kr
+gokams.or.kr
 tenping.kr
 smart.link
 api.noda.live
@@ -47778,6 +47784,7 @@ nnmstatic.win
 cbox.ws
 myip.wtf
 apollopushserver.xyz
+netu.wiztube.xyz
 
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
