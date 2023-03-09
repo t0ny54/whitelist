@@ -111,6 +111,7 @@ gm99.com
 googletagmanager.com
 googletagservices.com
 gvt1.com
+appsflyer-report.honkaiimpact3.com
 host-tracker.com
 hostinger.com
 hotdogsandads.com
@@ -47840,6 +47841,7 @@ adservice.google.co.ck
 adservice.google.cl
 adservice.google.cm
 adservice.google.com.co
+track.grove.co
 shop-links.co
 t.adcell.com
 ad3.adfarm1.adition.com
