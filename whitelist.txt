@@ -175,6 +175,7 @@ postclickmarketing.com
 productsup.com
 proofpoint.com
 pushbullet.com
+pushowl.com
 pushpushgo.com
 sv.aq.qq.com
 qualtrics.com
@@ -252,6 +253,7 @@ branch.io
 carrotquest.io
 customer.io
 ethn.io
+geojs.io
 instana.io
 ipgeolocation.io
 ipinfo.io
@@ -47303,7 +47305,6 @@ maxpark.com
 webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
 global.cdn.survey.medallia.com
-mediatek.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 diagnostics.meethue.com
@@ -48884,7 +48885,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 544
+# Ignored duplicates: 545
 
 a.run.app
 ipv4only.arpa
@@ -49137,7 +49138,6 @@ jvc.gg
 ocsp.pki.goog
 www.sdad.guru
 api.flexpool.io
-geojs.io
 appcloud.ironbeast.io
 statuspage.io
 trafficrouter.io
