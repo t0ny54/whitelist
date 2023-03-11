@@ -47168,6 +47168,7 @@ discords.com
 image.mail.disneyplus.com
 images.dmca.com
 cdn.dnsv1.com
+doppiocdn.com
 engine.phn.doublepimp.com
 embed.dugout.com
 assets.dwell.com
@@ -47422,6 +47423,7 @@ soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
 stacksocial.com
+strpst.com
 stylitics.com
 engage.surface.com
 hgc-cf-cache-1.svonm.com
@@ -47434,6 +47436,7 @@ cdn.tagcommander.com
 talentwunder.com
 tantanapp.com
 tarafdari.com
+thecanadianpharmacy.com
 dd.tidal.com
 et.tidal.com
 tags.tiqcdn.com
@@ -47544,6 +47547,7 @@ lush-clouds.zomap.de
 swankyrule.zomap.de
 web.diagnostic.networking.aws.dev
 consent.dk
+netbank.nordea.dk
 iutoic-dhaka.edu
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
