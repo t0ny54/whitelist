@@ -47147,6 +47147,7 @@ player.cnevids.com
 coininsider.com
 vue.comm100.com
 commentsengine.com
+compaq.com
 vulcan.condenastdigital.com
 contabostorage.com
 controld.com
@@ -47171,6 +47172,7 @@ cdn.dnsv1.com
 doppiocdn.com
 engine.phn.doublepimp.com
 embed.dugout.com
+dvsdvsdvsdva.com
 assets.dwell.com
 images.dwell.com
 mobapi-qero-ab.e-goi.com
@@ -47450,6 +47452,7 @@ consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
 canvas.tubitv.com
+tuyacn.com
 twibbonize.com
 twitchy.com
 embed.typeform.com
@@ -47605,6 +47608,7 @@ tracking.post.japanpost.jp
 yu.ac.kr
 infolink.pavv.co.kr
 postshare.co.kr
+mktp.tmoney.co.kr
 ns11.whois.co.kr
 dreamsearch.or.kr
 gokams.or.kr
@@ -47728,6 +47732,7 @@ learn.cisecurity.org
 codeberg.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
+heliohost.org
 lencr.org
 matomo.org
 measurement-lab.org
