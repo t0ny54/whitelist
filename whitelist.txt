@@ -224,6 +224,7 @@ sealserver.trustwave.com
 unpkg.com
 urbanairship.com
 userreport.com
+valuecommerce.com
 vectorstock.com
 viglink.com
 visualwebsiteoptimizer.com
@@ -47687,6 +47688,7 @@ image.ccg.nintendo.net
 nutaku.net
 images.nvidiagrid.net
 img.nvidiagrid.net
+widget.cloud.opta.net
 tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
@@ -47725,6 +47727,7 @@ fakeshop-finder.nrw
 drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
+statistics.bcapps.org
 camopedia.org
 cdnbunny.org
 click.e.change.org
