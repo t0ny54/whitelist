@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 28
+# Ignored duplicates: 29
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -34,6 +34,7 @@ p.d.1enm.com
 91mobiles.com
 a2z.com
 try.abtasty.com
+adcell.com
 static.addtoany.com
 app.adjust.com
 admitad.com
@@ -277,6 +278,7 @@ rtoaster.jp
 seesaa.jp
 team-rec.jp
 shopping.yahooapis.jp
+yads.c.yimg.jp
 app.link
 bnc.lt
 stats.lt
@@ -47803,7 +47805,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 167
+# Ignored duplicates: 168
 
 adservice.google.ac
 adservice.google.ad
@@ -47856,7 +47858,6 @@ adservice.google.cm
 adservice.google.com.co
 track.grove.co
 shop-links.co
-t.adcell.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 ulink.adjust.com
