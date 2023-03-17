@@ -378,7 +378,7 @@ trust.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 169
+# Ignored duplicates: 170
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
