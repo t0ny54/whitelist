@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 29
+# Ignored duplicates: 30
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -47018,7 +47018,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 407
+# Ignored duplicates: 408
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47026,6 +47026,7 @@ safebrowsing.apple
 domaintechnik.at
 noip.at
 ssl.o.auspost.com.au
+metrics.leaptel.com.au
 sportsbet.com.au
 content-media.bonial.biz
 flvto.biz
@@ -47047,6 +47048,7 @@ happyelements.cn
 knet.cn
 online.sh.cn
 cdnjs.cloudflare.co
+i.doodcdn.co
 i.ibb.co
 dyson.nanorep.co
 us1-1.nanorep.co
@@ -47427,6 +47429,7 @@ portal.store.sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
+stackpath.com
 stacksocial.com
 strpst.com
 stylitics.com
@@ -47444,6 +47447,7 @@ tarafdari.com
 thecanadianpharmacy.com
 dd.tidal.com
 et.tidal.com
+salt.tikicdn.com
 tags.tiqcdn.com
 data.tmsapi.com
 tnt-ea.com
@@ -49509,7 +49513,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3781
+# Ignored duplicates: 3782
 
 www.google.com.af
 www.google.com.ag
@@ -49649,7 +49653,6 @@ config.safedk.com
 safelinkconverter.com
 api.simplisafe.com
 sitesell.com
-stackpath.com
 stathat.com
 api.tastyworks.com
 tdw.telkomsel.com
