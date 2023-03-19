@@ -47018,7 +47018,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 408
+# Ignored duplicates: 409
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
@@ -47186,6 +47186,7 @@ ekomi.com
 wum97myjdw.ent-cdn.com
 stats.espncricinfo.com
 etrality.com
+cdn.exponea.com
 puc-cdn.exponea.com
 thumbs-015.externulls.com
 abc-twitter.extremereach.com
@@ -47209,6 +47210,7 @@ homedepot.cdn.findly.com
 detectportal.firefox.com
 fixedfloat.com
 formula1.com
+fosscord.com
 fssquad.com
 funtrivia.com
 api.pgpl.g5e.com
@@ -47370,6 +47372,7 @@ ecdinterface.philips.com
 picclick.com
 plarium.com
 videos.porndig.com
+postup.com
 go.powunity.com
 monitor.ppcprotect.com
 primevideo.com
