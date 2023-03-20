@@ -47018,7 +47018,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 409
+# Ignored duplicates: 410
 
 sp-ao.shortpixel.ai
 ip.istatmenus.app
