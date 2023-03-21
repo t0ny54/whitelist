@@ -260,6 +260,7 @@ instana.io
 ipgeolocation.io
 ipinfo.io
 litix.io
+logz.io
 geo.ngtv.io
 ntv.io
 onthe.io
@@ -47091,6 +47092,7 @@ amazonforum.com
 amazonvideo.com
 play.aniview.com
 cdn-116.anonfiles.com
+cdn-153.anonfiles.com
 ansible.com
 unityprod.answerhub.com
 k.apiairasia.com
@@ -47424,6 +47426,7 @@ p.shure.com
 shutterstock.com
 oup.silverchair-cdn.com
 pixel.disco.skyshowtime.com
+internal-api.snapkit.com
 socpublic.com
 softonic.com
 api-secure.solvemedia.com
@@ -47456,6 +47459,7 @@ data.tmsapi.com
 tnt-ea.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
+cdn.transifex.com
 api-v4.trbo.com
 rv.treehousei.com
 consent.trustarc.com
@@ -49516,7 +49520,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3782
+# Ignored duplicates: 3783
 
 www.google.com.af
 www.google.com.ag
@@ -49661,7 +49665,6 @@ api.tastyworks.com
 tdw.telkomsel.com
 imgk.timesnownews.com
 m.recipes.timesofindia.com
-cdn.transifex.com
 tube8.com
 changelogs.ubuntu.com
 uptime.com
