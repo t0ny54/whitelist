@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 30
+# Ignored duplicates: 31
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -47021,6 +47021,7 @@ aag.org.za
 
 # Ignored duplicates: 410
 
+cdn.engagement.ai
 sp-ao.shortpixel.ai
 ip.istatmenus.app
 safebrowsing.apple
@@ -47041,6 +47042,7 @@ ens.nzz.ch
 track.nzz.ch
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
+hosteagle.club
 track.yw56.com.cn
 sea.net.edu.cn
 mail.tsinghua.edu.cn
@@ -47090,6 +47092,7 @@ alvarotrigo.com
 prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
+angi.com
 play.aniview.com
 cdn-116.anonfiles.com
 cdn-153.anonfiles.com
@@ -47177,7 +47180,6 @@ image.mail.disneyplus.com
 images.dmca.com
 cdn.dnsv1.com
 doppiocdn.com
-engine.phn.doublepimp.com
 embed.dugout.com
 dvsdvsdvsdva.com
 assets.dwell.com
@@ -47708,6 +47710,7 @@ compass.pressekompass.net
 pv-cdn.net
 research.net
 static.cdn.responsys.net
+riotpixels.net
 samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
@@ -47729,6 +47732,7 @@ ab.tweakers.net
 use.typekit.net
 uceprotect.net
 verisign.net
+fast.wistia.net
 zencdn.net
 ad.nl
 api.c99.nl
@@ -47742,6 +47746,7 @@ ccf.admeen.org
 tcf.admeen.org
 statistics.bcapps.org
 camopedia.org
+1115546720.rsc.cdn77.org
 cdnbunny.org
 click.e.change.org
 learn.cisecurity.org
@@ -47783,6 +47788,7 @@ api-mainnet.pool.space
 uber.space
 voe.sx
 gogoanime.tel
+use.fvr.to
 hopp.to
 chillx.top
 pdcdn1.top
