@@ -47062,6 +47062,7 @@ v.shoosh.co
 swile.co
 fy.v.vrv.co
 56.com
+6sense.com
 above.com
 abuelos.com
 ac24horas.com
@@ -47107,6 +47108,7 @@ video-api-cdn.bostonglobe.arcpublishing.com
 bostonglobe-prod.cdn.arcpublishing.com
 video-api.arcpublishing.com
 arqbackup.com
+arttrk.com
 www.asadcdn.com
 licenses.ashampoo.com
 de.aukey.com
@@ -47822,7 +47824,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 168
+# Ignored duplicates: 166
 
 adservice.google.ac
 adservice.google.ad
