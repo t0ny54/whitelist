@@ -79,6 +79,7 @@ clustrmaps.com
 confirmit.com
 connatix.com
 coralogix.com
+crakmedia.com
 crowdtwist.com
 ctrip.com
 cxense.com
@@ -43953,6 +43954,7 @@ tik.lat
 did.li
 htl.li
 m-i.li
+surl.li
 xip.li
 b.link
 grabify.link
@@ -47019,7 +47021,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 410
+# Ignored duplicates: 411
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47188,6 +47190,8 @@ assets.dwell.com
 images.dwell.com
 mobapi-qero-ab.e-goi.com
 go.e2language.com
+gph.easebar.com
+update.easebar.com
 ekomi.com
 wum97myjdw.ent-cdn.com
 stats.espncricinfo.com
