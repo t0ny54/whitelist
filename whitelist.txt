@@ -37156,6 +37156,7 @@ trois-suisses.fr
 twenga.fr
 verbaudet.fr
 vermetal-basket.fr
+vertbaudet.fr
 vinted.fr
 vistaprint.fr
 webedia.fr
@@ -47173,6 +47174,7 @@ app.datadoghq.com
 docs.datadoghq.com
 imgix.datadoghq.com
 static.datadoghq.com
+gall.dcinside.com
 s.deepl.com
 tv.deezer.com
 deskpi.com
@@ -47245,6 +47247,7 @@ tuner-api.hdhomerun.com
 glimmer.hearstapps.com
 embed.tagboard.com.herokudns.com
 hexun.com
+sms.ads.heytapmobi.com
 client-uc.heytapmobi.com
 thumb.highdeliveryscdn.com
 static-assets.highwebmedia.com
@@ -47693,7 +47696,9 @@ hsforms.net
 330046.group46.sites.hubspot.net
 cds.b5g9b8e4.hwcdn.net
 iframely.net
+aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
+relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
 leakix.net
 blogroll.livedoor.net
