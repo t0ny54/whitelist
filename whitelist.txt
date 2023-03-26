@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 411
+# Ignored duplicates: 410
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47677,7 +47677,6 @@ cdns-content.dzcdn.net
 cdn-kaltura-dscd.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
-mcs-va.tiktok.com.edgekey.net
 brightline.tv.edgekey.net
 mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
