@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 410
+# Ignored duplicates: 412
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47045,6 +47045,7 @@ ens.nzz.ch
 track.nzz.ch
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
+glomex.cloud
 hosteagle.club
 track.yw56.com.cn
 sea.net.edu.cn
@@ -47473,6 +47474,7 @@ cdn.tpdads.com
 cdn.transifex.com
 api-v4.trbo.com
 rv.treehousei.com
+trello.com
 consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
@@ -47567,6 +47569,7 @@ pix.sueddeutsche.de
 tipico.de
 cmp.tvspielfilm.de
 viagogo.de
+deviceids-medp.wdr.de
 wfcdn.de
 wieistmeineip.de
 hbbtv.zdf.de
@@ -48575,7 +48578,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 638
+# Ignored duplicates: 640
 
 1hosts.cf
 abuse.ch
@@ -48709,8 +48712,6 @@ theguardian.com
 thewindowsclub.com
 mail01.tinyletterapp.com
 toptenreviews.com
-api.trello.com
-c.trello.com
 a.trellocdn.com
 triplebyte.com
 truste.com
