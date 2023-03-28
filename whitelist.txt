@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 412
+# Ignored duplicates: 413
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47268,6 +47268,10 @@ optmzly.fe.indazn.com
 slike.indiatimes.com
 vr331.infusionsoft.com
 ink1001.com
+api.intuit.com
+eventbus.intuit.com
+offcnt.intuit.com
+trinity.platform.intuit.com
 cloud-news.ionos.com
 ipaddress.com
 carbon-v2.ipsator.com
@@ -47438,6 +47442,7 @@ p.shure.com
 shutterstock.com
 oup.silverchair-cdn.com
 pixel.disco.skyshowtime.com
+api.snapkit.com
 internal-api.snapkit.com
 socpublic.com
 softonic.com
