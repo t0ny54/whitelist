@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 413
+# Ignored duplicates: 414
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47364,6 +47364,7 @@ sephora.narvar.com
 tracking.narvar.com
 tivan.naver.com
 netcoresmartech.com
+netline.com
 deviceportal.nettvservices.com
 newbedev.com
 p.nfltags.com
