@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 414
+# Ignored duplicates: 416
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47349,6 +47349,7 @@ assets.minutemediacdn.com
 images1.minutemediacdn.com
 images2.minutemediacdn.com
 update.intl.miui.com
+mkklcdnv6tempv4.com
 ab13.mktossl.com
 assets.mmsrg.com
 review-rating.mncdn.com
