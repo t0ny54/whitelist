@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 416
+# Ignored duplicates: 414
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47210,6 +47210,7 @@ download.extremereach.com
 dv.extremereach.com
 updates.extremereach.com
 famatel.com
+lostmediaarchive.fandom.com
 fapcat.com
 faronics.com
 ff-01.com
@@ -47597,6 +47598,7 @@ tili.sanoma.fi
 asiakas.valokuitunen.fi
 bestgore.fun
 lnks.gd
+shoppy.gg
 time-a.timefreq.bldrdoc.gov
 sch.gr
 docdro.id
@@ -48273,7 +48275,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 124
+# Ignored duplicates: 125
 
 api.cortana.ai
 uol.com.br
@@ -48285,6 +48287,7 @@ adm.10jqka.com.cn
 eq.10jqka.com.cn
 ozone.10jqka.com.cn
 stat.10jqka.com.cn
+vaserviece.10jqka.com.cn
 m.1234567.com.cn
 t1.58cdn.com.cn
 t2.58cdn.com.cn
@@ -48306,6 +48309,7 @@ xj-n-tax.gov.cn
 pic.imgdb.cn
 jx.cn
 kaipuyun.cn
+short-video.kakamobi.cn
 nmobi.kuwo.cn
 wxapp.lvyadx.cn
 meipian7.cn
@@ -48361,7 +48365,6 @@ mbd.baidu.com
 sfp.safe.baidu.com
 sofire.baidu.com
 sp0.baidu.com
-sp1.baidu.com
 sp2.baidu.com
 t1.baidu.com
 t11.baidu.com
@@ -48389,6 +48392,7 @@ bluehost.com
 bluesoleil.com
 c3pool.com
 canyoublockit.com
+chkaja.com
 assets.ckjr001.com
 kpstaticbj.wx.ckjr001.com
 com.com
@@ -48422,6 +48426,7 @@ iface2.iqiyi.com
 subscription.iqiyi.com
 data.video.iqiyi.com
 search.video.iqiyi.com
+act.vip.iqiyi.com
 iteye.com
 dyn.ithome.com
 jav321.com
@@ -48478,6 +48483,7 @@ jspassport.ssl.qhimg.com
 qhres2.com
 qihucdn.com
 msg.video.qiyi.com
+qiyukf.com
 mazu.3g.qq.com
 cdn.ark.qq.com
 cgi.connect.qq.com
