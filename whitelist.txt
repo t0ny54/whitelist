@@ -47179,6 +47179,7 @@ gall.dcinside.com
 s.deepl.com
 tv.deezer.com
 deskpi.com
+vod.detik.com
 deviceatlas.com
 digicert.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
@@ -47965,6 +47966,7 @@ tracker.marinsm.com
 action.metaffiliation.com
 mktoweb.com
 click.mlsend.com
+clicks.mlsend.com
 mmtro.com
 cj.mplxtms.com
 api.narrativ.com
