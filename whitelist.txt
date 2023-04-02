@@ -47022,7 +47022,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 414
+# Ignored duplicates: 415
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47658,6 +47658,7 @@ tag.search.sensefuel.live
 embed.ly
 view.genial.ly
 ahacdn.me
+dropmail.me
 cdn.stream.schibsted.media
 codepush.appcenter.ms
 in.appcenter.ms
@@ -47756,6 +47757,8 @@ use.typekit.net
 uceprotect.net
 verisign.net
 fast.wistia.net
+wsj.net
+yacy.net
 zencdn.net
 ad.nl
 api.c99.nl
@@ -47776,6 +47779,7 @@ learn.cisecurity.org
 codeberg.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
+getmonero.org
 heliohost.org
 lencr.org
 matomo.org
@@ -48593,7 +48597,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 640
+# Ignored duplicates: 641
 
 1hosts.cf
 abuse.ch
@@ -48919,7 +48923,6 @@ pps.whatsapp.net
 static.whatsapp.net
 v.whatsapp.net
 www-cdn.whatsapp.net
-asset.wsj.net
 actionnetwork.org
 chocolatey.org
 www.dshield.org
