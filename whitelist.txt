@@ -242,6 +242,7 @@ etracker.de
 smartredirect.de
 stroeerdigitalpublishing.de
 wipe.de
+counter.dev
 datadoghq.eu
 pdst.fm
 rb.gy
@@ -47458,6 +47459,7 @@ i01.sozcucdn.com
 shop.spreadshirt.com
 stackpath.com
 stacksocial.com
+cmg.streamguys1.com
 strpst.com
 stylitics.com
 engage.surface.com
@@ -47517,6 +47519,7 @@ apicache.vudu.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
+garry.windscribe.com
 phishingquiz.withgoogle.com
 wpbeaches.com
 engage.xbox.com
@@ -47644,6 +47647,7 @@ ftp.iij.ad.jp
 stat100.ameba.jp
 tracking.post.japanpost.jp
 yu.ac.kr
+adpanchok.co.kr
 infolink.pavv.co.kr
 postshare.co.kr
 mktp.tmoney.co.kr
@@ -47665,6 +47669,7 @@ in.appcenter.ms
 assets.rbl.ms
 17track.net
 subarumysubaruappproduction.112.2o7.net
+afrinic.net
 aiv-cdn.net
 aiv-delivery.net
 spotify.com.akahost.net
