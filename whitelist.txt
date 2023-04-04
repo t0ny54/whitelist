@@ -4170,7 +4170,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 331
+# Ignored duplicates: 333
 
 js.media-lab.ai
 amazon.at
@@ -47023,7 +47023,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 415
+# Ignored duplicates: 442
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
