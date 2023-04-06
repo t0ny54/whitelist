@@ -47024,7 +47024,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 427
+# Ignored duplicates: 430
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47100,6 +47100,7 @@ alvarotrigo.com
 prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
+info.ammex.com
 angi.com
 play.aniview.com
 cdn-116.anonfiles.com
@@ -47390,6 +47391,7 @@ api.opinary.com
 widgets.opinary.com
 images.core.optasports.com
 cdn.otstatic.com
+go.pardot.com
 pcapredict.com
 performfeeds.com
 dp.dc1.philips.com
@@ -47424,6 +47426,7 @@ api.revenuecat.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
+samsungapps.com
 otn.samsungcloudcdn.com
 samsungcloudsolution.com
 uimetadata.samsungiotcloud.com
@@ -47527,6 +47530,7 @@ wdtinc.com
 garry.windscribe.com
 phishingquiz.withgoogle.com
 wpbeaches.com
+samsungapps.com.wtxcdn.com
 engage.xbox.com
 xoom.com
 video.xxxjmp.com
@@ -47795,6 +47799,7 @@ heliohost.org
 lencr.org
 matomo.org
 measurement-lab.org
+objective-see.org
 openjdk.org
 pastie.org
 sdk.privacy-center.org
@@ -47860,7 +47865,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 166
+# Ignored duplicates: 167
 
 adservice.google.ac
 adservice.google.ad
@@ -47987,7 +47992,6 @@ cj.mplxtms.com
 api.narrativ.com
 events.release.narrativ.com
 go.nextiva.com
-go.pardot.com
 www.partner-ads.com
 pepperjamnetwork.com
 postaffiliatepro.com
