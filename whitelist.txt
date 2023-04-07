@@ -47024,7 +47024,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 431
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47198,6 +47198,7 @@ assets.dwell.com
 images.dwell.com
 mobapi-qero-ab.e-goi.com
 go.e2language.com
+eaglecdn.com
 gph.easebar.com
 update.easebar.com
 ekomi.com
@@ -47386,6 +47387,7 @@ guce.oath.com
 mail.onedrive.com
 1weather.onelouder.com
 onmilwaukee.com
+opensignal.com
 geo.opera.com
 api.opinary.com
 widgets.opinary.com
@@ -47609,12 +47611,14 @@ consentcdn.cookiebot.eu
 ioc.exchange
 tili.sanoma.fi
 asiakas.valokuitunen.fi
+segura-moto.fr
 bestgore.fun
 lnks.gd
 shoppy.gg
 time-a.timefreq.bldrdoc.gov
 sch.gr
 docdro.id
+cbox.im
 files.im
 adguard-dns.io
 cc-api-data.adobe.io
