@@ -47024,7 +47024,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 431
+# Ignored duplicates: 433
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47174,6 +47174,7 @@ controld.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
+content.ctfs.com
 dailycaller.com
 app.datadoghq.com
 docs.datadoghq.com
@@ -47207,7 +47208,6 @@ stats.espncricinfo.com
 etrality.com
 cdn.exponea.com
 puc-cdn.exponea.com
-thumbs-015.externulls.com
 abc-twitter.extremereach.com
 abcnews.extremereach.com
 agents.extremereach.com
@@ -47317,6 +47317,7 @@ aic.cdpsvc.lgtvcommon.com
 aic.service.lgtvcommon.com
 us.rdx2.lgtvsdp.com
 us.lgtvsdp.com
+librefutboltv.com
 collector.lightstep.com
 ingest.lightstep.com
 liveperson.com
@@ -47356,6 +47357,7 @@ assets.minutemediacdn.com
 images1.minutemediacdn.com
 images2.minutemediacdn.com
 update.intl.miui.com
+api.miwifi.com
 mkklcdnv6tempv4.com
 ab13.mktossl.com
 assets.mmsrg.com
