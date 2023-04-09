@@ -47024,7 +47024,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 433
+# Ignored duplicates: 434
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47192,6 +47192,7 @@ discords.com
 image.mail.disneyplus.com
 images.dmca.com
 cdn.dnsv1.com
+tracker.dominos.com
 doppiocdn.com
 embed.dugout.com
 dvsdvsdvsdva.com
@@ -47203,6 +47204,7 @@ eaglecdn.com
 gph.easebar.com
 update.easebar.com
 ekomi.com
+nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 stats.espncricinfo.com
 etrality.com
@@ -47439,6 +47441,7 @@ samsungqbe.com
 sbchill.com
 images.cdn.scarabresearch.com
 schneevonmorgen.com
+track.spe.schoolmessenger.com
 embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
@@ -47484,6 +47487,7 @@ cdn.tagcommander.com
 talentwunder.com
 tantanapp.com
 tarafdari.com
+p11.techlab-cdn.com
 thecanadianpharmacy.com
 dd.tidal.com
 et.tidal.com
@@ -47622,6 +47626,7 @@ sch.gr
 docdro.id
 cbox.im
 files.im
+logs.juspay.in
 adguard-dns.io
 cc-api-data.adobe.io
 cdn.appconsent.io
@@ -48618,7 +48623,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 642
+# Ignored duplicates: 643
 
 1hosts.cf
 abuse.ch
@@ -48661,7 +48666,6 @@ chromestatus.com
 convertkit.com
 signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
 elephantjournal.com
-nexus.ensighten.com
 everydayhealth.com
 www.expressvpn.com
 financialexpress.com
