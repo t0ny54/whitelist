@@ -47089,6 +47089,7 @@ afternic.com
 searchapi.agoda.com
 content.aimatch.com
 airydress.com
+tracker-g.aiscore.com
 akamai-images-content.com
 track.aliexpress.com.gds.alibabadns.com
 ilog-sea-aliyun.alipayplus.com
@@ -47130,6 +47131,7 @@ baihe.com
 banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
+beaute-test.com
 benefithub.com
 eu-swarm-newm.betcoswarm.com
 binarypiano.com
@@ -47429,6 +47431,7 @@ ping.remarkable.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
 api.revenuecat.com
+ephemeralcounters.api.roblox.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
