@@ -44071,6 +44071,7 @@ tinyarro.ws
 
 # Ignored duplicates: 25
 
+hivesocial.app
 habbo.at
 scoop.at
 freagle.com.au
@@ -44542,12 +44543,14 @@ trailfire.com
 travbuddy.com
 travellerspoint.com
 trekcafe.com
+tribel.com
 trig.com
 tripadvisor.com
 tripup.com
 trombi.com
 truemors.com
 trulia.com
+truthsocial.com
 tubearoo.com
 tuenti.com
 turboclip.com
@@ -44703,6 +44706,7 @@ habbo.com.pe
 habbo.com.ph
 gadu-gadu.pl
 gg.pl
+goldenline.pl
 hejto.pl
 robisz.pl
 wolnislowianie.pl
@@ -47024,7 +47028,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 434
+# Ignored duplicates: 436
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47509,6 +47513,7 @@ consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
 canvas.tubitv.com
+turnip.cdn.turner.com
 tuyacn.com
 twibbonize.com
 twitchy.com
@@ -47562,6 +47567,7 @@ itv.ard.de
 img.yana.asideas.de
 prod-image-fastly-cdn.yana.asideas.de
 china-gadgets.de
+chip.de
 api.chip-secured-download.de
 co.de
 qastack.com.de
@@ -47645,6 +47651,7 @@ imagesvc.meredithcorp.io
 cdn.video.meredithcorp.io
 playback.video.meredithcorp.io
 nextdns.io
+medium.ngtv.io
 mobile-data.onetrust.io
 opentelemetry.io
 passion.io
@@ -47863,6 +47870,7 @@ update.biv.sony.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
+api.nextgen.guardianapps.co.uk
 interactive.guim.co.uk
 netdirector.co.uk
 overclockers.co.uk
