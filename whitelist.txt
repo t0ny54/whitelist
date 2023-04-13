@@ -47197,6 +47197,7 @@ ocs-dl.fra1.cdn.digitaloceanspaces.com
 discords.com
 image.mail.disneyplus.com
 images.dmca.com
+dnainfotel.com
 cdn.dnsv1.com
 tracker.dominos.com
 doppiocdn.com
@@ -47285,6 +47286,7 @@ vr331.infusionsoft.com
 ink1001.com
 api.intuit.com
 eventbus.intuit.com
+edge.experimentation.intuit.com
 offcnt.intuit.com
 trinity.platform.intuit.com
 cloud-news.ionos.com
@@ -47408,6 +47410,7 @@ pcapredict.com
 performfeeds.com
 dp.dc1.philips.com
 ecdinterface.philips.com
+phonearena.com
 picclick.com
 plarium.com
 videos.porndig.com
@@ -47716,6 +47719,7 @@ chia.net
 cs636.wac.chicdn.net
 code-examples.net
 lbnew.consentmanager.net
+contaboserver.net
 get.contentpass.net
 searchg2.crownpeak.net
 mc.cubecdn.net
@@ -47778,6 +47782,7 @@ speedtest.sbcglobal.net
 sentry.sc-prod.net
 searchnode.net
 host.secureserver.net
+selezen.net
 at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
