@@ -4483,6 +4483,7 @@ scribd.com
 sears.com
 sendspace.com
 skype.com
+apps.skypeassets.com
 slate.com
 snapchat.com
 solidfiles.com
@@ -47768,6 +47769,8 @@ nutaku.net
 images.nvidiagrid.net
 img.nvidiagrid.net
 widget.cloud.opta.net
+fp2e7a.wpc.2be4.phicdn.net
+fp2e7a.wpc.phicdn.net
 tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
