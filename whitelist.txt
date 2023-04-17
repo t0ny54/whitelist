@@ -47034,7 +47034,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 440
+# Ignored duplicates: 441
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47078,6 +47078,7 @@ i.shoosh.co
 v.shoosh.co
 swile.co
 fy.v.vrv.co
+123freeavatars.com
 56.com
 6sense.com
 above.com
@@ -47129,6 +47130,7 @@ video-api.arcpublishing.com
 arqbackup.com
 arttrk.com
 www.asadcdn.com
+app.asana.com
 licenses.ashampoo.com
 de.aukey.com
 avis-verifies.com
@@ -47490,6 +47492,7 @@ portal.store.sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
 shop.spreadshirt.com
+sputniknews.com
 stackpath.com
 stacksocial.com
 ad-im-cmg.streamguys1.com
