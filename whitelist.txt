@@ -4312,6 +4312,7 @@ forbes.com
 fortune.com
 frys.com
 funnyordie.com
+www.gaia.com
 gap.com
 gawker.com
 forums.geforce.com
@@ -47034,7 +47035,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 441
+# Ignored duplicates: 439
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47416,6 +47417,7 @@ geo.opera.com
 api.opinary.com
 widgets.opinary.com
 images.core.optasports.com
+optimal-spine.com
 cdn.otstatic.com
 go.pardot.com
 pcapredict.com
@@ -47687,6 +47689,7 @@ api.storyly.io
 termly.io
 trezor.io
 tyk.io
+wootility.io
 scenarieconomici.it
 shalom.it
 spartoo.it
@@ -47911,7 +47914,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 167
+# Ignored duplicates: 165
 
 adservice.google.ac
 adservice.google.ad
