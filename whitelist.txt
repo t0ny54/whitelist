@@ -4663,6 +4663,7 @@ hosts-file.net
 cdn1.hubspot.net
 cdn2.hubspot.net
 joewein.net
+jqueryscript.net
 jsfiddle.net
 fiddle.jshell.net
 adb.juvander.net
@@ -4720,6 +4721,7 @@ opensubtitles.org
 openuserjs.org
 pfsense.org
 postimage.org
+sdk.privacy-center.org
 publicsuffix.org
 code.responsivevoice.org
 siatka.org
@@ -47035,7 +47037,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 439
+# Ignored duplicates: 440
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47427,6 +47429,7 @@ dp.dc1.philips.com
 ecdinterface.philips.com
 phonearena.com
 picclick.com
+pixeldrain.com
 plarium.com
 videos.porndig.com
 postup.com
@@ -47736,6 +47739,7 @@ cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
 code-examples.net
+a.delivery.consentmanager.net
 lbnew.consentmanager.net
 contaboserver.net
 get.contentpass.net
@@ -47848,7 +47852,6 @@ measurement-lab.org
 objective-see.org
 openjdk.org
 pastie.org
-sdk.privacy-center.org
 speedcheck.org
 api.speedspot.org
 traccar.org
@@ -47914,7 +47917,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 165
+# Ignored duplicates: 166
 
 adservice.google.ac
 adservice.google.ad
@@ -49004,7 +49007,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 545
+# Ignored duplicates: 546
 
 a.run.app
 ipv4only.arpa
@@ -49167,7 +49170,6 @@ sas.ooyala.com
 config.outturner.com
 pcbeta.com
 tools.pingdom.com
-pixeldrain.com
 pornhub.com
 image.prntscr.com
 ws.pusherapp.com
