@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 31
+# Ignored duplicates: 30
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -152,6 +152,7 @@ metricool.com
 micpn.com
 minexmr.com
 mixpanel.com
+moshimo.com
 mql5.com
 msgfocus.com
 mybannermaker.com
@@ -296,6 +297,7 @@ anrdoezrs.net
 tag.aticdn.net
 bigmir.net
 cedexis.net
+d231vab146qzfb.cloudfront.net
 check.ddos-guard.net
 digidip.net
 dpbolvw.net
@@ -3939,7 +3941,7 @@ standardbank.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/firefox.txt ##########
 
-# Ignored duplicates: 5
+# Ignored duplicates: 4
 
 8pecxstudios.com
 cdn.agilebits.com
@@ -3949,6 +3951,7 @@ fpn.firefox.com
 mozilla.com
 stickypassword.com
 agrd.io
+d13itkw33a7sus.cloudfront.net
 mozilla.net
 adtidy.org
 eff.org
@@ -4170,11 +4173,9 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 333
+# Ignored duplicates: 134
 
-js.media-lab.ai
-amazon.at
-bing.at
+media-lab.ai
 gmx.at
 mediamarkt.at
 t-online.at
@@ -4182,27 +4183,16 @@ alluremedia.com.au
 gizmodo.com.au
 whirlpool.net.au
 brakrock.be
-youtu.be
 share-online.biz
-bing.com.br
 cpms.spop10.ams.plex.bz
 cpms35.spop10.ams.plex.bz
-meta.plex.bz
 proxy02.pop.ord.plex.bz
 proxy.plex.bz
 pubsub.plex.bz
-meta-db-worker02.pop.ric.plex.bz
-amazon.ca
-bing.ch
 gmx.ch
-amazon.cn
 g.co
 image.ibb.co
-spapps.co
-t.co
 tmblr.co
-www12.0zz0.com
-www8.0zz0.com
 1fichier.com
 2shared.com
 4shared.com
@@ -4212,9 +4202,7 @@ acehardware.com
 adidas.com
 get.adobe.com
 advanceautoparts.com
-dp.msnmessenger.akadns.com
 alexa.com
-amazon.com
 androidforums.com
 answers.com
 forums.appleinsider.com
@@ -4229,7 +4217,6 @@ bedbathandbeyond.com
 bestbuy.com
 betanews.com
 bgr.com
-bing.com
 bleacherreport.com
 blogger.com
 bloomberg.com
@@ -4279,22 +4266,16 @@ digitaltrends.com
 directvnow.com
 discovermagazine.com
 disqus.com
-dropbox.com
 duckduckgo.com
 ea.com
 easybytez.com
-ebayimg.com
-ebayrtm.com
-ebaystatic.com
 cdn.embedly.com
 engadget.com
 eonline.com
 espn.com
 ew.com
 example.com
-facebook.com
 familydollar.com
-fb.com
 feedly.com
 filefactory.com
 filesmonster.com
@@ -4317,9 +4298,7 @@ gap.com
 gawker.com
 forums.geforce.com
 gfycat.com
-geo3.ggpht.com
 nt3.ggpht.com
-yt3.ggpht.com
 gigaom.com
 giphy.com
 gitee.com
@@ -4328,13 +4307,9 @@ rawcdn.githack.com
 github.com
 gitlab.com
 gizmodo.com
-gmail.com
 gmx.com
 abcnews.go.com
 godaddy.com
-googleapis.com
-googleusercontent.com
-googlevideo.com
 gravatar.com
 groupon.com
 guru3d.com
@@ -4346,7 +4321,6 @@ hollywoodlife.com
 homedepot.com
 hoopshype.com
 horseanswerstoday.com
-hotmail.com
 howtoforge.com
 hulkshare.com
 hulu.com
@@ -4387,12 +4361,9 @@ lifehacker.com
 linkedin.com
 forums.linuxmint.com
 packages.linuxmint.com
-live.com
 secure.livechatinc.com
 livefilestore.com
 livestream.com
-logmein.com
-logmein-gateway.com
 plugins.longtailvideo.com
 securel.longtailvideo.com
 secureplugins.longtailvideo.com
@@ -4401,21 +4372,17 @@ forums.macrumors.com
 macys.com
 majorgeeks.com
 malwaredomainlist.com
-mirror1.malwaredomains.com
 marketwatch.com
 mashable.com
 maxthon.com
-m.media-amazon.com
 medium.com
 menshealth.com
 merriam-webster.com
 mesh.com
 messenger.com
-microsoft.com
 mlb.com
 mls.com
 msftncsi.com
-msn.com
 keystone.mwbsys.com
 mywot.com
 namecheap.com
@@ -4430,8 +4397,6 @@ newjobs.com
 newsday.com
 newsmax.com
 nfl.com
-nflxext.com
-nflximg.com
 nhl.com
 nike.com
 nitroflare.com
@@ -4447,10 +4412,7 @@ nytimes.com
 oboom.com
 observer.com
 odcdn.com
-office.com
-officedepot.com
 osnews.com
-outlook.com
 pando.com
 forum.paradoxplaza.com
 siteassets.parastorage.com
@@ -4477,26 +4439,15 @@ redfin.com
 reebok.com
 roku.com
 rt.com
-c.s-microsoft.com
-i.s-microsoft.com
-store-images.s-microsoft.com
-api.salesforce.com
-1p.edge2.salesforce.com
-n.edge2.salesforce.com
-verify.salesforce.com
 samsung.com
 scribd.com
 sears.com
 sendspace.com
-skype.com
-apps.skypeassets.com
 slate.com
 snapchat.com
 solidfiles.com
 id.sonyentertainmentnetwork.com
 spiceworks.com
-spotify.com
-ssl-images-amazon.com
 stackexchange.com
 starbucks.com
 startpage.com
@@ -4511,11 +4462,9 @@ s3.symcb.com
 s4.symcb.com
 s5.symcb.com
 sa.symcb.com
-forum.synology.com
 target.com
 teamviewer.com
 techrepublic.com
-ocsp.thawte.com
 vr-ov-crl.thawte.com
 thechive.com
 thefreethoughtproject.com
@@ -4535,8 +4484,6 @@ torrentfreak.com
 toysrus.com
 tumblr.com
 tunein.com
-twimg.com
-twitter.com
 t.umblr.com
 unibytes.com
 unix.com
@@ -4547,7 +4494,6 @@ verisign.com
 cdn.viblast.com
 vice.com
 videopress.com
-vimeo.com
 visualstudio.com
 vk.com
 vox.com
@@ -4562,24 +4508,16 @@ windowsupdate.com
 wired.com
 static.wixstatic.com
 wnba.com
-wordpress.com
 wtkr.com
-xkms.xbolive.com
 xda-developers.com
 xkcd.com
-yahoo.com
 news.ycombinator.com
 s.yimg.com
-youtube.com
-youtube-nocookie.com
-ytimg.com
 yunfile.com
 zajefajna.com
 zippyshare.com
 ziprecruiter.com
-bing.cz
 1und1.de
-amazon.de
 billiger.de
 freenet.de
 gmx.de
@@ -4592,30 +4530,21 @@ wetter.de
 adblock.dk
 malwaredomains.lehigh.edu
 adblock.ee
-amazon.es
-bing.es
 gmx.es
 mediamarkt.es
-bing.fi
 ask.fm
 open.fm
 strefa.fm
 tuba.fm
-amazon.fr
-bing.fr
 dl.free.fr
 orange.fr
 is.gd
 goo.gl
-bing.gr
 void.gr
 pi.hole
-bing.hu
-bing.ie
 ftp.heanet.ie
 mediamarkt.ie
 gitter.im
-amazon.in
 imeipro.info
 git.io
 ouo.io
@@ -4624,10 +4553,7 @@ cdn.statically.io
 git.teknik.io
 adblock.mahakala.is
 who.is
-amazon.it
-bing.it
 dlvr.it
-amazon.co.jp
 en.bab.la
 paper.li
 gitcdn.link
@@ -4637,22 +4563,15 @@ bit.ly
 ow.ly
 t.ly
 st.mycdn.me
-vgy.me
 j.mp
 70i.net
-akadns.net
-akamai.net
-akamaiedge.net
+e3489.cd.akamaiedge.net
 alternativeto.net
 manifest.prod.boltdns.net
 bowercdn.net
 db.local.clamav.net
-cloudfront.net
 cdn.datatables.net
 static.www.odcdn.com.edgekey.net
-business.officedepot.com.edgekey.net
-play.spotify.edgekey.net
-spapps.spotify.edgekey.net
 edgesuite.net
 brightcove.map.fastly.net
 filmyhd.net
@@ -4668,11 +4587,9 @@ jsfiddle.net
 fiddle.jshell.net
 adb.juvander.net
 laposte.net
-live.net
 lwn.net
 logincdn.msauth.net
 neowin.net
-nflximg.net
 nsatc.net
 fr.osdn.net
 pi-hole.net
@@ -4680,19 +4597,17 @@ rapidgator.net
 recaptcha.net
 slickdeals.net
 tampermonkey.net
-a.top4top.net
-up.top4top.net
 tusfiles.net
 uploaded.net
 videocopilot.net
+zencdn.net
 mediamarkt.nl
-bing.no
 hostsfile.mine.nu
 prisjakt.nu
 mega.co.nz
 mega.nz
 adaway.org
-easylist-downloads.adblockplus.org
+adblockplus.org
 web.archive.org
 bbs.archlinux.org
 bitbucket.org
@@ -4728,7 +4643,6 @@ siatka.org
 slashdot.org
 someonewhocares.org
 stanev.org
-sa-blacklist.stearns.org
 sysctl.org
 techguy.org
 thepiratebay.org
@@ -4738,14 +4652,12 @@ videolan.org
 wikimedia.org
 pgl.yoyo.org
 allegro.pl
-bing.pl
 cda.pl
 chomikuj.pl
 di.com.pl
 cracovia.pl
 demotywatory.pl
 forum.dobreprogramy.pl
-ebay.pl
 filmweb.pl
 gazeta.pl
 hbogo.pl
@@ -4773,7 +4685,6 @@ wykop.pl
 wyspagier.pl
 road.adblock.ro
 zoso.ro
-bing.ru
 ifmo.ru
 denis-ovs.narod.ru
 pochta.ru
@@ -4781,15 +4692,11 @@ rutube.ru
 spb.ru
 vkontakte.ru
 prnt.sc
-bing.se
 dn.se
 expressen.se
 gp.se
 idg.se
-106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
-amzn.to
 datei.to
-easylist.to
 load.to
 tofukko.r.ribbon.to
 uploaded.to
@@ -4803,8 +4710,6 @@ services.sonarr.tv
 skyhook.sonarr.tv
 twitch.tv
 news.ebc.net.tw
-amazon.co.uk
-bing.co.uk
 express.co.uk
 theregister.co.uk
 gitcdn.xyz
@@ -4812,7 +4717,7 @@ gitcdn.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 100
+# Ignored duplicates: 95
 
 sbs.com.au
 acdn.adnxs.com
@@ -4824,6 +4729,7 @@ amzn.com
 f1.media.brightcove.com
 livepassdl.conviva.com
 cwtv-mrss-akamai.cwtv.com
+facebook.com
 cdn.fbsbx.com
 gfwsl.geforce.com
 google-analytics.com
@@ -4844,13 +4750,17 @@ s.cdn.turner.com
 z.cdn.turner.com
 track.ucas.com
 adf.ly
+e7065.e2.akamaiedge.net
 dcs-vod.apis.anvato.net
+d2c8v52ll5s99u.cloudfront.net
+dsms0mj1bbhn4.cloudfront.net
 dpm.demdex.net
 cwtv-prod-elb.digitalsmiths.net
 facebook.net
 fbcdn.net
 s.zkcdn.net
 hostsfile.org
+amzn.to
 api.pluto.tv
 images.pluto.tv
 players.pluto.tv
@@ -4895,8 +4805,12 @@ go2jump.org
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 134
+# Ignored duplicates: 121
 
+youtu.be
+meta.plex.bz
+meta-db-worker02.pop.ric.plex.bz
+t.co
 1drv.com
 akamaitechnologies.com
 amazonaws.com
@@ -4912,16 +4826,23 @@ pings.conviva.com
 dataplicity.com
 drift.com
 driftt.com
+geo3.ggpht.com
+yt3.ggpht.com
+googleapis.com
 gstatic.com
 jquery.com
 traffic.libsyn.com
+live.com
 microsoftonline.com
+office.com
 office365.com
 my.plexapp.com
 widget-cdn.rpxnow.com
+c.s-microsoft.com
 app-api.ted.com
 hls.ted.com
 tedcdn.com
+twimg.com
 wp.com
 attestation.xboxlive.com
 device.auth.xboxlive.com
@@ -4937,6 +4858,7 @@ notify.xboxlive.com
 help.ui.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
+youtube-nocookie.com
 github.io
 intercom.io
 placehold.it
@@ -4944,6 +4866,7 @@ akamaihd.net
 akamaized.net
 brightcove.net
 cdn.cloudflare.net
+d2gatte9o95jao.cloudfront.net
 imgix.net
 jsdelivr.net
 office.net
@@ -7122,7 +7045,7 @@ pbskids.org
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains ##########
 
-# Ignored duplicates: 55
+# Ignored duplicates: 41
 
 amazon.ae
 amzn.ae
@@ -7148,6 +7071,7 @@ shopee.com.ar
 soloventa.com.ar
 compras.terra.com.ar
 accushop.at
+amazon.at
 amulette.at
 armyshop.at
 aum.at
@@ -7869,6 +7793,7 @@ redroseflorist.ab.ca
 sergiolubcanada.ab.ca
 abasketcase.ca
 aceawards.ca
+amazon.ca
 ancientcoins.ca
 ante.ca
 apparel-work-securite58.ca
@@ -8312,6 +8237,7 @@ saladeventas.cl
 shopee.cl
 sistemax.cl
 51flower.cn
+amazon.cn
 avonshop.cn
 525j.com.cn
 800buy.com.cn
@@ -9630,6 +9556,7 @@ amazinggreenhouse.com
 amazingrugs.com
 amazingsocks.com
 amazinguniverse.com
+amazon.com
 amazonmoosey.com
 amazzzingcards.com
 ambarflores.com
@@ -17190,6 +17117,7 @@ ebasicpower.com
 ebay.com
 ebay-us.com
 ebayclassifieds.com
+ebaystatic.com
 ebeadshop.com
 eberkshire.com
 ebladestore.com
@@ -26586,6 +26514,7 @@ offi.com
 office-bloom.com
 officechairsunlimited.com
 officeclocks.com
+officedepot.com
 officedesigns.com
 officemax.com
 officeplayground.com
@@ -34477,6 +34406,7 @@ alviva-puzzle.de
 alviva-taufe.de
 am-alten-hof.de
 am-dessous.de
+amazon.de
 amb-tuning.de
 american-heritage.de
 american-indian-gallery.de
@@ -36916,6 +36846,7 @@ bookstore.ucsd.edu
 agalisa.es
 airel.es
 airelibre.es
+amazon.es
 artemar.es
 assimil.es
 bayon.es
@@ -36976,6 +36907,7 @@ audion.fm
 abebooks.fr
 actimania.fr
 agatha.fr
+amazon.fr
 anti-crise.fr
 apiman.fr
 attica.fr
@@ -37297,6 +37229,7 @@ tamarsgallery.co.il
 tami4.co.il
 theoutlet.co.il
 igi.ybay.co.il
+amazon.in
 amzn.in
 ebay.in
 shopee.in
@@ -37363,6 +37296,7 @@ alexfilateliaenumismatica.it
 aliblabla.it
 all4sport.it
 aloe-shop.it
+amazon.it
 angelo.it
 angeluccicicli.it
 antares-gioielli.it
@@ -37608,6 +37542,7 @@ airbrush.co.jp
 aji.co.jp
 alpage.co.jp
 alps-kogyo.co.jp
+amazon.co.jp
 ameyoko-sanko.co.jp
 aokihimono.co.jp
 hobbyworld.aoshima-bk.co.jp
@@ -40028,6 +39963,7 @@ e-zegarek.pl
 e-zegarki.pl
 eastend.pl
 ebaja.pl
+ebay.pl
 ebhp.pl
 echosonda.pl
 ectaco.pl
@@ -41258,6 +41194,7 @@ altservices.co.uk
 amaryllisfloraldesign.co.uk
 amazingdollshousecompany.co.uk
 amazingrugs.co.uk
+amazon.co.uk
 ambermagic.co.uk
 amberzone.co.uk
 ambianceofcolchester.co.uk
@@ -44078,7 +44015,7 @@ tinyarro.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/social_networks/domains ##########
 
-# Ignored duplicates: 25
+# Ignored duplicates: 23
 
 hivesocial.app
 habbo.at
@@ -44248,6 +44185,7 @@ fashionising.com
 fastpitchnetworking.com
 faves.com
 favoritoo.com
+fb.com
 feedmarker.com
 fetlife.com
 ficlets.com
@@ -44565,6 +44503,7 @@ tuenti.com
 turboclip.com
 tweako.com
 twikeo.com
+twitter.com
 uniteddogs.com
 upspring.com
 ustrendy.com
@@ -47037,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 440
+# Ignored duplicates: 422
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47135,6 +47074,7 @@ arttrk.com
 www.asadcdn.com
 app.asana.com
 licenses.ashampoo.com
+attraqt.com
 de.aukey.com
 avis-verifies.com
 player.avplayer.com
@@ -47256,6 +47196,9 @@ formula1.com
 fosscord.com
 fssquad.com
 funtrivia.com
+data.g2crowd.com
+images.g2crowd.com
+learn.g2crowd.com
 api.pgpl.g5e.com
 maps.geoapify.com
 gigya.com
@@ -47270,6 +47213,8 @@ registerdisney.go.com
 goatcounter.com
 track.gojek.com
 email.goodrx.com
+afs.googleusercontent.com
+googlevideo.com
 track.goshippo.com
 i.hbrcdn.com
 s.hbrcdn.com
@@ -47577,6 +47522,7 @@ avpro.global.yamaha.com
 yep.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
+ytimg.com
 zeelool.com
 zephr.com
 zoominfo.com
@@ -47727,7 +47673,13 @@ subarumysubaruappproduction.112.2o7.net
 afrinic.net
 aiv-cdn.net
 aiv-delivery.net
+onecollector.cloudapp.aria.akadns.net
+nexusrules.live.com.akadns.net
+data.microsoft.com.akadns.net
+iphone-ld.origin-apple.com.akadns.net
 spotify.com.akahost.net
+akamai.net
+e2725.g.akamaiedge.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 apple-dns.net
@@ -47738,6 +47690,16 @@ option.boldapps.net
 cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
+d11rmv9we9fli4.cloudfront.net
+d1k85ogl73rd7b.cloudfront.net
+d25xi40x97liuc.cloudfront.net
+d28n7yywqog3r7.cloudfront.net
+d291vdycu0ht11.cloudfront.net
+d2cttawv9fdszz.cloudfront.net
+d3ag4hukkh62yn.cloudfront.net
+dlp3zj68t5lvh.cloudfront.net
+dtioykqj1u8de.cloudfront.net
+dxz5jxhrrzigf.cloudfront.net
 code-examples.net
 a.delivery.consentmanager.net
 lbnew.consentmanager.net
@@ -47824,7 +47786,6 @@ verisign.net
 fast.wistia.net
 wsj.net
 yacy.net
-zencdn.net
 ad.nl
 api.c99.nl
 disguised.nl
@@ -47907,6 +47868,7 @@ overclockers.co.uk
 spartoo.co.uk
 o.ss2.us
 s.ss2.us
+api.sbz.vn
 zadn.vn
 nnmstatic.win
 cbox.ws
@@ -47917,7 +47879,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 166
+# Ignored duplicates: 163
 
 adservice.google.ac
 adservice.google.ad
@@ -47974,6 +47936,7 @@ ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 ulink.adjust.com
 campaign.adobe.com
+track.adtraction.com
 guce.advertising.com
 prism.app-us1.com
 customlinks.appsflyer.com
@@ -48067,6 +48030,7 @@ click.email.sonos.com
 post.spmailtechno.com
 link.springer.com
 r.srvtrck.com
+stvkr.com
 link.sylikes.com
 clkpl.tradedoubler.com
 clkuk.tradedoubler.com
@@ -48076,6 +48040,7 @@ redirects.tradedoubler.com
 solutions.tradedoubler.com
 tracking.truthfinder.com
 email.uber.com
+webep1.com
 link.wizzair.com
 redirect.appmetrica.yandex.com
 adservice.google.co.cr
@@ -48200,6 +48165,9 @@ adservice.google.ne
 px.a8.net
 a1.adform.net
 tags.adsafety.net
+a1.adformnet.akadns.net
+track.cj.akadns.net
+bs.eyeblaster.akadns.net
 suite15.emarsys.net
 pixel.everesttech.net
 cl.exct.net
@@ -48274,6 +48242,7 @@ adservice.google.com.pk
 adservice.google.pk
 auto-swiat.pl
 adservice.google.pl
+marketing.tr.netsalesmedia.pl
 adservice.google.pn
 adservice.google.politie
 adservice.google.com.pr
@@ -48347,7 +48316,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 126
+# Ignored duplicates: 115
 
 api.cortana.ai
 uol.com.br
@@ -48621,6 +48590,17 @@ wanproxy.127.net
 azureedge.net
 valf.atm.cp31.ott.cibntv.net
 cp81.ott.cibntv.net
+d10lpsik1i8c69.cloudfront.net
+d1z2jf7jlzjs58.cloudfront.net
+d1zgderxoe1a.cloudfront.net
+d2na2p72vtqyok.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
+d31qbv1cthcecs.cloudfront.net
+d35u1vg1q28b3w.cloudfront.net
+d3tglifpd8whs6.cloudfront.net
+d3tsytm1wtjqo2.cloudfront.net
+d5nxst8fruw4z.cloudfront.net
 cnnic.net
 ddns.net
 doublecklick.net
@@ -48662,7 +48642,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 643
+# Ignored duplicates: 616
 
 1hosts.cf
 abuse.ch
@@ -48684,6 +48664,7 @@ cdn.apple-mapkit.com
 api.apptentive.com
 askvg.com
 bitbucket-marketing-cdn.atlassian.com
+bing.com
 bleepingcomputer.com
 api.bountysource.com
 files.brightcove.com
@@ -48720,8 +48701,16 @@ getpocket.com
 gizbot.com
 google.com
 connect.googleforwork.com
+ci3.googleusercontent.com
+ci4.googleusercontent.com
+ci5.googleusercontent.com
+googlehosted.l.googleusercontent.com
+lh4.googleusercontent.com
+lh6.googleusercontent.com
+mail-attachment.googleusercontent.com
 hotstar-sin.gravityrd-services.com
 hackaday.com
+hotmail.com
 hotstar.com
 img1.hotstarext.com
 secure-media1.hotstarext.com
@@ -48742,17 +48731,22 @@ linode.com
 i.lithium.com
 cdn.livechatinc.com
 www.malekal.com
+mirror1.malwaredomains.com
 b.marfeelcache.com
 bc.marfeelcache.com
 mediafire.com
 mi.com
+microsoft.com
 secure.aadcdn.microsoftonline-p.com
 channel9.msdn.com
+msn.com
 www.mystart.com
 ndtv.com
+assets.nflxext.com
 npmjs.com
 api-godaddy.nd.nudatasecurity.com
 ola.com
+outlook.com
 www.paperoak.com
 api.peer5.com
 cdn.perfdrive.com
@@ -48764,6 +48758,8 @@ cricketapi-icc.pulselive.com
 quora.com
 70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 client.reactrjs.com
+i.s-microsoft.com
+store-images.s-microsoft.com
 s-msft.com
 www.safaribooksonline.com
 sbi.com
@@ -48774,6 +48770,7 @@ blog.sessionstack.com
 sharepoint.com
 cdn.shopifycloud.com
 sitepoint.com
+skype.com
 static-asm.secure.skypeassets.com
 slack.com
 smashingmagazine.com
@@ -48781,6 +48778,7 @@ snapdeal.com
 cdnssl.softpedia.com
 space.com
 spaceflightnow.com
+spotify.com
 static1.squarespace.com
 stackoverflow.com
 statebankrewardz.com
@@ -48800,13 +48798,17 @@ truste.com
 assets.ubuntu.com
 unsplash.com
 viber.com
+vimeo.com
 cdn.voscast.com
 www.w3school.com
 w3schools.com
 wccftech.com
 webhostingtalk.com
+wordpress.com
 wsj.com
+yahoo.com
 ct.yimg.com
+youtube.com
 zapier.com
 zdnet.com
 b2bapi.zee5.com
@@ -48832,10 +48834,13 @@ auth.gfx.ms
 mem.gfx.ms
 oneclient.sfx.ms
 a-msedge.net
+us.configsvc1.live.com.akadns.net
 login.msa.akadns6.net
 cdn.arstechnica.net
 media.arstechnica.net
 location-inference-westus.cloudapp.net
+d1a62freaxhn7x.cloudfront.net
+d3a510xmpll7o6.cloudfront.net
 docs.microsoft.com-c.edgekey.net
 www.zee5.com-v1.edgekey.net
 gwapi.zee5.com-v2.edgekey.net
@@ -48870,6 +48875,7 @@ ghacks.net
 adblock.gjtech.net
 cds.j3z9t3p6.hwcdn.net
 ipleak.net
+inference.location.live.net
 az725175.vo.msecnd.net
 az764295.vo.msecnd.net
 mscomajax.vo.msecnd.net
@@ -48994,6 +49000,7 @@ hosts.herndl.org
 khanacademy.org
 lifehack.org
 www.squidblacklist.org
+www.sa-blacklist.stearns.org
 www.threatcrowd.org
 s.w.org
 wikipedia.org
@@ -49007,7 +49014,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 546
+# Ignored duplicates: 530
 
 a.run.app
 ipv4only.arpa
@@ -49113,6 +49120,8 @@ fox8.com
 a.fsdn.com
 api.geetest.com
 ocsp.globalsign.com
+blogspot.l.googleusercontent.com
+photos-ugc.l.googleusercontent.com
 simage.gshifen.com
 sslshare.gshifen.com
 assets.gumroad.com
@@ -49279,7 +49288,21 @@ static.3001.net
 8ch.net
 crunchyroll.adtrackers.net
 serve.adtrackers.net
+configuration.apple.com.akadns.net
+lcdn-locator.apple.com.akadns.net
+lcdn-locator-usnkq.apple.com.akadns.net
+swcdn.apple.com.akadns.net
+www-cdn.icloud.com.akadns.net
+fe2.update.microsoft.com.akadns.net
+sls.update.microsoft.com.akadns.net
+statsfe2.update.microsoft.com.akadns.net
+ui.skype.akadns.net
+e16973.a.akamaiedge.net
+e1151.e12.akamaiedge.net
+e3843.g.akamaiedge.net
 crunchyroll.bannertrack.net
+d3orhvfyxudxxq.cloudfront.net
+d9hhrg4mnvzow.cloudfront.net
 codecanyon.net
 blog.csdn.net
 wac.edgecastcdn.net
@@ -49354,7 +49377,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 276
+# Ignored duplicates: 275
 
 theship.club
 cpro.baidu.cn
@@ -49538,6 +49561,7 @@ ms-vibbo--api-gateway.spain.schibsted.io
 profile-api.spt-mkt-trust-pro.schibsted.io
 cdn.svp.schibsted.io
 profile-api.trust.schibsted.io
+e8218.dscb1.akamaiedge.net
 3p.ampproject.net
 carbonads.net
 daumcdn.net
@@ -49617,7 +49641,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3783
+# Ignored duplicates: 3773
 
 www.google.com.af
 www.google.com.ag
@@ -49657,6 +49681,7 @@ link.brightcove.com
 cdn77.com
 cryptonator.com
 dnswarden.com
+dropbox.com
 emercoin.com
 epl-paypal-communication.com
 a.espncdn.com
@@ -49664,6 +49689,7 @@ secure.espncdn.com
 fiverr.com
 gadgetsnow.com
 githubusercontent.com
+lh3.googleusercontent.com
 gyazo.com
 here.com
 exchange.xforce.ibmcloud.com
@@ -49707,6 +49733,7 @@ altb.marfeelcache.com
 altbc.marfeelcache.com
 marfeelcdn.com
 marfeelrev.com
+m.media-amazon.com
 media-imdb.com
 www.metal-tracker.com
 css.mmtcdn.com
@@ -49757,6 +49784,7 @@ config.safedk.com
 safelinkconverter.com
 api.simplisafe.com
 sitesell.com
+images-eu.ssl-images-amazon.com
 stathat.com
 api.tastyworks.com
 tdw.telkomsel.com
@@ -49774,6 +49802,7 @@ vultr.com
 webmd.com
 willyoupressthebutton.com
 wjunction.com
+xkms.xbolive.com
 xhamster.com
 3.xhcdn.com
 static-cl.xhcdn.com
@@ -49852,6 +49881,10 @@ www.google.com.mx
 www.google.com.my
 www.google.co.mz
 www.google.com.na
+geo.paypalobjects.com.akadns.net
+hotspot.paypalobjects.com.akadns.net
+map.paypalobjects.com.akadns.net
+d3l3lkinz3f56t.cloudfront.net
 paypalobjects.com-a.edgekey.net
 paypal.com.edgekey.net
 cls.s7.exct.net
@@ -49900,6 +49933,7 @@ www.google.com.sa
 www.google.com.sb
 a.uguu.se
 x1337x.se
+106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services
 www.google.com.sg
 www.google.com.sl
 www.google.com.sv
