@@ -119,6 +119,7 @@ hostinger.com
 hotdogsandads.com
 howsmyssl.com
 hxtrack.com
+icanhazip.com
 iesnare.com
 imrworldwide.com
 inmoment.com
@@ -4173,7 +4174,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 134
+# Ignored duplicates: 135
 
 media-lab.ai
 gmx.at
@@ -4324,7 +4325,6 @@ horseanswerstoday.com
 howtoforge.com
 hulkshare.com
 hulu.com
-icanhazip.com
 ikea.com
 forums.ilounge.com
 imagebam.com
@@ -46991,6 +46991,7 @@ content-media.bonial.biz
 flvto.biz
 baixaki.com.br
 tm.jsuol.com.br
+turbulent.ca
 uu.cc
 tdn.da-services.ch
 dns.digitale-gesellschaft.ch
@@ -47702,6 +47703,9 @@ dtioykqj1u8de.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
 code-examples.net
 a.delivery.consentmanager.net
+b.delivery.consentmanager.net
+c.delivery.consentmanager.net
+d.delivery.consentmanager.net
 lbnew.consentmanager.net
 contaboserver.net
 get.contentpass.net
