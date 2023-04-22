@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 30
+# Ignored duplicates: 32
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -174,6 +174,7 @@ pega.com
 piguiqproxy.com
 pinpoll.com
 pizzaandads.com
+plerdy.com
 podtrac.com
 postclickmarketing.com
 productsup.com
@@ -46976,7 +46977,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 422
+# Ignored duplicates: 424
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47021,6 +47022,7 @@ i.shoosh.co
 v.shoosh.co
 swile.co
 fy.v.vrv.co
+zurl.co
 123freeavatars.com
 56.com
 6sense.com
@@ -47167,6 +47169,7 @@ update.easebar.com
 ekomi.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
+tracking.epicgames.com
 stats.espncricinfo.com
 etrality.com
 cdn.exponea.com
@@ -47258,6 +47261,7 @@ pubssl.itmems4.com
 spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
+jobseeker.com
 click.justwatch.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
@@ -47345,6 +47349,7 @@ sephora.narvar.com
 tracking.narvar.com
 tivan.naver.com
 netcoresmartech.com
+netiq.com
 netline.com
 deviceportal.nettvservices.com
 newbedev.com
@@ -48320,7 +48325,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 115
+# Ignored duplicates: 116
 
 api.cortana.ai
 uol.com.br
@@ -48452,7 +48457,6 @@ dynatrace.com
 activation.easeus.com
 mini.eastday.com
 push2.eastmoney.com
-tracking.epicgames.com
 c.evidon.com
 upd.faronicslabs.com
 feedburner.com
