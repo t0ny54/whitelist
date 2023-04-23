@@ -46977,7 +46977,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 424
+# Ignored duplicates: 427
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47722,6 +47722,7 @@ dynu.net
 cdns-content.dzcdn.net
 79423.analytics.edgekey.net
 cdn-kaltura-dscd.edgekey.net
+telemetry-console.api.playstation.com-v2.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
 brightline.tv.edgekey.net
@@ -47801,6 +47802,7 @@ disguised.nl
 mijn.overheid.nl
 aa.tweakers.nl
 ab.tweakers.nl
+payment.schibsted.no
 fakeshop-finder.nrw
 drscdn.500px.org
 ccf.admeen.org
@@ -47828,6 +47830,7 @@ traccar.org
 instant.page
 telegra.ph
 spartoo.pl
+pix2.services.tvn.pl
 spartoo.pt
 1kinobig.ru
 cl-ad786718.edgecdn.ru
