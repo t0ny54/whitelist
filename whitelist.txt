@@ -47095,6 +47095,7 @@ eu-swarm-newm.betcoswarm.com
 binarypiano.com
 indusprodcustomer3996.pc.cdn.bitgravity.com
 cdn.bitmovin.com
+licensing.bitmovin.com
 geoim.bloomberght.com
 vms.bluebillywig.com
 bnamic.com
@@ -47267,6 +47268,7 @@ kajabi-cdn.com
 cdnapisec.kaltura.com
 cfvod.kaltura.com
 karenpryoracademy.com
+candycrushsoda.king.com
 kiwibrowser.com
 a.klaviyo.com
 static.klaviyo.com
@@ -47561,6 +47563,7 @@ videos.filmstarts.de
 community.finanzguru.de
 hockerty.de
 homepage-baukasten.de
+idcdn.de
 ihreapotheken.de
 ix.de
 ads.julephosting.de
