@@ -4538,6 +4538,7 @@ open.fm
 strefa.fm
 tuba.fm
 dl.free.fr
+letribunaldunet.fr
 orange.fr
 is.gd
 goo.gl
@@ -4718,7 +4719,7 @@ gitcdn.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 95
+# Ignored duplicates: 100
 
 sbs.com.au
 acdn.adnxs.com
@@ -4744,11 +4745,6 @@ shareaholic.com
 cdn1.smartadserver.com
 stats.streamelements.com
 link.theplatform.com
-amd.cdn.turner.com
-i.cdn.turner.com
-pmd.cdn.turner.com
-s.cdn.turner.com
-z.cdn.turner.com
 track.ucas.com
 adf.ly
 e7065.e2.akamaiedge.net
@@ -46977,7 +46973,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 427
+# Ignored duplicates: 429
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47025,6 +47021,7 @@ fy.v.vrv.co
 zurl.co
 123freeavatars.com
 56.com
+600vekil.com
 6sense.com
 above.com
 abuelos.com
@@ -47054,6 +47051,7 @@ component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
 alvarotrigo.com
+c.amazon-adsystem.com
 prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
@@ -47442,6 +47440,7 @@ oup.silverchair-cdn.com
 pixel.disco.skyshowtime.com
 api.snapkit.com
 internal-api.snapkit.com
+web.snrbox.com
 socpublic.com
 softonic.com
 api-secure.solvemedia.com
@@ -47488,7 +47487,7 @@ consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
 canvas.tubitv.com
-turnip.cdn.turner.com
+cdn.turner.com
 tuyacn.com
 twibbonize.com
 twitchy.com
@@ -47771,6 +47770,7 @@ tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
 pv-cdn.net
+siteintercept.qprod2.net
 research.net
 static.cdn.responsys.net
 riotpixels.net
@@ -47832,6 +47832,7 @@ api.speedspot.org
 traccar.org
 instant.page
 telegra.ph
+tracker.gpcdn.pl
 spartoo.pl
 pix2.services.tvn.pl
 spartoo.pt
@@ -48331,12 +48332,13 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 116
+# Ignored duplicates: 117
 
 api.cortana.ai
 uol.com.br
 upload.cc
 img.zuoyebang.cc
+jiagu.360.cn
 shouji.360.cn
 cnnic.cn
 adm.10jqka.com.cn
@@ -49028,7 +49030,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 530
+# Ignored duplicates: 532
 
 a.run.app
 ipv4only.arpa
@@ -49223,8 +49225,6 @@ static.tianyaui.com
 pull.ticktick.com
 etl.tindersparks.com
 cname.tradepub.com
-cvp1.cdn.turner.com
-dynaimage.cdn.turner.com
 surveys.twilio.com
 safe.txmblr.com
 use.typekit.com
