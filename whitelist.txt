@@ -46973,11 +46973,12 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 429
+# Ignored duplicates: 430
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
 ip.istatmenus.app
+get.massive.app
 safebrowsing.apple
 domaintechnik.at
 noip.at
@@ -48232,6 +48233,7 @@ go.nordvpn.net
 geo1.presslabs.net
 adorama.rfvk.net
 track.seadform.net
+track.smtp2go.net
 cdn-magiclinks.trackonomics.net
 adservice.google.com.nf
 adservice.google.com.ng
