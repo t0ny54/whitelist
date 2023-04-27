@@ -143,6 +143,7 @@ loadercdn.com
 localbitcoins.com
 loggly.com
 loginfra.com
+logrocket.com
 macromill.com
 marfeel.com
 markitondemand.com
@@ -4648,6 +4649,7 @@ stanev.org
 sysctl.org
 techguy.org
 thepiratebay.org
+ublock.org
 ubuntuforums.org
 userscripts-mirror.org
 videolan.org
@@ -46973,7 +46975,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 430
+# Ignored duplicates: 432
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -48334,7 +48336,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 117
+# Ignored duplicates: 122
 
 api.cortana.ai
 uol.com.br
@@ -48356,6 +48358,7 @@ aizhigu.com.cn
 clarins.com.cn
 duiba.com.cn
 ename.com.cn
+mairuan.com.cn
 pepsico.com.cn
 mix.sina.com.cn
 w8.com.cn
@@ -48372,6 +48375,7 @@ kaipuyun.cn
 short-video.kakamobi.cn
 nmobi.kuwo.cn
 wxapp.lvyadx.cn
+mairuan.cn
 meipian7.cn
 nejmqianyan.cn
 cnnic.net.cn
@@ -48503,9 +48507,9 @@ mobilelog.kugou.com
 lc-cn-n1-shared.com
 live800.com
 livere.com
-logrocket.com
 lumion3d.com
 fpdownload.macromedia.com
+mairuan.com
 manhuachi.com
 act2.mediafour.com
 meitubeauty.meitudata.com
@@ -48627,6 +48631,7 @@ hinet.net
 jsinfo.net
 licensebuttons.net
 lumion3d.net
+mairuan.net
 msedge.net
 service.signalr.net
 v.smtcdns.net
