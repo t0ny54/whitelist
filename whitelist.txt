@@ -46975,7 +46975,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 432
+# Ignored duplicates: 440
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47027,6 +47027,7 @@ zurl.co
 56.com
 600vekil.com
 6sense.com
+doh.dns.apple.com.v.aaplimg.com
 above.com
 abuelos.com
 ac24horas.com
@@ -47356,6 +47357,7 @@ tracking.narvar.com
 tivan.naver.com
 netcoresmartech.com
 netiq.com
+affectionate-varahamihira-c7a5ba.netlify.com
 netline.com
 deviceportal.nettvservices.com
 newbedev.com
@@ -47659,6 +47661,7 @@ spartoo.it
 studenti.it
 ftp.iij.ad.jp
 stat100.ameba.jp
+dob.jp
 tracking.post.japanpost.jp
 yu.ac.kr
 adpanchok.co.kr
@@ -47745,6 +47748,7 @@ f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
 aiv-cdn.net.c.footprint.net
+cdn.gotraffic.net
 sites.hscoscdn10.net
 hsforms.net
 330046g46.secure0032.hubspot.net
@@ -47804,6 +47808,7 @@ uceprotect.net
 verisign.net
 fast.wistia.net
 wsj.net
+xtracloud.net
 yacy.net
 ad.nl
 api.c99.nl
@@ -49040,7 +49045,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 532
+# Ignored duplicates: 533
 
 a.run.app
 ipv4only.arpa
@@ -49336,7 +49341,6 @@ help.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
 limited-prod.giphy.map.fastly.net
 prod.disqus.map.fastlylb.net
-cdn.gotraffic.net
 he.net
 cds.d2s7q6s2.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
