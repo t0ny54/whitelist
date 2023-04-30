@@ -46975,7 +46975,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 440
+# Ignored duplicates: 442
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -46991,6 +46991,7 @@ content-media.bonial.biz
 flvto.biz
 baixaki.com.br
 tm.jsuol.com.br
+mng.bz
 turbulent.ca
 uu.cc
 tdn.da-services.ch
@@ -47606,6 +47607,7 @@ iutoic-dhaka.edu
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
+consentag.eu
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
 ioc.exchange
@@ -47872,6 +47874,7 @@ use.fvr.to
 hopp.to
 chillx.top
 pdcdn1.top
+pressplay.top
 chip.com.tr
 ilan.gov.tr
 cdn.brid.tv
