@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 32
+# Ignored duplicates: 33
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -337,7 +337,6 @@ trackcmp.net
 trafficmanager.net
 v3cdn.net
 vxcash.net
-cpm.wargaming.net
 wishabi.net
 zdbb.net
 zmctrack.net
@@ -4519,6 +4518,7 @@ yunfile.com
 zajefajna.com
 zippyshare.com
 ziprecruiter.com
+zoominfo.com
 1und1.de
 billiger.de
 freenet.de
@@ -46975,7 +46975,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 442
+# Ignored duplicates: 448
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47283,6 +47283,7 @@ static-forms.klaviyo.com
 js.klevu.com
 manage.kmail-lists.com
 koisea.com
+kompas.com
 ku6.com
 kxcdn.com
 lalpathlabs.com
@@ -47541,7 +47542,6 @@ csm-e-cbch-eb.tls1.yospace.com
 ytimg.com
 zeelool.com
 zephr.com
-zoominfo.com
 zopim.com
 servix.idnes.cz
 ad-magazin.de
@@ -47792,6 +47792,7 @@ samsungrm.net
 speedtest.sbcglobal.net
 sentry.sc-prod.net
 searchnode.net
+securenetsystems.net
 host.secureserver.net
 selezen.net
 at-config.sensic.net
@@ -47808,6 +47809,7 @@ ab.tweakers.net
 use.typekit.net
 uceprotect.net
 verisign.net
+wargaming.net
 fast.wistia.net
 wsj.net
 xtracloud.net
@@ -48488,6 +48490,7 @@ feedburner.com
 gameone.com
 govdelivery.com
 gvt2.com
+heytapimage.com
 hosting24.com
 hubpd.com
 huoying666.com
@@ -48516,6 +48519,7 @@ kingsoft.com
 bssdlbig.kugou.com
 mobilelog.kugou.com
 lc-cn-n1-shared.com
+ldmnq.com
 live800.com
 livere.com
 lumion3d.com
