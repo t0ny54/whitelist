@@ -47274,6 +47274,7 @@ kajabi-cdn.com
 cdnapisec.kaltura.com
 cfvod.kaltura.com
 karenpryoracademy.com
+keslerscience.com
 candycrushsoda.king.com
 kiwibrowser.com
 a.klaviyo.com
@@ -47289,6 +47290,7 @@ kxcdn.com
 lalpathlabs.com
 clientstream.launchdarkly.com
 us.ibs.lgappstv.com
+aic-gfts.lge.com
 aic-ngfts.lge.com
 ngfts.lge.com
 us.lgeapi.com
