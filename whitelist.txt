@@ -47365,6 +47365,7 @@ affectionate-varahamihira-c7a5ba.netlify.com
 netline.com
 deviceportal.nettvservices.com
 newbedev.com
+news9.com
 p.nfltags.com
 nolo.com
 ntp-fireos.com
@@ -47659,6 +47660,7 @@ termly.io
 trezor.io
 tyk.io
 wootility.io
+umami.is
 scenarieconomici.it
 shalom.it
 spartoo.it
