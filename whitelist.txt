@@ -4208,6 +4208,7 @@ alexa.com
 androidforums.com
 answers.com
 forums.appleinsider.com
+media.architecturaldigest.com
 arstechnica.com
 asics.com
 askubuntu.com
@@ -47232,6 +47233,7 @@ s.hbrcdn.com
 location-api.hdhomerun.com
 tuner-api.hdhomerun.com
 glimmer.hearstapps.com
+sdp.helpdocsonline.com
 embed.tagboard.com.herokudns.com
 hexun.com
 sms.ads.heytapmobi.com
@@ -47440,6 +47442,7 @@ s.sdacdn.com
 secondstreetapp.com
 cdn.segmentify.com
 ship.sephora.com
+help.servicedeskplus.com
 faz.sevenval-fit.com
 privatedomain.sgizmo.com
 cdn.sgmntfy.com
