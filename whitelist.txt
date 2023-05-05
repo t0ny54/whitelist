@@ -46976,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 448
+# Ignored duplicates: 454
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47089,7 +47089,21 @@ player.avplayer.com
 awxcdn.com
 aylanetworks.com
 staticweb.ecglb.bac.com
+t1.baidu.com
 t10.baidu.com
+t11.baidu.com
+t12.baidu.com
+t13.baidu.com
+t14.baidu.com
+t15.baidu.com
+t2.baidu.com
+t3.baidu.com
+t4.baidu.com
+t5.baidu.com
+t6.baidu.com
+t7.baidu.com
+t8.baidu.com
+t9.baidu.com
 baihe.com
 banggood.com
 omroepbrabant.bbvms.com
@@ -47336,6 +47350,7 @@ discovery.meethue.com
 ws.meethue.com
 meituan.com
 messengerpeople.com
+insider.microsoft365.com
 email.microsoftemail.com
 email.microsoftrewards.com
 microsoftstoreemail.com
@@ -47717,6 +47732,7 @@ cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
 d11rmv9we9fli4.cloudfront.net
+d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
@@ -48356,7 +48372,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 122
+# Ignored duplicates: 133
 
 api.cortana.ai
 uol.com.br
@@ -48450,17 +48466,6 @@ sfp.safe.baidu.com
 sofire.baidu.com
 sp0.baidu.com
 sp2.baidu.com
-t1.baidu.com
-t11.baidu.com
-t12.baidu.com
-t2.baidu.com
-t3.baidu.com
-t4.baidu.com
-t5.baidu.com
-t6.baidu.com
-t7.baidu.com
-t8.baidu.com
-t9.baidu.com
 top.baidu.com
 issuecdn.baidupcs.com
 baixing.com
