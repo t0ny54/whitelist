@@ -46976,10 +46976,11 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 454
+# Ignored duplicates: 455
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
+curve.app
 ip.istatmenus.app
 get.massive.app
 safebrowsing.apple
@@ -47188,6 +47189,7 @@ eaglecdn.com
 gph.easebar.com
 update.easebar.com
 ekomi.com
+img.ekstat.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 tracking.epicgames.com
@@ -47293,6 +47295,7 @@ karenpryoracademy.com
 keslerscience.com
 candycrushsoda.king.com
 kiwibrowser.com
+kiwisearchservices.com
 a.klaviyo.com
 static.klaviyo.com
 static-app.klaviyo.com
@@ -47424,6 +47427,7 @@ sdk.qikify.com
 msf.3g.qq.com
 msfwifi.3g.qq.com
 wxsnsdy.wxs.qq.com
+quicns.com
 ablink.account.quizlet.com
 d3tracking.rbc.com
 assets.realclear.com
@@ -47668,6 +47672,7 @@ cr.portainer.io
 cmp-consent-tool.privacymanager.io
 qt.io
 assets.rebelmouse.io
+revanced.io
 searchnode.io
 auth.split.io
 cdn.split.io
@@ -48107,6 +48112,7 @@ ad.dyntracker.de
 adservice.google.de
 t23.intelliad.de
 promo.mobile.de
+ndirect.ppro.de
 adservice.google.dev
 adservice.google.dj
 online.adservicemedia.dk
