@@ -46976,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 455
+# Ignored duplicates: 456
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47672,7 +47672,6 @@ cr.portainer.io
 cmp-consent-tool.privacymanager.io
 qt.io
 assets.rebelmouse.io
-revanced.io
 searchnode.io
 auth.split.io
 cdn.split.io
