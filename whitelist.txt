@@ -46976,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 456
+# Ignored duplicates: 458
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47229,6 +47229,7 @@ images.g2crowd.com
 learn.g2crowd.com
 api.pgpl.g5e.com
 maps.geoapify.com
+d.ghostery.com
 gigya.com
 app.gitbook.com
 gizmodern.com
@@ -47500,6 +47501,7 @@ jenson.api.swiftkey.com
 syn-alias.com
 embed.tagboard.com
 cdn.tagcommander.com
+track.talabat.com
 talentwunder.com
 tantanapp.com
 tarafdari.com
