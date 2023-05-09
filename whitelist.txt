@@ -46976,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 458
+# Ignored duplicates: 463
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47105,6 +47105,7 @@ t6.baidu.com
 t7.baidu.com
 t8.baidu.com
 t9.baidu.com
+top.baidu.com
 baihe.com
 banggood.com
 omroepbrabant.bbvms.com
@@ -47202,7 +47203,6 @@ abcnews.extremereach.com
 agents.extremereach.com
 app.extremereach.com
 download.extremereach.com
-dv.extremereach.com
 updates.extremereach.com
 famatel.com
 lostmediaarchive.fandom.com
@@ -47326,6 +47326,7 @@ us.lgtvsdp.com
 librefutboltv.com
 collector.lightstep.com
 ingest.lightstep.com
+cdn.livechatinc.com
 liveperson.com
 living-sun.com
 localiq.com
@@ -47767,6 +47768,8 @@ cdn-kaltura-dscd.edgekey.net
 telemetry-console.api.playstation.com-v2.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
+cdn.livechat.com.edgekey.net
+www.usopc.com.edgekey.net
 brightline.tv.edgekey.net
 mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
@@ -48379,7 +48382,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 133
+# Ignored duplicates: 134
 
 api.cortana.ai
 uol.com.br
@@ -48473,7 +48476,6 @@ sfp.safe.baidu.com
 sofire.baidu.com
 sp0.baidu.com
 sp2.baidu.com
-top.baidu.com
 issuecdn.baidupcs.com
 baixing.com
 bj.bcebos.com
@@ -48699,7 +48701,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 616
+# Ignored duplicates: 617
 
 1hosts.cf
 abuse.ch
@@ -48786,7 +48788,6 @@ f.kinja-static.com
 x.kinja-static.com
 linode.com
 i.lithium.com
-cdn.livechatinc.com
 www.malekal.com
 mirror1.malwaredomains.com
 b.marfeelcache.com
