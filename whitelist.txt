@@ -46976,7 +46976,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 463
+# Ignored duplicates: 462
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47331,6 +47331,7 @@ liveperson.com
 living-sun.com
 localiq.com
 webhook.logentries.com
+lorienglobal.com
 lowendbox.com
 m1.com
 mackeeper.com
@@ -47793,6 +47794,20 @@ aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
+time.izatcloud.net
+izattime.xboxprod.izatcloud.net
+xtra1ha.xboxprod.izatcloud.net
+xtra2.xboxprod.izatcloud.net
+xtra3.xboxprod.izatcloud.net
+xtrapath1.xboxprod.izatcloud.net
+xtrapath2.xboxprod.izatcloud.net
+xtrapath3.xboxprod.izatcloud.net
+xtrapath4.xboxprod.izatcloud.net
+xtrapath5.xboxprod.izatcloud.net
+xtrapath6.xboxprod.izatcloud.net
+xtrapath1.izatcloud.net
+xtrapath2.izatcloud.net
+xtrapath3.izatcloud.net
 leakix.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
@@ -47844,7 +47859,11 @@ verisign.net
 wargaming.net
 fast.wistia.net
 wsj.net
-xtracloud.net
+path1.xtracloud.net
+path2.xtracloud.net
+path3.xtracloud.net
+time.xtracloud.net
+xtratime.xboxprod.xtracloud.net
 yacy.net
 ad.nl
 api.c99.nl
@@ -49432,7 +49451,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 275
+# Ignored duplicates: 279
 
 theship.club
 cpro.baidu.cn
@@ -49641,11 +49660,7 @@ gtpcn.izatcloud.net
 gtpcn1.izatcloud.net
 info.izatcloud.net
 s2s.izatcloud.net
-time.izatcloud.net
-xtrapath1.izatcloud.net
 xtrapath11.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
 xtrapath5.izatcloud.net
 xtrapath7.izatcloud.net
 xtrapath9.izatcloud.net
