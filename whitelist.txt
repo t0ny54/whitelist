@@ -315,6 +315,7 @@ fwmrm.net
 gate.hockeyapp.net
 hscoscdn20.net
 informz.net
+izatcloud.net
 ups.ksmobile.net
 tracking.magnetmail.net
 magnetmail1.net
@@ -46976,7 +46977,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 462
+# Ignored duplicates: 476
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47509,6 +47510,7 @@ tantanapp.com
 tarafdari.com
 p11.techlab-cdn.com
 thecanadianpharmacy.com
+thecubexguide.com
 dd.tidal.com
 et.tidal.com
 salt.tikicdn.com
@@ -47794,20 +47796,6 @@ aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
-time.izatcloud.net
-izattime.xboxprod.izatcloud.net
-xtra1ha.xboxprod.izatcloud.net
-xtra2.xboxprod.izatcloud.net
-xtra3.xboxprod.izatcloud.net
-xtrapath1.xboxprod.izatcloud.net
-xtrapath2.xboxprod.izatcloud.net
-xtrapath3.xboxprod.izatcloud.net
-xtrapath4.xboxprod.izatcloud.net
-xtrapath5.xboxprod.izatcloud.net
-xtrapath6.xboxprod.izatcloud.net
-xtrapath1.izatcloud.net
-xtrapath2.izatcloud.net
-xtrapath3.izatcloud.net
 leakix.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
@@ -47953,6 +47941,7 @@ o.ss2.us
 s.ss2.us
 api.sbz.vn
 zadn.vn
+zlp-bill-tracking.zalopay.vn
 nnmstatic.win
 cbox.ws
 myip.wtf
@@ -49451,7 +49440,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 279
+# Ignored duplicates: 293
 
 theship.club
 cpro.baidu.cn
@@ -49650,20 +49639,6 @@ xtra1.gpsonextra.net
 xtra2.gpsonextra.net
 xtra3.gpsonextra.net
 xtra4.gpsonextra.net
-cds.gtp.izatcloud.net
-gtp1.gtp.izatcloud.net
-gtp1.izatcloud.net
-gtp2.izatcloud.net
-gtpa1.izatcloud.net
-gtpc1.izatcloud.net
-gtpcn.izatcloud.net
-gtpcn1.izatcloud.net
-info.izatcloud.net
-s2s.izatcloud.net
-xtrapath11.izatcloud.net
-xtrapath5.izatcloud.net
-xtrapath7.izatcloud.net
-xtrapath9.izatcloud.net
 api.krxd.net
 rbb.ic.llnwd.net
 abbott.vo.llnwd.net
