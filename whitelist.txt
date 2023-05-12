@@ -21,6 +21,7 @@ epn.bz
 popin.cc
 admeira.ch
 easylist.club
+datayi.cn
 threatbook.cn
 axiom.co
 datadome.co
@@ -47437,6 +47438,7 @@ d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
 cdn.rebuyengine.com
+jsv3.recruitics.com
 images.redbox.com
 cf-iomeu-cdn.relaxg.com
 reliaquest.com
@@ -47659,6 +47661,7 @@ cc-api-data.adobe.io
 cdn.appconsent.io
 collector.appconsent.io
 applicationinsights.io
+blackfire.io
 canarymail.io
 chatra.io
 cdn.elev.io
