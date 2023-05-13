@@ -189,6 +189,7 @@ qualtrics.com
 questionpro.com
 insight.rapid7.com
 rdstation.com
+recruitics.com
 report-uri.com
 res-x.com
 researchintel.com
@@ -46978,7 +46979,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 476
+# Ignored duplicates: 477
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47176,6 +47177,7 @@ digicert.com
 ocs-dl.fra1.cdn.digitaloceanspaces.com
 discords.com
 image.mail.disneyplus.com
+distroscale.com
 images.dmca.com
 dnainfotel.com
 cdn.dnsv1.com
@@ -47290,6 +47292,11 @@ spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
 jobseeker.com
+a.jsrdn.com
+c.jsrdn.com
+i.jsrdn.com
+s.jsrdn.com
+tv.jsrdn.com
 click.justwatch.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
@@ -47438,7 +47445,6 @@ d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
 cdn.rebuyengine.com
-jsv3.recruitics.com
 images.redbox.com
 cf-iomeu-cdn.relaxg.com
 reliaquest.com
