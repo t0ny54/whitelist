@@ -47284,6 +47284,7 @@ edge.experimentation.intuit.com
 offcnt.intuit.com
 trinity.platform.intuit.com
 cloud-news.ionos.com
+iotcplatform.com
 ipaddress.com
 carbon-v2.ipsator.com
 neon.ipsator.com
@@ -47423,6 +47424,7 @@ performfeeds.com
 cdn.petametrics.com
 dp.dc1.philips.com
 ecdinterface.philips.com
+phncdn.com
 phonearena.com
 picclick.com
 pixeldrain.com
@@ -47453,6 +47455,7 @@ ping.remarkable.com
 opinions.research-interactive.com
 surveymyopinion.researchnow.com
 api.revenuecat.com
+rncdn7.com
 ephemeralcounters.api.roblox.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
@@ -47578,6 +47581,7 @@ avpro.global.yamaha.com
 yep.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
+ypncdn.com
 ytimg.com
 zeelool.com
 zephr.com
@@ -48129,6 +48133,7 @@ adservice.google.com.cu
 adservice.google.cv
 adservice.google.com.cy
 adservice.google.cz
+x.bestcheck.de
 ad.dyntracker.de
 adservice.google.de
 t23.intelliad.de
@@ -49695,7 +49700,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3773
+# Ignored duplicates: 3774
 
 www.google.com.af
 www.google.com.ag
@@ -49825,7 +49830,6 @@ onetrust.com
 openwall.com
 img.over-blog-kiwi.com
 static-ite.paytmbank.com
-phncdn.com
 pirateiro.com
 cdp.rapidssl.com
 status.rapidssl.com
