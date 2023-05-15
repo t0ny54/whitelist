@@ -46979,7 +46979,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 477
+# Ignored duplicates: 478
 
 cdn.engagement.ai
 sp-ao.shortpixel.ai
@@ -47033,6 +47033,7 @@ zurl.co
 56.com
 600vekil.com
 6sense.com
+a2hosted.com
 doh.dns.apple.com.v.aaplimg.com
 above.com
 abuelos.com
@@ -47113,6 +47114,7 @@ baihe.com
 banggood.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
+search-operate.cdn.bcebos.com
 beaute-test.com
 benefithub.com
 eu-swarm-newm.betcoswarm.com
@@ -47349,6 +47351,7 @@ mailerlite.com
 majesticseo.com
 mandrillapp.com
 manli.com
+marinetraffic.com
 mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 s50.device.marketingcloudapis.com
 tms.api.mashery.com
@@ -47930,6 +47933,7 @@ chillx.top
 pdcdn1.top
 pressplay.top
 chip.com.tr
+analytics.halkbank.com.tr
 ilan.gov.tr
 cdn.brid.tv
 p.brid.tv
