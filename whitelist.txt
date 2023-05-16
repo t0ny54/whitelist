@@ -43946,6 +43946,7 @@ shrt.ml
 gri.ms
 tr.my
 easyurl.net
+encurtador.net
 idek.net
 iscool.net
 iterasi.net
@@ -47463,6 +47464,7 @@ ephemeralcounters.api.roblox.com
 locale.roblox.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
+api.glb.samsung-gamelauncher.com
 samsungapps.com
 otn.samsungcloudcdn.com
 samsungcloudsolution.com
@@ -47920,6 +47922,7 @@ qoo10.sg
 edgeme.sh
 scarf.sh
 heureka.sk
+wee.so
 norden.social
 meneer.space
 myfed.space
