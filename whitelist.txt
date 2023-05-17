@@ -46982,6 +46982,7 @@ aag.org.za
 
 # Ignored duplicates: 478
 
+app.clearview.ai
 cdn.engagement.ai
 sp-ao.shortpixel.ai
 curve.app
@@ -47049,6 +47050,8 @@ adguard-dns.com
 adlermode.com
 c00.adobe.com
 adstream.com
+pl-play.adtonos.com
+pl2-play.adtonos.com
 aeotec.com
 aerisapi.com
 afternic.com
