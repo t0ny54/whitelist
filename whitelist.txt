@@ -46980,7 +46980,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 478
+# Ignored duplicates: 479
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47533,6 +47533,7 @@ tarafdari.com
 p11.techlab-cdn.com
 thecanadianpharmacy.com
 thecubexguide.com
+thethings.com
 dd.tidal.com
 et.tidal.com
 salt.tikicdn.com
@@ -47581,6 +47582,7 @@ apicache.vudu.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
+weworkremotely.com
 garry.windscribe.com
 phishingquiz.withgoogle.com
 wpbeaches.com
@@ -49109,7 +49111,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 533
+# Ignored duplicates: 534
 
 a.run.app
 ipv4only.arpa
@@ -49317,7 +49319,6 @@ userapi.com
 ocsp.usertrust.com
 update.utorrent.com
 see.valimail.com
-weworkremotely.com
 whatismyipaddress.com
 fast.wistia.com
 tg1.premium.db4.wix.com
