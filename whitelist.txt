@@ -259,6 +259,7 @@ ipinfo.info
 ad-shield.io
 airbrake.io
 anura.io
+collector.appconsent.io
 branch.io
 carrotquest.io
 customer.io
@@ -46980,7 +46981,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 479
+# Ignored duplicates: 480
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47683,11 +47684,11 @@ logs.juspay.in
 adguard-dns.io
 cc-api-data.adobe.io
 cdn.appconsent.io
-collector.appconsent.io
 applicationinsights.io
 blackfire.io
 canarymail.io
 chatra.io
+chatserver15.comm100.io
 cdn.elev.io
 formspree.io
 cs.liiift.io
@@ -47746,6 +47747,7 @@ cdn.stream.schibsted.media
 codepush.appcenter.ms
 in.appcenter.ms
 assets.rbl.ms
+sunwaydigitalwave.com.my
 17track.net
 subarumysubaruappproduction.112.2o7.net
 afrinic.net
