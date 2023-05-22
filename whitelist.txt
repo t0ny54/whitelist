@@ -47007,6 +47007,7 @@ dns.digitale-gesellschaft.ch
 stat.ethz.ch
 ens.nzz.ch
 track.nzz.ch
+opsserver.ch
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
 glomex.cloud
@@ -47164,6 +47165,7 @@ commentsengine.com
 compaq.com
 contabostorage.com
 controld.com
+api.cookiespool.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
