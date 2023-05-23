@@ -47165,6 +47165,7 @@ commentsengine.com
 compaq.com
 contabostorage.com
 controld.com
+cookie-cdn.cookiepro.com
 api.cookiespool.com
 epg.corio.com
 courier.com
@@ -47191,6 +47192,7 @@ images.dmca.com
 dnainfotel.com
 cdn.dnsv1.com
 tracker.dominos.com
+dooood.com
 track.doordash.com
 doppiocdn.com
 embed.dugout.com
@@ -47670,6 +47672,7 @@ webapp-prod.cloud.remarkable.engineering
 consentag.eu
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
+kwrn.eu
 ioc.exchange
 tili.sanoma.fi
 asiakas.valokuitunen.fi
@@ -47682,6 +47685,7 @@ sch.gr
 docdro.id
 cbox.im
 files.im
+seo.spot.im
 logs.juspay.in
 adguard-dns.io
 cc-api-data.adobe.io
@@ -47966,6 +47970,7 @@ update.biv.sony.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
+cmp.dmgmediaprivacy.co.uk
 api.nextgen.guardianapps.co.uk
 interactive.guim.co.uk
 netdirector.co.uk
