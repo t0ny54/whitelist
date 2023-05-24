@@ -47263,6 +47263,7 @@ email.goodrx.com
 afs.googleusercontent.com
 googlevideo.com
 track.goshippo.com
+widget.haberler.com
 i.hbrcdn.com
 s.hbrcdn.com
 location-api.hdhomerun.com
@@ -47369,6 +47370,7 @@ s50.device.marketingcloudapis.com
 tms.api.mashery.com
 td-mashery-tm-use1.mashery.com
 td-tms.mashery.com
+max.com
 maxmind.com
 maxpark.com
 webadvisorc.rest.gti.mcafee.com
@@ -47584,6 +47586,7 @@ api.vizio.com
 images.vizio.com
 ims.vodafone.com
 apicache.vudu.com
+engage.vzw.com
 wabetainfo.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
@@ -47606,6 +47609,7 @@ zeelool.com
 zephr.com
 zopim.com
 servix.idnes.cz
+c.seznam.cz
 ad-magazin.de
 aikq.de
 prospekt.aldi-sued.de
@@ -47955,6 +47959,7 @@ pdcdn1.top
 pressplay.top
 chip.com.tr
 analytics.halkbank.com.tr
+widget.yenimedya.com.tr
 ilan.gov.tr
 cdn.brid.tv
 p.brid.tv
@@ -48049,6 +48054,7 @@ ulink.adjust.com
 campaign.adobe.com
 track.adtraction.com
 guce.advertising.com
+click.allkeyshop.com
 prism.app-us1.com
 customlinks.appsflyer.com
 clicks.aweber.com
