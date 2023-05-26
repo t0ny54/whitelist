@@ -289,6 +289,7 @@ seesaa.jp
 team-rec.jp
 shopping.yahooapis.jp
 yads.c.yimg.jp
+non.li
 app.link
 bnc.lt
 stats.lt
@@ -47291,6 +47292,7 @@ api.immomo.com
 imore.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
+ivantiinnovators.influitive.com
 vr331.infusionsoft.com
 ink1001.com
 api.intuit.com
@@ -47307,6 +47309,7 @@ pubssl.itmems4.com
 spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
+innovators.ivanti.com
 jobseeker.com
 a.jsrdn.com
 c.jsrdn.com
@@ -47349,6 +47352,7 @@ aic.service.lgtvcommon.com
 us.rdx2.lgtvsdp.com
 us.lgtvsdp.com
 librefutboltv.com
+s3.lightboxcdn.com
 collector.lightstep.com
 ingest.lightstep.com
 cdn.livechatinc.com
