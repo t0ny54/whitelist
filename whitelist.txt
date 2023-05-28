@@ -4327,6 +4327,7 @@ history.com
 hm.com
 hollywoodlife.com
 homedepot.com
+support.honeywellaidc.com
 hoopshype.com
 horseanswerstoday.com
 howtoforge.com
@@ -47241,6 +47242,7 @@ fixedfloat.com
 execution-ci360.flypgs.com
 formula1.com
 fosscord.com
+freeprivacypolicy.com
 fssquad.com
 funtrivia.com
 data.g2crowd.com
@@ -47910,6 +47912,7 @@ drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
 statistics.bcapps.org
+boyter.org
 camopedia.org
 1115546720.rsc.cdn77.org
 cdnbunny.org
@@ -47927,6 +47930,7 @@ measurement-lab.org
 objective-see.org
 openjdk.org
 pastie.org
+scotts-grotto.org
 speedcheck.org
 api.speedspot.org
 traccar.org
