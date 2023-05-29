@@ -47191,6 +47191,7 @@ ocs-dl.fra1.cdn.digitaloceanspaces.com
 discords.com
 image.mail.disneyplus.com
 distroscale.com
+api.ditto.com
 images.dmca.com
 dnainfotel.com
 cdn.dnsv1.com
@@ -47441,6 +47442,7 @@ api.opinary.com
 widgets.opinary.com
 images.core.optasports.com
 optimal-spine.com
+cmp.osano.com
 cdn.otstatic.com
 go.pardot.com
 pcapredict.com
