@@ -46984,7 +46984,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 481
+# Ignored duplicates: 482
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47688,6 +47688,7 @@ consent.cookiebot.eu
 consentcdn.cookiebot.eu
 kwrn.eu
 ioc.exchange
+hintaopas.fi
 tili.sanoma.fi
 asiakas.valokuitunen.fi
 segura-moto.fr
@@ -47797,6 +47798,7 @@ d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d2cttawv9fdszz.cloudfront.net
+d2r1yp2w7bby2u.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 dlp3zj68t5lvh.cloudfront.net
 dtioykqj1u8de.cloudfront.net
@@ -47855,6 +47857,7 @@ login.mirakl.net
 mntzrlt.net
 tracking-protection.prod.mozaws.net
 az416426.vo.msecnd.net
+pixel.mxrouting.net
 image.ccg.nintendo.net
 nutaku.net
 images.nvidiagrid.net
@@ -48448,7 +48451,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 134
+# Ignored duplicates: 135
 
 api.cortana.ai
 uol.com.br
@@ -48718,7 +48721,6 @@ d10lpsik1i8c69.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
-d2r1yp2w7bby2u.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
