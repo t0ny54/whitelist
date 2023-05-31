@@ -4411,6 +4411,7 @@ nitroflare.com
 nj.com
 no-ip.com
 nordvpn.com
+enterprise-support.nvidia.com
 ny.com
 ny1.com
 nydailynews.com
@@ -47847,6 +47848,7 @@ aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
+livechat.ivpn.net
 leakix.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
@@ -47995,6 +47997,7 @@ api.nextgen.guardianapps.co.uk
 interactive.guim.co.uk
 netdirector.co.uk
 overclockers.co.uk
+skymedia.co.uk
 spartoo.co.uk
 o.ss2.us
 s.ss2.us
