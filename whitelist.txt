@@ -47688,6 +47688,7 @@ consentag.eu
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
 kwrn.eu
+lighthouselabs.eu
 ioc.exchange
 hintaopas.fi
 tili.sanoma.fi
@@ -47774,7 +47775,6 @@ sunwaydigitalwave.com.my
 subarumysubaruappproduction.112.2o7.net
 afrinic.net
 aiv-cdn.net
-aiv-delivery.net
 onecollector.cloudapp.aria.akadns.net
 nexusrules.live.com.akadns.net
 data.microsoft.com.akadns.net
@@ -47938,6 +47938,7 @@ objective-see.org
 openjdk.org
 pastie.org
 scotts-grotto.org
+api.smartify.org
 speedcheck.org
 api.speedspot.org
 traccar.org
@@ -49748,7 +49749,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3774
+# Ignored duplicates: 3773
 
 www.google.com.af
 www.google.com.ag
@@ -49987,6 +49988,7 @@ www.google.com.mx
 www.google.com.my
 www.google.co.mz
 www.google.com.na
+api.eu-west-1.aiv-delivery.net
 geo.paypalobjects.com.akadns.net
 hotspot.paypalobjects.com.akadns.net
 map.paypalobjects.com.akadns.net
