@@ -205,6 +205,7 @@ sematext.com
 sendpulse.com
 shareasale.com
 sift.com
+signalfx.com
 simply.com
 simplyhired.com
 skimresources.com
@@ -46985,7 +46986,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 482
+# Ignored duplicates: 481
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47445,6 +47446,7 @@ images.core.optasports.com
 optimal-spine.com
 cmp.osano.com
 cdn.otstatic.com
+link.us.paramountplus.com
 go.pardot.com
 pcapredict.com
 performfeeds.com
@@ -47461,6 +47463,7 @@ videos.porndig.com
 postup.com
 go.powunity.com
 monitor.ppcprotect.com
+cdn.pricespider.com
 primevideo.com
 cdn.privacy-mgmt.com
 publitas.com
@@ -47706,6 +47709,8 @@ seo.spot.im
 logs.juspay.in
 adguard-dns.io
 cc-api-data.adobe.io
+media.amlg.io
+splice.amlg.io
 cdn.appconsent.io
 applicationinsights.io
 blackfire.io
@@ -47943,6 +47948,8 @@ speedcheck.org
 api.speedspot.org
 traccar.org
 instant.page
+api.nvidia.partners
+assets.nvidia.partners
 telegra.ph
 tracker.gpcdn.pl
 spartoo.pl
