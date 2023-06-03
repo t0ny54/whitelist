@@ -46986,7 +46986,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 481
+# Ignored duplicates: 482
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47728,6 +47728,7 @@ nextdns.io
 medium.ngtv.io
 mobile-data.onetrust.io
 opentelemetry.io
+ablink.mail.parkmobile.io
 passion.io
 polyfill.io
 cr.portainer.io
@@ -47735,6 +47736,7 @@ cmp-consent-tool.privacymanager.io
 qt.io
 assets.rebelmouse.io
 searchnode.io
+eu.spgo.io
 auth.split.io
 cdn.split.io
 sdk.split.io
@@ -47979,6 +47981,7 @@ voe.sx
 gogoanime.tel
 use.fvr.to
 hopp.to
+q-r.to
 chillx.top
 pdcdn1.top
 pressplay.top
@@ -48021,7 +48024,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 163
+# Ignored duplicates: 222
 
 adservice.google.ac
 adservice.google.ad
@@ -48070,8 +48073,10 @@ view.email.nzz.ch
 adservice.google.ci
 adservice.google.co.ck
 adservice.google.cl
+real.rotation.guce.aws.oath.cloud
 adservice.google.cm
 adservice.google.com.co
+customers.esp1.co
 track.grove.co
 shop-links.co
 ad3.adfarm1.adition.com
@@ -48080,7 +48085,9 @@ ulink.adjust.com
 campaign.adobe.com
 track.adtraction.com
 guce.advertising.com
-click.allkeyshop.com
+allkeyshop.com
+aax-eu-retail-direct.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
 prism.app-us1.com
 customlinks.appsflyer.com
 clicks.aweber.com
@@ -48096,9 +48103,12 @@ target.clickfunnels.com
 readdle.cmail20.com
 k.cocooncenter.com
 commander1.com
+eventtracking-us-prod.connexity.com
+rdbizrateprod-sea.connexity.com
 conversantmedia.com
 el2.convertkit-mail.com
 click.mc.crimsontrace.com
+e.customeriomail.com
 click.o.delta.com
 online.digital-advisor.com
 click.dji.com
@@ -48112,18 +48122,24 @@ m.exactag.com
 tp-emea.exactag.com
 click.virt.s10.exacttarget.com
 click.virt.s11.exacttarget.com
+click.s12.exacttarget.com
 click.virt.s12.exacttarget.com
 click.virt.s4.exacttarget.com
 click.virt.s5.exacttarget.com
 click.virt.s6.exacttarget.com
+13-111-131-111-click.sor.s7.exacttarget.com
 click.virt.s7.exacttarget.com
 view.virt.s7.exacttarget.com
 syndication.exosrv.com
 click.fidelityinvestments.com
+rebranding.freshmail.com
 ea.galerieslafayette.com
+links.getblueshift.com
 app.getresponse.com
 ggopjn.com
 www.googleadservices.com
+ghs.googlehosted.com
+horizontal-porpoise-0eb349462dy5ymn4yzg0xtfa.herokudns.com
 click.holidayinnclubemail.com
 click.instantink.hpsmart.com
 click.icptrack.com
@@ -48132,6 +48148,7 @@ customtraffic.impactradius.com
 email-tracking.infobip.com
 goto.jet.com
 www.kdukvh.com
+k.keyade.com
 ct.klclick.com
 trk.klclick.com
 trk.klclick1.com
@@ -48140,6 +48157,7 @@ trk.klclick3.com
 click.e.krogermail.com
 list-manage.com
 click.mail.macmillan.com
+k.madmetrics.com
 tracker.marinsm.com
 action.metaffiliation.com
 mktoweb.com
@@ -48150,8 +48168,10 @@ cj.mplxtms.com
 api.narrativ.com
 events.release.narrativ.com
 go.nextiva.com
+pi-ue1.pardot.com
 www.partner-ads.com
 pepperjamnetwork.com
+backend.release.planethowl.com
 postaffiliatepro.com
 tracking.publicidees.com
 syndication.realsrv.com
@@ -48161,12 +48181,14 @@ newslink.reuters.com
 click.royalcaribbeanmarketing.com
 tracking.s24.com
 click.e.safelite.com
+login.salesforce.com
 webto.salesforce.com
 app.sephora.com
 bs.serving-sys.com
 track.shoparize.com
 tag.shopping-feed.com
 app.e.sigsauer.com
+aka-fr.ads.sizmdx.com
 a.slashdotmedia.com
 click.snapshat.com
 click.email.sonos.com
@@ -48197,6 +48219,7 @@ adservice.google.de
 t23.intelliad.de
 promo.mobile.de
 ndirect.ppro.de
+rd2bz.fkb.shopzilla.de
 adservice.google.dev
 adservice.google.dj
 online.adservicemedia.dk
@@ -48257,6 +48280,7 @@ adservice.google.io
 email.namebase.io
 track.productsup.io
 pxf.io
+geo-gcp.cdn.springernature.io
 adservice.google.iq
 adservice.google.is
 adservice.google.it
@@ -48278,6 +48302,9 @@ adservice.google.kz
 adservice.google.la
 adservice.google.com.lb
 adservice.google.li
+coherentpath.link
+e.csd.link
+assets.ikhnaie.link
 adservice.google.lk
 adservice.google.co.ls
 adservice.google.lt
@@ -48308,14 +48335,36 @@ adservice.google.co.mz
 adservice.google.com.na
 adservice.google.ne
 px.a8.net
+tk6if76q.ab1n.net
 a1.adform.net
 tags.adsafety.net
 a1.adformnet.akadns.net
+track-eu.adformnet.akadns.net
 track.cj.akadns.net
 bs.eyeblaster.akadns.net
+tp00.everesttech.net.akadns.net
+d10w4ikcrdu13z.cloudfront.net
+d1y3gece3kbb7v.cloudfront.net
+d217yge8ytzcwv.cloudfront.net
+d3h6674ed6l0ks.cloudfront.net
+d3kuri221qk0z7.cloudfront.net
+fp2d9f.wac.68b8.edgecastcdn.net
+x.bestcheck.de.29077.edgekey.net
+tags.news.com.au.edgekey.net
+postsign.docusign.com-2.edgekey.net
+www.awin1.com.edgekey.net
+cts.businesswire.com.edgekey.net
+go.microsoft.com.edgekey.net
+promo.mobile.de.edgekey.net
 suite15.emarsys.net
+chausport.eulerian.net
+darty-com.eulerian.net
+fnac.eulerian.net
 pixel.everesttech.net
 cl.exct.net
+d.sni.global.fastly.net
+reddit.map.fastly.net
+prod.disqus.map.fastlylb.net
 sites.hscoscdn30.net
 sites.hscoscdn40.net
 hubspotemail.net
@@ -48362,6 +48411,7 @@ geo1.presslabs.net
 adorama.rfvk.net
 track.seadform.net
 track.smtp2go.net
+partners-legacy.stackssl.net
 cdn-magiclinks.trackonomics.net
 adservice.google.com.nf
 adservice.google.com.ng
@@ -48375,7 +48425,11 @@ adservice.google.nr
 adservice.google.nu
 adservice.google.co.nz
 adservice.google.com.om
+tr-netsalesmedia-pl.affex.org
 go.blokada.org
+digitaladvisor-elb.go2cloud.org
+nordvpn-elb.go2cloud.org
+nordvpn-elb1.go2cloud.org
 click.members.nra.org
 adservice.google.com.pa
 adservice.google.com.pe
@@ -48422,6 +48476,7 @@ adservice.google.sr
 adservice.google.st
 adservice.google.com.sv
 adservice.google.td
+track.production.webgains.team
 adservice.google.tel
 adservice.google.tg
 adservice.google.co.th
@@ -48462,7 +48517,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 135
+# Ignored duplicates: 136
 
 api.cortana.ai
 uol.com.br
@@ -48547,6 +48602,7 @@ boxer.baidu.com
 f10.baidu.com
 f11.baidu.com
 f12.baidu.com
+fexclick.baidu.com
 gsp0.baidu.com
 gsp1.baidu.com
 gsp2.baidu.com
@@ -48594,6 +48650,7 @@ gvt2.com
 heytapimage.com
 hosting24.com
 hubpd.com
+huluxia.com
 huoying666.com
 c0.ifengimg.com
 imagetwist.com
@@ -49151,7 +49208,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 534
+# Ignored duplicates: 536
 
 a.run.app
 ipv4only.arpa
@@ -49227,7 +49284,6 @@ ocsp.comodoca4.com
 cdn.cpnscdn.com
 cst.cstwpush.com
 curvesncombatboots.com
-e.customeriomail.com
 static-pepper.dealabs.com
 sh.docs.dingtalk.com
 weboffice-static.docs.dingtalk.com
@@ -49445,7 +49501,6 @@ amp-api-edge.apps.apple.com.edgekey.net
 help.apple.com.edgekey.net
 iadsdk.apple.com.edgekey.net
 limited-prod.giphy.map.fastly.net
-prod.disqus.map.fastlylb.net
 he.net
 cds.d2s7q6s2.hwcdn.net
 cds.s5x3j6q5.hwcdn.net
