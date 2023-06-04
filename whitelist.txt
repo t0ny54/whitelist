@@ -47856,6 +47856,7 @@ relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
 livechat.ivpn.net
+blog.kakaocdn.net
 leakix.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
@@ -47898,6 +47899,7 @@ applicast.ga.sony.net
 pov.spectrum.net
 api.st-av.net
 streamsb.net
+subway.prod.sybo.net
 te.technical-service.net
 cdn.trustcommander.net
 aa.tweakers.net
@@ -47956,6 +47958,7 @@ telegra.ph
 tracker.gpcdn.pl
 spartoo.pl
 pix2.services.tvn.pl
+y0.pl
 spartoo.pt
 1kinobig.ru
 cl-ad786718.edgecdn.ru
@@ -48204,6 +48207,7 @@ redir.tradedoubler.com
 redirects.tradedoubler.com
 solutions.tradedoubler.com
 tracking.truthfinder.com
+clicks.trx-hub.com
 email.uber.com
 webep1.com
 link.wizzair.com
@@ -48343,6 +48347,7 @@ track-eu.adformnet.akadns.net
 track.cj.akadns.net
 bs.eyeblaster.akadns.net
 tp00.everesttech.net.akadns.net
+disneyplus.bn5x.net
 d10w4ikcrdu13z.cloudfront.net
 d1y3gece3kbb7v.cloudfront.net
 d217yge8ytzcwv.cloudfront.net
