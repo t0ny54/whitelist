@@ -46986,7 +46986,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 482
+# Ignored duplicates: 484
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47435,6 +47435,7 @@ services.gfe.nvidia.com
 bdc2020.o0bc.com
 go.oaktreecapital.com
 guce.oath.com
+eulerian.officiel-des-vacances.com
 mail.onedrive.com
 1weather.onelouder.com
 onmilwaukee.com
@@ -47506,6 +47507,7 @@ embed.scribblelive.com
 i.sdacdn.com
 s.sdacdn.com
 secondstreetapp.com
+seeyoufarm.com
 cdn.segmentify.com
 ship.sephora.com
 help.servicedeskplus.com
@@ -47637,6 +47639,9 @@ co.de
 qastack.com.de
 click.cptrack.de
 content.cptrack.de
+api.datawrapper.de
+app.datawrapper.de
+img.datawrapper.de
 datev-community.de
 tracking.dpd.de
 eazy.de
@@ -47831,12 +47836,15 @@ telemetry-console.api.playstation.com-v2.edgekey.net
 api.agoda.com.edgekey.net
 exacttarget.com.edgekey.net
 cdn.livechat.com.edgekey.net
+stats-trafficcop-prod.nba.com.edgekey.net
 www.usopc.com.edgekey.net
 brightline.tv.edgekey.net
 mybbc-analytics.files.bbci.co.uk.edgekey.net
 lforr.elainelfo.net
 entrust.net
 msg.ettoday.net
+officiel-des-vacances.eulerian.net
+vps.eulerian.net
 ellation.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
