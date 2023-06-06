@@ -226,6 +226,7 @@ thisisacoolthing.com
 tkqlhce.com
 tmearn.com
 tollfreeforwarding.com
+totaladblock.com
 trbna.com
 treasuredata.com
 trust-provider.com
@@ -46986,7 +46987,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 484
+# Ignored duplicates: 487
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47182,6 +47183,7 @@ docs.datadoghq.com
 imgix.datadoghq.com
 static.datadoghq.com
 gall.dcinside.com
+deadlinefunnel.com
 s.deepl.com
 tv.deezer.com
 deskpi.com
@@ -47284,6 +47286,7 @@ client-uc.heytapmobi.com
 thumb.highdeliveryscdn.com
 static-assets.highwebmedia.com
 mail.office.hiworks.com
+i.hizliresim.com
 hsforms.com
 hugedomains.com
 ads-e-darwin.hulustream.com
@@ -47316,6 +47319,7 @@ spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
 innovators.ivanti.com
+widgets.jobbio.com
 jobseeker.com
 a.jsrdn.com
 c.jsrdn.com
@@ -47435,6 +47439,7 @@ services.gfe.nvidia.com
 bdc2020.o0bc.com
 go.oaktreecapital.com
 guce.oath.com
+graph.oculus.com
 eulerian.officiel-des-vacances.com
 mail.onedrive.com
 1weather.onelouder.com
@@ -47460,6 +47465,7 @@ picclick.com
 pixeldrain.com
 plarium.com
 playhydrax.com
+poki-gdn.com
 videos.porndig.com
 postup.com
 go.powunity.com
@@ -48035,7 +48041,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 222
+# Ignored duplicates: 238
 
 adservice.google.ac
 adservice.google.ad
@@ -48084,6 +48090,7 @@ view.email.nzz.ch
 adservice.google.ci
 adservice.google.co.ck
 adservice.google.cl
+prod-rotation-v2.guce.aws.oath.cloud
 real.rotation.guce.aws.oath.cloud
 adservice.google.cm
 adservice.google.com.co
@@ -48096,6 +48103,7 @@ ulink.adjust.com
 campaign.adobe.com
 track.adtraction.com
 guce.advertising.com
+global.aliexpress.com.gds.alibabadns.com
 allkeyshop.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
@@ -48192,8 +48200,10 @@ newslink.reuters.com
 click.royalcaribbeanmarketing.com
 tracking.s24.com
 click.e.safelite.com
+login.l2.salesforce.com
 login.salesforce.com
 webto.salesforce.com
+traefik-production.secure-traffic.com
 app.sephora.com
 bs.serving-sys.com
 track.shoparize.com
@@ -48208,6 +48218,7 @@ link.springer.com
 r.srvtrck.com
 stvkr.com
 link.sylikes.com
+clkde.tradedoubler.com
 clkpl.tradedoubler.com
 clkuk.tradedoubler.com
 pdt.tradedoubler.com
@@ -48225,6 +48236,7 @@ adservice.google.com.cu
 adservice.google.cv
 adservice.google.com.cy
 adservice.google.cz
+click.alternate.de
 x.bestcheck.de
 ad.dyntracker.de
 adservice.google.de
@@ -48349,22 +48361,37 @@ adservice.google.ne
 px.a8.net
 tk6if76q.ab1n.net
 a1.adform.net
+adobetarget.data.adobedc.net
 tags.adsafety.net
 a1.adformnet.akadns.net
 track-eu.adformnet.akadns.net
 track.cj.akadns.net
+chatbox-web.apple.com.akadns.net
 bs.eyeblaster.akadns.net
 tp00.everesttech.net.akadns.net
+e6351.b.akamaiedge.net
+e1020.dscb.akamaiedge.net
+e29077.dscf.akamaiedge.net
+e16749.dscx.akamaiedge.net
+e11290.dspg.akamaiedge.net
+e4601.e3.akamaiedge.net
+e12881.ksd.akamaiedge.net
+e7517.ksd.akamaiedge.net
+e11956.x.akamaiedge.net
+e3124.x.akamaiedge.net
 disneyplus.bn5x.net
 d10w4ikcrdu13z.cloudfront.net
 d1y3gece3kbb7v.cloudfront.net
 d217yge8ytzcwv.cloudfront.net
 d3h6674ed6l0ks.cloudfront.net
 d3kuri221qk0z7.cloudfront.net
+daohujjuqyjmm.cloudfront.net
+dpzgml710ukw5.cloudfront.net
 fp2d9f.wac.68b8.edgecastcdn.net
 x.bestcheck.de.29077.edgekey.net
 tags.news.com.au.edgekey.net
 postsign.docusign.com-2.edgekey.net
+eu1111.alicdn.com.edgekey.net
 www.awin1.com.edgekey.net
 cts.businesswire.com.edgekey.net
 go.microsoft.com.edgekey.net
@@ -48372,15 +48399,19 @@ promo.mobile.de.edgekey.net
 suite15.emarsys.net
 chausport.eulerian.net
 darty-com.eulerian.net
+etc.eulerian.net
+fc.eulerian.net
 fnac.eulerian.net
 pixel.everesttech.net
 cl.exct.net
 d.sni.global.fastly.net
 reddit.map.fastly.net
+springer2.map.fastly.net
 prod.disqus.map.fastlylb.net
 sites.hscoscdn30.net
 sites.hscoscdn40.net
 hubspotemail.net
+pool-eu.visualiq.iponweb.net
 at-go.kelkoogroup.net
 be-go.kelkoogroup.net
 br-go.kelkoogroup.net
