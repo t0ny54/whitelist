@@ -8895,6 +8895,7 @@ acscorp.com
 acsissling.com
 act-optics.com
 actimine.com
+action.com
 action-hq.com
 action-sports.com
 actionbilliards.com
@@ -24054,6 +24055,7 @@ lynnrphoto.com
 lynnvickproducts.com
 lyonsstudio.com
 lyonsuniforms.com
+lyreco.com
 lythastudios.com
 m-faces.com
 m-i-u.com
@@ -40362,6 +40364,7 @@ zoolandia.pl
 zoozakupy.pl
 zora.pl
 zwierzaczek.pl
+streamail.pro
 bradley.pt
 dmail.pt
 gailivro.pt
@@ -46987,7 +46990,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 487
+# Ignored duplicates: 488
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47730,6 +47733,7 @@ chatra.io
 chatserver15.comm100.io
 cdn.elev.io
 formspree.io
+storage.leafmedia.io
 cs.liiift.io
 api.loganalytics.io
 imagesvc.meredithcorp.io
@@ -47810,9 +47814,11 @@ option.boldapps.net
 cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
+cdnssl.clicktale.net
 d11rmv9we9fli4.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
+d1xbuscas8tetl.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
