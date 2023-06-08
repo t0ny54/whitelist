@@ -46990,7 +46990,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 488
+# Ignored duplicates: 489
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47458,6 +47458,7 @@ cdn.otstatic.com
 link.us.paramountplus.com
 go.pardot.com
 pcapredict.com
+nl.pepper.com
 performfeeds.com
 cdn.petametrics.com
 dp.dc1.philips.com
