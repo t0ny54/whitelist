@@ -8978,6 +8978,7 @@ admission.com
 adnerbears.com
 adnstore.com
 adollpattern.com
+adopt.com
 adoptshoppe.com
 adorableannouncements.com
 adorablebabygifts.com
@@ -32921,6 +32922,7 @@ tenpennyfurniture.com
 tenrenstea.com
 tentoes.com
 tenttrails.com
+tenways.com
 terbrugge.com
 terencanada.com
 teresseleccion.com
@@ -47558,7 +47560,6 @@ bibo.api.swiftkey.com
 jenson.api.swiftkey.com
 syn-alias.com
 embed.tagboard.com
-cdn.tagcommander.com
 track.talabat.com
 talentwunder.com
 tantanapp.com
