@@ -238,6 +238,7 @@ valuecommerce.com
 vectorstock.com
 viglink.com
 visualwebsiteoptimizer.com
+we-stats.com
 webclicks24.com
 webtrends.com
 xg4ken.com
@@ -6662,6 +6663,7 @@ ing.fr
 jyskebank.fr
 lcl.fr
 monbanquierenligne.fr
+sg.fr
 snvb.fr
 sofinco.fr
 agb.org.gg
@@ -19598,6 +19600,7 @@ genespawn.com
 genevagiftsandfudge.com
 genevievemarie.com
 genkipolitan.com
+gensdeconfiance.com
 genshodo.com
 gentlefamilyhorses.com
 gentlemans-shop.com
@@ -36930,6 +36933,7 @@ auchandrive.fr
 auction.fr
 audiophonics.fr
 autos.fr
+backmarket.fr
 beautycenter.fr
 biocenter.fr
 bivea.fr
@@ -46992,7 +46996,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 489
+# Ignored duplicates: 490
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47472,6 +47476,7 @@ pixeldrain.com
 plarium.com
 playhydrax.com
 poki-gdn.com
+polls.polldaddy.com
 videos.porndig.com
 postup.com
 go.powunity.com
@@ -47708,6 +47713,7 @@ consent.cookiebot.eu
 consentcdn.cookiebot.eu
 kwrn.eu
 lighthouselabs.eu
+escortalligator.com.listcrawler.eu
 ioc.exchange
 hintaopas.fi
 tili.sanoma.fi
@@ -47816,11 +47822,9 @@ option.boldapps.net
 cdn-noc.net
 chia.net
 cs636.wac.chicdn.net
-cdnssl.clicktale.net
 d11rmv9we9fli4.cloudfront.net
 d1bd3wxsyuz0t7.cloudfront.net
 d1k85ogl73rd7b.cloudfront.net
-d1xbuscas8tetl.cloudfront.net
 d25xi40x97liuc.cloudfront.net
 d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
