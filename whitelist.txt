@@ -46996,7 +46996,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 490
+# Ignored duplicates: 491
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47170,6 +47170,8 @@ ceros.com
 s2.static.cfgr3.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
+api.cleverpush.com
+static.cleverpush.com
 clickerheroes.com
 cliqz.com
 cmsbetconstruct.com
@@ -47314,6 +47316,7 @@ slike.indiatimes.com
 ivantiinnovators.influitive.com
 vr331.infusionsoft.com
 ink1001.com
+intheswim.com
 api.intuit.com
 eventbus.intuit.com
 edge.experimentation.intuit.com
@@ -47324,6 +47327,7 @@ iotcplatform.com
 ipaddress.com
 carbon-v2.ipsator.com
 neon.ipsator.com
+iqiyipic.com
 pubssl.itmems4.com
 spring-oreo.itracmediav4.com
 media.itsfogo.com
@@ -47600,6 +47604,7 @@ embed.typeform.com
 ping.ui.com
 ultimedia.com
 answers.unity.com
+create.unity.com
 unmineable.com
 rtw.uol.com
 stc.uol.com
@@ -47636,6 +47641,7 @@ avpro.global.yamaha.com
 yep.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
+staticw2.yotpo.com
 ypncdn.com
 ytimg.com
 zeelool.com
