@@ -47084,6 +47084,7 @@ mirrors.aliyun.com
 component-ota-in.allawnos.com
 component-ota-sg.allawnos.com
 ota-recruit-sg.allawnos.com
+assets.allegrostatic.com
 alvarotrigo.com
 c.amazon-adsystem.com
 prod.amazoncrl.com
