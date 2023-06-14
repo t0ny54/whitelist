@@ -47169,6 +47169,7 @@ cdn-apple.com
 cdnhwc1.com
 ceros.com
 s2.static.cfgr3.com
+email-sendgrid-deep-linking.chewy.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
 api.cleverpush.com
