@@ -46996,7 +46996,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 491
+# Ignored duplicates: 494
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47041,6 +47041,7 @@ i.ibb.co
 invol.co
 dyson.nanorep.co
 us1-1.nanorep.co
+repl.co
 saweria.co
 scdn.co
 i.shoosh.co
@@ -47299,6 +47300,7 @@ sms.ads.heytapmobi.com
 client-uc.heytapmobi.com
 thumb.highdeliveryscdn.com
 static-assets.highwebmedia.com
+hiperdex.com
 mail.office.hiworks.com
 i.hizliresim.com
 hsforms.com
@@ -47385,7 +47387,6 @@ cdn.livechatinc.com
 liveperson.com
 living-sun.com
 localiq.com
-webhook.logentries.com
 lorienglobal.com
 lowendbox.com
 m1.com
@@ -47468,6 +47469,8 @@ images.core.optasports.com
 optimal-spine.com
 cmp.osano.com
 cdn.otstatic.com
+base.parameter1.com
+cdn.parameter1.com
 link.us.paramountplus.com
 go.pardot.com
 pcapredict.com
@@ -47625,6 +47628,7 @@ announcements.vizio.com
 api.vizio.com
 images.vizio.com
 ims.vodafone.com
+void-scans.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
