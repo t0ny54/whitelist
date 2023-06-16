@@ -13213,6 +13213,7 @@ bytomic.com
 c-and-a.com
 c-device.com
 c-dtags.com
+c-intermarche.com
 c28.com
 c3iusa.com
 cabbagerosequilting.com
@@ -44954,6 +44955,7 @@ baseballparks.com
 baseballprospectus.com
 baseballsavvy.com
 cubtown.baseballtoaster.com
+basic-fit.com
 batistuta.com
 batsbaseball.com
 baysox.com
@@ -46587,6 +46589,7 @@ motorsport.org.nz
 mountainbiking.nelson.org.nz
 pistolnz.org.nz
 rallynz.org.nz
+koooora-live.online
 aacca.org
 aafla.org
 aagpbl.org
@@ -47979,6 +47982,7 @@ static.fastpic.org
 fwupd.org
 getmonero.org
 heliohost.org
+tracker.leechers-paradise.org
 lencr.org
 matomo.org
 measurement-lab.org
