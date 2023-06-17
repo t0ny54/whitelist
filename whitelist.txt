@@ -46999,7 +46999,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 494
+# Ignored duplicates: 496
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47221,6 +47221,7 @@ tracker.dominos.com
 dooood.com
 track.doordash.com
 doppiocdn.com
+gateway.dots-services.com
 embed.dugout.com
 dvsdvsdvsdva.com
 assets.dwell.com
@@ -47266,7 +47267,7 @@ execution-ci360.flypgs.com
 formula1.com
 fosscord.com
 freeprivacypolicy.com
-fssquad.com
+b.fssta.com
 funtrivia.com
 data.g2crowd.com
 images.g2crowd.com
@@ -47497,6 +47498,7 @@ monitor.ppcprotect.com
 cdn.pricespider.com
 primevideo.com
 cdn.privacy-mgmt.com
+proctorio.com
 publitas.com
 pubnub.com
 sdk.qikify.com
@@ -47772,6 +47774,7 @@ passion.io
 polyfill.io
 cr.portainer.io
 cmp-consent-tool.privacymanager.io
+proctor.io
 qt.io
 assets.rebelmouse.io
 searchnode.io
@@ -47788,6 +47791,7 @@ wootility.io
 umami.is
 scenarieconomici.it
 shalom.it
+cmp.sky.it
 spartoo.it
 studenti.it
 ftp.iij.ad.jp
@@ -47911,6 +47915,9 @@ tracking-protection.prod.mozaws.net
 az416426.vo.msecnd.net
 pixel.mxrouting.net
 image.ccg.nintendo.net
+bam-eu01.cell.eu.nr-data.net
+bam.eu01.nr-data.net
+fastly-tls12-bam.eu01.nr-data.net
 nutaku.net
 images.nvidiagrid.net
 img.nvidiagrid.net
