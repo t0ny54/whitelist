@@ -4666,6 +4666,7 @@ userscripts-mirror.org
 videolan.org
 wikimedia.org
 pgl.yoyo.org
+i2.paste.pics
 allegro.pl
 cda.pl
 chomikuj.pl
@@ -8031,6 +8032,7 @@ therevolution.cc
 zprint.cc
 123blumen.ch
 1a-dvdshop.ch
+400coups.ch
 abo.ch
 accu-doc.ch
 accuswiss.ch
@@ -8324,6 +8326,7 @@ allvintagebookstore.0catch.com
 123celtic-irish-jewelry.com
 123computerdesk.com
 123dj.com
+123elec.com
 123erugs.com
 123inkjets.com
 123language.com
@@ -8806,6 +8809,7 @@ abundancehealth.com
 abundantearth.com
 abundantlifeseeds.com
 abuscarregalos.com
+abystyle.com
 acaciart.com
 academicbookservices.com
 academy.com
@@ -12128,6 +12132,7 @@ birdtoyman.com
 birdtoyoutlet.com
 birdyboredombusters.com
 birkascandinavian.com
+birkenstock.com
 birkenstockbeach.com
 birkenstockcentral.com
 birlant.com
@@ -32905,6 +32910,7 @@ templeforkflyrods.com
 templesflorist.com
 temptationalley.com
 temptatts4u.com
+temu.com
 tenbestbooks.com
 tency.com
 tenderseedcompany.com
@@ -36920,6 +36926,7 @@ shop.soon.fi
 audion.fm
 01direct.fr
 100pour100annonces.fr
+123comparer.fr
 3suisses.fr
 abebooks.fr
 actimania.fr
@@ -43619,6 +43626,7 @@ janitorials.org.uk
 photooncanvas.org.uk
 pinkpearls.org.uk
 spiral.org.uk
+abystyle.us
 adira.us
 alwayscharming.us
 baby-blankets.us
@@ -44036,7 +44044,7 @@ tinyarro.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/social_networks/domains ##########
 
-# Ignored duplicates: 23
+# Ignored duplicates: 24
 
 hivesocial.app
 habbo.at
@@ -44553,6 +44561,7 @@ weourfamily.com
 wepolls.com
 weread.com
 wetheteachers.com
+whaller.com
 whatsapp.com
 winelifetoday.com
 wirefan.com
@@ -44613,6 +44622,7 @@ habbo.com.my
 allmyfavorites.net
 asmallworld.net
 blogmarks.net
+box.net
 buzzflash.net
 clubnetuk.net
 earnersclub.net
@@ -46541,6 +46551,7 @@ abiertomextenis.com.mx
 lmb.com.mx
 malaysiangp.com.my
 fam.org.my
+alljudo.net
 as-monaco.net
 asnl.net
 cahiersdufootball.net
@@ -47864,6 +47875,7 @@ contaboserver.net
 get.contentpass.net
 searchg2.crownpeak.net
 mc.cubecdn.net
+daumcdn.net
 edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
@@ -49645,7 +49657,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 293
+# Ignored duplicates: 294
 
 theship.club
 cpro.baidu.cn
@@ -49832,7 +49844,6 @@ profile-api.trust.schibsted.io
 e8218.dscb1.akamaiedge.net
 3p.ampproject.net
 carbonads.net
-daumcdn.net
 collect12654frmsl.deltadna.net
 ssl.gpsonextra.net
 time.gpsonextra.net
