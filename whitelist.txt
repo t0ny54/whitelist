@@ -43798,6 +43798,7 @@ nullrefer.com
 piurl.com
 poprl.com
 qicute.com
+qrfy.com
 quip-art.com
 rebrandly.com
 redirx.com
@@ -47246,6 +47247,7 @@ gph.easebar.com
 update.easebar.com
 ekomi.com
 img.ekstat.com
+elmoinsurance.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 tracking.epicgames.com
@@ -47671,6 +47673,7 @@ zephr.com
 zopim.com
 servix.idnes.cz
 c.seznam.cz
+ad.71i.de
 ad-magazin.de
 aikq.de
 prospekt.aldi-sued.de
@@ -47828,6 +47831,7 @@ get.mndbdy.ly
 ahacdn.me
 dropmail.me
 cdn.stream.schibsted.media
+files.catbox.moe
 codepush.appcenter.ms
 in.appcenter.ms
 assets.rbl.ms
@@ -47913,6 +47917,7 @@ aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
 rtl-relay.iocnt.net
+sportdeu-relay.iocnt.net
 livechat.ivpn.net
 blog.kakaocdn.net
 leakix.net
