@@ -47011,7 +47011,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 496
+# Ignored duplicates: 499
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47367,6 +47367,8 @@ cdnapisec.kaltura.com
 cfvod.kaltura.com
 karenpryoracademy.com
 keslerscience.com
+m1-daum-apcajdmm.kgslb.com
+t1-wg2vgaja.kgslb.com
 candycrushsoda.king.com
 kiwibrowser.com
 kiwisearchservices.com
@@ -48614,7 +48616,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 136
+# Ignored duplicates: 138
 
 api.cortana.ai
 uol.com.br
@@ -48846,12 +48848,13 @@ img.shouji.sogou.com
 sogoucdn.com
 pv.sohu.com
 api.tv.sohu.com
+yule.sohu.com
 stackpathdns.com
 supportxmr.com
 licensing.tableausoftware.com
 techsmith.com
 tvzhe.com
-puds.ucweb.com
+ucweb.com
 umiwi.com
 urldefense.com
 sj.uukanshu.com
