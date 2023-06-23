@@ -6764,6 +6764,7 @@ paritate.lv
 rietumu.lv
 tkb.lv
 bem.md
+anyti.me
 nbrm.gov.mk
 natbank.co.mw
 bancomer.com.mx
@@ -16339,6 +16340,7 @@ dinnerwareetc.com
 dinosaurfarm.com
 dinrat.com
 dionissoap.com
+dior.com
 direc4u.com
 direct-cutlery.com
 direct-go.com
@@ -36931,6 +36933,7 @@ audion.fm
 abebooks.fr
 actimania.fr
 agatha.fr
+alicesgarden.fr
 amazon.fr
 anti-crise.fr
 apiman.fr
@@ -44850,6 +44853,7 @@ surfing.about.com
 swimming.about.com
 tabletennis.about.com
 volleyball.about.com
+accrosport.com
 acespeedway.com
 actionpursuitgames.com
 adriano-leite-ribeiro.com
@@ -45418,6 +45422,7 @@ guardspoloclub.com
 gymsask.com
 haaconference.com
 haascncracing.com
+hac-foot.com
 hagerstownspeedway.com
 hagerstownsuns.com
 halhigdon.com
@@ -46118,6 +46123,7 @@ specialstage.com
 spokaneindiansbaseball.com
 sport24.com
 sportograf.com
+sportradarserving.com
 sports-racer.com
 sports-rennes.com
 sportsclubstats.com
@@ -46127,6 +46133,7 @@ sportsfix.com
 sportsjuice.com
 baseball.sportsline.com
 basketball.sportsline.com
+sportslocalmedia.com
 sportsoutlaw.com
 sportznutz.com
 springfieldcardinals.com
@@ -47011,7 +47018,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 499
+# Ignored duplicates: 505
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47155,6 +47162,7 @@ omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
 beaute-test.com
+media.beehiiv.com
 benefithub.com
 eu-swarm-newm.betcoswarm.com
 binarypiano.com
@@ -47568,6 +47576,7 @@ sheerid.com
 p.shure.com
 shutterstock.com
 oup.silverchair-cdn.com
+metrics-target.siriusxm.com
 pixel.disco.skyshowtime.com
 api.snapkit.com
 internal-api.snapkit.com
@@ -47843,6 +47852,8 @@ subarumysubaruappproduction.112.2o7.net
 afrinic.net
 aiv-cdn.net
 onecollector.cloudapp.aria.akadns.net
+apple.com.akadns.net
+itunes-cdn.itunes-apple.com.akadns.net
 nexusrules.live.com.akadns.net
 data.microsoft.com.akadns.net
 iphone-ld.origin-apple.com.akadns.net
@@ -47890,6 +47901,7 @@ cdns-content.dzcdn.net
 cdn-kaltura-dscd.edgekey.net
 telemetry-console.api.playstation.com-v2.edgekey.net
 api.agoda.com.edgekey.net
+apple.com.edgekey.net
 exacttarget.com.edgekey.net
 cdn.livechat.com.edgekey.net
 stats-trafficcop-prod.nba.com.edgekey.net
@@ -48087,6 +48099,7 @@ s.ss2.us
 api.sbz.vn
 zadn.vn
 zlp-bill-tracking.zalopay.vn
+notifiarr.wiki
 nnmstatic.win
 cbox.ws
 myip.wtf
@@ -48096,7 +48109,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 238
+# Ignored duplicates: 239
 
 adservice.google.ac
 adservice.google.ad
@@ -48421,7 +48434,6 @@ tags.adsafety.net
 a1.adformnet.akadns.net
 track-eu.adformnet.akadns.net
 track.cj.akadns.net
-chatbox-web.apple.com.akadns.net
 bs.eyeblaster.akadns.net
 tp00.everesttech.net.akadns.net
 e6351.b.akamaiedge.net
@@ -49308,7 +49320,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 536
+# Ignored duplicates: 543
 
 a.run.app
 ipv4only.arpa
@@ -49578,10 +49590,6 @@ static.3001.net
 8ch.net
 crunchyroll.adtrackers.net
 serve.adtrackers.net
-configuration.apple.com.akadns.net
-lcdn-locator.apple.com.akadns.net
-lcdn-locator-usnkq.apple.com.akadns.net
-swcdn.apple.com.akadns.net
 www-cdn.icloud.com.akadns.net
 fe2.update.microsoft.com.akadns.net
 sls.update.microsoft.com.akadns.net
@@ -49597,9 +49605,6 @@ codecanyon.net
 blog.csdn.net
 wac.edgecastcdn.net
 cp76677.edgefcs.net
-amp-api-edge.apps.apple.com.edgekey.net
-help.apple.com.edgekey.net
-iadsdk.apple.com.edgekey.net
 limited-prod.giphy.map.fastly.net
 he.net
 cds.d2s7q6s2.hwcdn.net
