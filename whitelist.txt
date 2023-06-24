@@ -5553,6 +5553,7 @@ bankwi.com
 bankwithpsb.com
 banque.com
 banqueroyale.com
+banquetransatlantique.com
 barringtonbank.com
 bartowcountybank.com
 bbandt.com
@@ -5583,6 +5584,7 @@ brooklynbank.com
 brunswickbank.com
 bsvnet.com
 burlbank.com
+ca-assurances.com
 ca-cib.com
 ca-mozaic.com
 caixacat.com
@@ -6775,6 +6777,7 @@ muamalat.com.my
 ocbc.com.my
 sbbgroup.com.my
 fnbnamibia.com.na
+allmybanks.net
 bankofneworleans.net
 bankofromney.net
 baycitiesbank.net
@@ -47056,6 +47059,7 @@ mail.tsinghua.edu.cn
 i.guancha.cn
 happyelements.cn
 knet.cn
+puui.qpic.cn
 online.sh.cn
 cdnjs.cloudflare.co
 i.doodcdn.co
