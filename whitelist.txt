@@ -47021,7 +47021,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 505
+# Ignored duplicates: 506
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47212,7 +47212,7 @@ vue.comm100.com
 commentsengine.com
 compaq.com
 contabostorage.com
-controld.com
+analytics.controld.com
 cookie-cdn.cookiepro.com
 api.cookiespool.com
 epg.corio.com
