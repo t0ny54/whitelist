@@ -47021,7 +47021,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 506
+# Ignored duplicates: 517
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47425,6 +47425,7 @@ mackeeper.com
 mailerlite.com
 majesticseo.com
 mandrillapp.com
+manga18sx.com
 manli.com
 marinetraffic.com
 mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
