@@ -10835,6 +10835,7 @@ b-femme.com
 b-i-y.com
 b2shoes.com
 ba-da-boum.com
+ba-sh.com
 baabaazuzu.com
 baacks.com
 babaits.com
@@ -11881,6 +11882,7 @@ beyondthebarn.com
 beyondwellbeing.com
 bfc-creations.com
 bfcarbon.com
+bff-maisonsdumonde.com
 bfrank.com
 bfwse.com
 bgdot.com
@@ -47166,6 +47168,8 @@ omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
 beaute-test.com
+cname.beehiiv.com
+link.mail.beehiiv.com
 media.beehiiv.com
 benefithub.com
 eu-swarm-newm.betcoswarm.com
@@ -47218,6 +47222,7 @@ api.cookiespool.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
+brgergmbhcokg.createsend1.com
 content.ctfs.com
 dailycaller.com
 app.datadoghq.com
@@ -47438,6 +47443,7 @@ maxmind.com
 maxpark.com
 webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
+meatspin.com
 global.cdn.survey.medallia.com
 cdn.mediavoice.com
 plugin.mediavoice.com
@@ -47783,6 +47789,7 @@ media.amlg.io
 splice.amlg.io
 cdn.appconsent.io
 applicationinsights.io
+messaginganalytics.athena.io
 blackfire.io
 canarymail.io
 chatra.io
