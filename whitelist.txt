@@ -219,6 +219,7 @@ sphdigital.com
 statuscake.com
 sumologic.com
 supplyframe.com
+survicate.com
 tanx.com
 techtarget.com
 thecounter.com
@@ -47023,7 +47024,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 517
+# Ignored duplicates: 516
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47428,6 +47429,7 @@ lowendbox.com
 m1.com
 mackeeper.com
 mailerlite.com
+f1.mailperformance.com
 majesticseo.com
 mandrillapp.com
 manga18sx.com
@@ -47487,6 +47489,8 @@ newbedev.com
 news9.com
 p.nfltags.com
 nolo.com
+f1.np6.com
+tr.np6.com
 ntp-fireos.com
 nutaku.com
 activation.gfe.nvidia.com
@@ -47520,6 +47524,7 @@ ecdinterface.philips.com
 phncdn.com
 phonearena.com
 picclick.com
+metric.picodi.com
 pixeldrain.com
 plarium.com
 playhydrax.com
@@ -47632,6 +47637,7 @@ data.tmsapi.com
 tnt-ea.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
+c.trackmytarget.com
 cdn.transifex.com
 api-v4.trbo.com
 static-v2.trbo.com
@@ -47772,6 +47778,7 @@ ioc.exchange
 hintaopas.fi
 tili.sanoma.fi
 asiakas.valokuitunen.fi
+tr.notification.cetelem.fr
 segura-moto.fr
 bestgore.fun
 lnks.gd
@@ -48121,7 +48128,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 239
+# Ignored duplicates: 241
 
 adservice.google.ac
 adservice.google.ad
