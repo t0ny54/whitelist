@@ -47218,12 +47218,13 @@ commentsengine.com
 compaq.com
 contabostorage.com
 analytics.controld.com
+controlup.com
 cookie-cdn.cookiepro.com
 api.cookiespool.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
-brgergmbhcokg.createsend1.com
+createsend1.com
 content.ctfs.com
 dailycaller.com
 app.datadoghq.com
