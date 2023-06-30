@@ -30716,6 +30716,7 @@ shopgypsy.com
 shophealthy.com
 shophometrends.com
 shopibs.com
+shopifycdn.com
 shopinatlanta.com
 shopincities.com
 shopinhalifax.com
@@ -33633,6 +33634,7 @@ tigerdirect.com
 tigergps.com
 tigerspirit.com
 tiggypig.com
+tikamoon.com
 tikiripolynesianinstruments.com
 tilonia.com
 time-frames.com
@@ -38126,6 +38128,7 @@ buccaneer.net
 budgetgolf.net
 budo-shop.net
 budsandbloomsflorist.net
+bueroforum.net
 buller.net
 bunnybasics.net
 buriedaliveco.net
@@ -47024,7 +47027,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 516
+# Ignored duplicates: 515
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47594,6 +47597,7 @@ p.shure.com
 shutterstock.com
 oup.silverchair-cdn.com
 metrics-target.siriusxm.com
+sizyreelingly.com
 pixel.disco.skyshowtime.com
 api.snapkit.com
 internal-api.snapkit.com
@@ -47620,6 +47624,8 @@ swiftcourrier.com
 bibo.api.swiftkey.com
 jenson.api.swiftkey.com
 syn-alias.com
+cdnjs.tacool.com
+fn-captcha.tacool.com
 embed.tagboard.com
 track.talabat.com
 talentwunder.com
@@ -48001,6 +48007,7 @@ api.st-av.net
 streamsb.net
 subway.prod.sybo.net
 te.technical-service.net
+tracker.torrentbd.net
 cdn.trustcommander.net
 aa.tweakers.net
 ab.tweakers.net
