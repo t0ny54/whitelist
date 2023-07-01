@@ -47027,7 +47027,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 515
+# Ignored duplicates: 516
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47417,6 +47417,8 @@ aic-op-lss.lgthinq.com
 common.lgthinq.com
 lss.lgthinq.com
 aic.cdpsvc.lgtvcommon.com
+eic.cdpsvc.lgtvcommon.com
+eic.recommend.lgtvcommon.com
 aic.service.lgtvcommon.com
 us.rdx2.lgtvsdp.com
 us.lgtvsdp.com
@@ -47451,6 +47453,7 @@ webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
 meatspin.com
 global.cdn.survey.medallia.com
+m.media-amazon.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 diagnostics.meethue.com
@@ -47689,6 +47692,7 @@ s3.us-west-1.wasabisys.com
 wdtinc.com
 weworkremotely.com
 garry.windscribe.com
+wishpond.com
 phishingquiz.withgoogle.com
 wpbeaches.com
 samsungapps.com.wtxcdn.com
@@ -49942,7 +49946,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3773
+# Ignored duplicates: 3774
 
 www.google.com.af
 www.google.com.ag
@@ -50034,7 +50038,6 @@ altb.marfeelcache.com
 altbc.marfeelcache.com
 marfeelcdn.com
 marfeelrev.com
-m.media-amazon.com
 media-imdb.com
 www.metal-tracker.com
 css.mmtcdn.com
