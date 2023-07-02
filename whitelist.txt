@@ -47027,7 +47027,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 516
+# Ignored duplicates: 518
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47196,6 +47196,7 @@ w1.buysub.com
 starling-oversea.byteoversea.com
 c-ctrip.com
 cainiao.com
+canyoublockit.com
 devices.carnivalmobile.com
 production-cmp.isgprivacy.cbsi.com
 doppler-config.cbsivideo.com
@@ -47416,9 +47417,8 @@ us.emp.lgsmartplatform.com
 aic-op-lss.lgthinq.com
 common.lgthinq.com
 lss.lgthinq.com
-aic.cdpsvc.lgtvcommon.com
-eic.cdpsvc.lgtvcommon.com
-eic.recommend.lgtvcommon.com
+cdpsvc.lgtvcommon.com
+recommend.lgtvcommon.com
 aic.service.lgtvcommon.com
 us.rdx2.lgtvsdp.com
 us.lgtvsdp.com
@@ -47719,6 +47719,7 @@ prospekt.aldi-sued.de
 itv.ard.de
 img.yana.asideas.de
 prod-image-fastly-cdn.yana.asideas.de
+azol.de
 china-gadgets.de
 chip.de
 api.chip-secured-download.de
@@ -48659,7 +48660,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 138
+# Ignored duplicates: 139
 
 api.cortana.ai
 uol.com.br
@@ -48767,7 +48768,6 @@ www.bitsumactivationserver.com
 bluehost.com
 bluesoleil.com
 c3pool.com
-canyoublockit.com
 chkaja.com
 assets.ckjr001.com
 kpstaticbj.wx.ckjr001.com
