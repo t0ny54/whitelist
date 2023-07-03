@@ -47027,7 +47027,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 518
+# Ignored duplicates: 519
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47145,6 +47145,8 @@ app.asana.com
 licenses.ashampoo.com
 attraqt.com
 de.aukey.com
+streamback.ns1.ff.avast.com
+submit.sb.avast.com
 avis-verifies.com
 player.avplayer.com
 awxcdn.com
@@ -47673,6 +47675,7 @@ uplynk.com
 uptodatefinishconferenceroom.com
 finanzguru.userecho.com
 cdn77.utomik.com
+vbout.com
 vcs.vdspf.com
 vercel-dns.com
 ads.videoadex.com
@@ -47710,6 +47713,7 @@ ytimg.com
 zeelool.com
 zephr.com
 zopim.com
+heureka.cz
 servix.idnes.cz
 c.seznam.cz
 ad.71i.de
@@ -49946,7 +49950,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3774
+# Ignored duplicates: 3775
 
 www.google.com.af
 www.google.com.ag
@@ -50116,7 +50120,6 @@ zooqle.com
 www.google.co.cr
 www.google.com.cu
 www.google.com.cy
-heureka.cz
 piwik.nic.cz
 bilder.bild.de
 bildstatic.de
