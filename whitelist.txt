@@ -8832,6 +8832,7 @@ acbcoins.com
 acbcproducts.com
 acbouquet.com
 acc123.com
+accastillage-diffusion.com
 accdesigns.com
 accentannex.com
 accentbead.com
@@ -9891,6 +9892,7 @@ annasdancewear.com
 annaslinens.com
 annawb.com
 anncrafted.com
+anne-sophie-pic.com
 anneg-lingerie.com
 annehauckartdeco.com
 annemaadesigns.com
@@ -37044,6 +37046,7 @@ lamaisondevalerie.fr
 lambin.fr
 lance-leau.fr
 laredoute.fr
+largus.fr
 leboncoin.fr
 leclercdrive.fr
 legaulois.fr
@@ -37116,6 +37119,7 @@ shoppingparismode.fr
 sinologie.fr
 site-annonce.fr
 somewhere.fr
+speedway.fr
 sport7.fr
 srucouf.fr
 stce.fr
@@ -47048,6 +47052,7 @@ tm.jsuol.com.br
 tracking.totalexpress.com.br
 mng.bz
 turbulent.ca
+dojo.cc
 uu.cc
 tdn.da-services.ch
 dns.digitale-gesellschaft.ch
@@ -48032,6 +48037,7 @@ path3.xtracloud.net
 time.xtracloud.net
 xtratime.xboxprod.xtracloud.net
 yacy.net
+qoe-1.yottaa.net
 ad.nl
 api.c99.nl
 disguised.nl
