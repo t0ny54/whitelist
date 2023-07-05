@@ -47031,7 +47031,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 519
+# Ignored duplicates: 521
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47045,6 +47045,7 @@ noip.at
 ssl.o.auspost.com.au
 metrics.leaptel.com.au
 sportsbet.com.au
+www.smartnews.be
 content-media.bonial.biz
 flvto.biz
 baixaki.com.br
@@ -47384,6 +47385,7 @@ spring-oreo.itracmediav4.com
 media.itsfogo.com
 scmedia.itsfogo.com
 innovators.ivanti.com
+jagoketik.com
 widgets.jobbio.com
 jobseeker.com
 a.jsrdn.com
@@ -47433,6 +47435,7 @@ librefutboltv.com
 s3.lightboxcdn.com
 collector.lightstep.com
 ingest.lightstep.com
+cdn.listrakbi.com
 cdn.livechatinc.com
 liveperson.com
 living-sun.com
@@ -47486,6 +47489,7 @@ review-rating.mncdn.com
 sdk-02.moengage.com
 msdp1.com
 msftconnecttest.com
+client-stream-events.mtg-api.com
 myabandonware.com
 mycliplister.com
 mypoints.com
@@ -47660,6 +47664,7 @@ api-v4.trbo.com
 static-v2.trbo.com
 rv.treehousei.com
 trello.com
+log.tresorit.com
 consent.trustarc.com
 consent-pref.trustarc.com
 cdn.ttgtmedia.com
@@ -47710,6 +47715,7 @@ video.xxxjmp.com
 yagiay.com
 avpro.global.yamaha.com
 yep.com
+sub.ykimg.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
 csm-e-cbch-eb.tls1.yospace.com
 staticw2.yotpo.com
@@ -47718,6 +47724,7 @@ ytimg.com
 zeelool.com
 zephr.com
 zopim.com
+hw.zuimeitianqi.com
 heureka.cz
 servix.idnes.cz
 c.seznam.cz
@@ -47805,6 +47812,7 @@ bestgore.fun
 lnks.gd
 shoppy.gg
 time-a.timefreq.bldrdoc.gov
+connect-line.gr
 sch.gr
 docdro.id
 cbox.im
