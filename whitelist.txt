@@ -232,6 +232,7 @@ trbna.com
 treasuredata.com
 trust-provider.com
 sealserver.trustwave.com
+srv.tunefindforfans.com
 unpkg.com
 urbanairship.com
 userreport.com
@@ -5354,6 +5355,7 @@ postbank.bg
 procreditbank.bg
 raiffeisen.bg
 farmersandmerchants.biz
+axelle.bnpparibas
 asoban.bo
 bradesco.b.br
 bradesconetempresa.b.br
@@ -5444,6 +5446,7 @@ allahabadbank.com
 allegiancebank.com
 alliancebank.com
 alliancebk.com
+allmybanks.com
 almoraurbanbank.com
 alpinebank.com
 altajirbank.com
@@ -16193,6 +16196,7 @@ desktopstationery.com
 desotosport.com
 despair.com
 desperate.com
+despetitshauts.com
 desser.com
 dessouscheri.com
 destillatio.com
@@ -24223,6 +24227,7 @@ maisonartiga.com
 maisonbouquet.com
 maisonconnoisseur.com
 maisondugps.com
+maisondurunning.com
 maisonic.com
 maisonsdumonde.com
 maizehutton.com
@@ -24687,6 +24692,7 @@ med-direct.com
 medalyedesigns.com
 medco-school.com
 medfordtools.com
+media-amazon.com
 medialibrairie.com
 mediashelves.com
 medibardiet.com
@@ -30362,6 +30368,7 @@ selections.com
 selectpearls.com
 selectrosescanada.com
 selectseeds.com
+selency.com
 selfexpressions.com
 selfstamps.com
 selimaoptique.com
@@ -34540,6 +34547,7 @@ australienshop.de
 auto-nrw.de
 auto-teilelager.de
 autobeleuchtung24.de
+autodoc.de
 autohof-shop.de
 automaten-hoffmann.de
 automechanik.de
@@ -36912,6 +36920,7 @@ supersonido.es
 bts-sports.eu
 delfinio.eu
 disneyphotopass.eu
+tupperware.eu
 alfamer.fi
 babyidea.fi
 babystyle.fi
@@ -36944,16 +36953,20 @@ abebooks.fr
 actimania.fr
 agatha.fr
 alicesgarden.fr
+allobebe.fr
 amazon.fr
 anti-crise.fr
 apiman.fr
+atelier-de-france.fr
 attica.fr
 auchan.fr
 auchandirect.fr
 auchandrive.fr
 auction.fr
 audiophonics.fr
+auto-doc.fr
 autos.fr
+avenue-des-parfums.fr
 backmarket.fr
 beautycenter.fr
 biocenter.fr
@@ -44636,6 +44649,7 @@ draugiem.lv
 musical.ly
 habbo.com.mx
 habbo.com.my
+acitizen.net
 allmyfavorites.net
 asmallworld.net
 blogmarks.net
@@ -46525,6 +46539,7 @@ rclens.fr
 rclensois.fr
 rmcsport.fr
 rougeetnoir.fr
+rugby-chartres.fr
 rugby365.fr
 rugbycenter.fr
 rugbyrama.fr
@@ -47031,7 +47046,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 521
+# Ignored duplicates: 523
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47152,6 +47167,7 @@ licenses.ashampoo.com
 attraqt.com
 de.aukey.com
 streamback.ns1.ff.avast.com
+su.ff.avast.com
 submit.sb.avast.com
 avis-verifies.com
 player.avplayer.com
@@ -47463,7 +47479,6 @@ webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
 meatspin.com
 global.cdn.survey.medallia.com
-m.media-amazon.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 diagnostics.meethue.com
@@ -47683,9 +47698,12 @@ rtw.uol.com
 stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
+api.useberry.com
 finanzguru.userecho.com
+uservoice.com
 cdn77.utomik.com
 vbout.com
+vcreatek.com
 vcs.vdspf.com
 vercel-dns.com
 ads.videoadex.com
@@ -47728,6 +47746,7 @@ hw.zuimeitianqi.com
 heureka.cz
 servix.idnes.cz
 c.seznam.cz
+24auto.de
 ad.71i.de
 ad-magazin.de
 aikq.de
@@ -47862,6 +47881,7 @@ trezor.io
 tyk.io
 wootility.io
 umami.is
+enabler.datalake.mediaset.it
 scenarieconomici.it
 shalom.it
 cmp.sky.it
@@ -47889,6 +47909,7 @@ view.genial.ly
 get.mndbdy.ly
 ahacdn.me
 dropmail.me
+ogp.me
 cdn.stream.schibsted.media
 files.catbox.moe
 codepush.appcenter.ms
@@ -48067,6 +48088,7 @@ learn.cisecurity.org
 codeberg.org
 consentmanager.mgr.consensu.org
 static.fastpic.org
+feylibertad.org
 fwupd.org
 getmonero.org
 heliohost.org
@@ -49369,7 +49391,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 543
+# Ignored duplicates: 544
 
 a.run.app
 ipv4only.arpa
@@ -49502,7 +49524,6 @@ mange-news.com
 api.mapbox.com
 events.mapbox.com
 tiles.mapbox.com
-c.media-amazon.com
 wwwstatic.megaupload.com
 resolver.gslb.mi-idc.com
 www.miaminewtimes.com
@@ -49719,7 +49740,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 294
+# Ignored duplicates: 295
 
 theship.club
 cpro.baidu.cn
@@ -49874,7 +49895,6 @@ config.uca.cloud.unity3d.com
 ecommerce.iap.unity3d.com
 events.iap.unity3d.com
 web.usebutton.com
-widget.uservoice.com
 mwc.velti.com
 ru.velti.com
 concertads-configs.vox-cdn.com
