@@ -9774,6 +9774,7 @@ anchorbayaquarium.com
 anchorbox.com
 anchorexpress.com
 anchorsfoodfinds.com
+anciennes-legiondhonneur.com
 ancientacu.com
 ancientcircles.com
 ancientcoinstore.com
@@ -9861,6 +9862,7 @@ animalstars.com
 animalworldnetwork.com
 animatile.com
 animationalley.com
+animaux-du-monde.com
 anime-cel.com
 anime-remix.com
 store.animearigato.com
@@ -34355,6 +34357,7 @@ svet-nakupu.cz
 svethodinek.cz
 swat.cz
 tenis-eshop.cz
+thenorthface.cz
 inzerce.zacatek.cz
 001-amulette.de
 007spyshop.de
@@ -36645,6 +36648,7 @@ zweirad-kroeger.de
 abatox.dk
 abckids.dk
 shop.abckram.dk
+akjaerbede.dk
 akvarieudstyr.dk
 alt-i-roedt.dk
 ankerliving.dk
@@ -36920,6 +36924,7 @@ supersonido.es
 bts-sports.eu
 delfinio.eu
 disneyphotopass.eu
+thenorthface.eu
 tupperware.eu
 alfamer.fi
 babyidea.fi
@@ -36947,6 +36952,7 @@ shop.soon.fi
 audion.fm
 01direct.fr
 100pour100annonces.fr
+10doigts.fr
 123comparer.fr
 3suisses.fr
 abebooks.fr
@@ -36966,6 +36972,7 @@ auction.fr
 audiophonics.fr
 auto-doc.fr
 autos.fr
+ava-may.fr
 avenue-des-parfums.fr
 backmarket.fr
 beautycenter.fr
@@ -37146,6 +37153,7 @@ tassimo.fr
 tati.fr
 teleachat.fr
 teleshopping.fr
+thenorthface.fr
 ticketnet.fr
 top-vente-privee.fr
 trois-suisses.fr
@@ -37186,6 +37194,7 @@ pricerite.com.hk
 protrek.com.hk
 shelli.com.hk
 skyelegance.com.hk
+thenorthface.com.hk
 dsc.hk
 sohowines.hk
 elda.hr
@@ -38267,6 +38276,7 @@ dawgwear.net
 daylilies.net
 dcdesigns.net
 debbiedoodles.net
+decathlon.net
 decorativeconcepts.net
 deep3.net
 delcity.net
@@ -40952,6 +40962,7 @@ telestyle.ru
 telezoom.ru
 teplovoda.ru
 tescoma-shop.ru
+thenorthface.ru
 market.yandex.ru
 zoostore.ru
 amazon.sa
@@ -43579,6 +43590,7 @@ themusicboxshop.co.uk
 themusiccellar.co.uk
 themusicpeople.co.uk
 theneemteam.co.uk
+thenorthface.co.uk
 thenuttytart.co.uk
 theonlineshoppingtown.co.uk
 theowlbox.co.uk
@@ -45012,6 +45024,7 @@ bearmtn.com
 bearvalleyxc.com
 beeffootball.com
 beijingwushuteam.com
+bein.com
 belmeadow.com
 bengals.com
 besoccer.com
@@ -47076,6 +47089,7 @@ stat.ethz.ch
 ens.nzz.ch
 track.nzz.ch
 opsserver.ch
+client.crisp.chat
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
 glomex.cloud
@@ -47561,6 +47575,7 @@ metric.picodi.com
 pixeldrain.com
 plarium.com
 playhydrax.com
+administrator.pnclassaction.com
 poki-gdn.com
 polls.polldaddy.com
 videos.porndig.com
@@ -48114,6 +48129,7 @@ pix2.services.tvn.pl
 y0.pl
 spartoo.pt
 1kinobig.ru
+l.1mp.ru
 cl-ad786718.edgecdn.ru
 sibnet.ru
 track24.ru
@@ -49020,11 +49036,10 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 617
+# Ignored duplicates: 618
 
 1hosts.cf
 abuse.ch
-client.crisp.chat
 image.crisp.chat
 client.relay.crisp.chat
 settings.crisp.chat
