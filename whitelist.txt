@@ -5564,6 +5564,7 @@ bbandt.com
 bbt.com
 betterbanks.com
 beverlycoop.com
+bfcoi.com
 bforbank.com
 bibank.com
 bicsa.com
@@ -6623,6 +6624,7 @@ banque-accord.fr
 banque-courtois.fr
 banque-france.fr
 banqueagf.fr
+banquedesterritoires.fr
 banquefinama.fr
 barclays.fr
 bemo.fr
@@ -8468,6 +8470,7 @@ rentboxingring.20m.com
 22tangoshoes.com
 24-7-tools.com
 24leather.com
+24s.com
 2beadornot2bead.com
 2bhipbuckles.com
 2bigfeet.com
@@ -8525,6 +8528,7 @@ shop.3dshoots.com
 41sake.com
 41vogue.com
 42photo.com
+43einhalb.com
 444cicek.com
 45restoration.com
 46uncommonmarket.com
@@ -9561,6 +9565,8 @@ alyssagiftbaskets.com
 amadicarpets.com
 amads.com
 amagarea.com
+amai.com
+amaicdn.com
 amaina.com
 amalaika.com
 amanda-foreman.com
@@ -10502,6 +10508,7 @@ aspenlog.com
 aspenluggage.com
 aspenshopsonline.com
 aspensong.com
+asphaltgold.com
 asphodele-lingerie.com
 aspinningwheel.com
 asplendidtable.com
@@ -23906,6 +23913,7 @@ laserveil.com
 lastfactory.com
 lastminute.com
 lathemaster.com
+latoquedor.com
 latoys.com
 lattaoutdoors.com
 lauhitting.com
@@ -31325,6 +31333,7 @@ snazzycreations.com
 sneakerbardetroit.com
 sneakerhead.com
 sneakerland.com
+sneakers76.com
 sneakersnstuff.com
 snipes.com
 snipsandsnails.com
@@ -31633,6 +31642,7 @@ speakeasypens.com
 speakersound.com
 speakingroses.com
 specialeventticketing.com
+specialized.com
 specialselections.com
 specialstitches.com
 specialtea.com
@@ -36957,12 +36967,14 @@ audion.fm
 3suisses.fr
 abebooks.fr
 actimania.fr
+adeledelacigogne.fr
 agatha.fr
 alicesgarden.fr
 allobebe.fr
 amazon.fr
 anti-crise.fr
 apiman.fr
+apmf.fr
 atelier-de-france.fr
 attica.fr
 auchan.fr
@@ -36975,6 +36987,7 @@ autos.fr
 ava-may.fr
 avenue-des-parfums.fr
 backmarket.fr
+bayardsso.fr
 beautycenter.fr
 biocenter.fr
 bivea.fr
@@ -37125,6 +37138,7 @@ pubeco.fr
 publi.fr
 quelle.fr
 redcoon.fr
+rougier-ple.fr
 rueducommerce.fr
 satnet.fr
 sgmfrance.fr
