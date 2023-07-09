@@ -43835,6 +43835,7 @@ hellotxt.com
 hover.com
 hugeurl.com
 icanhaz.com
+iplogger.com
 itp24.com
 itsssl.com
 jijr.com
@@ -47073,7 +47074,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 523
+# Ignored duplicates: 526
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47277,6 +47278,7 @@ analytics.controld.com
 controlup.com
 cookie-cdn.cookiepro.com
 api.cookiespool.com
+corbettreport.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
@@ -47361,6 +47363,7 @@ data.g2crowd.com
 images.g2crowd.com
 learn.g2crowd.com
 api.pgpl.g5e.com
+gameforge.com
 maps.geoapify.com
 geocomply.com
 d.ghostery.com
@@ -47453,6 +47456,7 @@ static.klaviyo.com
 static-app.klaviyo.com
 static-forms.klaviyo.com
 js.klevu.com
+klikdokter.com
 manage.kmail-lists.com
 koisea.com
 kompas.com
@@ -47509,6 +47513,7 @@ meatspin.com
 global.cdn.survey.medallia.com
 cdn.mediavoice.com
 plugin.mediavoice.com
+assets-thaingohkee9zeyohke8.medkomtek.com
 diagnostics.meethue.com
 discovery.meethue.com
 ws.meethue.com
@@ -47761,6 +47766,7 @@ xoom.com
 video.xxxjmp.com
 yagiay.com
 avpro.global.yamaha.com
+forms.yandex.com
 yep.com
 sub.ykimg.com
 csm-e-cecbcaeuw1live101-08ca6f41e85e8368d.bln1.yospace.com
@@ -47908,6 +47914,8 @@ api.storyly.io
 termly.io
 trezor.io
 tyk.io
+voodoo.io
+voodoo-tech.io
 wootility.io
 umami.is
 enabler.datalake.mediaset.it
@@ -48025,6 +48033,7 @@ hsforms.net
 330046.group46.sites.hubspot.net
 cds.b5g9b8e4.hwcdn.net
 iframely.net
+system360.inistrack.net
 aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
@@ -48133,11 +48142,13 @@ api.smartify.org
 speedcheck.org
 api.speedspot.org
 traccar.org
+ck.page
 instant.page
 api.nvidia.partners
 assets.nvidia.partners
 telegra.ph
 tracker.gpcdn.pl
+nsm.tr.netsalesmedia.pl
 spartoo.pl
 pix2.services.tvn.pl
 y0.pl
