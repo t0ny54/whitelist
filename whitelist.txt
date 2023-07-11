@@ -49036,6 +49036,7 @@ fp.tongdun.net
 ultraiso.net
 resolver.msg.xiaomi.net
 sec.resource.xiaomi.net
+zoosnet.net
 creativecommons.org
 duckdns.org
 rarbg2019.org
