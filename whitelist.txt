@@ -47075,7 +47075,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 526
+# Ignored duplicates: 527
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47785,6 +47785,7 @@ hw.zuimeitianqi.com
 heureka.cz
 servix.idnes.cz
 c.seznam.cz
+xzone.cz
 24auto.de
 ad.71i.de
 ad-magazin.de
@@ -48134,6 +48135,7 @@ feylibertad.org
 fwupd.org
 getmonero.org
 heliohost.org
+kiwibrowser.org
 tracker.leechers-paradise.org
 lencr.org
 matomo.org
@@ -48294,6 +48296,7 @@ allkeyshop.com
 aax-eu-retail-direct.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 prism.app-us1.com
+app.appsflyer.com
 customlinks.appsflyer.com
 clicks.aweber.com
 www.awin1.com
