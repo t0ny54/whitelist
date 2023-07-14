@@ -6622,6 +6622,7 @@ afb.fr
 allianzbanque.fr
 banque.fr
 banque-accord.fr
+banque-casino.fr
 banque-courtois.fr
 banque-france.fr
 banqueagf.fr
@@ -8413,6 +8414,7 @@ mall.163.com
 1ink.com
 1irongolf.com
 1jewelry.com
+1jour1vin.com
 1liquidators.com
 1logcabinfurniture.com
 1nok.com
@@ -9185,6 +9187,7 @@ airstrikeinc.com
 airstuff.com
 airtimebattery.com
 aisle9.com
+aitaikuji.com
 aitkenwines.com
 aiyafitness.com
 aizawashoten.com
@@ -9708,6 +9711,7 @@ ametandsasha.com
 amfence.com
 amherst-depot.com
 amherst-maps.com
+amiami.com
 amiart.com
 amigaz.com
 store.amigofoods.com
@@ -10935,6 +10939,7 @@ babylaureate.com
 babylonmall.com
 babymabels.com
 babymania.com
+babymarkt.com
 babyminestore.com
 babymusik.com
 babynatal.com
@@ -12419,6 +12424,7 @@ bnv-scraps.com
 boardersparadise.com
 boardgames.com
 boardgameshop.com
+boat24.com
 boatantenna.com
 boatchart.com
 boatdocking.com
@@ -34580,6 +34586,7 @@ baarons.de
 baby24.de
 babyflohmarkt.de
 babygerecht.de
+babymarkt.de
 babyphonversand.de
 babyshop.de
 babysicher.de
@@ -36992,6 +36999,7 @@ bayardsso.fr
 beautycenter.fr
 biocenter.fr
 bivea.fr
+blancheporte.fr
 bobine.fr
 bonial.fr
 bonprix.fr
@@ -37082,6 +37090,7 @@ lance-leau.fr
 laredoute.fr
 largus.fr
 leboncoin.fr
+lebondrive.fr
 leclercdrive.fr
 legaulois.fr
 leroymerlin.fr
@@ -37587,6 +37596,7 @@ orchids.com.jo
 abc-hanko.jp
 aflat.jp
 anbe.jp
+animate-onlineshop.jp
 araumi.jp
 archivesnet.jp
 ariete.jp
@@ -44569,6 +44579,8 @@ thisnext.com
 threadless.com
 tik-tokapi.com
 tiktok.com
+tiktokcdn.com
+tiktokcdn-us.com
 tiktokv.com
 tipd.com
 tipstrs.com
@@ -44992,6 +45004,7 @@ athygolfclub.com
 atlantafalcons.com
 atlantamotorspeedway.com
 atlanticleague.com
+avisclient-ccf.com
 awccsports.com
 azcardinal.com
 azfl.com
@@ -47075,7 +47088,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 527
+# Ignored duplicates: 528
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47148,6 +47161,7 @@ acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
 addthisevent.com
+afx.adfixus.com
 adguard.com
 adguard-dns.com
 adlermode.com
@@ -47163,6 +47177,7 @@ content.aimatch.com
 airydress.com
 tracker-g.aiscore.com
 akamai-images-content.com
+time.akamai.com
 track.aliexpress.com.gds.alibabadns.com
 ilog-sea-aliyun.alipayplus.com
 mirrors.aliyun.com
@@ -47313,6 +47328,9 @@ dooood.com
 track.doordash.com
 doppiocdn.com
 gateway.dots-services.com
+dropbox-dns.com
+api.dropboxapi.com
+edge.dropboxstatic.com
 embed.dugout.com
 dvsdvsdvsdva.com
 assets.dwell.com
@@ -47395,6 +47413,8 @@ embed.tagboard.com.herokudns.com
 hexun.com
 sms.ads.heytapmobi.com
 client-uc.heytapmobi.com
+rest-in-feedback.heytapmobile.com
+static-in-feedback.heytapmobile.com
 thumb.highdeliveryscdn.com
 static-assets.highwebmedia.com
 hiperdex.com
@@ -47530,6 +47550,7 @@ mintos.com
 assets.minutemediacdn.com
 images1.minutemediacdn.com
 images2.minutemediacdn.com
+click.account.miro.com
 update.intl.miui.com
 api.miwifi.com
 mkklcdnv6tempv4.com
@@ -47653,6 +47674,7 @@ cdn.segmentify.com
 ship.sephora.com
 help.servicedeskplus.com
 faz.sevenval-fit.com
+click-sap.sfmc-marketing.com
 privatedomain.sgizmo.com
 cdn.sgmntfy.com
 shalltry.com
