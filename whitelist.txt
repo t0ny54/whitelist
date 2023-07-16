@@ -47088,7 +47088,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 528
+# Ignored duplicates: 532
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47124,6 +47124,7 @@ sodimac.cl
 te.ip-prod.aws-cbc.cloud
 glomex.cloud
 hosteagle.club
+aadrm.cn
 track.yw56.com.cn
 sea.net.edu.cn
 mail.tsinghua.edu.cn
@@ -47152,6 +47153,7 @@ zurl.co
 600vekil.com
 6sense.com
 a2hosted.com
+aadrm.com
 doh.dns.apple.com.v.aaplimg.com
 above.com
 abuelos.com
@@ -47190,6 +47192,7 @@ c.amazon-adsystem.com
 prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
+prod.amcs-tachyon.com
 info.ammex.com
 angi.com
 play.aniview.com
@@ -47671,6 +47674,7 @@ s.sdacdn.com
 secondstreetapp.com
 seeyoufarm.com
 cdn.segmentify.com
+assets.sentinelone.com
 ship.sephora.com
 help.servicedeskplus.com
 faz.sevenval-fit.com
@@ -47810,6 +47814,7 @@ c.seznam.cz
 xzone.cz
 24auto.de
 ad.71i.de
+aadrm.de
 ad-magazin.de
 aikq.de
 prospekt.aldi-sued.de
@@ -48236,6 +48241,7 @@ netdirector.co.uk
 overclockers.co.uk
 skymedia.co.uk
 spartoo.co.uk
+aadrm.us
 o.ss2.us
 s.ss2.us
 api.sbz.vn
