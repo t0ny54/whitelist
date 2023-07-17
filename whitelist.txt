@@ -47088,7 +47088,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 532
+# Ignored duplicates: 539
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47097,6 +47097,7 @@ curve.app
 ip.istatmenus.app
 get.massive.app
 safebrowsing.apple
+clk.asia
 domaintechnik.at
 noip.at
 ssl.o.auspost.com.au
@@ -48021,11 +48022,7 @@ dlp3zj68t5lvh.cloudfront.net
 dtioykqj1u8de.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
 code-examples.net
-a.delivery.consentmanager.net
-b.delivery.consentmanager.net
-c.delivery.consentmanager.net
-d.delivery.consentmanager.net
-lbnew.consentmanager.net
+consentmanager.net
 contaboserver.net
 get.contentpass.net
 searchg2.crownpeak.net
@@ -48097,6 +48094,7 @@ fp2e7a.wpc.phicdn.net
 tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
+fbx-firmware.proxad.net
 pv-cdn.net
 siteintercept.qprod2.net
 research.net
@@ -48198,6 +48196,7 @@ share.yandex.ru
 url.rw
 static.share-videos.se
 qoo10.sg
+clk.sh
 edgeme.sh
 scarf.sh
 transfer.sh
@@ -48777,7 +48776,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 139
+# Ignored duplicates: 140
 
 api.cortana.ai
 uol.com.br
@@ -48958,6 +48957,7 @@ api.sec.miui.com
 update.avlyun.sec.miui.com
 da.mmarket.com
 mmstat.com
+sqdd.myapp.com
 sams.nikonimaging.com
 i.niupic.com
 niuza.com
