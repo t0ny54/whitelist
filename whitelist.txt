@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 33
+# Ignored duplicates: 34
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -140,6 +140,7 @@ lasagneandands.com
 linkifier.com
 linksnappy.com
 linksynergy.com
+listrakbi.com
 loadercdn.com
 localbitcoins.com
 loggly.com
@@ -395,7 +396,7 @@ trust.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 171
+# Ignored duplicates: 173
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -423,6 +424,7 @@ vakifbank.at
 adelaidebank.com.au
 amp.com.au
 anz.com.au
+digital.bankaust.com.au
 bankfirst.com.au
 ibanking.bankofmelbourne.com.au
 banksa.com.au
@@ -481,6 +483,7 @@ ziraatbank.ba
 my.helaba.bank
 argenta.be
 belfius.be
+online.beobank.be
 bnpparibasfortis.be
 bpostbank.be
 bpostbanque.be
@@ -585,15 +588,22 @@ sbsibank.by
 it.tb.by
 tbank.trustbank.by
 ibank.zepterbank.by
+secured.acu.ca
+personal.affinitycu.ca
+ids.alterna.ca
 banquelaurentienne.ca
 bnc.ca
 chasecanada.ca
 eqbank.ca
 fbngp.ca
 hsbc.ca
+secured.scu.mb.ca
+meridiancu.ca
+banking.servus.ca
 simpletax.ca
 tangerine.ca
 scalable.capital
+prospera.oauth.live.central1.cc
 akb.ch
 banklinth.ch
 bcj.ch
@@ -743,6 +753,7 @@ bitso.com
 bittrex.com
 bitwala.com
 bity.com
+my.blackhawkbank.com
 login.blockchain.com
 blockfi.com
 blombank.com
@@ -775,8 +786,7 @@ chinatrust.com
 payments.chronopay.com
 cibc.com
 ebanking.cibeg.com
-online.citi.com
-citibank.com
+citi.com
 citibankonline.com
 europe.citidirect-eb.citicorp.com
 citidirectbeportalemea.citidirect.com
@@ -787,6 +797,7 @@ mbz19n.accounts.clickbank.com
 cmbchina.com
 cnb.com
 coastal24.com
+banking.coastcapitalsavings.com
 cobinhood.com
 coinbase.com
 colpatria.com
@@ -1039,11 +1050,13 @@ rcbconline-corporate.com
 rcbconlinebanking.com
 revolut.com
 rfcu.com
+onlinebanking.rhbgroup.com
 ib.ribbank.com
 ibank.ricbank.com
 ibankr.ricbank.com
 riyadbank.com
 robinhood.com
+rbaccess.rogersbank.com
 ibc.roscap.com
 rusnarbank.com
 russobank.com
@@ -1093,6 +1106,7 @@ td.com
 tdameritrade.com
 tdbank.com
 tdcanadatrust.com
+online.techcu.com
 tescobank.com
 theinstapay.com
 tiscoasset.com
@@ -1115,12 +1129,14 @@ ikb.uci-bank.com
 ukrgasbank.com
 ukrsibbank.com
 ibank.ukrsotsbank.com
+unionbank.com
 unionbankph.com
 pib.uobthailand.com
 uphold.com
 dbo1.uralfinance.com
 usaa.com
 vakifbankusa.com
+login.vancity.com
 vanguard.com
 vol.venezolano.com
 venmo.com
@@ -2632,6 +2648,7 @@ op.fi
 poppankki.fi
 s-pankki.fi
 saastopankki.fi
+secure.seligson.fi
 compound.finance
 banquepopulaire.fr
 caisse-epargne.fr
@@ -2689,6 +2706,7 @@ cetelem.hu
 cib.hu
 commerzbank.hu
 dtbank.hu
+login.erstebank.hu
 netbank.erstebank.hu
 granitbank.hu
 ingbank.hu
@@ -2865,6 +2883,9 @@ halkbank.mk
 egolomt.mn
 ibank.mn
 www.mcb.mu
+bankofmaldives.com.mv
+faisanet.mib.com.mv
+bbva.mx
 hsbc.com.mx
 nu.com.mx
 santander.com.mx
@@ -3009,8 +3030,10 @@ navyfederal.org
 palmettohealthcu.org
 penfed.org
 redwoodcu.org
+e.sfcu.org
 tiaa.org
 uiccu.org
+umcu.org
 upma.org
 vystarcu.org
 chinabank.ph
@@ -3022,25 +3045,35 @@ pnb.com.ph
 group.pictet
 aliorbank.pl
 bankmillennium.pl
+goonline.bnpparibas.pl
+bosbank24.pl
 bph.pl
 login.bsczarnkow.pl
 cdm24.pl
 centrum24.pl
+citibankonline.pl
 orangefinanse.com.pl
 pekao.com.pl
+ca24.credit-agricole.pl
 db-pbc.pl
 deutschebank.pl
+ue.dnb.pl
+e25.pl
 secure.getinbank.pl
 secure.ideabank.pl
 ingbank.pl
+inteligo.pl
 www.ipko.pl
 www.ipkobiznes.pl
 online.mbank.pl
+login.nestbank.pl
 ekonto.paluckibs.pl
 pekao24.pl
+plusbank24.pl
 online.pocztowy.pl
 sgb24.pl
 t-mobilebankowe.pl
+homebanking.bancoctt.pt
 big.pt
 caixaebankingonline.cgd.pt
 deutsche-bank.pt
@@ -4096,6 +4129,7 @@ transunion.com
 trbinance.com
 trueidentity.com
 trustedid.com
+mail.tutanota.com
 identity.virginmedia.com
 xero.com
 id.yandex.com
@@ -4108,6 +4142,7 @@ agenciatributaria.gob.es
 1password.eu
 mvd.dor.ga.gov
 intelink.gov
+kau.gov.hu
 gov.in
 enpass.io
 gate.io
@@ -5307,7 +5342,7 @@ trkr.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains ##########
 
-# Ignored duplicates: 174
+# Ignored duplicates: 173
 
 nba.ai
 acba.am
@@ -5651,6 +5686,7 @@ chestercountybank.com
 chevychasebank.com
 chinatrustindia.com
 choiceone.com
+citibank.com
 citizencreditbank.com
 citizenscommunitybank.com
 citizensebank.com
@@ -9181,6 +9217,7 @@ airshack.com
 airshow.com
 airsoftatlanta.com
 airsoftextreme.com
+airsofthispana.com
 airsplat.com
 airsportdirect.com
 airstrikeinc.com
@@ -13828,6 +13865,7 @@ cctaylor.com
 cctvhardware.com
 cctvoutlet.com
 ccvideo.com
+ccvmode.com
 ccwbotanicals.com
 ccwclothing.com
 ccwsupply.com
@@ -15226,6 +15264,7 @@ couponpages.com
 couponsanddeals.com
 couponsfromtheheart.com
 courbette.com
+coursesu.com
 courtcompany.com
 courtneyscandles.com
 courtsidesports.com
@@ -28362,6 +28401,7 @@ premierawards.com
 premierbasketsandgifts.com
 premiercarts.com
 premierclothing.com
+premierepartie.com
 premierglow.com
 premiergourmet.com
 premierpawn.com
@@ -36973,9 +37013,11 @@ audion.fm
 10doigts.fr
 123comparer.fr
 3suisses.fr
+a-qui-s.fr
 abebooks.fr
 actimania.fr
 adeledelacigogne.fr
+adidas.fr
 agatha.fr
 alicesgarden.fr
 allobebe.fr
@@ -36985,6 +37027,7 @@ apiman.fr
 apmf.fr
 atelier-de-france.fr
 attica.fr
+au-bonheur-demilie.fr
 auchan.fr
 auchandirect.fr
 auchandrive.fr
@@ -36994,9 +37037,11 @@ auto-doc.fr
 autos.fr
 ava-may.fr
 avenue-des-parfums.fr
+baage.fr
 backmarket.fr
 bayardsso.fr
 beautycenter.fr
+benuta.fr
 biocenter.fr
 bivea.fr
 blancheporte.fr
@@ -37026,10 +37071,12 @@ clementfaugier.fr
 club-prive.fr
 mdsbattery.com.fr
 conforama.fr
+copmed.fr
 cora.fr
 coradrive.fr
 cotesport.fr
 cyrillus.fr
+dansnoscoeurs.fr
 danybijoux.fr
 darty.fr
 daxon.fr
@@ -37336,6 +37383,7 @@ inspiratie.info
 kanuladen.info
 katesclothing.info
 koyuki.info
+leboncoin.info
 mackenzie-thorpe.info
 mitsue.info
 motoralia.info
@@ -45368,6 +45416,7 @@ fanzam.com
 fcfighter.com
 fcl56.com
 fcmetz.com
+fcnantes.com
 fcsports.com
 fedcup.com
 feedthehabit.com
@@ -47088,7 +47137,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 539
+# Ignored duplicates: 555
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47262,6 +47311,12 @@ boldchat.com
 bonialconnect.com
 amp-api-prd.bostonglobe.com
 ads.brave.com
+ads-new.brave.com
+ads-serve.brave.com
+ads-static.brave.com
+ads-serve.aws-internal.brave.com
+p3a.brave.com
+rewards.brave.com
 api.brightcove.com
 browserhow.com
 api.bufferapp.com
@@ -47509,7 +47564,6 @@ librefutboltv.com
 s3.lightboxcdn.com
 collector.lightstep.com
 ingest.lightstep.com
-cdn.listrakbi.com
 cdn.livechatinc.com
 liveperson.com
 living-sun.com
@@ -47756,6 +47810,7 @@ twitchy.com
 embed.typeform.com
 ping.ui.com
 ultimedia.com
+umaiclothing.com
 answers.unity.com
 create.unity.com
 unmineable.com
@@ -48189,6 +48244,7 @@ l.1mp.ru
 cl-ad786718.edgecdn.ru
 sibnet.ru
 track24.ru
+api-maps.yandex.ru
 export.yandex.ru
 informer.yandex.ru
 mx.yandex.ru
