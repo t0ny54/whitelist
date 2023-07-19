@@ -47137,7 +47137,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 555
+# Ignored duplicates: 556
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47421,6 +47421,7 @@ famatel.com
 lostmediaarchive.fandom.com
 fapcat.com
 faronics.com
+rt.fastly.com
 ff-01.com
 ff-02.com
 ff-03.com
@@ -47461,6 +47462,7 @@ email.goodrx.com
 afs.googleusercontent.com
 googlevideo.com
 track.goshippo.com
+gradcracker.com
 widget.haberler.com
 i.hbrcdn.com
 s.hbrcdn.com
