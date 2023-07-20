@@ -9543,6 +9543,7 @@ alohahawaiianshirts.com
 alohapalms.com
 alohashirtshop.com
 alohatropicals.com
+alortujou.com
 alotarubberstamps.com
 alpacafleece.com
 alpacapetes.com
@@ -37014,6 +37015,7 @@ audion.fm
 123comparer.fr
 3suisses.fr
 a-qui-s.fr
+aaccustom.fr
 abebooks.fr
 actimania.fr
 adeledelacigogne.fr
@@ -43742,6 +43744,7 @@ pinkpearls.org.uk
 spiral.org.uk
 abystyle.us
 adira.us
+aliexpress.us
 alwayscharming.us
 baby-blankets.us
 babyjane.us
@@ -46678,6 +46681,7 @@ abiertomextenis.com.mx
 lmb.com.mx
 malaysiangp.com.my
 fam.org.my
+afriquesports.net
 alljudo.net
 as-monaco.net
 asnl.net
@@ -47487,6 +47491,7 @@ ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 analytics.icis.com
 d.ifengimg.com
+de.ign.com
 images-amazon.com
 i.imgci.com
 e.imguol.com
@@ -48299,8 +48304,10 @@ overclockers.co.uk
 skymedia.co.uk
 spartoo.co.uk
 aadrm.us
+ad-api.band.us
 o.ss2.us
 s.ss2.us
+ts.hust.edu.vn
 api.sbz.vn
 zadn.vn
 zlp-bill-tracking.zalopay.vn
@@ -50119,7 +50126,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3775
+# Ignored duplicates: 3776
 
 www.google.com.af
 www.google.com.ag
@@ -50171,7 +50178,6 @@ lh3.googleusercontent.com
 gyazo.com
 here.com
 exchange.xforce.ibmcloud.com
-de.ign.com
 ia.imdb.com
 p.imgci.com
 imgdone.com
