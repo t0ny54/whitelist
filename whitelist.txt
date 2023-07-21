@@ -47141,7 +47141,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 556
+# Ignored duplicates: 581
 
 app.clearview.ai
 cdn.engagement.ai
