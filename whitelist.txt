@@ -7105,7 +7105,7 @@ pbskids.org
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains ##########
 
-# Ignored duplicates: 41
+# Ignored duplicates: 42
 
 amazon.ae
 amzn.ae
@@ -7903,6 +7903,7 @@ cosmomusic.ca
 countryfolk.ca
 countrypine.ca
 cowboymusic.ca
+creasources.ca
 cross-stitch.ca
 crossedswords.ca
 cyclepath.ca
@@ -8319,6 +8320,7 @@ ilife.cn
 orifashion.cn
 shouxuan.cn
 sinobuy.cn
+alphashopnow.co
 authenticwatch.co
 shopee.com.co
 florescolombia.co
@@ -9550,6 +9552,7 @@ alpacapetes.com
 alpec.com
 alpenschatz.com
 alpenstyle.com
+alpha-buy.com
 alpha-rare-coins.com
 alpha-sports.com
 alphabetbracelets.com
@@ -9584,6 +9587,7 @@ alternativesurf.com
 alternatorparts.com
 alterscale.com
 altgarden.com
+altheys.com
 altivo.com
 altmeyers.com
 altmoor.com
@@ -9614,6 +9618,7 @@ amalaika.com
 amanda-foreman.com
 amandahood.com
 amandalinas.com
+amandeia.com
 amaps.com
 amares.com
 amasquerade.com
@@ -10693,6 +10698,7 @@ auntkimsattic.com
 auntmanny.com
 aunttink.com
 aupalaisducollectionneur.com
+aura-evolution.com
 auravita.com
 aureliawool.com
 auricblends.com
@@ -12720,6 +12726,7 @@ bottletenders.com
 bottomdollarshoes.com
 bottomoftheharbour.com
 boujies.com
+boulanger.com
 boulangerie-firmin.com
 boulderblooms.com
 boulderdogfoodcompany.com
@@ -19666,6 +19673,7 @@ genealogy-books.com
 genebergjapan.com
 genegillminiatures.com
 generalbanksupply.com
+generale-optique.com
 generalstorebd.com
 generalstoreofminnetonka.com
 generation-souvenirs.com
@@ -29411,6 +29419,7 @@ ritaflora.com
 ritasretros.com
 ritchieswimwear.com
 ritepricecarpetsandsuites.com
+rituals.com
 ritzcam.com
 ritzcamera.com
 ritzconsignment.com
@@ -37041,6 +37050,7 @@ ava-may.fr
 avenue-des-parfums.fr
 baage.fr
 backmarket.fr
+bax-shop.fr
 bayardsso.fr
 beautycenter.fr
 benuta.fr
@@ -37057,7 +37067,9 @@ brandalley.fr
 bricabrac.fr
 bricodepot.fr
 bricoman.fr
+bruneau.fr
 buffalo-grill.fr
+but.fr
 cache-cache.fr
 calipage.fr
 camaieu.fr
@@ -37413,6 +37425,7 @@ themagazine.info
 world-fashion.info
 zoomteen.info
 codesandbox.io
+grandvision.io
 boksala.is
 dutyfree.is
 kassi.is
@@ -38216,6 +38229,7 @@ bookglobal.net
 booksinc.net
 korean.bookstore21.net
 boomerangs.net
+boospa.net
 bouhan-h.net
 boutiquedeltorero.net
 bowwowbakery.net
@@ -39065,6 +39079,7 @@ bagoes.nl
 barbequeshop.nl
 bargainstore.nl
 basta.nl
+bax-shop.nl
 be-one.nl
 beadies.nl
 beenmode.nl
@@ -43833,6 +43848,7 @@ abre.ai
 jall.al
 gl.am
 kl.am
+mj.am
 pd.am
 vl.am
 hotm.art
@@ -45616,6 +45632,7 @@ iis-sports.com
 ijgt.com
 ilbaseball.com
 illinoisracingnews.com
+imgfoot.com
 impactmontreal.com
 importdrag.com
 cricket.indiatimes.com
@@ -48321,7 +48338,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 241
+# Ignored duplicates: 242
 
 adservice.google.ac
 adservice.google.ad
@@ -48394,7 +48411,6 @@ clicks.aweber.com
 www.awin1.com
 api.bam-x.com
 click.em.blizzard.com
-clk.boulanger.com
 dashboard-01.braze.com
 cts.businesswire.com
 cse3.chausport.com
