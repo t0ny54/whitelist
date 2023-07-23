@@ -47428,6 +47428,7 @@ elmoinsurance.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 tracking.epicgames.com
+repository.eset.com
 stats.espncricinfo.com
 etrality.com
 cdn.exponea.com
@@ -48287,6 +48288,7 @@ meneer.space
 myfed.space
 api-mainnet.pool.space
 uber.space
+download.oxy.st
 voe.sx
 gogoanime.tel
 use.fvr.to
