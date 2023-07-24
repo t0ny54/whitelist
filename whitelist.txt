@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 581
+# Ignored duplicates: 582
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48068,6 +48068,7 @@ assets.rbl.ms
 sunwaydigitalwave.com.my
 17track.net
 subarumysubaruappproduction.112.2o7.net
+adtidy.net
 afrinic.net
 aiv-cdn.net
 onecollector.cloudapp.aria.akadns.net
