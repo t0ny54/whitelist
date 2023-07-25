@@ -7105,7 +7105,7 @@ pbskids.org
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains ##########
 
-# Ignored duplicates: 42
+# Ignored duplicates: 41
 
 amazon.ae
 amzn.ae
@@ -47408,6 +47408,7 @@ dooood.com
 track.doordash.com
 doppiocdn.com
 gateway.dots-services.com
+dr-farfar.com
 dropbox-dns.com
 api.dropboxapi.com
 edge.dropboxstatic.com
@@ -48060,6 +48061,7 @@ get.mndbdy.ly
 ahacdn.me
 dropmail.me
 ogp.me
+randomuser.me
 cdn.stream.schibsted.media
 files.catbox.moe
 codepush.appcenter.ms
