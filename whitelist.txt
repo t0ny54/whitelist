@@ -47363,6 +47363,7 @@ api.cleverpush.com
 static.cleverpush.com
 clickerheroes.com
 cliqz.com
+cmail19.com
 cmsbetconstruct.com
 player.cnevids.com
 coininsider.com
@@ -48090,6 +48091,7 @@ b-cdn.net
 mir-s3-cdn-cf.behance.net
 option.boldapps.net
 cdn-noc.net
+cdntips.net
 chia.net
 cs636.wac.chicdn.net
 d11rmv9we9fli4.cloudfront.net
