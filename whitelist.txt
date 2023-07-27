@@ -47180,6 +47180,7 @@ baixaki.com.br
 tm.jsuol.com.br
 tracking.totalexpress.com.br
 mng.bz
+login.cbc.ca
 turbulent.ca
 dojo.cc
 linkspy.cc
@@ -48061,6 +48062,7 @@ view.genial.ly
 get.mndbdy.ly
 ahacdn.me
 dropmail.me
+mssg.me
 ogp.me
 randomuser.me
 cdn.stream.schibsted.media
@@ -48220,7 +48222,7 @@ time.xtracloud.net
 xtratime.xboxprod.xtracloud.net
 yacy.net
 qoe-1.yottaa.net
-ad.nl
+login.ad.nl
 api.c99.nl
 disguised.nl
 mijn.overheid.nl
@@ -48258,6 +48260,7 @@ api.smartify.org
 speedcheck.org
 api.speedspot.org
 traccar.org
+trackersimulator.org
 ck.page
 instant.page
 api.nvidia.partners
