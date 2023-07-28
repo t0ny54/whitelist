@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 34
+# Ignored duplicates: 35
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 582
+# Ignored duplicates: 585
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47434,6 +47434,7 @@ tracking.epicgames.com
 repository.eset.com
 stats.espncricinfo.com
 etrality.com
+evercoss.com
 cdn.exponea.com
 puc-cdn.exponea.com
 abc-twitter.extremereach.com
@@ -47785,6 +47786,7 @@ go.sonomotors.com
 portal.store.sonyentertainmentnetwork.com
 soso.com
 i01.sozcucdn.com
+widgets.sir.sportradar.com
 shop.spreadshirt.com
 sputniknews.com
 stackpath.com
@@ -48135,6 +48137,7 @@ entrust.net
 msg.ettoday.net
 officiel-des-vacances.eulerian.net
 vps.eulerian.net
+eviltracker.net
 ellation.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
@@ -48242,6 +48245,7 @@ click.e.change.org
 learn.cisecurity.org
 codeberg.org
 consentmanager.mgr.consensu.org
+do-not-tracker.org
 static.fastpic.org
 feylibertad.org
 fwupd.org
@@ -48261,6 +48265,7 @@ speedcheck.org
 api.speedspot.org
 traccar.org
 trackersimulator.org
+xinjiangpolicefiles.org
 ck.page
 instant.page
 api.nvidia.partners
