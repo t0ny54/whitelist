@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 35
+# Ignored duplicates: 34
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 585
+# Ignored duplicates: 587
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47472,6 +47472,7 @@ api.pgpl.g5e.com
 gameforge.com
 maps.geoapify.com
 geocomply.com
+getfeedback.com
 d.ghostery.com
 gigya.com
 app.gitbook.com
@@ -47587,8 +47588,7 @@ lss.lgthinq.com
 cdpsvc.lgtvcommon.com
 recommend.lgtvcommon.com
 aic.service.lgtvcommon.com
-us.rdx2.lgtvsdp.com
-us.lgtvsdp.com
+lgtvsdp.com
 librefutboltv.com
 s3.lightboxcdn.com
 collector.lightstep.com
@@ -47848,6 +47848,7 @@ rtw.uol.com
 stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
+survey.usabilla.com
 api.useberry.com
 finanzguru.userecho.com
 uservoice.com
@@ -47991,6 +47992,7 @@ cbox.im
 files.im
 seo.spot.im
 logs.juspay.in
+events.7tv.io
 adguard-dns.io
 cc-api-data.adobe.io
 media.amlg.io
@@ -48107,6 +48109,7 @@ d291vdycu0ht11.cloudfront.net
 d2cttawv9fdszz.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
+d6tizftlrpuof.cloudfront.net
 dlp3zj68t5lvh.cloudfront.net
 dtioykqj1u8de.cloudfront.net
 dxz5jxhrrzigf.cloudfront.net
