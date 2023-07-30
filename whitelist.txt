@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 587
+# Ignored duplicates: 590
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47490,6 +47490,7 @@ afs.googleusercontent.com
 googlevideo.com
 track.goshippo.com
 gradcracker.com
+player2.h-cdn.com
 widget.haberler.com
 i.hbrcdn.com
 s.hbrcdn.com
@@ -47510,6 +47511,7 @@ mail.office.hiworks.com
 i.hizliresim.com
 hsforms.com
 hugedomains.com
+assets.huluim.com
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
 analytics.icis.com
@@ -48174,6 +48176,7 @@ mntzrlt.net
 tracking-protection.prod.mozaws.net
 az416426.vo.msecnd.net
 pixel.mxrouting.net
+img.pay.naver.net
 image.ccg.nintendo.net
 bam-eu01.cell.eu.nr-data.net
 bam.eu01.nr-data.net
@@ -48352,6 +48355,7 @@ cbox.ws
 myip.wtf
 apollopushserver.xyz
 netu.wiztube.xyz
+wpnrtnmrewunrtok.xyz
 
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
