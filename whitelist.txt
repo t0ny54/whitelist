@@ -47937,6 +47937,7 @@ hockerty.de
 homepage-baukasten.de
 idcdn.de
 ihreapotheken.de
+t.ionos.de
 ix.de
 ads.julephosting.de
 kamibox.de
@@ -48150,6 +48151,7 @@ f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
 aiv-cdn.net.c.footprint.net
+game-mode.net
 cdn.gotraffic.net
 sites.hscoscdn10.net
 hsforms.net
