@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 590
+# Ignored duplicates: 591
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47793,6 +47793,7 @@ shop.spreadshirt.com
 sputniknews.com
 stackpath.com
 stacksocial.com
+statuspage.com
 ad-im-cmg.streamguys1.com
 ad-oom-cmg.streamguys1.com
 cmg.streamguys1.com
