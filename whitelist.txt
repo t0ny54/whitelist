@@ -391,6 +391,7 @@ ahd.ruten.com.tw
 sa.bbc.co.uk
 geni.us
 za.zdn.vn
+wpnrtnmrewunrtok.xyz
 trust.zone
 
 
@@ -47158,7 +47159,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 591
+# Ignored duplicates: 592
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47230,6 +47231,7 @@ doh.dns.apple.com.v.aaplimg.com
 above.com
 abuelos.com
 ac24horas.com
+l.accesslinkk.com
 acdsystems.com
 acsechocaptiveportal.com
 activecampaign.com
@@ -47349,6 +47351,7 @@ c-ctrip.com
 cainiao.com
 canyoublockit.com
 devices.carnivalmobile.com
+carx-online.com
 production-cmp.isgprivacy.cbsi.com
 doppler-config.cbsivideo.com
 wwwimage-tve.cbsstatic.com
@@ -47774,6 +47777,7 @@ sheerid.com
 shrinkearn.com
 p.shure.com
 shutterstock.com
+silknet.com
 oup.silverchair-cdn.com
 metrics-target.siriusxm.com
 sizyreelingly.com
@@ -47879,6 +47883,7 @@ weworkremotely.com
 garry.windscribe.com
 wishpond.com
 phishingquiz.withgoogle.com
+worldnomads.com
 wpbeaches.com
 samsungapps.com.wtxcdn.com
 engage.xbox.com
@@ -47970,6 +47975,7 @@ web.diagnostic.networking.aws.dev
 consent.dk
 netbank.nordea.dk
 iutoic-dhaka.edu
+shibboleth.main.ad.rit.edu
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
@@ -48358,7 +48364,6 @@ cbox.ws
 myip.wtf
 apollopushserver.xyz
 netu.wiztube.xyz
-wpnrtnmrewunrtok.xyz
 
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
