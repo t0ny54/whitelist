@@ -4394,6 +4394,7 @@ jwpcdn.com
 content.jwplatform.com
 cdn.jwplayer.com
 jwpsrv.com
+cfvod.kaltura.com
 kickstarter.com
 kidsfootlocker.com
 kingworldnews.com
@@ -47159,7 +47160,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 592
+# Ignored duplicates: 593
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47255,6 +47256,7 @@ tracker-g.aiscore.com
 akamai-images-content.com
 time.akamai.com
 track.aliexpress.com.gds.alibabadns.com
+zconfig.alibabausercontent.com
 ilog-sea-aliyun.alipayplus.com
 mirrors.aliyun.com
 component-ota-in.allawnos.com
@@ -47559,7 +47561,6 @@ tv.jsrdn.com
 click.justwatch.com
 kajabi-cdn.com
 cdnapisec.kaltura.com
-cfvod.kaltura.com
 karenpryoracademy.com
 keslerscience.com
 m1-daum-apcajdmm.kgslb.com
@@ -47830,6 +47831,7 @@ tnt-ea.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
 c.trackmytarget.com
+tradehq.com
 cdn.transifex.com
 api-v4.trbo.com
 static-v2.trbo.com
@@ -47838,6 +47840,7 @@ trello.com
 log.tresorit.com
 consent.trustarc.com
 consent-pref.trustarc.com
+trustev.com
 cdn.ttgtmedia.com
 canvas.tubitv.com
 cdn.turner.com
@@ -47901,6 +47904,7 @@ ypncdn.com
 ytimg.com
 zeelool.com
 zephr.com
+crm.zoho.com
 zopim.com
 hw.zuimeitianqi.com
 heureka.cz
@@ -48416,10 +48420,12 @@ adservice.google.ch
 view.email.nzz.ch
 adservice.google.ci
 adservice.google.co.ck
+adservice.google.com.cl
 adservice.google.cl
 prod-rotation-v2.guce.aws.oath.cloud
 real.rotation.guce.aws.oath.cloud
 adservice.google.cm
+adservice.google.cn
 adservice.google.com.co
 customers.esp1.co
 track.grove.co
@@ -48887,7 +48893,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 140
+# Ignored duplicates: 141
 
 api.cortana.ai
 uol.com.br
@@ -48963,7 +48969,6 @@ na1r.services.adobe.com
 hlrcv.stage.adobe.com
 lmlicenses.wip4.adobe.com
 alcohol-soft.com
-zconfig.alibabausercontent.com
 alimama.com
 promotion.aliyun.com
 aiseet.atianqi.com
