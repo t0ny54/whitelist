@@ -47279,6 +47279,7 @@ unityprod.answerhub.com
 k.apiairasia.com
 appboy-images.com
 assets-secure.applicaster.com
+art-analytics.appspot.com
 appsumo.com
 video-api.bostonglobe.arcpublishing.com
 video-api-cdn.bostonglobe.arcpublishing.com
@@ -47514,6 +47515,7 @@ static-assets.highwebmedia.com
 hiperdex.com
 mail.office.hiworks.com
 i.hizliresim.com
+hreski.com
 hsforms.com
 hugedomains.com
 assets.huluim.com
@@ -47528,6 +47530,7 @@ e.imguol.com
 h.imguol.com
 api.immomo.com
 imore.com
+credit-agricole-compagnon.inbenta.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
 ivantiinnovators.influitive.com
@@ -47735,6 +47738,7 @@ assets.realclear.com
 cdn.reamaze.com
 cdn.rebuyengine.com
 images.redbox.com
+track.redbubble.com
 cf-iomeu-cdn.relaxg.com
 reliaquest.com
 internal.cloud.remarkable.com
@@ -48344,6 +48348,7 @@ save.tv
 reg.biv.sony.tv
 service.biv.sony.tv
 update.biv.sony.tv
+ad.wpstr.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
@@ -48382,9 +48387,11 @@ adservice.google.af
 adservice.google.com.ag
 adservice.google.ag
 adservice.google.com.ai
+adservice.google.off.ai
 adservice.google.al
 adservice.google.am
 adservice.google.co.ao
+adservice.google.it.ao
 adservice.google.com.ar
 adservice.google.arab
 adservice.google.as
@@ -48407,6 +48414,7 @@ adservice.google.com.br
 adservice.google.bs
 adservice.google.bt
 adservice.google.co.bw
+adservice.google.com.by
 adservice.google.by
 adservice.google.com.bz
 adservice.google.ca
@@ -48602,6 +48610,7 @@ t.emailing.monoprix.fr
 solution.weborama.fr
 adservice.google.ga
 adservice.google.gd
+adservice.google.com.ge
 adservice.google.ge
 adservice.google.gf
 adservice.google.gg
@@ -48610,6 +48619,7 @@ adservice.google.com.gi
 adservice.google.gl
 adservice.google.gm
 adservice.google.gp
+adservice.google.com.gr
 adservice.google.gr
 adservice.google.com.gt
 adservice.google.gy
@@ -48620,6 +48630,7 @@ adservice.google.hk
 adservice.google.hn
 adservice.google.hr
 adservice.google.ht
+adservice.google.co.hu
 adservice.google.hu
 adservice.google.co.id
 adservice.google.ie
@@ -48638,15 +48649,19 @@ email.namebase.io
 track.productsup.io
 pxf.io
 geo-gcp.cdn.springernature.io
+adservice.google.com.iq
 adservice.google.iq
 adservice.google.is
 adservice.google.it
 click.pstmrk.it
+adservice.google.co.je
 adservice.google.je
 adservice.google.com.jm
+adservice.google.com.jo
 adservice.google.jo
 adservice.google.co.jp
 adservice.google.jp
+adservice.google.ne.jp
 adservice.google.co.ke
 adservice.google.kg
 adservice.google.com.kh
@@ -48797,6 +48812,7 @@ adservice.google.nl
 adservice.google.no
 lddy.no
 adservice.google.com.np
+adservice.google.com.nr
 adservice.google.nr
 adservice.google.nu
 adservice.google.co.nz
@@ -48817,6 +48833,7 @@ adservice.google.physio
 adservice.google.com.pk
 adservice.google.pk
 auto-swiat.pl
+adservice.google.com.pl
 adservice.google.pl
 marketing.tr.netsalesmedia.pl
 adservice.google.pn
@@ -48830,6 +48847,7 @@ adservice.google.qa
 adservice.google.re
 adservice.google.ro
 adservice.google.rs
+adservice.google.com.ru
 adservice.google.ru
 redirect.appmetrica.yandex.ru
 adservice.google.rw
@@ -48860,6 +48878,7 @@ adservice.google.com.tj
 adservice.google.tk
 adservice.google.tl
 adservice.google.tm
+adservice.google.com.tn
 adservice.google.tn
 adservice.google.to
 adservice.google.com.tr
@@ -48878,6 +48897,7 @@ adservice.google.co.uz
 adservice.google.uz
 adservice.google.com.vc
 adservice.google.co.ve
+adservice.google.com.ve
 adservice.google.vg
 adservice.google.co.vi
 adservice.google.com.vn
@@ -49843,6 +49863,7 @@ b.hatena.ne.jp
 mjt.lu
 mixnews.lv
 fb.me
+api.line.me
 mqtt.pushy.me
 resolver.msg.xiaomi.ne
 pimg1.126.net
@@ -49858,6 +49879,7 @@ fe2.update.microsoft.com.akadns.net
 sls.update.microsoft.com.akadns.net
 statsfe2.update.microsoft.com.akadns.net
 ui.skype.akadns.net
+e1102.a.akamaiedge.net
 e16973.a.akamaiedge.net
 e1151.e12.akamaiedge.net
 e3843.g.akamaiedge.net
@@ -49868,6 +49890,7 @@ codecanyon.net
 blog.csdn.net
 wac.edgecastcdn.net
 cp76677.edgefcs.net
+today.line.me.edgekey.net
 limited-prod.giphy.map.fastly.net
 he.net
 cds.d2s7q6s2.hwcdn.net
