@@ -47160,7 +47160,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 593
+# Ignored duplicates: 594
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47207,6 +47207,7 @@ happyelements.cn
 knet.cn
 puui.qpic.cn
 online.sh.cn
+aylink.co
 cdnjs.cloudflare.co
 i.doodcdn.co
 i.ibb.co
@@ -47881,6 +47882,7 @@ api.vizio.com
 images.vizio.com
 ims.vodafone.com
 void-scans.com
+ek8.voyage-prive.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
@@ -48135,6 +48137,7 @@ code-examples.net
 consentmanager.net
 contaboserver.net
 get.contentpass.net
+cosmote.net
 searchg2.crownpeak.net
 mc.cubecdn.net
 daumcdn.net
