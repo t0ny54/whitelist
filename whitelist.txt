@@ -47160,7 +47160,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 594
+# Ignored duplicates: 605
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47750,6 +47750,7 @@ api.revenuecat.com
 rncdn7.com
 ephemeralcounters.api.roblox.com
 locale.roblox.com
+tracking.rosettastone.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
 api.glb.samsung-gamelauncher.com
