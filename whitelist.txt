@@ -47160,7 +47160,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 605
+# Ignored duplicates: 604
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47480,7 +47480,6 @@ gameforge.com
 maps.geoapify.com
 geocomply.com
 getfeedback.com
-d.ghostery.com
 gigya.com
 app.gitbook.com
 gizmodern.com
@@ -48198,6 +48197,7 @@ mntzrlt.net
 tracking-protection.prod.mozaws.net
 az416426.vo.msecnd.net
 pixel.mxrouting.net
+papago.naver.net
 img.pay.naver.net
 image.ccg.nintendo.net
 bam-eu01.cell.eu.nr-data.net
@@ -48253,6 +48253,7 @@ time.xtracloud.net
 xtratime.xboxprod.xtracloud.net
 yacy.net
 qoe-1.yottaa.net
+getipcountry.zoe.net
 login.ad.nl
 api.c99.nl
 disguised.nl
