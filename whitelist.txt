@@ -47730,6 +47730,7 @@ pubnub.com
 sdk.qikify.com
 msf.3g.qq.com
 msfwifi.3g.qq.com
+img.itop.qq.com
 wxsnsdy.wxs.qq.com
 quicns.com
 ablink.account.quizlet.com
@@ -47999,6 +48000,7 @@ ioc.exchange
 hintaopas.fi
 tili.sanoma.fi
 asiakas.valokuitunen.fi
+feature.fm
 tr.notification.cetelem.fr
 segura-moto.fr
 bestgore.fun
@@ -49147,6 +49149,7 @@ live.simcitybuildit.com
 haohuo.snssdk.com
 is.snssdk.com
 img.shouji.sogou.com
+input.shouji.sogou.com
 sogoucdn.com
 pv.sohu.com
 api.tv.sohu.com
