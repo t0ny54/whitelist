@@ -47252,6 +47252,7 @@ aeotec.com
 aerisapi.com
 afternic.com
 searchapi.agoda.com
+tracking.agsystems.com
 content.aimatch.com
 airydress.com
 tracker-g.aiscore.com
@@ -47354,6 +47355,7 @@ w1.buysub.com
 starling-oversea.byteoversea.com
 c-ctrip.com
 cainiao.com
+l.engage.canva.com
 canyoublockit.com
 devices.carnivalmobile.com
 carx-online.com
@@ -47497,6 +47499,7 @@ afs.googleusercontent.com
 googlevideo.com
 track.goshippo.com
 gradcracker.com
+guhantara.com
 player2.h-cdn.com
 widget.haberler.com
 i.hbrcdn.com
@@ -47504,6 +47507,7 @@ s.hbrcdn.com
 location-api.hdhomerun.com
 tuner-api.hdhomerun.com
 glimmer.hearstapps.com
+hips.hearstapps.com
 sdp.helpdocsonline.com
 embed.tagboard.com.herokudns.com
 hexun.com
@@ -47518,6 +47522,7 @@ mail.office.hiworks.com
 i.hizliresim.com
 hreski.com
 hsforms.com
+api.hubapi.com
 hugedomains.com
 assets.huluim.com
 ads-e-darwin.hulustream.com
@@ -47665,6 +47670,7 @@ nairaland.com
 cdn-customers.nanorep.com
 sephora.narvar.com
 tracking.narvar.com
+cm.naukri.com
 tivan.naver.com
 netcoresmartech.com
 netiq.com
@@ -48029,6 +48035,8 @@ chatra.io
 chatserver15.comm100.io
 cdn.elev.io
 formspree.io
+htv-streaming-otfp.hearst.io
+nitehawk.hearst.io
 storage.leafmedia.io
 cs.liiift.io
 api.loganalytics.io
@@ -48092,6 +48100,7 @@ dropmail.me
 mssg.me
 ogp.me
 randomuser.me
+thedise.me
 cdn.stream.schibsted.media
 files.catbox.moe
 codepush.appcenter.ms
