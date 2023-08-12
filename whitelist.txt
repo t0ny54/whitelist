@@ -4205,14 +4205,12 @@ aus.waterfox.net
 
 ########## Blocklist from https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersDomainsAllowlist.txt ##########
 
-# Ignored duplicates: 4
+# Ignored duplicates: 6
 
 isdownorblocked.com
 ads.mst.dk
 admin-mcas.ms
 cas.ms
-dnb.no.edgekey.net
-elkjop.no.edgekey.net
 ad.dep.no
 annonser.gess.no
 ad.hem.no
@@ -4221,7 +4219,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 135
+# Ignored duplicates: 137
 
 media-lab.ai
 gmx.at
@@ -4618,13 +4616,11 @@ t.ly
 st.mycdn.me
 j.mp
 70i.net
-e3489.cd.akamaiedge.net
 alternativeto.net
 manifest.prod.boltdns.net
 bowercdn.net
 db.local.clamav.net
 cdn.datatables.net
-static.www.odcdn.com.edgekey.net
 edgesuite.net
 brightcove.map.fastly.net
 filmyhd.net
@@ -4773,7 +4769,7 @@ gitcdn.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
 
-# Ignored duplicates: 100
+# Ignored duplicates: 101
 
 sbs.com.au
 acdn.adnxs.com
@@ -4801,7 +4797,6 @@ stats.streamelements.com
 link.theplatform.com
 track.ucas.com
 adf.ly
-e7065.e2.akamaiedge.net
 dcs-vod.apis.anvato.net
 d2c8v52ll5s99u.cloudfront.net
 dsms0mj1bbhn4.cloudfront.net
@@ -47160,7 +47155,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 604
+# Ignored duplicates: 639
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47256,8 +47251,8 @@ tracking.agsystems.com
 content.aimatch.com
 airydress.com
 tracker-g.aiscore.com
+akamai.com
 akamai-images-content.com
-time.akamai.com
 track.aliexpress.com.gds.alibabadns.com
 zconfig.alibabausercontent.com
 ilog-sea-aliyun.alipayplus.com
@@ -47540,6 +47535,7 @@ credit-agricole-compagnon.inbenta.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
 ivantiinnovators.influitive.com
+informer.com
 vr331.infusionsoft.com
 ink1001.com
 intheswim.com
@@ -47586,6 +47582,7 @@ klikdokter.com
 manage.kmail-lists.com
 koisea.com
 kompas.com
+sharing.kptncook.com
 ku6.com
 kxcdn.com
 lalpathlabs.com
@@ -47864,6 +47861,7 @@ embed.typeform.com
 ping.ui.com
 ultimedia.com
 umaiclothing.com
+builder-assets.unbounce.com
 answers.unity.com
 create.unity.com
 unmineable.com
@@ -47876,6 +47874,7 @@ api.useberry.com
 finanzguru.userecho.com
 uservoice.com
 cdn77.utomik.com
+vallettaferryservices.com
 vbout.com
 vcreatek.com
 vcs.vdspf.com
@@ -48008,6 +48007,7 @@ hintaopas.fi
 tili.sanoma.fi
 asiakas.valokuitunen.fi
 feature.fm
+akamaitechnologies.fr
 tr.notification.cetelem.fr
 segura-moto.fr
 bestgore.fun
@@ -48016,6 +48016,7 @@ shoppy.gg
 time-a.timefreq.bldrdoc.gov
 connect-line.gr
 sch.gr
+accesstrade.co.id
 docdro.id
 cbox.im
 files.im
@@ -48112,15 +48113,17 @@ subarumysubaruappproduction.112.2o7.net
 adtidy.net
 afrinic.net
 aiv-cdn.net
-onecollector.cloudapp.aria.akadns.net
-apple.com.akadns.net
-itunes-cdn.itunes-apple.com.akadns.net
-nexusrules.live.com.akadns.net
-data.microsoft.com.akadns.net
-iphone-ld.origin-apple.com.akadns.net
-spotify.com.akahost.net
+akadns.net
+akahost.net
+akam.net
 akamai.net
-e2725.g.akamaiedge.net
+akamaiedge.net
+akamaiedge-staging.net
+akamaistream.net
+akamaitech.net
+akaquill.net
+akasecure.net
+akasripcn.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
 apple-dns.net
@@ -48157,17 +48160,7 @@ edge-irl1.demdex.net
 gslb-2.demdex.net
 dynu.net
 cdns-content.dzcdn.net
-79423.analytics.edgekey.net
-cdn-kaltura-dscd.edgekey.net
-telemetry-console.api.playstation.com-v2.edgekey.net
-api.agoda.com.edgekey.net
-apple.com.edgekey.net
-exacttarget.com.edgekey.net
-cdn.livechat.com.edgekey.net
-stats-trafficcop-prod.nba.com.edgekey.net
-www.usopc.com.edgekey.net
-brightline.tv.edgekey.net
-mybbc-analytics.files.bbci.co.uk.edgekey.net
+edgekey.net
 lforr.elainelfo.net
 entrust.net
 msg.ettoday.net
@@ -48242,6 +48235,8 @@ selezen.net
 at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
+des.smartclip.net
+ad-ipd.sxp.smartclip.net
 applicast.ga.sony.net
 pov.spectrum.net
 api.st-av.net
@@ -48277,6 +48272,7 @@ fakeshop-finder.nrw
 drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
+akagtm.org
 statistics.bcapps.org
 boyter.org
 camopedia.org
@@ -48395,7 +48391,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 242
+# Ignored duplicates: 265
 
 adservice.google.ac
 adservice.google.ad
@@ -48729,21 +48725,6 @@ tk6if76q.ab1n.net
 a1.adform.net
 adobetarget.data.adobedc.net
 tags.adsafety.net
-a1.adformnet.akadns.net
-track-eu.adformnet.akadns.net
-track.cj.akadns.net
-bs.eyeblaster.akadns.net
-tp00.everesttech.net.akadns.net
-e6351.b.akamaiedge.net
-e1020.dscb.akamaiedge.net
-e29077.dscf.akamaiedge.net
-e16749.dscx.akamaiedge.net
-e11290.dspg.akamaiedge.net
-e4601.e3.akamaiedge.net
-e12881.ksd.akamaiedge.net
-e7517.ksd.akamaiedge.net
-e11956.x.akamaiedge.net
-e3124.x.akamaiedge.net
 disneyplus.bn5x.net
 d10w4ikcrdu13z.cloudfront.net
 d1y3gece3kbb7v.cloudfront.net
@@ -48753,14 +48734,6 @@ d3kuri221qk0z7.cloudfront.net
 daohujjuqyjmm.cloudfront.net
 dpzgml710ukw5.cloudfront.net
 fp2d9f.wac.68b8.edgecastcdn.net
-x.bestcheck.de.29077.edgekey.net
-tags.news.com.au.edgekey.net
-postsign.docusign.com-2.edgekey.net
-eu1111.alicdn.com.edgekey.net
-www.awin1.com.edgekey.net
-cts.businesswire.com.edgekey.net
-go.microsoft.com.edgekey.net
-promo.mobile.de.edgekey.net
 suite15.emarsys.net
 chausport.eulerian.net
 darty-com.eulerian.net
@@ -49253,7 +49226,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 618
+# Ignored duplicates: 643
 
 1hosts.cf
 abuse.ch
@@ -49443,37 +49416,12 @@ auth.gfx.ms
 mem.gfx.ms
 oneclient.sfx.ms
 a-msedge.net
-us.configsvc1.live.com.akadns.net
 login.msa.akadns6.net
 cdn.arstechnica.net
 media.arstechnica.net
 location-inference-westus.cloudapp.net
 d1a62freaxhn7x.cloudfront.net
 d3a510xmpll7o6.cloudfront.net
-docs.microsoft.com-c.edgekey.net
-www.zee5.com-v1.edgekey.net
-gwapi.zee5.com-v2.edgekey.net
-useraction.zee5.com-v2.edgekey.net
-userapi.zee5.com-v4.edgekey.net
-s0-san.cloudinary.com.edgekey.net
-images.financialexpress.com.edgekey.net
-pmdssl.flixkart.com.edgekey.net
-www.icloud.com.edgekey.net
-account.microsoft.com.edgekey.net
-compass-ssl.microsoft.com.edgekey.net
-cp701-prod.do.dsp.mp.microsoft.com.edgekey.net
-kv701-prod.do.dsp.mp.microsoft.com.edgekey.net
-wildcard.weather.microsoft.com.edgekey.net
-drop.ndtv.com.edgekey.net
-ipv6.ndtv.com.edgekey.net
-m-config.ndtv.com.edgekey.net
-voddownload.ndtv.com.edgekey.net
-access.redhat.com.edgekey.net
-www.tatacliq.com.edgekey.net
-assetsuat2.tataunistore.com.edgekey.net
-zomato.com.edgekey.net
-cdn.onenote.net.edgekey.net
-zmtcdn.edgekey.net
 beta.spotify.map.fastly.net
 fast.fonts.net
 auto.au.download.windowsupdate.com.c.footprint.net
@@ -49623,7 +49571,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 544
+# Ignored duplicates: 555
 
 a.run.app
 ipv4only.arpa
@@ -49819,7 +49767,6 @@ cname.tradepub.com
 surveys.twilio.com
 safe.txmblr.com
 use.typekit.com
-builder-assets.unbounce.com
 unbouncepages.com
 updatefaker.com
 amp.usatoday.com
@@ -49893,15 +49840,6 @@ static.3001.net
 8ch.net
 crunchyroll.adtrackers.net
 serve.adtrackers.net
-www-cdn.icloud.com.akadns.net
-fe2.update.microsoft.com.akadns.net
-sls.update.microsoft.com.akadns.net
-statsfe2.update.microsoft.com.akadns.net
-ui.skype.akadns.net
-e1102.a.akamaiedge.net
-e16973.a.akamaiedge.net
-e1151.e12.akamaiedge.net
-e3843.g.akamaiedge.net
 crunchyroll.bannertrack.net
 d3orhvfyxudxxq.cloudfront.net
 d9hhrg4mnvzow.cloudfront.net
@@ -49909,7 +49847,6 @@ codecanyon.net
 blog.csdn.net
 wac.edgecastcdn.net
 cp76677.edgefcs.net
-today.line.me.edgekey.net
 limited-prod.giphy.map.fastly.net
 he.net
 cds.d2s7q6s2.hwcdn.net
@@ -49975,7 +49912,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 295
+# Ignored duplicates: 296
 
 theship.club
 cpro.baidu.cn
@@ -50158,7 +50095,6 @@ ms-vibbo--api-gateway.spain.schibsted.io
 profile-api.spt-mkt-trust-pro.schibsted.io
 cdn.svp.schibsted.io
 profile-api.trust.schibsted.io
-e8218.dscb1.akamaiedge.net
 3p.ampproject.net
 carbonads.net
 collect12654frmsl.deltadna.net
@@ -50219,7 +50155,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3776
+# Ignored duplicates: 3781
 
 www.google.com.af
 www.google.com.ag
@@ -50456,12 +50392,7 @@ www.google.com.my
 www.google.co.mz
 www.google.com.na
 api.eu-west-1.aiv-delivery.net
-geo.paypalobjects.com.akadns.net
-hotspot.paypalobjects.com.akadns.net
-map.paypalobjects.com.akadns.net
 d3l3lkinz3f56t.cloudfront.net
-paypalobjects.com-a.edgekey.net
-paypal.com.edgekey.net
 cls.s7.exct.net
 prod.appnexus.map.fastly.net
 bugs.launchpad.net
