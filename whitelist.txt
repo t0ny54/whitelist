@@ -47155,7 +47155,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 639
+# Ignored duplicates: 640
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47433,6 +47433,7 @@ update.easebar.com
 ekomi.com
 img.ekstat.com
 elmoinsurance.com
+emb-api.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 tracking.epicgames.com
@@ -47893,6 +47894,7 @@ ek8.voyage-prive.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
+warthunder.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
 weworkremotely.com
@@ -48107,6 +48109,7 @@ files.catbox.moe
 codepush.appcenter.ms
 in.appcenter.ms
 assets.rbl.ms
+tracking.pos.com.my
 sunwaydigitalwave.com.my
 17track.net
 subarumysubaruappproduction.112.2o7.net
@@ -48157,6 +48160,7 @@ searchg2.crownpeak.net
 mc.cubecdn.net
 daumcdn.net
 edge-irl1.demdex.net
+fifa.demdex.net
 gslb-2.demdex.net
 dynu.net
 cdns-content.dzcdn.net
@@ -48349,6 +48353,7 @@ pdcdn1.top
 pressplay.top
 chip.com.tr
 analytics.halkbank.com.tr
+uedas.com.tr
 widget.yenimedya.com.tr
 ilan.gov.tr
 cdn.brid.tv
