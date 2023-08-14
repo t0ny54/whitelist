@@ -48166,6 +48166,13 @@ dynu.net
 cdns-content.dzcdn.net
 edgekey.net
 lforr.elainelfo.net
+list-unsubscribe.eservice.emarsys.net
+me-client.eservice.emarsys.net
+me-inbox.eservice.emarsys.net
+push.eservice.emarsys.net
+redirector.eservice.emarsys.net
+webchannel-content.eservice.emarsys.net
+mobile-sdk-config.gservice.emarsys.net
 entrust.net
 msg.ettoday.net
 officiel-des-vacances.eulerian.net
@@ -48288,6 +48295,7 @@ codeberg.org
 consentmanager.mgr.consensu.org
 do-not-tracker.org
 static.fastpic.org
+featuregates.org
 feylibertad.org
 fwupd.org
 getmonero.org
