@@ -354,6 +354,8 @@ zmctrack.net
 znctrack.net
 stripe.network
 jumia.com.ng
+aa.tweakers.nl
+ab.tweakers.nl
 hsdn.org
 ip-tracker.org
 ipify.org
@@ -44169,6 +44171,7 @@ shrinkurl.us
 togoto.us
 turo.us
 by.com.vn
+bitly.ws
 fly2.ws
 hurl.ws
 tinyarro.ws
@@ -47155,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 640
+# Ignored duplicates: 643
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47617,6 +47620,7 @@ mackeeper.com
 mailerlite.com
 f1.mailperformance.com
 majesticseo.com
+maleextra.com
 mandrillapp.com
 manga18sx.com
 manli.com
@@ -47786,6 +47790,8 @@ shalltry.com
 ws.sharethis.com
 sharkoon.com
 sheerid.com
+c-api-bit.shopeemobile.com
+patronus.idata.shopeemobile.com
 shrinkearn.com
 p.shure.com
 shutterstock.com
@@ -48019,6 +48025,7 @@ time-a.timefreq.bldrdoc.gov
 connect-line.gr
 sch.gr
 accesstrade.co.id
+pdamtbwkotasmi.co.id
 docdro.id
 cbox.im
 files.im
@@ -48059,6 +48066,7 @@ proctor.io
 qt.io
 assets.rebelmouse.io
 searchnode.io
+ccms.shopee.io
 eu.spgo.io
 auth.split.io
 cdn.split.io
@@ -48181,6 +48189,7 @@ eviltracker.net
 ellation.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
+fmhy.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
@@ -48202,6 +48211,7 @@ sportdeu-relay.iocnt.net
 livechat.ivpn.net
 blog.kakaocdn.net
 leakix.net
+lekane.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
 content.video.llnw.net
@@ -48276,8 +48286,6 @@ login.ad.nl
 api.c99.nl
 disguised.nl
 mijn.overheid.nl
-aa.tweakers.nl
-ab.tweakers.nl
 payment.schibsted.no
 fakeshop-finder.nrw
 drscdn.500px.org
