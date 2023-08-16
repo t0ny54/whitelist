@@ -47158,7 +47158,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 643
+# Ignored duplicates: 644
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47462,6 +47462,7 @@ ff-02.com
 ff-03.com
 ff-04.com
 ff-05.com
+figshare.com
 filedropper.com
 filehorse.com
 homedepot.cdn.findly.com
@@ -47834,6 +47835,7 @@ track.talabat.com
 talentwunder.com
 tantanapp.com
 tarafdari.com
+techbargains.com
 p11.techlab-cdn.com
 thecanadianpharmacy.com
 thecubexguide.com
@@ -48383,6 +48385,7 @@ save.tv
 reg.biv.sony.tv
 service.biv.sony.tv
 update.biv.sony.tv
+sweet.tv
 ad.wpstr.tv
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
