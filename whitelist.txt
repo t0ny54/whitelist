@@ -243,6 +243,7 @@ viglink.com
 visualwebsiteoptimizer.com
 we-stats.com
 webclicks24.com
+webengage.com
 webtrends.com
 xg4ken.com
 xiti.com
@@ -47158,7 +47159,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 644
+# Ignored duplicates: 645
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47382,6 +47383,7 @@ commentsengine.com
 compaq.com
 contabostorage.com
 analytics.controld.com
+stats.controld.com
 controlup.com
 cookie-cdn.cookiepro.com
 api.cookiespool.com
@@ -47482,6 +47484,8 @@ api.pgpl.g5e.com
 gameforge.com
 maps.geoapify.com
 geocomply.com
+ctl.prd.bi.getbux.com
+costco-tracking.getconvey.com
 getfeedback.com
 gigya.com
 app.gitbook.com
@@ -47800,6 +47804,8 @@ silknet.com
 oup.silverchair-cdn.com
 metrics-target.siriusxm.com
 sizyreelingly.com
+analytics.global.sky.com
+metrics.sky.com
 pixel.disco.skyshowtime.com
 api.snapkit.com
 internal-api.snapkit.com
@@ -47898,6 +47904,7 @@ api.vizio.com
 images.vizio.com
 ims.vodafone.com
 void-scans.com
+cdn.voscast.com
 ek8.voyage-prive.com
 apicache.vudu.com
 engage.vzw.com
@@ -49250,7 +49257,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 643
+# Ignored duplicates: 644
 
 1hosts.cf
 abuse.ch
@@ -49405,7 +49412,6 @@ assets.ubuntu.com
 unsplash.com
 viber.com
 vimeo.com
-cdn.voscast.com
 www.w3school.com
 w3schools.com
 wccftech.com
