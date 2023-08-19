@@ -47174,7 +47174,7 @@ noip.at
 ssl.o.auspost.com.au
 metrics.leaptel.com.au
 sportsbet.com.au
-www.smartnews.be
+smartnews.be
 content-media.bonial.biz
 flvto.biz
 baixaki.com.br
@@ -47843,6 +47843,7 @@ tantanapp.com
 tarafdari.com
 techbargains.com
 p11.techlab-cdn.com
+cloudcache.tencentcs.com
 thecanadianpharmacy.com
 thecubexguide.com
 thethings.com
@@ -48117,6 +48118,7 @@ view.genial.ly
 get.mndbdy.ly
 ahacdn.me
 dropmail.me
+foxo.me
 mssg.me
 ogp.me
 randomuser.me
@@ -48422,7 +48424,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 265
+# Ignored duplicates: 281
 
 adservice.google.ac
 adservice.google.ad
