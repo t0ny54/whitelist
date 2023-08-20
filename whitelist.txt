@@ -47167,6 +47167,7 @@ sp-ao.shortpixel.ai
 curve.app
 ip.istatmenus.app
 get.massive.app
+secureshellfish.app
 safebrowsing.apple
 clk.asia
 domaintechnik.at
@@ -48021,6 +48022,7 @@ kwrn.eu
 lighthouselabs.eu
 escortalligator.com.listcrawler.eu
 ioc.exchange
+fonecta.fi
 hintaopas.fi
 tili.sanoma.fi
 asiakas.valokuitunen.fi
