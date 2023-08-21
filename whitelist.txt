@@ -47159,7 +47159,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 645
+# Ignored duplicates: 646
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47689,6 +47689,7 @@ newbedev.com
 news9.com
 p.nfltags.com
 nolo.com
+family.norton.com
 f1.np6.com
 tr.np6.com
 ntp-fireos.com
@@ -47736,6 +47737,7 @@ videos.porndig.com
 postup.com
 go.powunity.com
 monitor.ppcprotect.com
+pressablecdn.com
 cdn.pricespider.com
 primevideo.com
 cdn.privacy-mgmt.com
@@ -47765,6 +47767,7 @@ api.revenuecat.com
 rncdn7.com
 ephemeralcounters.api.roblox.com
 locale.roblox.com
+robvanderwoude.com
 tracking.rosettastone.com
 ipe-pmt.prod.sabre.com
 images.salsify.com
@@ -49940,6 +49943,8 @@ yerl.org
 ipredator.se
 opera.software
 static.ada.support
+api.metro.taipei
+ws.metro.taipei
 mljt.tech
 login.microsoftonline.us
 
