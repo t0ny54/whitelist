@@ -5342,7 +5342,7 @@ trkr.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/bank/domains ##########
 
-# Ignored duplicates: 173
+# Ignored duplicates: 175
 
 nba.ai
 acba.am
@@ -5775,6 +5775,7 @@ dollarbank.com
 dresdner-bank.com
 drydenbank.com
 dubuquebank.com
+e-i.com
 eagle-bank.com
 eaglebankmn.com
 eaglenational.com
@@ -6487,6 +6488,7 @@ wesbanco.com
 westcoastbancorp.com
 westernbankwp.com
 westernsecuritybank.com
+westernunion.com
 wienerprivatbank.com
 wilberbank.com
 wilmingtontrust.com
@@ -6702,9 +6704,13 @@ ca-sudrhonealpes.fr
 ca-toulousain.fr
 ca-tourainepoitou.fr
 ccso.fr
+cetelem.fr
+cetelem-paiement.fr
 cmb.fr
 credit-du-nord.fr
 credit-municipal-toulouse.fr
+floabank.fr
+floapay.fr
 garantiedesdepots.fr
 ing.fr
 jyskebank.fr
@@ -7105,7 +7111,7 @@ pbskids.org
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/shopping/domains ##########
 
-# Ignored duplicates: 41
+# Ignored duplicates: 42
 
 amazon.ae
 amzn.ae
@@ -9355,6 +9361,7 @@ aliiflowers.com
 alilbitoeurope.com
 alincocostumes.com
 alincolnbookshop.com
+alinea.com
 alinejewelryandcrafts.com
 alisamichelle.com
 alisboutique.com
@@ -9928,6 +9935,7 @@ animeusaexpress.com
 animeversand.com
 animusic.com
 anistop.com
+anja-paris.com
 anjingkucing.com
 anjooriansilks.com
 anjuu.com
@@ -10586,6 +10594,7 @@ atelier-ikeda.com
 atelier-isabelle.com
 atelierbasketcase.com
 atelierbizarre.com
+ateliergigogne.com
 ateliershopping.com
 atendacelta.com
 atennisoutlet.com
@@ -11614,6 +11623,7 @@ beauxties.com
 beaverboxes.com
 beavercreekflorist.com
 bebe.com
+bebesaurus.com
 bebold.com
 beckers.com
 beckersurf.com
@@ -12313,6 +12323,7 @@ blahdvd.com
 blaircandy.com
 blairline.com
 blanchardsliquor.com
+blandindelloye.com
 blank-wall.com
 blankcaps.com
 blankdvdmedia.com
@@ -12348,6 +12359,7 @@ blingspiritglitter.com
 blissfulbalance.com
 blissfulbeadwork.com
 blissworld.com
+blitz-bazar.com
 blitzsport.com
 blockbuster.com
 blockbusterbowling.com
@@ -12681,6 +12693,8 @@ boots4cowboys.com
 bootsandshoes.com
 bootsphoto.com
 bootylandkids.com
+boozt.com
+booztcdn.com
 bordeauxwineweb.com
 borderlandsbooks.com
 bordersstores.com
@@ -13758,6 +13772,7 @@ casertaitalia.com
 casesforcollectibles.com
 caseyswood.com
 casfoods.com
+cash-piscines.com
 cashmeresocks.com
 cashs.com
 casinosupply.com
@@ -15008,6 +15023,7 @@ conservativebookclub.com
 conservativebookservice.com
 conservatoryheating.com
 consignmentfirst.com
+consobrico.com
 console24.com
 consolesandgadgets.com
 consolesource.com
@@ -17311,6 +17327,9 @@ edinburghpenshop.com
 ediscountshopping.com
 edish.com
 edithsdaylilies.com
+editions-artemis.com
+editions-grenouille.com
+editions-retz.com
 editorialesargentinas.com
 edlpmed.com
 edly.com
@@ -17424,6 +17443,7 @@ electrikmotion.com
 electrojunk.com
 electrokits.com
 electroline4u.com
+electromenager-compare.com
 electromust.com
 electronic-boulevard.com
 electronicasuiza.com
@@ -17798,6 +17818,7 @@ especiallyforyouflorist.com
 especiallyyours.com
 espintech.com
 espion-on-line.com
+espncdn.com
 esportshound.com
 esportsonline.com
 espresso-international.com
@@ -23933,6 +23954,7 @@ lacrossemonkey.com
 ladiesonlysports.com
 ladybugjunctioncountrycrafts.com
 lafeenoire.com
+lafermetropicale.com
 laguiole-knife-corkscrew.com
 lagunatools.com
 lahalle.com
@@ -24145,6 +24167,7 @@ lynnvickproducts.com
 lyonsstudio.com
 lyonsuniforms.com
 lyreco.com
+lystit.com
 lythastudios.com
 m-faces.com
 m-i-u.com
@@ -24613,6 +24636,7 @@ maternityandbabyshoppingmart.com
 maternityapparel.com
 maternitystop.com
 mathismusic.com
+boutique.mathou.com
 matlockminiatures.com
 matmanwrestling.com
 matrioshka-gift-shop.com
@@ -26779,6 +26803,7 @@ omaturihiroba.com
 omega3-drho.com
 omegacell.com
 omegadarts.com
+omegawatches.com
 ominfo.com
 omnibooth.com
 omnimagic.com
@@ -33705,6 +33730,7 @@ tias.com
 tiasexchange.com
 tic-tock.com
 tickatoo.com
+bnf.tickeasy.com
 tickles.com
 ticklespop.com
 tidygarage.com
@@ -34035,6 +34061,7 @@ walterscamerarepairs.com
 wanapluk.com
 wanimo.com
 wannonce.com
+wanteeed.com
 shop.waowao.com
 warehouse-outlet.com
 warehousefabricsinc.com
@@ -36958,6 +36985,7 @@ thegoodstuffshop.dk
 mercadolibre.com.ec
 store.cornell.edu
 bookstore.ucsd.edu
+amazon.eg
 agalisa.es
 airel.es
 airelibre.es
@@ -37032,7 +37060,9 @@ adidas.fr
 agatha.fr
 alicesgarden.fr
 allobebe.fr
+alternativi.fr
 amazon.fr
+ampoulepascher.fr
 anti-crise.fr
 apiman.fr
 apmf.fr
@@ -37052,9 +37082,11 @@ baage.fr
 backmarket.fr
 bax-shop.fr
 bayardsso.fr
+beauteprivee.fr
 beautycenter.fr
 benuta.fr
 biocenter.fr
+biomidi.fr
 bivea.fr
 blancheporte.fr
 bobine.fr
@@ -37063,6 +37095,7 @@ bonprix.fr
 bonusprint.fr
 boostore.fr
 boulanger.fr
+boutiqueobdfacile.fr
 brandalley.fr
 bricabrac.fr
 bricodepot.fr
@@ -37070,6 +37103,7 @@ bricoman.fr
 bruneau.fr
 buffalo-grill.fr
 but.fr
+bymanet-shop.fr
 cache-cache.fr
 calipage.fr
 camaieu.fr
@@ -37077,7 +37111,9 @@ camif.fr
 carrefour.fr
 castorama.fr
 cebo.fr
+celinebeen.fr
 cgrgolf.fr
+chantonseneglise.fr
 charlott.fr
 ciao.fr
 clairediterzi.fr
@@ -37189,6 +37225,7 @@ moviemarket.fr
 multizone.fr
 norauto.fr
 officedepot.fr
+opisto.fr
 padd.fr
 pc-tuning.fr
 pearl.fr
@@ -37226,6 +37263,7 @@ site-annonce.fr
 somewhere.fr
 speedway.fr
 sport7.fr
+spreadshirt.fr
 srucouf.fr
 stce.fr
 sunfactory.fr
@@ -37993,6 +38031,7 @@ smf.co.kr
 sweetcandy.co.kr
 hit.kz
 exotica.com.lb
+e.leclerc
 avitela.lt
 bikinishop.lt
 fortakas.lt
@@ -38429,6 +38468,7 @@ evilkitty.net
 evotek.net
 executivebaskets.net
 expressgiftbaskets.net
+exultet.net
 eyeinthesky.net
 ezbore.net
 eznow.net
@@ -42155,6 +42195,7 @@ equinewhispers.co.uk
 ernestjones.co.uk
 esmodels.co.uk
 especially-balloons.co.uk
+espn.co.uk
 esportsproducts.co.uk
 essentiallingerie.co.uk
 essentialscompany.co.uk
@@ -44069,6 +44110,7 @@ m-i.li
 surl.li
 xip.li
 b.link
+dl-protect.link
 grabify.link
 inicio.link
 kisa.link
@@ -44180,7 +44222,7 @@ tinyarro.ws
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/social_networks/domains ##########
 
-# Ignored duplicates: 24
+# Ignored duplicates: 25
 
 hivesocial.app
 habbo.at
@@ -44230,6 +44272,8 @@ bakespace.com
 ballhype.com
 barmano.com
 beautifulsociety.com
+beautycircle.com
+bebee.com
 bebo.com
 beemood.com
 biddingbuddies.com
@@ -44256,6 +44300,7 @@ boompa.com
 broadcaster.com
 buddymarks.com
 busuu.com
+buymeacoffee.com
 buzznet.com
 cafemom.com
 cakefinancial.com
@@ -44746,6 +44791,7 @@ iwiw.hu
 habbo.ie
 flick.im
 outside.in
+juicer.io
 habbo.it
 feecle.jp
 habbo.jp
@@ -44857,7 +44903,7 @@ habbo.com.ve
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/sports/domains ##########
 
-# Ignored duplicates: 21
+# Ignored duplicates: 23
 
 basketball.at
 bigair.at
@@ -45050,6 +45096,7 @@ archerynsw.com
 arenacross.com
 arenafan.com
 arenamaps.com
+arkose.com
 arlingtonsoccer.com
 arlxiii.com
 armpullers.com
@@ -46123,6 +46170,7 @@ row2k.com
 rsssf.com
 ruedesjoueurs.com
 rugbyontario.com
+rugbyworldcup.com
 run-down.com
 runday.com
 runnersworld.com
@@ -46690,6 +46738,7 @@ sania-mirza.info
 staderennais.info
 tfc.info
 valentinorossi.info
+bsport.io
 air.it
 ivanbasso.it
 skiroll.it
@@ -47159,7 +47208,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 646
+# Ignored duplicates: 648
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47350,7 +47399,6 @@ rewards.brave.com
 api.brightcove.com
 browserhow.com
 api.bufferapp.com
-buymeacoffee.com
 w1.buysub.com
 starling-oversea.byteoversea.com
 c-ctrip.com
@@ -47841,6 +47889,8 @@ syn-alias.com
 cdnjs.tacool.com
 fn-captcha.tacool.com
 embed.tagboard.com
+cdn.tagcommander.com
+redirect622.tagcommander.com
 track.talabat.com
 talentwunder.com
 tantanapp.com
@@ -47878,6 +47928,8 @@ tuyacn.com
 twibbonize.com
 twitchy.com
 embed.typeform.com
+ubiservices.data.ubi.com
+ubiservices.ubi.com
 ping.ui.com
 ultimedia.com
 umaiclothing.com
@@ -48015,6 +48067,7 @@ consent.dk
 netbank.nordea.dk
 iutoic-dhaka.edu
 shibboleth.main.ad.rit.edu
+tr.ee
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
@@ -48031,7 +48084,6 @@ tili.sanoma.fi
 asiakas.valokuitunen.fi
 feature.fm
 akamaitechnologies.fr
-tr.notification.cetelem.fr
 segura-moto.fr
 bestgore.fun
 lnks.gd
@@ -48087,6 +48139,7 @@ auth.split.io
 cdn.split.io
 sdk.split.io
 streaming.split.io
+link.storjshare.io
 api.storyly.io
 termly.io
 trezor.io
@@ -48281,6 +48334,7 @@ streamsb.net
 subway.prod.sybo.net
 te.technical-service.net
 tracker.torrentbd.net
+download-core.sys.truenas.net
 cdn.trustcommander.net
 aa.tweakers.net
 ab.tweakers.net
@@ -50194,7 +50248,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3781
+# Ignored duplicates: 3783
 
 www.google.com.af
 www.google.com.ag
@@ -50237,8 +50291,6 @@ dnswarden.com
 dropbox.com
 emercoin.com
 epl-paypal-communication.com
-a.espncdn.com
-secure.espncdn.com
 fiverr.com
 gadgetsnow.com
 githubusercontent.com
