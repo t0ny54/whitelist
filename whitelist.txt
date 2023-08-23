@@ -321,6 +321,7 @@ episerver.net
 eroterest.net
 evyy.net
 ezoic.net
+fmhy.net
 freegeoip.net
 fwmrm.net
 gate.hockeyapp.net
@@ -10798,6 +10799,7 @@ autoweb.com
 autoxpressions.com
 autumn-moon.com
 autumnwings.com
+auxsaveursdardennes.com
 bridalflowers.auz.com
 av-basesystems.com
 av-versand.com
@@ -37084,6 +37086,7 @@ bax-shop.fr
 bayardsso.fr
 beauteprivee.fr
 beautycenter.fr
+beemenergy.fr
 benuta.fr
 biocenter.fr
 biomidi.fr
@@ -37200,6 +37203,7 @@ ludilabel.fr
 shopping.lycos.fr
 magicdiscount.fr
 maisondelaradiesthesie.fr
+manomano.fr
 marche.fr
 marieclaire.fr
 mariefrance.fr
@@ -47208,7 +47212,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 648
+# Ignored duplicates: 649
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47859,6 +47863,7 @@ sizyreelingly.com
 analytics.global.sky.com
 metrics.sky.com
 pixel.disco.skyshowtime.com
+track.smtpsendemail.com
 api.snapkit.com
 internal-api.snapkit.com
 web.snrbox.com
@@ -47871,6 +47876,8 @@ soso.com
 i01.sozcucdn.com
 widgets.sir.sportradar.com
 shop.spreadshirt.com
+prod-care-community-cdn.sprinklr.com
+sprcdn-assets.sprinklr.com
 sputniknews.com
 stackpath.com
 stacksocial.com
@@ -48258,7 +48265,6 @@ eviltracker.net
 ellation.map.fastly.net
 mparticle.map.fastly.net
 consent.faz.net
-fmhy.net
 f1tv-cdn-cent-east.formula1.com.c.footprint.net
 f1tv-cdn-cent-live.formula1.com.c.footprint.net
 f1tv-cdn-cent-west.formula1.com.c.footprint.net
