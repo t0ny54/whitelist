@@ -47648,6 +47648,7 @@ sharing.kptncook.com
 ku6.com
 kxcdn.com
 lalpathlabs.com
+lanzouw.com
 clientstream.launchdarkly.com
 us.ibs.lgappstv.com
 aic-gfts.lge.com
@@ -47803,6 +47804,7 @@ img.itop.qq.com
 wxsnsdy.wxs.qq.com
 quicns.com
 ablink.account.quizlet.com
+trk.t.qvcemail.com
 d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
@@ -48340,7 +48342,6 @@ streamsb.net
 subway.prod.sybo.net
 te.technical-service.net
 tracker.torrentbd.net
-download-core.sys.truenas.net
 cdn.trustcommander.net
 aa.tweakers.net
 ab.tweakers.net
@@ -48461,6 +48462,7 @@ service.biv.sony.tv
 update.biv.sony.tv
 sweet.tv
 ad.wpstr.tv
+xlate.dcard.tw
 itad.linetv.tw
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
