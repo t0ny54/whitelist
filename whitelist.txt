@@ -47212,7 +47212,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 649
+# Ignored duplicates: 650
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47220,6 +47220,7 @@ sp-ao.shortpixel.ai
 curve.app
 ip.istatmenus.app
 get.massive.app
+revanced.app
 secureshellfish.app
 safebrowsing.apple
 clk.asia
@@ -48277,6 +48278,10 @@ sites.hscoscdn10.net
 hsforms.net
 330046g46.secure0032.hubspot.net
 330046.group46.sites.hubspot.net
+fs1.hubspotusercontent-eu1.net
+fs2.hubspotusercontent-eu1.net
+fs1.hubspotusercontent-na1.net
+fs2.hubspotusercontent-na1.net
 cds.b5g9b8e4.hwcdn.net
 iframely.net
 system360.inistrack.net
@@ -48294,6 +48299,7 @@ adminlogin.liveperson.net
 content.video.llnw.net
 windowsupdate.s.llnwi.net
 meituan.net
+data.memurlar.net
 dotzbr-dev.mirakl.net
 login.mirakl.net
 mntzrlt.net
@@ -48351,6 +48357,7 @@ verisign.net
 wargaming.net
 fast.wistia.net
 wsj.net
+resolver.msg.xiaomi.net
 path1.xtracloud.net
 path2.xtracloud.net
 path3.xtracloud.net
@@ -49004,7 +49011,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 141
+# Ignored duplicates: 142
 
 api.cortana.ai
 uol.com.br
@@ -49297,7 +49304,6 @@ service.signalr.net
 v.smtcdns.net
 fp.tongdun.net
 ultraiso.net
-resolver.msg.xiaomi.net
 sec.resource.xiaomi.net
 zoosnet.net
 creativecommons.org
