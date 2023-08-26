@@ -47226,6 +47226,7 @@ safebrowsing.apple
 clk.asia
 domaintechnik.at
 noip.at
+oshi.at
 ssl.o.auspost.com.au
 metrics.leaptel.com.au
 sportsbet.com.au
@@ -47825,6 +47826,7 @@ locale.roblox.com
 robvanderwoude.com
 tracking.rosettastone.com
 ipe-pmt.prod.sabre.com
+saddog-official.com
 images.salsify.com
 api.glb.samsung-gamelauncher.com
 samsungapps.com
@@ -47918,6 +47920,7 @@ tags.tiqcdn.com
 tracking.tldrnewsletter.com
 data.tmsapi.com
 tnt-ea.com
+track.toggl.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
 c.trackmytarget.com
@@ -48434,6 +48437,7 @@ qoo10.sg
 clk.sh
 edgeme.sh
 scarf.sh
+temp.sh
 transfer.sh
 heureka.sk
 wee.so
