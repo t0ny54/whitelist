@@ -47235,6 +47235,7 @@ content-media.bonial.biz
 flvto.biz
 baixaki.com.br
 tm.jsuol.com.br
+sacola.magazineluiza.com.br
 tracking.totalexpress.com.br
 mng.bz
 login.cbc.ca
@@ -49015,9 +49016,10 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 142
+# Ignored duplicates: 144
 
 api.cortana.ai
+cupfox.app
 uol.com.br
 upload.cc
 img.zuoyebang.cc
@@ -49122,6 +49124,7 @@ www.bitsumactivationserver.com
 bluehost.com
 bluesoleil.com
 c3pool.com
+ccmeng.com
 chkaja.com
 assets.ckjr001.com
 kpstaticbj.wx.ckjr001.com
