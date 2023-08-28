@@ -47526,6 +47526,7 @@ filehorse.com
 homedepot.cdn.findly.com
 fingerprint.com
 detectportal.firefox.com
+fiveyardlab.com
 fixedfloat.com
 execution-ci360.flypgs.com
 formula1.com
@@ -47980,6 +47981,7 @@ ek8.voyage-prive.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
+wallpapers.com
 warthunder.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
