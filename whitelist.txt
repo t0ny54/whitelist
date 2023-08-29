@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 34
+# Ignored duplicates: 35
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -387,7 +387,6 @@ adj.st
 estream.to
 streamplay.to
 ipcheck.tmgrup.com.tr
-analitik.edevlet.gov.tr
 onvix.tv
 videoplaza.tv
 ahd.ruten.com.tw
@@ -47212,7 +47211,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 650
+# Ignored duplicates: 652
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47233,6 +47232,7 @@ sportsbet.com.au
 smartnews.be
 content-media.bonial.biz
 flvto.biz
+4x4brasil.com.br
 baixaki.com.br
 tm.jsuol.com.br
 sacola.magazineluiza.com.br
@@ -47304,6 +47304,7 @@ c00.adobe.com
 adstream.com
 pl-play.adtonos.com
 pl2-play.adtonos.com
+dht.aelitis.com
 aeotec.com
 aerisapi.com
 afternic.com
@@ -47888,6 +47889,7 @@ sprcdn-assets.sprinklr.com
 sputniknews.com
 stackpath.com
 stacksocial.com
+starzplay.com
 statuspage.com
 ad-im-cmg.streamguys1.com
 ad-oom-cmg.streamguys1.com
@@ -47956,6 +47958,7 @@ rtw.uol.com
 stc.uol.com
 uplynk.com
 uptodatefinishconferenceroom.com
+tracking.urbn.com
 survey.usabilla.com
 api.useberry.com
 finanzguru.userecho.com
@@ -48066,6 +48069,7 @@ car.saturn.de
 pvn.saturn.de
 shopvote.de
 spartoo.de
+static-bahn.de
 shop.strato.de
 pix.sueddeutsche.de
 tipico.de
@@ -48194,6 +48198,7 @@ ahacdn.me
 dropmail.me
 foxo.me
 mssg.me
+whois.myddns.me
 ogp.me
 randomuser.me
 thedise.me
@@ -48227,6 +48232,7 @@ axiadids.net
 b-cdn.net
 mir-s3-cdn-cf.behance.net
 option.boldapps.net
+cdn.bootcdn.net
 cdn-noc.net
 cdntips.net
 chia.net
@@ -48333,6 +48339,7 @@ siteintercept.qprod2.net
 research.net
 static.cdn.responsys.net
 riotpixels.net
+whois.ripe.net
 samsungcloudsolution.net
 samsungotn.net
 samsungrm.net
@@ -48403,6 +48410,7 @@ tracker.leechers-paradise.org
 lencr.org
 matomo.org
 measurement-lab.org
+whois.no-ip.org
 objective-see.org
 openjdk.org
 pastie.org
@@ -48462,6 +48470,7 @@ chip.com.tr
 analytics.halkbank.com.tr
 uedas.com.tr
 widget.yenimedya.com.tr
+edevlet.gov.tr
 ilan.gov.tr
 cdn.brid.tv
 p.brid.tv
