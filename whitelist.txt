@@ -47211,7 +47211,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 652
+# Ignored duplicates: 654
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47378,6 +47378,8 @@ t9.baidu.com
 top.baidu.com
 baihe.com
 banggood.com
+api.baomoi.com
+w-api.baomoi.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
@@ -47810,6 +47812,7 @@ wxsnsdy.wxs.qq.com
 quicns.com
 ablink.account.quizlet.com
 trk.t.qvcemail.com
+rackcdn.com
 d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
@@ -48514,7 +48517,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 281
+# Ignored duplicates: 282
 
 adservice.google.ac
 adservice.google.ad
@@ -49350,7 +49353,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 644
+# Ignored duplicates: 645
 
 1hosts.cf
 abuse.ch
@@ -49462,7 +49465,6 @@ addons.prestashop.com
 content-icc.pulselive.com
 cricketapi-icc.pulselive.com
 quora.com
-70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 client.reactrjs.com
 i.s-microsoft.com
 store-images.s-microsoft.com
