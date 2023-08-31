@@ -47211,7 +47211,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 654
+# Ignored duplicates: 655
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47391,6 +47391,7 @@ benefithub.com
 eu-swarm-newm.betcoswarm.com
 binarypiano.com
 indusprodcustomer3996.pc.cdn.bitgravity.com
+bitgrip.com
 cdn.bitmovin.com
 licensing.bitmovin.com
 geoim.bloomberght.com
@@ -47542,11 +47543,13 @@ images.g2crowd.com
 learn.g2crowd.com
 api.pgpl.g5e.com
 gameforge.com
+gaytxxx.com
 maps.geoapify.com
 geocomply.com
 ctl.prd.bi.getbux.com
 costco-tracking.getconvey.com
 getfeedback.com
+ghbtns.com
 gigya.com
 app.gitbook.com
 gizmodern.com
@@ -47874,6 +47877,7 @@ sizyreelingly.com
 analytics.global.sky.com
 metrics.sky.com
 pixel.disco.skyshowtime.com
+smotret-anime.com
 track.smtpsendemail.com
 api.snapkit.com
 internal-api.snapkit.com
@@ -47991,6 +47995,7 @@ wallpapers.com
 warthunder.com
 s3.us-west-1.wasabisys.com
 wdtinc.com
+assets-global.website-files.com
 weworkremotely.com
 garry.windscribe.com
 wishpond.com
@@ -48094,6 +48099,7 @@ tr.ee
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
+bla.api.appboy.eu
 consentag.eu
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
@@ -48388,6 +48394,7 @@ disguised.nl
 mijn.overheid.nl
 payment.schibsted.no
 fakeshop-finder.nrw
+smotret-anime.online
 drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
@@ -48439,6 +48446,7 @@ spartoo.pt
 l.1mp.ru
 cl-ad786718.edgecdn.ru
 sibnet.ru
+smotretanime.ru
 track24.ru
 api-maps.yandex.ru
 export.yandex.ru
