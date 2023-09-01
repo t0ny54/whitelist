@@ -34244,6 +34244,7 @@ yoyostore.com
 yque.com
 yugiohland.com
 zalando.com
+zalando-payments.com
 zapclothing.com
 zappos.com
 zara.com
@@ -36983,6 +36984,7 @@ tektronic.dk
 tele-k.dk
 thansen.dk
 thegoodstuffshop.dk
+zalan.do
 mercadolibre.com.ec
 store.cornell.edu
 bookstore.ucsd.edu
@@ -47357,6 +47359,7 @@ su.ff.avast.com
 submit.sb.avast.com
 avis-verifies.com
 player.avplayer.com
+awswaf.com
 awxcdn.com
 aylanetworks.com
 staticweb.ecglb.bac.com
@@ -47527,6 +47530,7 @@ ff-05.com
 figshare.com
 filedropper.com
 filehorse.com
+en.financerites.com
 homedepot.cdn.findly.com
 fingerprint.com
 detectportal.firefox.com
@@ -47834,6 +47838,8 @@ ephemeralcounters.api.roblox.com
 locale.roblox.com
 robvanderwoude.com
 tracking.rosettastone.com
+api.rudderlabs.com
+rudderstack.com
 ipe-pmt.prod.sabre.com
 saddog-official.com
 images.salsify.com
@@ -47903,6 +47909,7 @@ ad-oom-cmg.streamguys1.com
 cmg.streamguys1.com
 strpst.com
 stylitics.com
+succeedscene.com
 engage.surface.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
