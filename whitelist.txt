@@ -61,6 +61,7 @@ atdmt.com
 auditude.com
 autopilothq.com
 avantlink.com
+awswaf.com
 monitor.azure.com
 bamgrid.com
 bannerconnect.com
@@ -4144,6 +4145,7 @@ paypal-topup.ee
 id.pilet.ee
 agenciatributaria.gob.es
 1password.eu
+bitwarden.eu
 mvd.dor.ga.gov
 intelink.gov
 kau.gov.hu
@@ -5392,6 +5394,7 @@ procreditbank.bg
 raiffeisen.bg
 farmersandmerchants.biz
 axelle.bnpparibas
+banqueentreprise.bnpparibas
 asoban.bo
 bradesco.b.br
 bradesconetempresa.b.br
@@ -11788,6 +11791,7 @@ beosjapan.com
 beowoof.com
 beprepared.com
 beqiclothing.com
+berceaumagique.com
 bercotchildrenswear.com
 berean.com
 bereavementstore.com
@@ -12769,6 +12773,7 @@ boutique-hospitalityjapan.com
 boutique-massage.com
 boutique-reunion.com
 boutique-tokiohotel.com
+boutiquehuleti.com
 boutiquejewels.com
 boutiques-oceanopolis.com
 bowdenhostas.com
@@ -28494,6 +28499,7 @@ prideproducts.com
 priester.com
 prietosports.com
 prijzenslag.com
+primark.com
 primarycolorsdesign.com
 primatestore.com
 primavera-needlepoint.com
@@ -45111,6 +45117,7 @@ arnoldpalmer.com
 as.com
 ascsracing.com
 asiantennis.com
+asjgym.com
 asm-fc.com
 asm-rugby.com
 asmfc.com
@@ -46644,9 +46651,11 @@ acarles.fr
 acarlesavignon.fr
 aja.fr
 ameliemauresmo.fr
+asbo.fr
 asm.fr
 asmfoot.fr
 asse.fr
+athle.fr
 coupfranc.fr
 eurosport.fr
 fastival.fr
@@ -46749,6 +46758,7 @@ ivanbasso.it
 skiroll.it
 jbl.or.jp
 kendo.or.jp
+livetv701.me
 abiertomextenis.com.mx
 lmb.com.mx
 malaysiangp.com.my
@@ -47213,7 +47223,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 655
+# Ignored duplicates: 657
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47359,7 +47369,6 @@ su.ff.avast.com
 submit.sb.avast.com
 avis-verifies.com
 player.avplayer.com
-awswaf.com
 awxcdn.com
 aylanetworks.com
 staticweb.ecglb.bac.com
@@ -47517,6 +47526,7 @@ agents.extremereach.com
 app.extremereach.com
 download.extremereach.com
 updates.extremereach.com
+graph.facebook-hardware.com
 famatel.com
 lostmediaarchive.fandom.com
 fapcat.com
@@ -47927,6 +47937,7 @@ tantanapp.com
 tarafdari.com
 techbargains.com
 p11.techlab-cdn.com
+meeting.tencent.com
 cloudcache.tencentcs.com
 thecanadianpharmacy.com
 thecubexguide.com
