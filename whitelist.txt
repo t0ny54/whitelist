@@ -401,7 +401,7 @@ trust.zone
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt ##########
 
-# Ignored duplicates: 173
+# Ignored duplicates: 174
 
 rakbankonline.ae
 internetbank.armbusinessbank.am
@@ -3903,7 +3903,6 @@ dvbank.ua
 easypay.ua
 pay.fidobank.ua
 fidomarket.ua
-ticket.uz.gov.ua
 ws.grant.ua
 ibank2.ua
 avia.ideabank.ua
@@ -48516,6 +48515,7 @@ sweet.tv
 ad.wpstr.tv
 xlate.dcard.tw
 itad.linetv.tw
+gov.ua
 asynchronousmessaging.dashboard.co.uk
 track.dhlparcel.co.uk
 cmp.dmgmediaprivacy.co.uk
