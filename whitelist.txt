@@ -47322,6 +47322,7 @@ afternic.com
 searchapi.agoda.com
 tracking.agsystems.com
 content.aimatch.com
+tracking.airmee.com
 airydress.com
 tracker-g.aiscore.com
 akamai.com
@@ -47673,6 +47674,7 @@ kxcdn.com
 lalpathlabs.com
 lanzouw.com
 clientstream.launchdarkly.com
+lemmynsfw.com
 us.ibs.lgappstv.com
 aic-gfts.lge.com
 aic-ngfts.lge.com
@@ -47738,6 +47740,7 @@ images1.minutemediacdn.com
 images2.minutemediacdn.com
 click.account.miro.com
 update.intl.miui.com
+connect.intl.rom.miui.com
 api.miwifi.com
 mkklcdnv6tempv4.com
 ab13.mktossl.com
