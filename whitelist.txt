@@ -8684,6 +8684,7 @@ sportsplus.8m.com
 91pretty.com
 928intl.com
 95bellstreet.com
+98bvd.com
 99dollartux.com
 99ranch.com
 99xsh.com
@@ -9886,6 +9887,7 @@ angelgift.com
 angelicasattic.com
 angelicimpressions.com
 angelkissesmaternity.com
+angellmobility.com
 angelpubs.com
 angels-creations.com
 angelscentedcandles.com
@@ -9907,6 +9909,7 @@ angorashop.com
 angottifarmtoys.com
 angusmackay.com
 aniftygift.com
+aniiqa.com
 animadomus.com
 animal-sweet.com
 animal-traps.com
@@ -37071,11 +37074,14 @@ alicesgarden.fr
 allobebe.fr
 alternativi.fr
 amazon.fr
+amenagements-cihb.fr
 ampoulepascher.fr
 anti-crise.fr
 apiman.fr
 apmf.fr
 atelier-de-france.fr
+atelier-prod.fr
+atelier-prod-boutique.fr
 attica.fr
 au-bonheur-demilie.fr
 auchan.fr
@@ -37085,6 +37091,7 @@ auction.fr
 audiophonics.fr
 auto-doc.fr
 autos.fr
+autourdugateau.fr
 ava-may.fr
 avenue-des-parfums.fr
 baage.fr
@@ -41336,7 +41343,6 @@ olx.ua
 9monthsandmore.co.uk
 a-portable-audio-website.co.uk
 a180.co.uk
-a1fitnessdiscount.co.uk
 a1gifts.co.uk
 a2z-kids.co.uk
 abacus-nurseries.co.uk
@@ -44546,7 +44552,7 @@ mydogspace.com
 myfamily.com
 myheritage.com
 myhq.com
-myjoyonline.com
+wwww.myjoyonline.com
 mykidsfashion.com
 mylife.com
 mylinkvault.com
@@ -47521,6 +47527,7 @@ tracking.epicgames.com
 repository.eset.com
 stats.espncricinfo.com
 etrality.com
+ablink.email.etsy.com
 evercoss.com
 cdn.exponea.com
 puc-cdn.exponea.com
@@ -47732,6 +47739,7 @@ diagnostics.meethue.com
 discovery.meethue.com
 ws.meethue.com
 meituan.com
+cdn.membershipworks.com
 messengerpeople.com
 insider.microsoft365.com
 email.microsoftemail.com
@@ -48019,6 +48027,7 @@ wabetainfo.com
 wallpapers.com
 warthunder.com
 s3.us-west-1.wasabisys.com
+payments-tracking.waveapps.com
 wdtinc.com
 assets-global.website-files.com
 weworkremotely.com
@@ -48552,7 +48561,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 282
+# Ignored duplicates: 283
 
 adservice.google.ac
 adservice.google.ad
