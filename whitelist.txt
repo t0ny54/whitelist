@@ -47237,7 +47237,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 657
+# Ignored duplicates: 658
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48123,9 +48123,11 @@ pix.sueddeutsche.de
 tipico.de
 cmp.tvspielfilm.de
 viagogo.de
+w10privacy.de
 deviceids-medp.wdr.de
 wfcdn.de
 wieistmeineip.de
+winprivacy.de
 hbbtv.zdf.de
 zinspilot.de
 lush-clouds.zomap.de
@@ -48182,6 +48184,7 @@ chatra.io
 chatserver15.comm100.io
 cdn.elev.io
 formspree.io
+gleam.io
 htv-streaming-otfp.hearst.io
 nitehawk.hearst.io
 storage.leafmedia.io
@@ -48511,6 +48514,7 @@ api-mainnet.pool.space
 uber.space
 download.oxy.st
 voe.sx
+web-hp.prod.jimdo.systems
 gogoanime.tel
 use.fvr.to
 hopp.to
@@ -49080,7 +49084,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 144
+# Ignored duplicates: 145
 
 api.cortana.ai
 cupfox.app
@@ -49344,7 +49348,6 @@ ccmp.eu
 suo.im
 co.in
 bitbucket.io
-gleam.io
 widget.gleamjs.io
 zimuku.la
 wanproxy.127.net
