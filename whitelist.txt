@@ -47237,7 +47237,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 658
+# Ignored duplicates: 660
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47907,6 +47907,7 @@ patronus.idata.shopeemobile.com
 shrinkearn.com
 p.shure.com
 shutterstock.com
+sideshow.com
 silknet.com
 oup.silverchair-cdn.com
 metrics-target.siriusxm.com
@@ -48178,6 +48179,7 @@ splice.amlg.io
 cdn.appconsent.io
 applicationinsights.io
 messaginganalytics.athena.io
+trk.bcrc.io
 blackfire.io
 canarymail.io
 chatra.io
@@ -48377,6 +48379,8 @@ image.ccg.nintendo.net
 bam-eu01.cell.eu.nr-data.net
 bam.eu01.nr-data.net
 fastly-tls12-bam.eu01.nr-data.net
+scdn1.wpc.4ff2a.nucdn.net
+sni1gl.wpc.nucdn.net
 nutaku.net
 images.nvidiagrid.net
 img.nvidiagrid.net
@@ -48389,6 +48393,7 @@ compass.pressekompass.net
 fbx-firmware.proxad.net
 pv-cdn.net
 siteintercept.qprod2.net
+sideshow.queue-it.net
 research.net
 static.cdn.responsys.net
 riotpixels.net
@@ -48435,6 +48440,7 @@ getipcountry.zoe.net
 login.ad.nl
 api.c99.nl
 disguised.nl
+stl-cdn.nederlandseloterij.nl
 mijn.overheid.nl
 payment.schibsted.no
 fakeshop-finder.nrw
