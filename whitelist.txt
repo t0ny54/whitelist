@@ -6653,6 +6653,7 @@ kutxa.es
 lacaixa.es
 larural.es
 lloydsbank.es
+societegenerale.eu
 aktia.fi
 osuuspankki.fi
 otto.fi
@@ -6705,6 +6706,7 @@ ca-sudmed.fr
 ca-sudrhonealpes.fr
 ca-toulousain.fr
 ca-tourainepoitou.fr
+ca-valdefrance.fr
 ccso.fr
 cetelem.fr
 cetelem-paiement.fr
@@ -13746,6 +13748,7 @@ cartooncandles.com
 cartoonfansclub.com
 cartoonjazz.com
 cartoonstock.com
+cartoucheclub.com
 cartouchecompatible.com
 cartouchejewelry.com
 cartoucheltd.com
@@ -46665,11 +46668,13 @@ acarles.fr
 acarlesavignon.fr
 aja.fr
 ameliemauresmo.fr
+amvb-amiens.fr
 asbo.fr
 asm.fr
 asmfoot.fr
 asse.fr
 athle.fr
+bad-asso.fr
 coupfranc.fr
 eurosport.fr
 fastival.fr
@@ -47237,7 +47242,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 660
+# Ignored duplicates: 664
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47253,6 +47258,7 @@ domaintechnik.at
 noip.at
 oshi.at
 ssl.o.auspost.com.au
+languageacademy.com.au
 metrics.leaptel.com.au
 sportsbet.com.au
 smartnews.be
@@ -47446,6 +47452,7 @@ l.engage.canva.com
 canyoublockit.com
 devices.carnivalmobile.com
 carx-online.com
+superbook.cbn.com
 production-cmp.isgprivacy.cbsi.com
 doppler-config.cbsivideo.com
 wwwimage-tve.cbsstatic.com
@@ -47659,6 +47666,7 @@ media.itsfogo.com
 scmedia.itsfogo.com
 innovators.ivanti.com
 jagoketik.com
+login-dhl-de.api.eu.janrain.com
 widgets.jobbio.com
 jobseeker.com
 a.jsrdn.com
@@ -47757,6 +47765,7 @@ assets.minutemediacdn.com
 images1.minutemediacdn.com
 images2.minutemediacdn.com
 click.account.miro.com
+digitalservices.missionfed.com
 update.intl.miui.com
 connect.intl.rom.miui.com
 api.miwifi.com
@@ -48375,6 +48384,7 @@ az416426.vo.msecnd.net
 pixel.mxrouting.net
 papago.naver.net
 img.pay.naver.net
+netcup.net
 image.ccg.nintendo.net
 bam-eu01.cell.eu.nr-data.net
 bam.eu01.nr-data.net
