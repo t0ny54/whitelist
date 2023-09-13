@@ -47242,7 +47242,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 664
+# Ignored duplicates: 665
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47413,6 +47413,7 @@ baihe.com
 banggood.com
 api.baomoi.com
 w-api.baomoi.com
+web.basemark.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
@@ -47715,6 +47716,7 @@ recommend.lgtvcommon.com
 aic.service.lgtvcommon.com
 lgtvsdp.com
 librefutboltv.com
+android.life360.com
 s3.lightboxcdn.com
 collector.lightstep.com
 ingest.lightstep.com
@@ -47774,6 +47776,7 @@ ab13.mktossl.com
 assets.mmsrg.com
 review-rating.mncdn.com
 sdk-02.moengage.com
+p-geo.movetv.com
 msdp1.com
 msftconnecttest.com
 client-stream-events.mtg-api.com
@@ -47920,6 +47923,7 @@ sideshow.com
 silknet.com
 oup.silverchair-cdn.com
 metrics-target.siriusxm.com
+sissyflix.com
 sizyreelingly.com
 analytics.global.sky.com
 metrics.sky.com
@@ -48048,6 +48052,7 @@ wdtinc.com
 assets-global.website-files.com
 weworkremotely.com
 garry.windscribe.com
+wirple.com
 wishpond.com
 phishingquiz.withgoogle.com
 worldnomads.com
