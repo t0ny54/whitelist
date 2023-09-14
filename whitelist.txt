@@ -47487,6 +47487,7 @@ corbettreport.com
 epg.corio.com
 courier.com
 static.cloud.coveo.com
+createsend.com
 createsend1.com
 content.ctfs.com
 dailycaller.com
@@ -47862,6 +47863,8 @@ quicns.com
 ablink.account.quizlet.com
 trk.t.qvcemail.com
 rackcdn.com
+app.raidrive.com
+ratemyteachers.com
 d3tracking.rbc.com
 assets.realclear.com
 cdn.reamaze.com
@@ -47981,6 +47984,7 @@ dd.tidal.com
 et.tidal.com
 salt.tikicdn.com
 tags.tiqcdn.com
+tags-eu.tiqcdn.com
 tracking.tldrnewsletter.com
 data.tmsapi.com
 tnt-ea.com
@@ -48156,6 +48160,7 @@ tr.ee
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
+elpais.es
 bla.api.appboy.eu
 consentag.eu
 consent.cookiebot.eu
@@ -48443,6 +48448,7 @@ verisign.net
 wargaming.net
 fast.wistia.net
 wsj.net
+app.chat.xiaomi.net
 resolver.msg.xiaomi.net
 path1.xtracloud.net
 path2.xtracloud.net
@@ -49770,7 +49776,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 555
+# Ignored duplicates: 556
 
 a.run.app
 ipv4only.arpa
@@ -50072,7 +50078,6 @@ sparta.qb.mig.tencent-cloud.net
 balancer.wixdns.net
 www17.wixdns.net
 api.chat.xiaomi.net
-app.chat.xiaomi.net
 api.device.xiaomi.net
 app.chat.global.xiaomi.net
 resolver.msg.global.xiaomi.net
