@@ -47242,7 +47242,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 665
+# Ignored duplicates: 666
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47452,6 +47452,8 @@ cainiao.com
 l.engage.canva.com
 canyoublockit.com
 devices.carnivalmobile.com
+ajaxgeo.cartrawler.com
+otageo.cartrawler.com
 carx-online.com
 superbook.cbn.com
 production-cmp.isgprivacy.cbsi.com
@@ -47567,6 +47569,7 @@ figshare.com
 filedropper.com
 filehorse.com
 en.financerites.com
+finchtechie.com
 homedepot.cdn.findly.com
 fingerprint.com
 detectportal.firefox.com
@@ -47993,6 +47996,7 @@ akm-img-a-in.tosshub.com
 cdn.tpdads.com
 c.trackmytarget.com
 tradehq.com
+tradera.com
 cdn.transifex.com
 api-v4.trbo.com
 static-v2.trbo.com
@@ -48238,6 +48242,7 @@ api.storyly.io
 termly.io
 trezor.io
 tyk.io
+ves.io
 voodoo.io
 voodoo-tech.io
 wootility.io
@@ -48261,6 +48266,7 @@ ns11.whois.co.kr
 dreamsearch.or.kr
 gokams.or.kr
 tenping.kr
+i.pixl.li
 smart.link
 api.noda.live
 ui.noda.live
@@ -48532,6 +48538,7 @@ edgeme.sh
 scarf.sh
 temp.sh
 transfer.sh
+duty-halt-i-253.site
 heureka.sk
 wee.so
 norden.social
@@ -48665,6 +48672,7 @@ ulink.adjust.com
 campaign.adobe.com
 track.adtraction.com
 guce.advertising.com
+d.agkn.com
 global.aliexpress.com.gds.alibabadns.com
 allkeyshop.com
 aax-eu-retail-direct.amazon-adsystem.com
@@ -48675,6 +48683,7 @@ customlinks.appsflyer.com
 clicks.aweber.com
 www.awin1.com
 api.bam-x.com
+network.bazaarvoice.com
 click.em.blizzard.com
 dashboard-01.braze.com
 cts.businesswire.com
@@ -50118,7 +50127,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 296
+# Ignored duplicates: 297
 
 theship.club
 cpro.baidu.cn
@@ -50131,7 +50140,6 @@ aax-us-west.amazon-adsystem.com
 aax-us-west-rtb.amazon-adsystem.com
 ipm-provider.ff.avast.com
 api.bazaarvoice.com
-network.bazaarvoice.com
 betrad.com
 tags.bkrtx.com
 apiv2.bricknet.com
