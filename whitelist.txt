@@ -47243,7 +47243,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 666
+# Ignored duplicates: 667
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47649,6 +47649,7 @@ h.imguol.com
 api.immomo.com
 imore.com
 credit-agricole-compagnon.inbenta.com
+incolumitas.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
 ivantiinnovators.influitive.com
@@ -48194,6 +48195,7 @@ monero.how
 accesstrade.co.id
 pdamtbwkotasmi.co.id
 docdro.id
+uzone.id
 cbox.im
 files.im
 seo.spot.im
