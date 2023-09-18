@@ -47866,6 +47866,7 @@ msf.3g.qq.com
 msfwifi.3g.qq.com
 img.itop.qq.com
 wxsnsdy.wxs.qq.com
+quectel.com
 quicns.com
 ablink.account.quizlet.com
 trk.t.qvcemail.com
