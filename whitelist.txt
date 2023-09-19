@@ -47830,6 +47830,7 @@ images.core.optasports.com
 optimal-spine.com
 cmp.osano.com
 cdn.otstatic.com
+tracking.packeta.com
 base.parameter1.com
 cdn.parameter1.com
 link.us.paramountplus.com
@@ -48214,6 +48215,7 @@ blackfire.io
 canarymail.io
 chatra.io
 chatserver15.comm100.io
+driverpack.io
 cdn.elev.io
 formspree.io
 gleam.io
