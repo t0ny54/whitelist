@@ -48277,6 +48277,7 @@ dreamsearch.or.kr
 gokams.or.kr
 tenping.kr
 i.pixl.li
+eth.limo
 smart.link
 api.noda.live
 ui.noda.live
@@ -48394,6 +48395,7 @@ rtl-relay.iocnt.net
 sportdeu-relay.iocnt.net
 livechat.ivpn.net
 blog.kakaocdn.net
+www-linkedin-com.l-0005.l-msedge.net
 leakix.net
 lekane.net
 blogroll.livedoor.net
@@ -48517,6 +48519,7 @@ speedcheck.org
 api.speedspot.org
 traccar.org
 trackersimulator.org
+wmflabs.org
 xinjiangpolicefiles.org
 ck.page
 instant.page
@@ -48541,6 +48544,7 @@ informer.yandex.ru
 mx.yandex.ru
 share.yandex.ru
 url.rw
+compricer.se
 static.share-videos.se
 qoo10.sg
 clk.sh
@@ -49013,6 +49017,10 @@ links.mkt81.net
 links.mkt91.net
 t.myvisualiq.net
 a.nonstoppartner.net
+blau.nonstoppartner.net
+ext.nonstoppartner.net
+o2.nonstoppartner.net
+track.nonstoppartner.net
 go.nordlocker.net
 go.nordvpn.net
 geo1.presslabs.net
@@ -49130,7 +49138,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 145
+# Ignored duplicates: 146
 
 api.cortana.ai
 cupfox.app
@@ -49440,7 +49448,6 @@ rarbgproxy.org
 rarbgprx.org
 rarbgto.org
 rarbgway.org
-wmflabs.org
 rambler.ru
 now.sh
 surge.sh
