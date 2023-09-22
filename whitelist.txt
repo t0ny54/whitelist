@@ -44224,6 +44224,7 @@ liip.to
 lnk.to
 profile.to
 short.to
+swll.to
 ge.tt
 ift.tt
 tiny.tw
@@ -47243,7 +47244,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 667
+# Ignored duplicates: 670
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47441,6 +47442,8 @@ ads-new.brave.com
 ads-serve.brave.com
 ads-static.brave.com
 ads-serve.aws-internal.brave.com
+go-updater.brave.com
+laptop-updates.brave.com
 p3a.brave.com
 rewards.brave.com
 api.brightcove.com
@@ -48228,6 +48231,7 @@ api.loganalytics.io
 imagesvc.meredithcorp.io
 cdn.video.meredithcorp.io
 playback.video.meredithcorp.io
+run.mocky.io
 nextdns.io
 medium.ngtv.io
 mobile-data.onetrust.io
@@ -48388,6 +48392,7 @@ fs2.hubspotusercontent-na1.net
 cds.b5g9b8e4.hwcdn.net
 iframely.net
 system360.inistrack.net
+pandapush-iad-prod.inscloudgate.net
 aerztebl-relay.iocnt.net
 relay-client-c03.iocnt.net
 relay-client-c05.iocnt.net
@@ -48457,6 +48462,7 @@ streamsb.net
 subway.prod.sybo.net
 te.technical-service.net
 tracker.torrentbd.net
+gpubandwidthcalculator.totalh.net
 cdn.trustcommander.net
 aa.tweakers.net
 ab.tweakers.net
@@ -48619,7 +48625,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 283
+# Ignored duplicates: 284
 
 adservice.google.ac
 adservice.google.ad
