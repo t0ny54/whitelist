@@ -47433,6 +47433,7 @@ licensing.bitmovin.com
 blogtrottr.com
 geoim.bloomberght.com
 vms.bluebillywig.com
+sendgrid-secure.bluecore.com
 bnamic.com
 boldchat.com
 bonialconnect.com
@@ -47624,6 +47625,7 @@ tuner-api.hdhomerun.com
 glimmer.hearstapps.com
 hips.hearstapps.com
 sdp.helpdocsonline.com
+metrics.heroku.com
 embed.tagboard.com.herokudns.com
 hexun.com
 sms.ads.heytapmobi.com
@@ -47712,6 +47714,7 @@ lalpathlabs.com
 lanzouw.com
 clientstream.launchdarkly.com
 lemmynsfw.com
+trk.ecomm.lenovo.com
 us.ibs.lgappstv.com
 aic-gfts.lge.com
 aic-ngfts.lge.com
@@ -48625,7 +48628,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 284
+# Ignored duplicates: 286
 
 adservice.google.ac
 adservice.google.ad
