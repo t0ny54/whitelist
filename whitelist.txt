@@ -47244,7 +47244,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 670
+# Ignored duplicates: 671
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47615,6 +47615,7 @@ afs.googleusercontent.com
 googlevideo.com
 track.goshippo.com
 gradcracker.com
+gsght.com
 guhantara.com
 player2.h-cdn.com
 widget.haberler.com
@@ -47841,6 +47842,7 @@ base.parameter1.com
 cdn.parameter1.com
 link.us.paramountplus.com
 go.pardot.com
+t.paydaythegame.com
 pcapredict.com
 nl.pepper.com
 performfeeds.com
@@ -47947,6 +47949,7 @@ sizyreelingly.com
 analytics.global.sky.com
 metrics.sky.com
 pixel.disco.skyshowtime.com
+slackb.com
 smotret-anime.com
 track.smtpsendemail.com
 api.snapkit.com
@@ -48554,6 +48557,7 @@ mx.yandex.ru
 share.yandex.ru
 url.rw
 compricer.se
+reseguiden.se
 static.share-videos.se
 qoo10.sg
 clk.sh
@@ -49811,7 +49815,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 556
+# Ignored duplicates: 557
 
 a.run.app
 ipv4only.arpa
@@ -49991,7 +49995,6 @@ segment.com
 platform.sharethis.com
 api3.siftscience.com
 cdn.siftscience.com
-slackb.com
 dsp.brand.sogou.com
 config.pinyin.sogou.com
 www.squaretrade.com
