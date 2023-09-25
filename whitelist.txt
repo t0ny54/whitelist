@@ -5352,6 +5352,7 @@ cba.am
 comafi.com.ar
 abe.org.ar
 alpenbank.at
+bawag.at
 ing.at
 kommunalkredit.at
 modern-banking.at
@@ -47950,6 +47951,7 @@ analytics.global.sky.com
 metrics.sky.com
 pixel.disco.skyshowtime.com
 slackb.com
+smartsheet.com
 smotret-anime.com
 track.smtpsendemail.com
 api.snapkit.com
@@ -48058,6 +48060,7 @@ videoland.com
 videoproc.com
 vidio.com
 vidyard.com
+vigilantcitizen.com
 announcements.vizio.com
 api.vizio.com
 images.vizio.com
@@ -48161,6 +48164,7 @@ shop.strato.de
 pix.sueddeutsche.de
 tipico.de
 cmp.tvspielfilm.de
+almaweb.uni-leipzig.de
 viagogo.de
 w10privacy.de
 deviceids-medp.wdr.de
@@ -48507,6 +48511,7 @@ camopedia.org
 cdnbunny.org
 click.e.change.org
 learn.cisecurity.org
+cleantalk.org
 codeberg.org
 consentmanager.mgr.consensu.org
 do-not-tracker.org
@@ -48632,7 +48637,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 286
+# Ignored duplicates: 283
 
 adservice.google.ac
 adservice.google.ad
