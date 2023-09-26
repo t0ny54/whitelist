@@ -274,6 +274,7 @@ carrotquest.io
 customer.io
 ethn.io
 geojs.io
+hyperdx.io
 instana.io
 ipgeolocation.io
 ipinfo.io
@@ -48024,6 +48025,7 @@ log.tresorit.com
 consent.trustarc.com
 consent-pref.trustarc.com
 trustev.com
+ausha.tsbluebox.com
 cdn.ttgtmedia.com
 canvas.tubitv.com
 cdn.turner.com
@@ -48719,6 +48721,7 @@ network.bazaarvoice.com
 click.em.blizzard.com
 dashboard-01.braze.com
 cts.businesswire.com
+tracking.cashkaro.com
 cse3.chausport.com
 monitor.clickcease.com
 target.clickfunnels.com
@@ -48811,6 +48814,7 @@ app.sephora.com
 bs.serving-sys.com
 track.shoparize.com
 tag.shopping-feed.com
+t.sidekickopen01-eu1.com
 app.e.sigsauer.com
 aka-fr.ads.sizmdx.com
 a.slashdotmedia.com
