@@ -76,6 +76,7 @@ dw.cbsi.com
 chtbl.com
 cint.com
 clearbit.com
+cleverpush.com
 clickdimensions.com
 rabble-res.cloudinary.com
 clustrmaps.com
@@ -113,6 +114,7 @@ georiot.com
 geotrust.com
 getdrip.com
 gm99.com
+goldbach.com
 googletagmanager.com
 googletagservices.com
 gvt1.com
@@ -47246,7 +47248,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 671
+# Ignored duplicates: 675
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47475,8 +47477,6 @@ s2.static.cfgr3.com
 email-sendgrid-deep-linking.chewy.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
-api.cleverpush.com
-static.cleverpush.com
 clickerheroes.com
 cliqz.com
 cmail19.com
@@ -47862,6 +47862,7 @@ administrator.pnclassaction.com
 poki-gdn.com
 polls.polldaddy.com
 videos.porndig.com
+tracking.postnord.com
 postup.com
 go.powunity.com
 monitor.ppcprotect.com
@@ -47970,6 +47971,7 @@ shop.spreadshirt.com
 prod-care-community-cdn.sprinklr.com
 sprcdn-assets.sprinklr.com
 sputniknews.com
+spyfu.com
 stackpath.com
 stacksocial.com
 starzplay.com
@@ -48004,6 +48006,7 @@ thecubexguide.com
 thethings.com
 dd.tidal.com
 et.tidal.com
+vmz-ad-cf.video.tidal.com
 salt.tikicdn.com
 tags.tiqcdn.com
 tags-eu.tiqcdn.com
@@ -48295,6 +48298,7 @@ tenping.kr
 i.pixl.li
 eth.limo
 smart.link
+wlo.link
 api.noda.live
 ui.noda.live
 tag.search.sensefuel.live
@@ -48532,6 +48536,7 @@ whois.no-ip.org
 objective-see.org
 openjdk.org
 pastie.org
+blog.pixelexperience.org
 scotts-grotto.org
 api.smartify.org
 speedcheck.org
@@ -48576,6 +48581,7 @@ duty-halt-i-253.site
 heureka.sk
 wee.so
 norden.social
+link.space
 meneer.space
 myfed.space
 api-mainnet.pool.space
