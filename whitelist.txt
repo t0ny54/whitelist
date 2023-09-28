@@ -47248,12 +47248,13 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 675
+# Ignored duplicates: 679
 
 app.clearview.ai
 cdn.engagement.ai
 sp-ao.shortpixel.ai
 curve.app
+m.icares.app
 ip.istatmenus.app
 get.massive.app
 revanced.app
@@ -48042,6 +48043,7 @@ ping.ui.com
 ultimedia.com
 umaiclothing.com
 builder-assets.unbounce.com
+consent.unilad.com
 answers.unity.com
 create.unity.com
 unmineable.com
@@ -48258,6 +48260,7 @@ cr.portainer.io
 cmp-consent-tool.privacymanager.io
 proctor.io
 qt.io
+api.radar.io
 assets.rebelmouse.io
 searchnode.io
 ccms.shopee.io
@@ -48635,6 +48638,7 @@ ts.hust.edu.vn
 api.sbz.vn
 zadn.vn
 zlp-bill-tracking.zalopay.vn
+minecraft.wiki
 notifiarr.wiki
 nnmstatic.win
 cbox.ws
@@ -48645,7 +48649,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 283
+# Ignored duplicates: 284
 
 adservice.google.ac
 adservice.google.ad
