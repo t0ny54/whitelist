@@ -47248,7 +47248,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 679
+# Ignored duplicates: 682
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47955,6 +47955,7 @@ metrics.sky.com
 pixel.disco.skyshowtime.com
 slackb.com
 smartsheet.com
+web.smgus.com
 smotret-anime.com
 track.smtpsendemail.com
 api.snapkit.com
@@ -47977,6 +47978,7 @@ stackpath.com
 stacksocial.com
 starzplay.com
 statuspage.com
+taplytics.steroyalbank.com
 ad-im-cmg.streamguys1.com
 ad-oom-cmg.streamguys1.com
 cmg.streamguys1.com
@@ -47997,6 +47999,7 @@ redirect622.tagcommander.com
 track.talabat.com
 talentwunder.com
 tantanapp.com
+decision-rbc.taplytics.com
 tarafdari.com
 techbargains.com
 p11.techlab-cdn.com
