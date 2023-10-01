@@ -47601,6 +47601,7 @@ geocomply.com
 ctl.prd.bi.getbux.com
 costco-tracking.getconvey.com
 getfeedback.com
+gethatch.com
 ghbtns.com
 gigya.com
 app.gitbook.com
@@ -48088,6 +48089,7 @@ payments-tracking.waveapps.com
 wdtinc.com
 assets-global.website-files.com
 weworkremotely.com
+adnotifications.windowsazure.com
 garry.windscribe.com
 wirple.com
 wishpond.com
@@ -48282,6 +48284,7 @@ voodoo.io
 voodoo-tech.io
 wootility.io
 umami.is
+bet365.it
 enabler.datalake.mediaset.it
 scenarieconomici.it
 shalom.it
