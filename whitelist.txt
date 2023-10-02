@@ -47880,11 +47880,12 @@ msf.3g.qq.com
 msfwifi.3g.qq.com
 img.itop.qq.com
 wxsnsdy.wxs.qq.com
+shop.qrp-labs.com
 quectel.com
 quicns.com
 ablink.account.quizlet.com
 trk.t.qvcemail.com
-rackcdn.com
+a21ed24aedde648804e7-228765c84088fef4ff5e70f2710398e9.r17.cf1.rackcdn.com
 app.raidrive.com
 ratemyteachers.com
 d3tracking.rbc.com
@@ -48543,6 +48544,7 @@ matomo.org
 measurement-lab.org
 whois.no-ip.org
 objective-see.org
+ciscobinary.openh264.org
 openjdk.org
 pastie.org
 blog.pixelexperience.org
@@ -49497,7 +49499,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 645
+# Ignored duplicates: 644
 
 1hosts.cf
 abuse.ch
@@ -49609,6 +49611,7 @@ addons.prestashop.com
 content-icc.pulselive.com
 cricketapi-icc.pulselive.com
 quora.com
+70415bb9924dca896de0-34a37044c62e41b40b39fcedad8af927.ssl.cf3.rackcdn.com
 client.reactrjs.com
 i.s-microsoft.com
 store-images.s-microsoft.com
