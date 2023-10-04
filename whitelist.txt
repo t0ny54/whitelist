@@ -9316,6 +9316,7 @@ albertsgifts.com
 albertsons.com
 albionantiques.com
 albumframes.com
+albumprinter.com
 albumsinc.com
 albumsource.com
 albumsunlimited.com
@@ -9359,6 +9360,7 @@ alfsgolf.com
 alibaba.com
 alibris.com
 alicdn.com
+alicebroderie.com
 aliceshop.com
 alicesstainedglass.com
 alicias-attic.com
@@ -9955,6 +9957,7 @@ anjooriansilks.com
 anjuu.com
 anklet.com
 anna-lisaonline.com
+annabac.com
 annabean.com
 annabellagio.com
 annabellesangels.com
@@ -15192,6 +15195,7 @@ cosmeticmall.com
 cosmetics.com
 cosmeticsforall.com
 cosmetictimes.com
+cosmetologieclimatique.com
 cosmic-creations.com
 cosmiccloset.com
 cosmicflamingo.com
@@ -28061,6 +28065,7 @@ pkdesignsonline.com
 pksqcamera.com
 pl8source.com
 pla-dio.com
+placedestendances.com
 placergolddesign.com
 placidspecialties.com
 plaidonline.com
@@ -37083,6 +37088,7 @@ adidas.fr
 aednet.fr
 agatha.fr
 agrarzone.fr
+akibe.fr
 alicesgarden.fr
 allobebe.fr
 alternativi.fr
@@ -37092,6 +37098,7 @@ ampoulepascher.fr
 anti-crise.fr
 apiman.fr
 apmf.fr
+assasferronnerie.fr
 atelier-de-france.fr
 atelier-prod.fr
 atelier-prod-boutique.fr
@@ -37120,6 +37127,8 @@ biomidi.fr
 bivea.fr
 blancheporte.fr
 bobine.fr
+bocage.fr
+bonchicboncoeur.fr
 bonial.fr
 bonprix.fr
 bonusprint.fr
@@ -47248,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 682
+# Ignored duplicates: 684
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47421,6 +47430,7 @@ banggood.com
 api.baomoi.com
 w-api.baomoi.com
 web.basemark.com
+help.batch.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
@@ -47501,6 +47511,7 @@ static.cloud.coveo.com
 createsend.com
 createsend1.com
 content.ctfs.com
+u.cubeupload.com
 dailycaller.com
 app.datadoghq.com
 docs.datadoghq.com
@@ -47547,6 +47558,7 @@ ekomi.com
 img.ekstat.com
 elmoinsurance.com
 emb-api.com
+t.en25.com
 nexus.ensighten.com
 wum97myjdw.ent-cdn.com
 tracking.epicgames.com
@@ -47556,7 +47568,10 @@ etrality.com
 ablink.email.etsy.com
 evercoss.com
 cdn.exponea.com
+cdn.eu1.exponea.com
 puc-cdn.exponea.com
+cdn.uk.exponea.com
+cdn.us1.exponea.com
 abc-twitter.extremereach.com
 abcnews.extremereach.com
 agents.extremereach.com
@@ -47718,6 +47733,7 @@ kxcdn.com
 lalpathlabs.com
 lanzouw.com
 clientstream.launchdarkly.com
+unsubscribe.prod.leanplum.com
 lemmynsfw.com
 trk.ecomm.lenovo.com
 us.ibs.lgappstv.com
@@ -47839,6 +47855,7 @@ api.opinary.com
 widgets.opinary.com
 images.core.optasports.com
 optimal-spine.com
+app.response.oracle-mail.com
 cmp.osano.com
 cdn.otstatic.com
 tracking.packeta.com
@@ -48506,6 +48523,7 @@ path3.xtracloud.net
 time.xtracloud.net
 xtratime.xboxprod.xtracloud.net
 yacy.net
+strm.yandex.net
 qoe-1.yottaa.net
 getipcountry.zoe.net
 login.ad.nl
@@ -49843,7 +49861,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 557
+# Ignored duplicates: 558
 
 a.run.app
 ipv4only.arpa
@@ -49927,7 +49945,6 @@ file.dingtalk.com
 h5.dingtalk.com
 static.dingtalk.com
 c.disquscdn.com
-t.en25.com
 playerstatic.entropymedia.com
 api.fast.com
 fc-resources.fastcompany.com
