@@ -47431,6 +47431,7 @@ api.baomoi.com
 w-api.baomoi.com
 web.basemark.com
 help.batch.com
+ws.batch.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
@@ -48788,6 +48789,7 @@ click.virt.s12.exacttarget.com
 click.virt.s4.exacttarget.com
 click.virt.s5.exacttarget.com
 click.virt.s6.exacttarget.com
+pub.s7.exacttarget.com
 13-111-131-111-click.sor.s7.exacttarget.com
 click.virt.s7.exacttarget.com
 view.virt.s7.exacttarget.com
