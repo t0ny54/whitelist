@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 684
+# Ignored duplicates: 685
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47665,6 +47665,7 @@ hugedomains.com
 assets.huluim.com
 ads-e-darwin.hulustream.com
 ads-fa-darwin.hulustream.com
+humansecurity.com
 analytics.icis.com
 d.ifengimg.com
 de.ign.com
@@ -48091,6 +48092,7 @@ videoproc.com
 vidio.com
 vidyard.com
 vigilantcitizen.com
+vimeo.com
 announcements.vizio.com
 api.vizio.com
 images.vizio.com
@@ -48197,6 +48199,8 @@ tipico.de
 cmp.tvspielfilm.de
 almaweb.uni-leipzig.de
 viagogo.de
+fc.vodafone.de
+was.vodafone.de
 w10privacy.de
 deviceids-medp.wdr.de
 wfcdn.de
@@ -49519,7 +49523,7 @@ pp.ua
 
 ########## Blocklist from https://raw.githubusercontent.com/raghavdua1995/DNSlock-PiHole-whitelist/master/whitelist.list ##########
 
-# Ignored duplicates: 644
+# Ignored duplicates: 645
 
 1hosts.cf
 abuse.ch
@@ -49673,7 +49677,6 @@ truste.com
 assets.ubuntu.com
 unsplash.com
 viber.com
-vimeo.com
 www.w3school.com
 w3schools.com
 wccftech.com
