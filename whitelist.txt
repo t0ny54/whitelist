@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 685
+# Ignored duplicates: 687
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48224,6 +48224,7 @@ bla.api.appboy.eu
 consentag.eu
 consent.cookiebot.eu
 consentcdn.cookiebot.eu
+pizza7.jelastic.dogado.eu
 kwrn.eu
 lighthouselabs.eu
 escortalligator.com.listcrawler.eu
@@ -48349,6 +48350,7 @@ cdn.stream.schibsted.media
 files.catbox.moe
 codepush.appcenter.ms
 in.appcenter.ms
+devtunnels.ms
 assets.rbl.ms
 tracking.pos.com.my
 sunwaydigitalwave.com.my
@@ -48483,7 +48485,6 @@ polygraph.net
 compass.pressekompass.net
 fbx-firmware.proxad.net
 pv-cdn.net
-siteintercept.qprod2.net
 sideshow.queue-it.net
 research.net
 static.cdn.responsys.net
@@ -48621,6 +48622,7 @@ myfed.space
 api-mainnet.pool.space
 uber.space
 download.oxy.st
+goo.su
 voe.sx
 web-hp.prod.jimdo.systems
 gogoanime.tel
@@ -48741,6 +48743,7 @@ adservice.google.com.co
 customers.esp1.co
 track.grove.co
 shop-links.co
+acemlnb.com
 ad3.adfarm1.adition.com
 ad4.adfarm1.adition.com
 ulink.adjust.com
