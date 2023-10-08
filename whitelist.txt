@@ -47618,6 +47618,7 @@ ctl.prd.bi.getbux.com
 costco-tracking.getconvey.com
 getfeedback.com
 gethatch.com
+getpagespeed.com
 ghbtns.com
 gigya.com
 app.gitbook.com
@@ -47788,6 +47789,7 @@ global.cdn.survey.medallia.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 assets-thaingohkee9zeyohke8.medkomtek.com
+data.meethue.com
 diagnostics.meethue.com
 discovery.meethue.com
 ws.meethue.com
@@ -48029,10 +48031,12 @@ cloudcache.tencentcs.com
 thecanadianpharmacy.com
 thecubexguide.com
 thethings.com
+icfcollege.thinkific.com
 dd.tidal.com
 et.tidal.com
 vmz-ad-cf.video.tidal.com
 salt.tikicdn.com
+m.recipes.timesofindia.com
 tags.tiqcdn.com
 tags-eu.tiqcdn.com
 tracking.tldrnewsletter.com
@@ -50451,7 +50455,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3783
+# Ignored duplicates: 3784
 
 www.google.com.af
 www.google.com.ag
@@ -50594,7 +50598,6 @@ stathat.com
 api.tastyworks.com
 tdw.telkomsel.com
 imgk.timesnownews.com
-m.recipes.timesofindia.com
 tube8.com
 changelogs.ubuntu.com
 uptime.com
