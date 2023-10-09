@@ -47518,6 +47518,9 @@ app.datadoghq.com
 docs.datadoghq.com
 imgix.datadoghq.com
 static.datadoghq.com
+assets.flightservicesv2.datasavannah.com
+live.flightservicesv2.datasavannah.com
+weatherservices.datasavannah.com
 gall.dcinside.com
 deadlinefunnel.com
 s.deepl.com
@@ -47703,6 +47706,7 @@ scmedia.itsfogo.com
 innovators.ivanti.com
 jagoketik.com
 login-dhl-de.api.eu.janrain.com
+glitchtip.jgeek00.com
 widgets.jobbio.com
 jobseeker.com
 a.jsrdn.com
