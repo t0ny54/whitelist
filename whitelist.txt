@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 687
+# Ignored duplicates: 688
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47301,6 +47301,7 @@ client.crisp.chat
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
 glomex.cloud
+gateway.pinata.cloud
 hosteagle.club
 aadrm.cn
 track.yw56.com.cn
@@ -48144,6 +48145,7 @@ zephr.com
 crm.zoho.com
 zopim.com
 hw.zuimeitianqi.com
+bigberthaoriginal.cz
 heureka.cz
 servix.idnes.cz
 c.seznam.cz
@@ -48353,6 +48355,8 @@ mssg.me
 whois.myddns.me
 ogp.me
 randomuser.me
+api.superwall.me
+cdn.superwall.me
 thedise.me
 cdn.stream.schibsted.media
 files.catbox.moe
@@ -48477,9 +48481,6 @@ papago.naver.net
 img.pay.naver.net
 netcup.net
 image.ccg.nintendo.net
-bam-eu01.cell.eu.nr-data.net
-bam.eu01.nr-data.net
-fastly-tls12-bam.eu01.nr-data.net
 scdn1.wpc.4ff2a.nucdn.net
 sni1gl.wpc.nucdn.net
 nutaku.net
@@ -48518,6 +48519,7 @@ api.st-av.net
 streamsb.net
 subway.prod.sybo.net
 te.technical-service.net
+mx.technolutions.net
 tracker.torrentbd.net
 gpubandwidthcalculator.totalh.net
 cdn.trustcommander.net
@@ -48690,7 +48692,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 284
+# Ignored duplicates: 285
 
 adservice.google.ac
 adservice.google.ad
