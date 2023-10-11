@@ -6035,7 +6035,6 @@ jpcbank.com
 jpmorgan.com
 justcallhome.com
 jvbonline.com
-kalupurbank.com
 kapolbank.com
 karadurbanbank.com
 karnatakaapex.com
@@ -6750,7 +6749,6 @@ dnsbank.in
 indianbank.in
 iob.in
 janasevabank.in
-kalyanjanata.in
 nabasia.in
 centralbank.net.in
 indianbank.net.in
@@ -48042,6 +48040,7 @@ et.tidal.com
 vmz-ad-cf.video.tidal.com
 salt.tikicdn.com
 m.recipes.timesofindia.com
+tipico.com
 tags.tiqcdn.com
 tags-eu.tiqcdn.com
 tracking.tldrnewsletter.com
@@ -49101,6 +49100,7 @@ track.nonstoppartner.net
 go.nordlocker.net
 go.nordvpn.net
 geo1.presslabs.net
+paramountplus.qflm.net
 adorama.rfvk.net
 track.seadform.net
 track.smtp2go.net
