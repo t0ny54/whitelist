@@ -47255,7 +47255,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 688
+# Ignored duplicates: 690
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47522,6 +47522,7 @@ live.flightservicesv2.datasavannah.com
 weatherservices.datasavannah.com
 gall.dcinside.com
 deadlinefunnel.com
+debugbear.com
 s.deepl.com
 tv.deezer.com
 deskpi.com
