@@ -48050,6 +48050,7 @@ tnt-ea.com
 track.toggl.com
 akm-img-a-in.tosshub.com
 cdn.tpdads.com
+capture.trackjs.com
 c.trackmytarget.com
 tradehq.com
 tradera.com
@@ -48201,6 +48202,7 @@ hbbtv.redbutton.de
 car.saturn.de
 pvn.saturn.de
 shopvote.de
+skyticket.sky.de
 spartoo.de
 static-bahn.de
 shop.strato.de
