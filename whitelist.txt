@@ -47255,7 +47255,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 690
+# Ignored duplicates: 692
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47308,6 +47308,7 @@ mail.tsinghua.edu.cn
 i.guancha.cn
 happyelements.cn
 knet.cn
+invitation.cantonfair.org.cn
 puui.qpic.cn
 online.sh.cn
 aylink.co
