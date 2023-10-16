@@ -44146,6 +44146,7 @@ htl.li
 m-i.li
 surl.li
 xip.li
+acortar.link
 b.link
 dl-protect.link
 grabify.link
@@ -47255,7 +47256,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 692
+# Ignored duplicates: 691
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47409,6 +47410,7 @@ player.avplayer.com
 awxcdn.com
 aylanetworks.com
 staticweb.ecglb.bac.com
+mo.baidu.com
 t1.baidu.com
 t10.baidu.com
 t11.baidu.com
@@ -47804,6 +47806,7 @@ messengerpeople.com
 insider.microsoft365.com
 email.microsoftemail.com
 email.microsoftrewards.com
+microsoftstart.com
 microsoftstoreemail.com
 mindvalley.com
 mintos.com
@@ -48485,6 +48488,7 @@ papago.naver.net
 img.pay.naver.net
 netcup.net
 image.ccg.nintendo.net
+redalert.nshc.net
 scdn1.wpc.4ff2a.nucdn.net
 sni1gl.wpc.nucdn.net
 nutaku.net
@@ -48499,6 +48503,7 @@ compass.pressekompass.net
 fbx-firmware.proxad.net
 pv-cdn.net
 sideshow.queue-it.net
+uk-qhs2.reedbusiness.net
 research.net
 static.cdn.responsys.net
 riotpixels.net
@@ -48696,7 +48701,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 285
+# Ignored duplicates: 284
 
 adservice.google.ac
 adservice.google.ad
