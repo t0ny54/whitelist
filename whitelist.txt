@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 693
+# Ignored duplicates: 694
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47504,6 +47504,7 @@ vue.comm100.com
 commentsengine.com
 compaq.com
 contabostorage.com
+ppp.contentdef.com
 analytics.controld.com
 stats.controld.com
 controlup.com
@@ -48026,6 +48027,7 @@ hgc-cf-cache-1.svonm.com
 swiftcourrier.com
 bibo.api.swiftkey.com
 jenson.api.swiftkey.com
+sitereview.symantec.com
 syn-alias.com
 cdnjs.tacool.com
 fn-captcha.tacool.com
