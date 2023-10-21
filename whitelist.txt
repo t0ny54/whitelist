@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 694
+# Ignored duplicates: 697
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47330,6 +47330,7 @@ fy.v.vrv.co
 zurl.co
 123freeavatars.com
 35volitantplimsoles5.com
+track.4px.com
 4wank.com
 56.com
 600vekil.com
@@ -47345,6 +47346,7 @@ acdsystems.com
 acsechocaptiveportal.com
 activecampaign.com
 activehosted.com
+api.addressy.com
 addthisevent.com
 afx.adfixus.com
 adguard.com
@@ -48527,8 +48529,6 @@ selezen.net
 at-config.sensic.net
 sheerid.net
 assets.sitescdn.net
-des.smartclip.net
-ad-ipd.sxp.smartclip.net
 applicast.ga.sony.net
 pov.spectrum.net
 api.st-av.net
