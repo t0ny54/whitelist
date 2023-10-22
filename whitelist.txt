@@ -47257,7 +47257,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 697
+# Ignored duplicates: 698
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48073,6 +48073,7 @@ static-v2.trbo.com
 rv.treehousei.com
 trello.com
 log.tresorit.com
+analytics.tripwireinteractive.com
 consent.trustarc.com
 consent-pref.trustarc.com
 trustev.com
@@ -48373,6 +48374,7 @@ ogp.me
 randomuser.me
 api.superwall.me
 cdn.superwall.me
+smsgateway.textra.me
 thedise.me
 cdn.stream.schibsted.media
 files.catbox.moe
