@@ -7,7 +7,7 @@ picsum.photos
 
 ########## Blocklist from https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt ##########
 
-# Ignored duplicates: 35
+# Ignored duplicates: 36
 
 tags.news.com.au
 adc.api.nine.com.au
@@ -169,7 +169,6 @@ neobux.com
 newrelic.com
 nicequest.com
 nimiq.com
-www.npttech.com
 octafx.com
 olymptrade.com
 onelink-translations.com
@@ -47257,7 +47256,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 698
+# Ignored duplicates: 699
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47855,6 +47854,7 @@ nolo.com
 family.norton.com
 f1.np6.com
 tr.np6.com
+npttech.com
 ntp-fireos.com
 nutaku.com
 activation.gfe.nvidia.com
@@ -48586,6 +48586,8 @@ do-not-tracker.org
 static.fastpic.org
 featuregates.org
 feylibertad.org
+files.freedownloadmanager.org
+files2.freedownloadmanager.org
 fwupd.org
 getmonero.org
 heliohost.org
