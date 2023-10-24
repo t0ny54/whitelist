@@ -43937,6 +43937,7 @@ shorturl.at
 twirl.at
 s.ggwp.be
 kissa.be
+keepo.bio
 atu.ca
 incu.ca
 tinyuri.ca
@@ -47739,6 +47740,7 @@ static-forms.klaviyo.com
 js.klevu.com
 klikdokter.com
 manage.kmail-lists.com
+storage.ko-fi.com
 koisea.com
 kompas.com
 sharing.kptncook.com
@@ -48712,7 +48714,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 284
+# Ignored duplicates: 285
 
 adservice.google.ac
 adservice.google.ad
