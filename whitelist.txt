@@ -47382,6 +47382,7 @@ prod.amazoncrl.com
 amazonforum.com
 amazonvideo.com
 prod.amcs-tachyon.com
+explore.amd.com
 info.ammex.com
 angi.com
 play.aniview.com
@@ -48218,6 +48219,7 @@ hbbtv.prosieben.de
 hbbtv.redbutton.de
 car.saturn.de
 pvn.saturn.de
+schroederdennis.de
 shopvote.de
 skyticket.sky.de
 spartoo.de
@@ -48408,6 +48410,7 @@ apple-dns.net
 axiadids.net
 b-cdn.net
 mir-s3-cdn-cf.behance.net
+tracker.bitturk.net
 option.boldapps.net
 cdn.bootcdn.net
 cdn-noc.net
@@ -48576,6 +48579,7 @@ tcf.admeen.org
 akagtm.org
 statistics.bcapps.org
 boyter.org
+bstats.org
 camopedia.org
 1115546720.rsc.cdn77.org
 cdnbunny.org
@@ -48640,6 +48644,7 @@ reseguiden.se
 static.share-videos.se
 qoo10.sg
 clk.sh
+dub.sh
 edgeme.sh
 scarf.sh
 temp.sh
@@ -48714,7 +48719,7 @@ netu.wiztube.xyz
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist-referral.txt ##########
 
-# Ignored duplicates: 285
+# Ignored duplicates: 286
 
 adservice.google.ac
 adservice.google.ad
@@ -48732,6 +48737,7 @@ adservice.google.it.ao
 adservice.google.com.ar
 adservice.google.arab
 adservice.google.as
+tagm.eduscho.at
 adservice.google.at
 adservice.google.com.au
 adservice.google.az
