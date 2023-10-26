@@ -221,6 +221,7 @@ society6.com
 sojern.com
 sphdigital.com
 statuscake.com
+succeedscene.com
 sumologic.com
 supplyframe.com
 survicate.com
@@ -47257,7 +47258,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 699
+# Ignored duplicates: 701
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47773,6 +47774,7 @@ android.life360.com
 s3.lightboxcdn.com
 collector.lightstep.com
 ingest.lightstep.com
+linkvertise.com
 cdn.livechatinc.com
 liveperson.com
 living-sun.com
@@ -48026,7 +48028,6 @@ ad-oom-cmg.streamguys1.com
 cmg.streamguys1.com
 strpst.com
 stylitics.com
-succeedscene.com
 engage.surface.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
@@ -48034,6 +48035,7 @@ bibo.api.swiftkey.com
 jenson.api.swiftkey.com
 sitereview.symantec.com
 syn-alias.com
+directory.t17service.com
 cdnjs.tacool.com
 fn-captcha.tacool.com
 embed.tagboard.com
@@ -48130,6 +48132,7 @@ ek8.voyage-prive.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
+wallpapercave.com
 wallpapers.com
 warthunder.com
 s3.us-west-1.wasabisys.com
@@ -48488,6 +48491,7 @@ blog.kakaocdn.net
 www-linkedin-com.l-0005.l-msedge.net
 leakix.net
 lekane.net
+linkvertise.net
 blogroll.livedoor.net
 adminlogin.liveperson.net
 content.video.llnw.net
@@ -48566,6 +48570,7 @@ strm.yandex.net
 qoe-1.yottaa.net
 getipcountry.zoe.net
 login.ad.nl
+login2.ad.nl
 api.c99.nl
 disguised.nl
 stl-cdn.nederlandseloterij.nl
@@ -48845,6 +48850,7 @@ ea.galerieslafayette.com
 links.getblueshift.com
 app.getresponse.com
 ggopjn.com
+track.glovoapp.com
 www.googleadservices.com
 ghs.googlehosted.com
 horizontal-porpoise-0eb349462dy5ymn4yzg0xtfa.herokudns.com
@@ -49055,6 +49061,7 @@ adservice.google.com.my
 adservice.google.co.mz
 adservice.google.com.na
 adservice.google.ne
+bestbuy.7tiv.net
 px.a8.net
 tk6if76q.ab1n.net
 a1.adform.net
