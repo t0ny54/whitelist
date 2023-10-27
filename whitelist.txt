@@ -208,6 +208,7 @@ scorecardresearch.com
 sematext.com
 sendpulse.com
 shareasale.com
+shopimind.com
 sift.com
 signalfx.com
 simply.com
@@ -48365,6 +48366,7 @@ tenping.kr
 i.pixl.li
 eth.limo
 smart.link
+dominos.sng.link
 wlo.link
 api.noda.live
 ui.noda.live
@@ -48667,6 +48669,8 @@ download.oxy.st
 goo.su
 voe.sx
 web-hp.prod.jimdo.systems
+ql.tc
+email.streamhub.tech
 gogoanime.tel
 use.fvr.to
 hopp.to
