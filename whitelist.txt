@@ -7815,9 +7815,11 @@ giulianaflores.com.br
 havan.com.br
 hmrock.com.br
 joygems.com.br
+kabum.com.br
 kalunga.com.br
 koerich.com.br
 madstar.com.br
+magazineluiza.com.br
 mbflores.com.br
 mercadoimportados.com.br
 mercadolivre.com.br
@@ -43920,10 +43922,12 @@ take2.co.za
 
 ########## Blocklist from https://raw.githubusercontent.com/cbuijs/ut1/master/shortener/domains ##########
 
-# Ignored duplicates: 53
+# Ignored duplicates: 55
 
+shortcut.ac
 twit.ac
 abre.ai
+clica.ai
 jall.al
 gl.am
 kl.am
@@ -43954,6 +43958,7 @@ gowat.ch
 linkbun.ch
 tcrn.ch
 n9.cl
+lulky.club
 liurl.cn
 2no.co
 biolinky.co
@@ -44012,6 +44017,7 @@ nullrefer.com
 piurl.com
 poprl.com
 qicute.com
+qr-code-generator.com
 qrfy.com
 quip-art.com
 rebrandly.com
@@ -44051,6 +44057,7 @@ urlpire.com
 urlq.com
 urlzen.com
 urlzs.com
+vigilink.com
 virl.com
 wowurl.com
 xaddr.com
@@ -44066,6 +44073,7 @@ ift.cx
 22h.de
 firsturl.de
 lmy.de
+qrco.de
 twiturl.de
 u6e.de
 urlenco.de
@@ -44155,6 +44163,7 @@ grabify.link
 inicio.link
 kisa.link
 mainunilink.page.link
+sc.link
 tawk.link
 inx.lv
 cutt.ly
@@ -44184,6 +44193,7 @@ shortna.me
 shw.me
 untiny.me
 updating.me
+urlr.me
 urlth.me
 shrt.ml
 gri.ms
@@ -44220,11 +44230,14 @@ clck.ru
 hm.ru
 ln-s.ru
 y6p.ru
+yalink.ru
 x.se
 tny.sh
+transfer.sh
 shrt.st
 gmy.su
 hec.su
+lk.tc
 ohw.tf
 lt.tl
 anon.to
@@ -47259,10 +47272,11 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 701
+# Ignored duplicates: 703
 
 app.clearview.ai
 cdn.engagement.ai
+mgln.ai
 sp-ao.shortpixel.ai
 curve.app
 m.icares.app
@@ -47285,7 +47299,6 @@ flvto.biz
 4x4brasil.com.br
 baixaki.com.br
 tm.jsuol.com.br
-sacola.magazineluiza.com.br
 tracking.totalexpress.com.br
 mng.bz
 login.cbc.ca
@@ -47406,6 +47419,7 @@ arttrk.com
 www.asadcdn.com
 app.asana.com
 licenses.ashampoo.com
+asn.com
 asusiran.com
 attraqt.com
 de.aukey.com
@@ -47570,6 +47584,7 @@ go.e2language.com
 eaglecdn.com
 gph.easebar.com
 update.easebar.com
+static.efukt.com
 ekomi.com
 img.ekstat.com
 elmoinsurance.com
@@ -48655,7 +48670,6 @@ dub.sh
 edgeme.sh
 scarf.sh
 temp.sh
-transfer.sh
 duty-halt-i-253.site
 heureka.sk
 wee.so
