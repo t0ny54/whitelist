@@ -44225,6 +44225,7 @@ w3t.org
 short.pe
 zi.pe
 idz-do.pl
+9sh.re
 sp2.ro
 clck.ru
 hm.ru
@@ -44234,6 +44235,7 @@ yalink.ru
 x.se
 tny.sh
 transfer.sh
+bom.so
 shrt.st
 gmy.su
 hec.su
