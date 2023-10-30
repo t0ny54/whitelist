@@ -47274,7 +47274,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 703
+# Ignored duplicates: 704
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47317,6 +47317,7 @@ opsserver.ch
 client.crisp.chat
 sodimac.cl
 te.ip-prod.aws-cbc.cloud
+vp-event-receiver.userdata-prod.aws-cbc.cloud
 glomex.cloud
 gateway.pinata.cloud
 hosteagle.club
@@ -47347,6 +47348,7 @@ fy.v.vrv.co
 zurl.co
 123freeavatars.com
 35volitantplimsoles5.com
+4fstore.com
 track.4px.com
 4wank.com
 56.com
@@ -48636,6 +48638,7 @@ scotts-grotto.org
 api.smartify.org
 speedcheck.org
 api.speedspot.org
+metrics.torproject.org
 traccar.org
 trackersimulator.org
 wmflabs.org
@@ -50517,7 +50520,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3784
+# Ignored duplicates: 3785
 
 www.google.com.af
 www.google.com.ag
@@ -50780,7 +50783,6 @@ public.popcorn-tracker.org
 pornbus.org
 postimg.org
 api.sunrise-sunset.org
-metrics.torproject.org
 www.google.com.pa
 www.google.com.pe
 www.google.com.pg
