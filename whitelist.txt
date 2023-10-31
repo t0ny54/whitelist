@@ -4773,7 +4773,6 @@ twitch.tv
 news.ebc.net.tw
 express.co.uk
 theregister.co.uk
-gitcdn.xyz
 
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/optional-list.txt ##########
@@ -47574,6 +47573,7 @@ track.doordash.com
 doppiocdn.com
 gateway.dots-services.com
 dr-farfar.com
+tracker.dragontail.com
 dropbox-dns.com
 api.dropboxapi.com
 edge.dropboxstatic.com
@@ -48187,6 +48187,7 @@ zephr.com
 crm.zoho.com
 zopim.com
 hw.zuimeitianqi.com
+api.zynga.com
 bigberthaoriginal.cz
 heureka.cz
 servix.idnes.cz
