@@ -13716,6 +13716,7 @@ carpetdisc.com
 carphonewarehouse.com
 carr-taylor.com
 carraigdonn.com
+carrefourinternet.com
 carriagecorner.com
 carriagedrivingessentials.com
 carriagegifts.com
@@ -24434,6 +24435,7 @@ mantisswords.com
 manumituk.com
 manyflags.com
 manymaps.com
+manymorestores.com
 maols.com
 mapcamera.com
 mapcenter.com
@@ -47273,7 +47275,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 704
+# Ignored duplicates: 705
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47932,6 +47934,7 @@ go.powunity.com
 monitor.ppcprotect.com
 pressablecdn.com
 cdn.pricespider.com
+locate.pricespider.com
 primevideo.com
 cdn.privacy-mgmt.com
 proctorio.com
