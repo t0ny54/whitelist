@@ -47861,6 +47861,7 @@ msftconnecttest.com
 client-stream-events.mtg-api.com
 myabandonware.com
 mycliplister.com
+secure.mydialoginsight.com
 mypoints.com
 so.n11.com
 nairaland.com
@@ -48386,6 +48387,7 @@ ns11.whois.co.kr
 dreamsearch.or.kr
 gokams.or.kr
 tenping.kr
+mailing.serviceclients.leclerc
 i.pixl.li
 eth.limo
 smart.link
