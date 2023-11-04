@@ -4542,6 +4542,7 @@ torrentfreak.com
 toysrus.com
 tumblr.com
 tunein.com
+community.ukg.com
 t.umblr.com
 unibytes.com
 unix.com
@@ -47275,7 +47276,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 705
+# Ignored duplicates: 706
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47306,6 +47307,7 @@ tracking.totalexpress.com.br
 mng.bz
 login.cbc.ca
 turbulent.ca
+go.pace.uwinnipegcourses.ca
 dojo.cc
 linkspy.cc
 uu.cc
@@ -47647,6 +47649,7 @@ images.g2crowd.com
 learn.g2crowd.com
 api.pgpl.g5e.com
 gameforge.com
+catalog.gamepass.com
 gaytxxx.com
 maps.geoapify.com
 geocomply.com
@@ -48170,6 +48173,7 @@ garry.windscribe.com
 wirple.com
 wishpond.com
 phishingquiz.withgoogle.com
+premium.wix.com
 worldnomads.com
 wpbeaches.com
 samsungapps.com.wtxcdn.com
