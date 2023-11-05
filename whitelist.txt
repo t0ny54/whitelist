@@ -5620,6 +5620,7 @@ bnccorp.com
 bofm.com
 borregospringsbank.com
 botw-ep.com
+boursobank.com
 boursorama-banque.com
 bradfordfsb.com
 bradynationalbank.com
@@ -9387,6 +9388,7 @@ alitadesigns.com
 alittleshop.com
 alittlespirit.com
 alivans.com
+alixgrousset.com
 aljarra.com
 aljilbab.com
 alkalineandrechargeablebatteries.com
@@ -10836,6 +10838,7 @@ aventuraflowers.com
 avenue.com
 avenue-des-bebes.com
 avenuearabella.com
+avenuedelabrique.com
 avenuedesanges.com
 avenuedesbebes.com
 avenuedesjeux.com
@@ -12356,6 +12359,7 @@ blanketsnmore.com
 blankgenerationshirts.com
 blarney.com
 blastotoys.com
+blayfoldex.com
 blazediamond.com
 bldfineart.com
 bleeker.com
@@ -37197,6 +37201,7 @@ artefactstudio.free.fr
 funidelia.fr
 gamichon.fr
 geantcasino.fr
+gemo.fr
 gevy.fr
 gifi.fr
 golfplus.fr
@@ -44253,6 +44258,7 @@ fire.to
 gooo.to
 inreply.to
 liip.to
+llink.to
 lnk.to
 profile.to
 short.to
@@ -47276,7 +47282,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 706
+# Ignored duplicates: 707
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47976,6 +47982,7 @@ ephemeralcounters.api.roblox.com
 locale.roblox.com
 robvanderwoude.com
 tracking.rosettastone.com
+tracking.route.com
 api.rudderlabs.com
 rudderstack.com
 ipe-pmt.prod.sabre.com
