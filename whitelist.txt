@@ -47282,7 +47282,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 707
+# Ignored duplicates: 705
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48062,6 +48062,7 @@ ad-oom-cmg.streamguys1.com
 cmg.streamguys1.com
 strpst.com
 stylitics.com
+tracking.sundarbancourierltd.com
 engage.surface.com
 hgc-cf-cache-1.svonm.com
 swiftcourrier.com
@@ -48377,7 +48378,6 @@ ves.io
 voodoo.io
 voodoo-tech.io
 wootility.io
-umami.is
 bet365.it
 enabler.datalake.mediaset.it
 scenarieconomici.it
@@ -50537,7 +50537,7 @@ myad.vn
 
 ########## Blocklist from https://raw.githubusercontent.com/dnswarden/blocklist-staging/main/whitelist/whitelistcommon.txt ##########
 
-# Ignored duplicates: 3785
+# Ignored duplicates: 3786
 
 www.google.com.af
 www.google.com.ag
