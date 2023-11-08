@@ -43951,6 +43951,7 @@ twirl.at
 s.ggwp.be
 kissa.be
 keepo.bio
+encurtador.com.br
 atu.ca
 incu.ca
 tinyuri.ca
@@ -48300,6 +48301,7 @@ pizza7.jelastic.dogado.eu
 kwrn.eu
 lighthouselabs.eu
 escortalligator.com.listcrawler.eu
+picnic.slgnt.eu
 ioc.exchange
 fonecta.fi
 hintaopas.fi
@@ -48742,6 +48744,7 @@ track.dhlparcel.co.uk
 cmp.dmgmediaprivacy.co.uk
 api.nextgen.guardianapps.co.uk
 interactive.guim.co.uk
+inyourarea.co.uk
 netdirector.co.uk
 overclockers.co.uk
 skymedia.co.uk
