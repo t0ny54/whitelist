@@ -21,6 +21,7 @@ epn.bz
 popin.cc
 admeira.ch
 easylist.club
+bdad.123pan.cn
 datayi.cn
 threatbook.cn
 axiom.co
@@ -48110,6 +48111,7 @@ c.trackmytarget.com
 tradehq.com
 tradera.com
 cdn.transifex.com
+trashmail.com
 api-v4.trbo.com
 static-v2.trbo.com
 rv.treehousei.com
