@@ -6714,6 +6714,7 @@ ca-sudrhonealpes.fr
 ca-toulousain.fr
 ca-tourainepoitou.fr
 ca-valdefrance.fr
+carrefour-banque.fr
 ccso.fr
 cetelem.fr
 cetelem-paiement.fr
@@ -11449,6 +11450,7 @@ baumannengineering.com
 bavender.com
 baxleystamps.com
 baxtersdirect.com
+bayard-editions.com
 bayareabags.com
 bayareakicks.com
 baybridgecentral.com
@@ -37126,6 +37128,7 @@ baage.fr
 backmarket.fr
 bax-shop.fr
 bayardsso.fr
+bcd-jeux.fr
 beauteprivee.fr
 beautycenter.fr
 beemenergy.fr
@@ -47284,7 +47287,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 705
+# Ignored duplicates: 706
 
 app.clearview.ai
 cdn.engagement.ai
