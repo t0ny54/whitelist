@@ -44138,6 +44138,7 @@ shre.ink
 appurl.io
 dsn.io
 hex.io
+keepo.io
 ppurl.io
 replug.io
 s3r.io
@@ -44277,6 +44278,7 @@ url.co.uk
 wapurl.co.uk
 linkr.uk
 2pl.us
+disq.us
 loopt.us
 s7y.us
 shoturl.us
@@ -47287,7 +47289,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 706
+# Ignored duplicates: 707
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47804,7 +47806,7 @@ common.lgthinq.com
 lss.lgthinq.com
 cdpsvc.lgtvcommon.com
 recommend.lgtvcommon.com
-aic.service.lgtvcommon.com
+service.lgtvcommon.com
 lgtvsdp.com
 librefutboltv.com
 android.life360.com
@@ -47893,6 +47895,7 @@ deviceportal.nettvservices.com
 newbedev.com
 news9.com
 p.nfltags.com
+ngrok.com
 nolo.com
 family.norton.com
 f1.np6.com
@@ -48179,6 +48182,8 @@ wallpapers.com
 warthunder.com
 s3.us-west-1.wasabisys.com
 payments-tracking.waveapps.com
+a101.wawlabs.com
+wa.wawlabs.com
 wdtinc.com
 assets-global.website-files.com
 weworkremotely.com
@@ -48358,6 +48363,7 @@ cdn.video.meredithcorp.io
 playback.video.meredithcorp.io
 run.mocky.io
 nextdns.io
+ngrok.io
 medium.ngtv.io
 mobile-data.onetrust.io
 opentelemetry.io
@@ -48629,6 +48635,7 @@ ccf.admeen.org
 tcf.admeen.org
 akagtm.org
 statistics.bcapps.org
+bnbchain.org
 boyter.org
 bstats.org
 camopedia.org
