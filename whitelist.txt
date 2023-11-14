@@ -48646,6 +48646,7 @@ learn.cisecurity.org
 cleantalk.org
 codeberg.org
 consentmanager.mgr.consensu.org
+content.covantagecu.org
 do-not-tracker.org
 static.fastpic.org
 featuregates.org
@@ -48773,6 +48774,7 @@ zlp-bill-tracking.zalopay.vn
 minecraft.wiki
 notifiarr.wiki
 nnmstatic.win
+dc.railgun.works
 cbox.ws
 myip.wtf
 apollopushserver.xyz
