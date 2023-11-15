@@ -48064,6 +48064,7 @@ spyfu.com
 stackpath.com
 stacksocial.com
 starzplay.com
+api.statsig.com
 statuspage.com
 taplytics.steroyalbank.com
 ad-im-cmg.streamguys1.com
@@ -48197,6 +48198,7 @@ premium.wix.com
 worldnomads.com
 wpbeaches.com
 samsungapps.com.wtxcdn.com
+wurkkos.com
 engage.xbox.com
 xoom.com
 video.xxxjmp.com
@@ -48736,6 +48738,7 @@ uedas.com.tr
 widget.yenimedya.com.tr
 edevlet.gov.tr
 ilan.gov.tr
+license.adrise.tv
 cdn.brid.tv
 p.brid.tv
 services.brid.tv
