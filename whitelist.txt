@@ -44272,6 +44272,7 @@ lnk.to
 profile.to
 short.to
 swll.to
+trimmer.to
 ge.tt
 ift.tt
 tiny.tw
@@ -47824,6 +47825,7 @@ living-sun.com
 localiq.com
 lorienglobal.com
 lowendbox.com
+lxidd.com
 m1.com
 mackeeper.com
 mailerlite.com
