@@ -47661,6 +47661,7 @@ execution-ci360.flypgs.com
 formula1.com
 fosscord.com
 freeprivacypolicy.com
+froala.com
 b.fssta.com
 funtrivia.com
 data.g2crowd.com
