@@ -2864,7 +2864,7 @@ www.ebank.peoplesbank.lk
 sdbmobilec.sdb.lk
 ebankas.danskebank.lt
 ibank.lt
-e.seb.lt
+seb.lt
 ib.swedbank.lt
 webbanking.bgl.lu
 online.citadele.lv
@@ -47549,6 +47549,7 @@ vue.comm100.com
 commentsengine.com
 compaq.com
 contabostorage.com
+fb.content-loader.com
 ppp.contentdef.com
 analytics.controld.com
 stats.controld.com
@@ -48104,6 +48105,7 @@ techbargains.com
 p11.techlab-cdn.com
 meeting.tencent.com
 cloudcache.tencentcs.com
+tfogc.com
 thecanadianpharmacy.com
 thecubexguide.com
 thethings.com
@@ -48645,6 +48647,7 @@ drscdn.500px.org
 ccf.admeen.org
 tcf.admeen.org
 akagtm.org
+ia601500.us.archive.org
 statistics.bcapps.org
 bnbchain.org
 boyter.org
