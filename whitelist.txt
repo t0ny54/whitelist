@@ -15,6 +15,7 @@ grabo.bg
 6ms.biz
 cifraclub.com.br
 afiliados.hostgator.com.br
+tm.jsuol.com.br
 rdstation.com.br
 buyeasy.by
 epn.bz
@@ -289,6 +290,7 @@ geo.ngtv.io
 ntv.io
 onthe.io
 middleware.p7s1.io
+pendo.io
 plausible.io
 redventures.io
 sentry.io
@@ -44269,6 +44271,7 @@ inreply.to
 liip.to
 llink.to
 lnk.to
+oooo.to
 profile.to
 short.to
 swll.to
@@ -47293,7 +47296,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 708
+# Ignored duplicates: 709
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47319,7 +47322,6 @@ content-media.bonial.biz
 flvto.biz
 4x4brasil.com.br
 baixaki.com.br
-tm.jsuol.com.br
 tracking.totalexpress.com.br
 mng.bz
 login.cbc.ca
@@ -47520,6 +47522,7 @@ starling-oversea.byteoversea.com
 c-ctrip.com
 cainiao.com
 l.engage.canva.com
+track.canva.com
 canyoublockit.com
 devices.carnivalmobile.com
 ajaxgeo.cartrawler.com
@@ -47797,7 +47800,6 @@ overseacdnweb.qiniu.com.w.kunlunno.com
 kxcdn.com
 lalpathlabs.com
 lanzouw.com
-clientstream.launchdarkly.com
 unsubscribe.prod.leanplum.com
 lemmynsfw.com
 trk.ecomm.lenovo.com
@@ -47902,6 +47904,7 @@ netline.com
 deviceportal.nettvservices.com
 newbedev.com
 news9.com
+wallstreetjournal-ny-app.newsmemory.com
 p.nfltags.com
 ngrok.com
 naver.net.nheos.com
