@@ -47316,6 +47316,7 @@ oshi.at
 ssl.o.auspost.com.au
 languageacademy.com.au
 metrics.leaptel.com.au
+robtec.com.au
 sportsbet.com.au
 smartnews.be
 content-media.bonial.biz
@@ -48261,6 +48262,7 @@ datev-community.de
 tracking.dpd.de
 eazy.de
 ecosia.de
+cewe-trx1.elaine-asp.de
 imgs.elaine-asp.de
 lforr.elaine-asp.de
 imgs.elainemedia.de
@@ -48408,6 +48410,7 @@ ves.io
 voodoo.io
 voodoo-tech.io
 wootility.io
+ydns.io
 bet365.it
 enabler.datalake.mediaset.it
 scenarieconomici.it
