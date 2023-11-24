@@ -47296,7 +47296,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 709
+# Ignored duplicates: 712
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48411,6 +48411,7 @@ voodoo.io
 voodoo-tech.io
 wootility.io
 ydns.io
+umami.is
 bet365.it
 enabler.datalake.mediaset.it
 scenarieconomici.it
