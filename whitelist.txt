@@ -47300,6 +47300,7 @@ aag.org.za
 
 app.clearview.ai
 cdn.engagement.ai
+chat.engagement.ai
 mgln.ai
 sp-ao.shortpixel.ai
 curve.app
@@ -48774,6 +48775,7 @@ sweet.tv
 ad.wpstr.tv
 xlate.dcard.tw
 itad.linetv.tw
+chnu.edu.ua
 gov.ua
 a1.api.bbc.co.uk
 asynchronousmessaging.dashboard.co.uk
