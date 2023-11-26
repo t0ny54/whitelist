@@ -44100,6 +44100,8 @@ linktr.ee
 stor.ee
 gurl.es
 thrdl.es
+go.uv.es
+links.uv.es
 wipi.es
 url4.eu
 dy.fi
@@ -47447,6 +47449,7 @@ arqbackup.com
 arttrk.com
 www.asadcdn.com
 app.asana.com
+sdk.asapp.com
 licenses.ashampoo.com
 asn.com
 asusiran.com
