@@ -47490,6 +47490,7 @@ ws.batch.com
 omroepbrabant.bbvms.com
 marvel-b1-cdn.bc0a.com
 search-operate.cdn.bcebos.com
+bdshop.com
 beaute-test.com
 cname.beehiiv.com
 link.mail.beehiiv.com
@@ -47880,6 +47881,7 @@ images1.minutemediacdn.com
 images2.minutemediacdn.com
 click.account.miro.com
 digitalservices.missionfed.com
+srv.sec.intl.miui.com
 update.intl.miui.com
 connect.intl.rom.miui.com
 api.miwifi.com
@@ -48505,6 +48507,7 @@ d28n7yywqog3r7.cloudfront.net
 d291vdycu0ht11.cloudfront.net
 d2cttawv9fdszz.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
+d2u3dcdbebyaiu.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 d6tizftlrpuof.cloudfront.net
 dlp3zj68t5lvh.cloudfront.net
