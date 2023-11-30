@@ -48428,6 +48428,7 @@ cmp.sky.it
 spartoo.it
 studenti.it
 ftp.iij.ad.jp
+ntp.jst.mfeed.ad.jp
 stat100.ameba.jp
 dob.jp
 tracking.post.japanpost.jp
