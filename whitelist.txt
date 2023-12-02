@@ -44181,7 +44181,7 @@ dl-protect.link
 grabify.link
 inicio.link
 kisa.link
-mainunilink.page.link
+page.link
 sc.link
 tawk.link
 wa.link
@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 712
+# Ignored duplicates: 715
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47622,6 +47622,7 @@ go.e2language.com
 eaglecdn.com
 gph.easebar.com
 update.easebar.com
+activation.easeus.com
 static.efukt.com
 ekomi.com
 img.ekstat.com
@@ -48346,6 +48347,7 @@ asiakas.valokuitunen.fi
 feature.fm
 fountain.fm
 akamaitechnologies.fr
+info.mediapart.fr
 segura-moto.fr
 bestgore.fun
 lnks.gd
@@ -48603,6 +48605,7 @@ tra.scds.pmdstatic.net
 polygraph.net
 compass.pressekompass.net
 fbx-firmware.proxad.net
+stream.proxad.net
 pv-cdn.net
 sideshow.queue-it.net
 uk-qhs2.reedbusiness.net
@@ -49349,7 +49352,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 146
+# Ignored duplicates: 147
 
 api.cortana.ai
 cupfox.app
@@ -49470,7 +49473,6 @@ adashx.ut.dingtalk.com
 h-adashx.ut.dingtalk.com
 msg.douyu.com
 dynatrace.com
-activation.easeus.com
 mini.eastday.com
 push2.eastmoney.com
 c.evidon.com
