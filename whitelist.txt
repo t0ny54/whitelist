@@ -47841,6 +47841,7 @@ lowendbox.com
 lxidd.com
 m1.com
 mackeeper.com
+magiskcn.com
 mailerlite.com
 f1.mailperformance.com
 majesticseo.com
@@ -48755,6 +48756,7 @@ api-mainnet.pool.space
 uber.space
 download.oxy.st
 goo.su
+iptools.su
 voe.sx
 web-hp.prod.jimdo.systems
 ql.tc
