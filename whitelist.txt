@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 715
+# Ignored duplicates: 714
 
 app.clearview.ai
 cdn.engagement.ai
@@ -48117,6 +48117,7 @@ decision-rbc.taplytics.com
 tarafdari.com
 techbargains.com
 p11.techlab-cdn.com
+techpatterns.com
 meeting.tencent.com
 cloudcache.tencentcs.com
 tfogc.com
