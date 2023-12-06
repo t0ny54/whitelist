@@ -48643,6 +48643,7 @@ use.typekit.net
 uceprotect.net
 verisign.net
 wargaming.net
+backgrounds.wetransfer.net
 fast.wistia.net
 wsj.net
 app.chat.xiaomi.net
