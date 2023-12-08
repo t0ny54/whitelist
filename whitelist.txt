@@ -94,6 +94,7 @@ datadoghq-browser-agent.com
 logs.datadoghq.com
 db-ip.com
 digits.com
+drift.com
 dynamicyield.com
 eboundservices.com
 edigitalsurvey.com
@@ -4864,7 +4865,7 @@ go2jump.org
 
 ########## Blocklist from https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt ##########
 
-# Ignored duplicates: 121
+# Ignored duplicates: 122
 
 youtu.be
 meta.plex.bz
@@ -4883,7 +4884,6 @@ vidtech.cbsinteractive.com
 cws.conviva.com
 pings.conviva.com
 dataplicity.com
-drift.com
 driftt.com
 geo3.ggpht.com
 yt3.ggpht.com
@@ -47573,6 +47573,7 @@ static.cloud.coveo.com
 cprapid.com
 createsend.com
 createsend1.com
+wh-sh59.csloxinfo.com
 content.ctfs.com
 u.cubeupload.com
 dailycaller.com
@@ -47852,6 +47853,7 @@ manli.com
 marinetraffic.com
 mcpwgrxj4n94hv1pvdyqw0zwdxyq.device.marketingcloudapis.com
 s50.device.marketingcloudapis.com
+content.markitcdn.com
 tms.api.mashery.com
 td-mashery-tm-use1.mashery.com
 td-tms.mashery.com
@@ -48328,6 +48330,7 @@ netbank.nordea.dk
 iutoic-dhaka.edu
 shibboleth.main.ad.rit.edu
 tr.ee
+tempr.email
 notifications-prod.cloud.remarkable.engineering
 updates.cloud.remarkable.engineering
 webapp-prod.cloud.remarkable.engineering
