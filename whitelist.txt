@@ -48381,6 +48381,8 @@ trk.bcrc.io
 blackfire.io
 canarymail.io
 chatra.io
+registry.api.cnn.io
+zion.api.cnn.io
 chatserver15.comm100.io
 driverpack.io
 cdn.elev.io
