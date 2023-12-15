@@ -47864,6 +47864,7 @@ webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
 meatspin.com
 global.cdn.survey.medallia.com
+mediatek.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 assets-thaingohkee9zeyohke8.medkomtek.com
@@ -48203,6 +48204,7 @@ ims.vodafone.com
 void-scans.com
 cdn.voscast.com
 ek8.voyage-prive.com
+cts.vresp.com
 apicache.vudu.com
 engage.vzw.com
 wabetainfo.com
@@ -48692,6 +48694,8 @@ learn.cisecurity.org
 cleantalk.org
 codeberg.org
 consentmanager.mgr.consensu.org
+cdn.cookielaw.org
+cmp-cdn.cookielaw.org
 content.covantagecu.org
 do-not-tracker.org
 static.fastpic.org
