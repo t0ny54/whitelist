@@ -4233,7 +4233,7 @@ sumo.cdn.tv2.no
 
 ########## Blocklist from https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/whitelist/master/domains.list ##########
 
-# Ignored duplicates: 137
+# Ignored duplicates: 138
 
 media-lab.ai
 gmx.at
@@ -47653,6 +47653,7 @@ graph.facebook-hardware.com
 famatel.com
 lostmediaarchive.fandom.com
 fapcat.com
+faptor.com
 faronics.com
 rt.fastly.com
 ff-01.com
@@ -47864,7 +47865,6 @@ webadvisorc.rest.gti.mcafee.com
 mdhcdn.com
 meatspin.com
 global.cdn.survey.medallia.com
-mediatek.com
 cdn.mediavoice.com
 plugin.mediavoice.com
 assets-thaingohkee9zeyohke8.medkomtek.com
