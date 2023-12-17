@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 714
+# Ignored duplicates: 715
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47893,6 +47893,7 @@ connect.intl.rom.miui.com
 api.miwifi.com
 mkklcdnv6tempv4.com
 ab13.mktossl.com
+live.mmcdn.com
 assets.mmsrg.com
 review-rating.mncdn.com
 sdk-02.moengage.com
@@ -47927,6 +47928,7 @@ family.norton.com
 f1.np6.com
 tr.np6.com
 npttech.com
+nsw2u.com
 ntp-fireos.com
 nutaku.com
 activation.gfe.nvidia.com
@@ -48697,6 +48699,7 @@ consentmanager.mgr.consensu.org
 cdn.cookielaw.org
 cmp-cdn.cookielaw.org
 content.covantagecu.org
+covidsafefurs.org
 do-not-tracker.org
 static.fastpic.org
 featuregates.org
