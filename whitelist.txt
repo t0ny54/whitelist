@@ -47607,6 +47607,7 @@ dooood.com
 track.doordash.com
 doppiocdn.com
 gateway.dots-services.com
+m.dq.com
 dr-farfar.com
 tracker.dragontail.com
 dropbox-dns.com
@@ -47960,6 +47961,7 @@ go.pardot.com
 t.paydaythegame.com
 payusatax.com
 pcapredict.com
+u.pcloud.com
 nl.pepper.com
 performfeeds.com
 cdn.petametrics.com
