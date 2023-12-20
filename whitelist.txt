@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 715
+# Ignored duplicates: 716
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47457,7 +47457,9 @@ asusiran.com
 attraqt.com
 de.aukey.com
 streamback.ns1.ff.avast.com
+shepherd.ff.avast.com
 su.ff.avast.com
+ncc.avast.com
 submit.sb.avast.com
 avis-verifies.com
 player.avplayer.com
@@ -47945,6 +47947,7 @@ mail.onedrive.com
 onmilwaukee.com
 onthatass.com
 opensignal.com
+opentext.com
 geo.opera.com
 api.opinary.com
 widgets.opinary.com
