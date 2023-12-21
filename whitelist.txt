@@ -48162,6 +48162,8 @@ rv.treehousei.com
 trello.com
 log.tresorit.com
 analytics.tripwireinteractive.com
+s1.trrsf.com
+s2.trrsf.com
 consent.trustarc.com
 consent-pref.trustarc.com
 trustev.com
@@ -48440,7 +48442,6 @@ voodoo.io
 voodoo-tech.io
 wootility.io
 ydns.io
-umami.is
 bet365.it
 le-sorprese-di-natale.justeat.it
 enabler.datalake.mediaset.it
@@ -48534,6 +48535,7 @@ d291vdycu0ht11.cloudfront.net
 d2cttawv9fdszz.cloudfront.net
 d2r1yp2w7bby2u.cloudfront.net
 d2u3dcdbebyaiu.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 d6tizftlrpuof.cloudfront.net
 dlp3zj68t5lvh.cloudfront.net
@@ -49381,7 +49383,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 147
+# Ignored duplicates: 148
 
 api.cortana.ai
 cupfox.app
@@ -49654,7 +49656,6 @@ d10lpsik1i8c69.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
 d2na2p72vtqyok.cloudfront.net
-d2wy8f7a9ursnm.cloudfront.net
 d31qbv1cthcecs.cloudfront.net
 d35u1vg1q28b3w.cloudfront.net
 d3tglifpd8whs6.cloudfront.net
