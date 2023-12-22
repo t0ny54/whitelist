@@ -47546,6 +47546,7 @@ cdn-apple.com
 cdnhwc1.com
 ceros.com
 s2.static.cfgr3.com
+richmedia.channeladvisor.com
 email-sendgrid-deep-linking.chewy.com
 tmetrix.my.chick-fil-a.com
 services.chipotle.com
@@ -48685,6 +48686,7 @@ api.c99.nl
 disguised.nl
 stl-cdn.nederlandseloterij.nl
 mijn.overheid.nl
+cmmnts.i.bt.no
 payment.schibsted.no
 fakeshop-finder.nrw
 smotret-anime.online
