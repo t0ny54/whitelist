@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 716
+# Ignored duplicates: 717
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47717,6 +47717,8 @@ track.goshippo.com
 gradcracker.com
 gsght.com
 guhantara.com
+gvt2.com
+gvt3.com
 player2.h-cdn.com
 widget.haberler.com
 i.hbrcdn.com
@@ -47759,6 +47761,7 @@ credit-agricole-compagnon.inbenta.com
 incolumitas.com
 optmzly.fe.indazn.com
 slike.indiatimes.com
+infinitummail.com
 ivantiinnovators.influitive.com
 informer.com
 vr331.infusionsoft.com
@@ -47980,6 +47983,7 @@ pixeldrain.com
 plarium.com
 playhydrax.com
 administrator.pnclassaction.com
+podscribe.com
 poki-gdn.com
 polls.polldaddy.com
 videos.porndig.com
@@ -48324,6 +48328,7 @@ spartoo.de
 static-bahn.de
 shop.strato.de
 pix.sueddeutsche.de
+testerheld.de
 tipico.de
 cmp.tvspielfilm.de
 almaweb.uni-leipzig.de
@@ -49386,7 +49391,7 @@ adservice.google.co.zw
 
 ########## Blocklist from https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt ##########
 
-# Ignored duplicates: 148
+# Ignored duplicates: 149
 
 api.cortana.ai
 cupfox.app
@@ -49514,7 +49519,6 @@ upd.faronicslabs.com
 feedburner.com
 gameone.com
 govdelivery.com
-gvt2.com
 heytapimage.com
 hosting24.com
 hubpd.com
@@ -50388,7 +50392,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 297
+# Ignored duplicates: 298
 
 theship.club
 cpro.baidu.cn
@@ -50434,7 +50438,6 @@ motu.gshifen.com
 opencdnglobal.gshifen.com
 simagestatic.gshifen.com
 guitarbelieve.com
-beacons5.gvt3.com
 acompli.helpshift.com
 logs.heroku.com
 herokuapp.com
