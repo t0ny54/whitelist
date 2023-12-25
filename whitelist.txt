@@ -47575,6 +47575,7 @@ epg.corio.com
 courier.com
 static.cloud.coveo.com
 cprapid.com
+cpx-research.com
 createsend.com
 createsend1.com
 wh-sh59.csloxinfo.com
@@ -48091,6 +48092,7 @@ internal-api.snapkit.com
 web.snrbox.com
 socpublic.com
 softonic.com
+softwareadvice.com
 api-secure.solvemedia.com
 go.sonomotors.com
 portal.store.sonyentertainmentnetwork.com
