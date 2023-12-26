@@ -47298,7 +47298,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 717
+# Ignored duplicates: 715
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47439,6 +47439,7 @@ ansible.com
 unityprod.answerhub.com
 k.apiairasia.com
 appboy-images.com
+apphud.com
 assets-secure.applicaster.com
 art-analytics.appspot.com
 appsumo.com
@@ -48524,7 +48525,8 @@ akasecure.net
 akasripcn.net
 f1-prod-production.dn.apigee.net
 f1-prod-production.apigee.net
-apple-dns.net
+gc.fe.apple-dns.net
+mask.apple-dns.net
 axiadids.net
 b-cdn.net
 mir-s3-cdn-cf.behance.net
@@ -50054,7 +50056,7 @@ zoom.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist.txt ##########
 
-# Ignored duplicates: 558
+# Ignored duplicates: 557
 
 a.run.app
 ipv4only.arpa
@@ -50321,6 +50323,7 @@ static.3001.net
 8ch.net
 crunchyroll.adtrackers.net
 serve.adtrackers.net
+gateway.fe.apple-dns.net
 crunchyroll.bannertrack.net
 d3orhvfyxudxxq.cloudfront.net
 d9hhrg4mnvzow.cloudfront.net
