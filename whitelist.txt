@@ -93,6 +93,7 @@ cy-pr.com
 datadoghq-browser-agent.com
 logs.datadoghq.com
 db-ip.com
+debugbear.com
 digits.com
 drift.com
 dynamicyield.com
@@ -47298,7 +47299,7 @@ aag.org.za
 
 ########## Blocklist from https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt ##########
 
-# Ignored duplicates: 715
+# Ignored duplicates: 717
 
 app.clearview.ai
 cdn.engagement.ai
@@ -47592,7 +47593,6 @@ live.flightservicesv2.datasavannah.com
 weatherservices.datasavannah.com
 gall.dcinside.com
 deadlinefunnel.com
-debugbear.com
 s.deepl.com
 tv.deezer.com
 deskpi.com
@@ -47768,6 +47768,7 @@ ivantiinnovators.influitive.com
 informer.com
 vr331.infusionsoft.com
 ink1001.com
+cmp.inmobi.com
 intheswim.com
 api.intuit.com
 eventbus.intuit.com
@@ -48664,6 +48665,7 @@ applicast.ga.sony.net
 pov.spectrum.net
 api.st-av.net
 streamsb.net
+ststat.net
 subway.prod.sybo.net
 te.technical-service.net
 mx.technolutions.net
