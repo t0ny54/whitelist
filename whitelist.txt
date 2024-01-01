@@ -86,6 +86,7 @@ confirmit.com
 connatix.com
 coralogix.com
 crakmedia.com
+crashlytics.com
 crowdtwist.com
 ctrip.com
 cxense.com
@@ -48480,7 +48481,7 @@ login.microsoftonline.us
 
 ########## Blocklist from https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/whitelist2.txt ##########
 
-# Ignored duplicates: 280
+# Ignored duplicates: 281
 
 theship.club
 cpro.baidu.cn
@@ -48503,7 +48504,6 @@ betrad.com
 tags.bkrtx.com
 apiv2.bricknet.com
 media.complex.com
-crashlytics.com
 assets.dealabs.com
 espresso.economist.com
 sstats.economist.com
